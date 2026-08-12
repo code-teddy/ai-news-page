@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T07:50:35.197Z",
+  "fetchedAt": "2026-08-12T13:44:24.462Z",
   "stories": [
     {
       "objectID": "49250836",
@@ -7,7 +7,7 @@
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "domain": "thewalrus.ca",
       "publishedAt": "2026-08-10T22:36:30.000Z",
-      "points": 897
+      "points": 911
     },
     {
       "objectID": "49239751",
@@ -15,7 +15,7 @@
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "domain": "docker.com",
       "publishedAt": "2026-08-10T06:02:38.000Z",
-      "points": 684
+      "points": 685
     },
     {
       "objectID": "49243880",
@@ -23,7 +23,7 @@
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "domain": "ft.com",
       "publishedAt": "2026-08-10T14:06:22.000Z",
-      "points": 633
+      "points": 636
     },
     {
       "objectID": "49213754",
@@ -39,7 +39,7 @@
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "domain": "support.claude.com",
       "publishedAt": "2026-08-10T21:36:56.000Z",
-      "points": 433
+      "points": 438
     },
     {
       "objectID": "49198069",
@@ -55,7 +55,7 @@
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "domain": "developers.googleblog.com",
       "publishedAt": "2026-08-11T16:57:09.000Z",
-      "points": 352
+      "points": 398
     },
     {
       "objectID": "49195468",
@@ -82,20 +82,28 @@
       "points": 315
     },
     {
-      "objectID": "49182041",
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "domain": "vincentschmalbach.com",
-      "publishedAt": "2026-08-05T12:41:47.000Z",
-      "points": 267
-    },
-    {
       "objectID": "49238851",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
       "domain": "whodunnitai.com",
       "publishedAt": "2026-08-10T03:18:40.000Z",
-      "points": 209
+      "points": 210
+    },
+    {
+      "objectID": "49267057",
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "domain": "404media.co",
+      "publishedAt": "2026-08-12T02:05:42.000Z",
+      "points": 185
+    },
+    {
+      "objectID": "49186720",
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-08-05T18:17:03.000Z",
+      "points": 175
     },
     {
       "objectID": "49210077",
@@ -106,14 +114,6 @@
       "points": 175
     },
     {
-      "objectID": "49186720",
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-08-05T18:17:03.000Z",
-      "points": 174
-    },
-    {
       "objectID": "49221864",
       "title": "Gentoo bugzilla closed due AI bot scraper overload",
       "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
@@ -122,20 +122,12 @@
       "points": 173
     },
     {
-      "objectID": "49267057",
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "domain": "404media.co",
-      "publishedAt": "2026-08-12T02:05:42.000Z",
-      "points": 171
-    },
-    {
-      "objectID": "49181519",
-      "title": "Why Erdős Problems Are Falling to AI",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "domain": "quantamagazine.org",
-      "publishedAt": "2026-08-05T11:49:34.000Z",
-      "points": 155
+      "objectID": "49265879",
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "domain": "cbsnews.com",
+      "publishedAt": "2026-08-11T23:26:17.000Z",
+      "points": 154
     },
     {
       "objectID": "49244569",
@@ -160,6 +152,14 @@
       "domain": "economist.com",
       "publishedAt": "2026-08-09T19:43:52.000Z",
       "points": 145
+    },
+    {
+      "objectID": "49241559",
+      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+      "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "domain": "bbc.com",
+      "publishedAt": "2026-08-10T09:53:37.000Z",
+      "points": 143
     }
   ]
 }
