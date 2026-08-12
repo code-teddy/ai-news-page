@@ -1,0 +1,165 @@
+{
+  "fetchedAt": "2026-08-12T01:14:07.122Z",
+  "stories": [
+    {
+      "objectID": "49250836",
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "domain": "thewalrus.ca",
+      "publishedAt": "2026-08-10T22:36:30.000Z",
+      "points": 866
+    },
+    {
+      "objectID": "49239751",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "domain": "docker.com",
+      "publishedAt": "2026-08-10T06:02:38.000Z",
+      "points": 678
+    },
+    {
+      "objectID": "49243880",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "domain": "ft.com",
+      "publishedAt": "2026-08-10T14:06:22.000Z",
+      "points": 627
+    },
+    {
+      "objectID": "49213754",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "domain": "app.dealroom.co",
+      "publishedAt": "2026-08-07T17:36:30.000Z",
+      "points": 535
+    },
+    {
+      "objectID": "49198069",
+      "title": "Software development with AI is starting to feel like cooking steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "domain": "blog.sydorets.com",
+      "publishedAt": "2026-08-06T15:30:48.000Z",
+      "points": 420
+    },
+    {
+      "objectID": "49250109",
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "domain": "support.claude.com",
+      "publishedAt": "2026-08-10T21:36:56.000Z",
+      "points": 418
+    },
+    {
+      "objectID": "49195468",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "domain": "scalex.dev",
+      "publishedAt": "2026-08-06T11:58:07.000Z",
+      "points": 338
+    },
+    {
+      "objectID": "49187977",
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "domain": "wired.com",
+      "publishedAt": "2026-08-05T19:47:26.000Z",
+      "points": 325
+    },
+    {
+      "objectID": "49214468",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "domain": "databricks.com",
+      "publishedAt": "2026-08-07T18:25:17.000Z",
+      "points": 315
+    },
+    {
+      "objectID": "49182041",
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "domain": "vincentschmalbach.com",
+      "publishedAt": "2026-08-05T12:41:47.000Z",
+      "points": 267
+    },
+    {
+      "objectID": "49261133",
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "domain": "developers.googleblog.com",
+      "publishedAt": "2026-08-11T16:57:09.000Z",
+      "points": 253
+    },
+    {
+      "objectID": "49238851",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "domain": "whodunnitai.com",
+      "publishedAt": "2026-08-10T03:18:40.000Z",
+      "points": 207
+    },
+    {
+      "objectID": "49210077",
+      "title": "AI psychosis is the new leadership blind spot",
+      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+      "domain": "fastcompany.com",
+      "publishedAt": "2026-08-07T13:27:30.000Z",
+      "points": 175
+    },
+    {
+      "objectID": "49186720",
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-08-05T18:17:03.000Z",
+      "points": 174
+    },
+    {
+      "objectID": "49221864",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "domain": "social.treehouse.systems",
+      "publishedAt": "2026-08-08T13:55:42.000Z",
+      "points": 173
+    },
+    {
+      "objectID": "49181519",
+      "title": "Why Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "domain": "quantamagazine.org",
+      "publishedAt": "2026-08-05T11:49:34.000Z",
+      "points": 155
+    },
+    {
+      "objectID": "49244569",
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+      "domain": "wcax.com",
+      "publishedAt": "2026-08-10T14:56:32.000Z",
+      "points": 152
+    },
+    {
+      "objectID": "49201342",
+      "title": "xAI, SpaceX, and the Race for AI Buildout",
+      "url": "https://illegal.solutions/posts/xai_pollution",
+      "domain": "illegal.solutions",
+      "publishedAt": "2026-08-06T19:38:45.000Z",
+      "points": 147
+    },
+    {
+      "objectID": "49235011",
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "domain": "economist.com",
+      "publishedAt": "2026-08-09T19:43:52.000Z",
+      "points": 145
+    },
+    {
+      "objectID": "49241559",
+      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+      "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "domain": "bbc.com",
+      "publishedAt": "2026-08-10T09:53:37.000Z",
+      "points": 129
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="zh-HK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="最近七日 Hacker News AI 新聞導航頁">
+  <title>AI 新聞</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #ffffff;
+      --ink: #151923;
+      --muted: #596273;
+      --rule: #d9dde5;
+      --blue: #0756d9;
+      --blue-dark: #003ba8;
+      --warning-bg: #fff8dc;
+      --warning-border: #e9b83f;
+      --warning-ink: #5e3b00;
+      --error-bg: #fff0f0;
+      --error-border: #c93434;
+      --error-ink: #7a1515;
+      --content: 1440px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { background: var(--paper); }
+
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Segoe UI", "Microsoft JhengHei", "PingFang HK", Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.55;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    a { color: var(--blue); }
+
+    a:focus-visible,
+    button:focus-visible {
+      outline: 3px solid rgba(7, 86, 217, .35);
+      outline-offset: 3px;
+    }
+
+    .skip-link {
+      position: fixed;
+      top: 12px;
+      left: 12px;
+      z-index: 10;
+      padding: 9px 12px;
+      background: var(--ink);
+      color: var(--paper);
+      transform: translateY(-160%);
+    }
+
+    .skip-link:focus { transform: none; }
+
+    .page {
+      width: min(100%, var(--content));
+      margin: 0 auto;
+      padding: 42px 32px 38px;
+    }
+
+    .masthead {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 24px 36px;
+      align-items: end;
+      margin-bottom: 24px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2.4rem, 5vw, 3.35rem);
+      line-height: 1.02;
+      letter-spacing: -.045em;
+      font-weight: 800;
+    }
+
+    .deck {
+      margin: 13px 0 0;
+      color: var(--ink);
+      font-size: clamp(1.06rem, 2vw, 1.28rem);
+      line-height: 1.5;
+    }
+
+    .source-line {
+      margin: 7px 0 0;
+      color: var(--muted);
+      font-size: .98rem;
+    }
+
+    .reload {
+      min-height: 46px;
+      padding: 9px 15px;
+      border: 1px solid var(--blue);
+      border-radius: 4px;
+      background: var(--paper);
+      color: var(--blue);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+      transition: color 140ms ease, background-color 140ms ease;
+    }
+
+    .reload:hover { background: #f2f6ff; color: var(--blue-dark); }
+    .reload:disabled { cursor: wait; opacity: .58; }
+
+    .status {
+      display: flex;
+      gap: 11px;
+      align-items: flex-start;
+      margin: 0 0 18px;
+      padding: 13px 15px;
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      color: var(--muted);
+      background: #f7f8fa;
+    }
+
+    .status[hidden] { display: none; }
+    .status[data-tone="warning"] { background: var(--warning-bg); border-color: var(--warning-border); color: var(--warning-ink); }
+    .status[data-tone="error"] { background: var(--error-bg); border-color: var(--error-border); color: var(--error-ink); }
+
+    .status-mark {
+      flex: 0 0 auto;
+      width: 1.25rem;
+      height: 1.25rem;
+      margin-top: .1rem;
+      font-weight: 900;
+      line-height: 1.25rem;
+      text-align: center;
+    }
+
+    .stories {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      border-top: 1px solid var(--rule);
+      counter-reset: story;
+    }
+
+    .story {
+      counter-increment: story;
+      display: grid;
+      grid-template-columns: 2rem minmax(0, 1fr);
+      gap: 0 2px;
+      padding: 15px 2px 14px;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .story::before {
+      content: counter(story) ".";
+      grid-row: 1 / span 2;
+      padding-top: 1px;
+      color: var(--ink);
+      font-size: 1.15rem;
+      line-height: 1.45;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .story-title {
+      min-width: 0;
+      color: var(--blue);
+      font-size: clamp(1.12rem, 2vw, 1.38rem);
+      line-height: 1.35;
+      font-weight: 750;
+      text-decoration-thickness: 1px;
+      text-decoration-color: transparent;
+      text-underline-offset: 4px;
+      overflow-wrap: anywhere;
+      word-break: normal;
+      hyphens: auto;
+      transition: color 140ms ease, text-decoration-color 140ms ease;
+    }
+
+    .story-title:hover {
+      color: var(--blue-dark);
+      text-decoration-color: currentColor;
+    }
+
+    .story-meta {
+      display: flex;
+      min-width: 0;
+      flex-wrap: wrap;
+      gap: 4px 10px;
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: .95rem;
+      line-height: 1.45;
+    }
+
+    .story-meta span + span::before {
+      content: "·";
+      margin-right: 10px;
+      color: #8c93a0;
+    }
+
+    .empty {
+      margin: 0;
+      padding: 30px 4px;
+      border-top: 1px solid var(--rule);
+      border-bottom: 1px solid var(--rule);
+      color: var(--muted);
+    }
+
+    footer {
+      margin-top: 24px;
+      color: var(--muted);
+      font-size: .93rem;
+    }
+
+    footer a { color: inherit; text-underline-offset: 3px; }
+
+    @media (max-width: 640px) {
+      .page { padding: 28px 16px 30px; }
+      .masthead { grid-template-columns: 1fr; gap: 15px; align-items: start; }
+      .reload { justify-self: start; }
+      .status { padding: 12px; }
+      .story { grid-template-columns: 1.65rem minmax(0, 1fr); padding-block: 14px 13px; }
+      .story::before { font-size: 1rem; }
+      .story-meta { font-size: .875rem; gap: 3px 7px; }
+      .story-meta span + span::before { margin-right: 7px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { transition-duration: 0.01ms !important; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#news-list">跳到新聞列表</a>
+  <main class="page">
+    <header class="masthead">
+      <div>
+        <h1>AI 新聞</h1>
+        <p class="deck">最近 7 日值得留意嘅 Hacker News AI stories</p>
+        <p class="source-line">資料經 Algolia HN Search API 整理 · <span data-updated>讀取中</span></p>
+      </div>
+      <button class="reload" type="button" data-reload>重新載入</button>
+    </header>
+
+    <div class="status" data-status data-tone="neutral" role="status" aria-live="polite">
+      <span class="status-mark" aria-hidden="true">…</span>
+      <span data-status-copy>正在讀取最新資料……</span>
+    </div>
+
+    <ol class="stories" id="news-list" data-stories aria-label="AI 新聞列表"></ol>
+    <p class="empty" data-empty hidden>暫時未有符合條件嘅新聞，請稍後再試。</p>
+
+    <footer>
+      來源：<a href="https://news.ycombinator.com/" target="_blank" rel="noopener">Hacker News</a>
+      · 資料經 <a href="https://hn.algolia.com/api" target="_blank" rel="noopener">Algolia HN Search API</a> 取得
+    </footer>
+  </main>
+
+  <script>
+    (() => {
+      const STALE_MS = 8 * 60 * 60 * 1000;
+      const storiesElement = document.querySelector('[data-stories]');
+      const statusElement = document.querySelector('[data-status]');
+      const statusCopy = document.querySelector('[data-status-copy]');
+      const statusMark = document.querySelector('.status-mark');
+      const updatedElement = document.querySelector('[data-updated]');
+      const emptyElement = document.querySelector('[data-empty]');
+      const reloadButton = document.querySelector('[data-reload]');
+
+      function relativeTime(value, now = Date.now()) {
+        const milliseconds = now - new Date(value).getTime();
+        if (!Number.isFinite(milliseconds)) return '時間不詳';
+        const minutes = Math.max(0, Math.floor(milliseconds / 60000));
+        if (minutes < 1) return '啱啱';
+        if (minutes < 60) return `${minutes} 分鐘前`;
+        const hours = Math.floor(minutes / 60);
+        if (hours < 24) return `${hours} 小時前`;
+        return `${Math.floor(hours / 24)} 日前`;
+      }
+
+      function validatePayload(payload) {
+        if (!payload || !Array.isArray(payload.stories)) throw new Error('stories 格式不正確');
+        if (!Number.isFinite(Date.parse(payload.fetchedAt))) throw new Error('fetchedAt 格式不正確');
+        for (const story of payload.stories) {
+          const valid = story
+            && typeof story.objectID === 'string'
+            && typeof story.title === 'string'
+            && typeof story.url === 'string'
+            && typeof story.domain === 'string'
+            && Number.isFinite(Date.parse(story.publishedAt))
+            && Number.isFinite(story.points);
+          if (!valid) throw new Error('story 格式不正確');
+        }
+      }
+
+      function setStatus({ copy, tone = 'neutral', mark = '…', state = '' }) {
+        statusElement.hidden = false;
+        statusElement.dataset.tone = tone;
+        if (state) statusElement.dataset.state = state;
+        else delete statusElement.dataset.state;
+        statusCopy.textContent = copy;
+        statusMark.textContent = mark;
+      }
+
+      function createMeta(value) {
+        const span = document.createElement('span');
+        span.textContent = value;
+        return span;
+      }
+
+      function renderStories(stories) {
+        storiesElement.replaceChildren();
+        emptyElement.hidden = stories.length !== 0;
+        if (stories.length === 0) {
+          emptyElement.dataset.state = 'empty';
+          return;
+        }
+        delete emptyElement.dataset.state;
+
+        const fragment = document.createDocumentFragment();
+        for (const story of stories) {
+          const item = document.createElement('li');
+          item.className = 'story';
+          item.dataset.story = '';
+
+          const title = document.createElement('a');
+          title.className = 'story-title';
+          title.href = story.url;
+          title.target = '_blank';
+          title.rel = 'noopener';
+          title.textContent = story.title;
+
+          const meta = document.createElement('div');
+          meta.className = 'story-meta';
+          meta.dataset.meta = '';
+          meta.append(
+            createMeta(story.domain),
+            createMeta(relativeTime(story.publishedAt)),
+            createMeta(`${story.points.toLocaleString('en-US')} points`),
+          );
+
+          item.append(title, meta);
+          fragment.append(item);
+        }
+        storiesElement.append(fragment);
+      }
+
+      function renderFreshness(fetchedAt) {
+        const age = Date.now() - new Date(fetchedAt).getTime();
+        const label = relativeTime(fetchedAt);
+        updatedElement.textContent = `更新於 ${label}`;
+        if (age > STALE_MS) {
+          setStatus({
+            tone: 'warning',
+            mark: '!',
+            copy: `資料可能已過期 — 上次成功更新係 ${label}，以下新聞仍可瀏覽。`,
+          });
+        } else {
+          statusElement.hidden = true;
+        }
+      }
+
+      async function loadNews() {
+        reloadButton.disabled = true;
+        emptyElement.hidden = true;
+        setStatus({ copy: '正在讀取最新資料……' });
+        try {
+          const response = await fetch('data/news.json', { cache: 'no-store' });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const payload = await response.json();
+          validatePayload(payload);
+          renderStories(payload.stories);
+          renderFreshness(payload.fetchedAt);
+        } catch (error) {
+          storiesElement.replaceChildren();
+          updatedElement.textContent = '更新時間不詳';
+          setStatus({
+            tone: 'error',
+            state: 'error',
+            mark: '!',
+            copy: '暫時攞唔到新聞資料，請稍後再試。',
+          });
+          console.error('AI news load failed:', error);
+        } finally {
+          reloadButton.disabled = false;
+        }
+      }
+
+      reloadButton.addEventListener('click', loadNews);
+      loadNews();
+    })();
+  </script>
+</body>
+</html>
