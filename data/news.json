@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T07:51:15.859Z",
+  "fetchedAt": "2026-08-13T13:44:52.085Z",
   "stories": [
     {
       "objectID": "49250836",
@@ -7,7 +7,7 @@
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "domain": "thewalrus.ca",
       "publishedAt": "2026-08-10T22:36:30.000Z",
-      "points": 928
+      "points": 930
     },
     {
       "objectID": "49271994",
@@ -15,7 +15,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 850
+      "points": 925
     },
     {
       "objectID": "49239751",
@@ -47,7 +47,7 @@
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "domain": "support.claude.com",
       "publishedAt": "2026-08-10T21:36:56.000Z",
-      "points": 443
+      "points": 444
     },
     {
       "objectID": "49261133",
@@ -55,7 +55,7 @@
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "domain": "developers.googleblog.com",
       "publishedAt": "2026-08-11T16:57:09.000Z",
-      "points": 428
+      "points": 431
     },
     {
       "objectID": "49198069",
@@ -64,14 +64,6 @@
       "domain": "blog.sydorets.com",
       "publishedAt": "2026-08-06T15:30:48.000Z",
       "points": 420
-    },
-    {
-      "objectID": "49195468",
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "domain": "scalex.dev",
-      "publishedAt": "2026-08-06T11:58:07.000Z",
-      "points": 339
     },
     {
       "objectID": "49214468",
@@ -87,7 +79,7 @@
       "url": "https://knownagents.com/insights",
       "domain": "knownagents.com",
       "publishedAt": "2026-08-12T14:02:46.000Z",
-      "points": 267
+      "points": 289
     },
     {
       "objectID": "49238851",
@@ -103,7 +95,7 @@
       "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
       "domain": "cbsnews.com",
       "publishedAt": "2026-08-11T23:26:17.000Z",
-      "points": 200
+      "points": 206
     },
     {
       "objectID": "49267057",
@@ -136,6 +128,14 @@
       "domain": "wcax.com",
       "publishedAt": "2026-08-10T14:56:32.000Z",
       "points": 153
+    },
+    {
+      "objectID": "49269090",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "domain": "discoveredmaterials.com",
+      "publishedAt": "2026-08-12T07:51:20.000Z",
+      "points": 151
     },
     {
       "objectID": "49201342",
