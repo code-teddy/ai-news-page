@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T19:18:24.754Z",
+  "fetchedAt": "2026-08-13T02:45:10.369Z",
   "stories": [
     {
       "objectID": "49250836",
@@ -7,7 +7,15 @@
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "domain": "thewalrus.ca",
       "publishedAt": "2026-08-10T22:36:30.000Z",
-      "points": 919
+      "points": 927
+    },
+    {
+      "objectID": "49271994",
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "domain": "blog.florianherrengt.com",
+      "publishedAt": "2026-08-12T13:20:05.000Z",
+      "points": 745
     },
     {
       "objectID": "49239751",
@@ -15,7 +23,7 @@
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "domain": "docker.com",
       "publishedAt": "2026-08-10T06:02:38.000Z",
-      "points": 687
+      "points": 690
     },
     {
       "objectID": "49243880",
@@ -34,20 +42,20 @@
       "points": 535
     },
     {
-      "objectID": "49271994",
-      "title": "AI is removing the middle class of software engineering",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "domain": "blog.florianherrengt.com",
-      "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 503
-    },
-    {
       "objectID": "49250109",
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "domain": "support.claude.com",
       "publishedAt": "2026-08-10T21:36:56.000Z",
-      "points": 441
+      "points": 443
+    },
+    {
+      "objectID": "49261133",
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "domain": "developers.googleblog.com",
+      "publishedAt": "2026-08-11T16:57:09.000Z",
+      "points": 424
     },
     {
       "objectID": "49198069",
@@ -58,28 +66,12 @@
       "points": 420
     },
     {
-      "objectID": "49261133",
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "domain": "developers.googleblog.com",
-      "publishedAt": "2026-08-11T16:57:09.000Z",
-      "points": 416
-    },
-    {
       "objectID": "49195468",
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
       "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
       "domain": "scalex.dev",
       "publishedAt": "2026-08-06T11:58:07.000Z",
       "points": 339
-    },
-    {
-      "objectID": "49187977",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "domain": "wired.com",
-      "publishedAt": "2026-08-05T19:47:26.000Z",
-      "points": 325
     },
     {
       "objectID": "49214468",
@@ -90,6 +82,14 @@
       "points": 315
     },
     {
+      "objectID": "49272569",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "domain": "knownagents.com",
+      "publishedAt": "2026-08-12T14:02:46.000Z",
+      "points": 240
+    },
+    {
       "objectID": "49238851",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
@@ -98,20 +98,20 @@
       "points": 210
     },
     {
-      "objectID": "49267057",
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "domain": "404media.co",
-      "publishedAt": "2026-08-12T02:05:42.000Z",
-      "points": 189
-    },
-    {
       "objectID": "49265879",
       "title": "US hires over 2k video gamers as air traffic controllers",
       "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
       "domain": "cbsnews.com",
       "publishedAt": "2026-08-11T23:26:17.000Z",
-      "points": 183
+      "points": 199
+    },
+    {
+      "objectID": "49267057",
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "domain": "404media.co",
+      "publishedAt": "2026-08-12T02:05:42.000Z",
+      "points": 194
     },
     {
       "objectID": "49210077",
@@ -130,14 +130,6 @@
       "points": 173
     },
     {
-      "objectID": "49272569",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "domain": "knownagents.com",
-      "publishedAt": "2026-08-12T14:02:46.000Z",
-      "points": 155
-    },
-    {
       "objectID": "49244569",
       "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
       "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
@@ -152,6 +144,14 @@
       "domain": "illegal.solutions",
       "publishedAt": "2026-08-06T19:38:45.000Z",
       "points": 147
+    },
+    {
+      "objectID": "49241559",
+      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+      "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "domain": "bbc.com",
+      "publishedAt": "2026-08-10T09:53:37.000Z",
+      "points": 146
     },
     {
       "objectID": "49235011",
