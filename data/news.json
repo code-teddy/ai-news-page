@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T07:48:50.734Z",
+  "fetchedAt": "2026-08-14T13:39:58.697Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 971
+      "points": 978
     },
     {
       "objectID": "49250836",
@@ -47,7 +47,7 @@
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "domain": "support.claude.com",
       "publishedAt": "2026-08-10T21:36:56.000Z",
-      "points": 446
+      "points": 447
     },
     {
       "objectID": "49261133",
@@ -79,7 +79,7 @@
       "url": "https://www.whodunnitai.com/",
       "domain": "whodunnitai.com",
       "publishedAt": "2026-08-10T03:18:40.000Z",
-      "points": 212
+      "points": 213
     },
     {
       "objectID": "49265879",
@@ -95,7 +95,7 @@
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "domain": "netlify.com",
       "publishedAt": "2026-08-13T13:05:29.000Z",
-      "points": 198
+      "points": 208
     },
     {
       "objectID": "49267057",
@@ -104,14 +104,6 @@
       "domain": "404media.co",
       "publishedAt": "2026-08-12T02:05:42.000Z",
       "points": 196
-    },
-    {
-      "objectID": "49210077",
-      "title": "AI psychosis is the new leadership blind spot",
-      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-      "domain": "fastcompany.com",
-      "publishedAt": "2026-08-07T13:27:30.000Z",
-      "points": 175
     },
     {
       "objectID": "49221864",
@@ -127,7 +119,7 @@
       "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
       "domain": "economist.com",
       "publishedAt": "2026-08-13T13:28:45.000Z",
-      "points": 161
+      "points": 163
     },
     {
       "objectID": "49269090",
@@ -135,7 +127,7 @@
       "url": "https://discoveredmaterials.com/research/",
       "domain": "discoveredmaterials.com",
       "publishedAt": "2026-08-12T07:51:20.000Z",
-      "points": 156
+      "points": 158
     },
     {
       "objectID": "49244569",
@@ -160,6 +152,14 @@
       "domain": "economist.com",
       "publishedAt": "2026-08-09T19:43:52.000Z",
       "points": 145
+    },
+    {
+      "objectID": "49287153",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "domain": "seangoedecke.com",
+      "publishedAt": "2026-08-13T15:07:10.000Z",
+      "points": 133
     }
   ]
 }
