@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T13:39:58.697Z",
+  "fetchedAt": "2026-08-14T19:12:10.178Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 978
+      "points": 982
     },
     {
       "objectID": "49250836",
@@ -34,20 +34,12 @@
       "points": 640
     },
     {
-      "objectID": "49213754",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "domain": "app.dealroom.co",
-      "publishedAt": "2026-08-07T17:36:30.000Z",
-      "points": 535
-    },
-    {
       "objectID": "49250109",
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "domain": "support.claude.com",
       "publishedAt": "2026-08-10T21:36:56.000Z",
-      "points": 447
+      "points": 448
     },
     {
       "objectID": "49261133",
@@ -58,20 +50,20 @@
       "points": 436
     },
     {
-      "objectID": "49214468",
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "domain": "databricks.com",
-      "publishedAt": "2026-08-07T18:25:17.000Z",
-      "points": 315
-    },
-    {
       "objectID": "49272569",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
       "domain": "knownagents.com",
       "publishedAt": "2026-08-12T14:02:46.000Z",
-      "points": 301
+      "points": 302
+    },
+    {
+      "objectID": "49285327",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "domain": "netlify.com",
+      "publishedAt": "2026-08-13T13:05:29.000Z",
+      "points": 213
     },
     {
       "objectID": "49238851",
@@ -90,20 +82,20 @@
       "points": 210
     },
     {
-      "objectID": "49285327",
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "domain": "netlify.com",
-      "publishedAt": "2026-08-13T13:05:29.000Z",
-      "points": 208
-    },
-    {
       "objectID": "49267057",
       "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
       "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
       "domain": "404media.co",
       "publishedAt": "2026-08-12T02:05:42.000Z",
       "points": 196
+    },
+    {
+      "objectID": "49297801",
+      "title": "Dear people who work at the airport",
+      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+      "domain": "life-after-ssri.bearblog.dev",
+      "publishedAt": "2026-08-14T12:23:22.000Z",
+      "points": 174
     },
     {
       "objectID": "49221864",
@@ -122,12 +114,20 @@
       "points": 163
     },
     {
+      "objectID": "49299282",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "domain": "weightythoughts.com",
+      "publishedAt": "2026-08-14T14:34:49.000Z",
+      "points": 160
+    },
+    {
       "objectID": "49269090",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
       "domain": "discoveredmaterials.com",
       "publishedAt": "2026-08-12T07:51:20.000Z",
-      "points": 158
+      "points": 159
     },
     {
       "objectID": "49244569",
@@ -151,15 +151,15 @@
       "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
       "domain": "economist.com",
       "publishedAt": "2026-08-09T19:43:52.000Z",
-      "points": 145
+      "points": 146
     },
     {
-      "objectID": "49287153",
-      "title": "Text AI watermarks will always be trivial to remove",
-      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "domain": "seangoedecke.com",
-      "publishedAt": "2026-08-13T15:07:10.000Z",
-      "points": 133
+      "objectID": "49286270",
+      "title": "Heart aerospace completes first flight of largest electric aircraft",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "domain": "heartaerospace.com",
+      "publishedAt": "2026-08-13T14:11:51.000Z",
+      "points": 140
     }
   ]
 }
