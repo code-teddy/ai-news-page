@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T19:18:31.006Z",
+  "fetchedAt": "2026-08-14T07:48:50.734Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 948
+      "points": 971
     },
     {
       "objectID": "49250836",
@@ -15,7 +15,7 @@
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "domain": "thewalrus.ca",
       "publishedAt": "2026-08-10T22:36:30.000Z",
-      "points": 932
+      "points": 933
     },
     {
       "objectID": "49239751",
@@ -23,7 +23,7 @@
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "domain": "docker.com",
       "publishedAt": "2026-08-10T06:02:38.000Z",
-      "points": 690
+      "points": 692
     },
     {
       "objectID": "49243880",
@@ -31,7 +31,7 @@
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "domain": "ft.com",
       "publishedAt": "2026-08-10T14:06:22.000Z",
-      "points": 639
+      "points": 640
     },
     {
       "objectID": "49213754",
@@ -47,7 +47,7 @@
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "domain": "support.claude.com",
       "publishedAt": "2026-08-10T21:36:56.000Z",
-      "points": 445
+      "points": 446
     },
     {
       "objectID": "49261133",
@@ -55,7 +55,7 @@
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "domain": "developers.googleblog.com",
       "publishedAt": "2026-08-11T16:57:09.000Z",
-      "points": 433
+      "points": 436
     },
     {
       "objectID": "49214468",
@@ -71,7 +71,7 @@
       "url": "https://knownagents.com/insights",
       "domain": "knownagents.com",
       "publishedAt": "2026-08-12T14:02:46.000Z",
-      "points": 299
+      "points": 301
     },
     {
       "objectID": "49238851",
@@ -79,7 +79,7 @@
       "url": "https://www.whodunnitai.com/",
       "domain": "whodunnitai.com",
       "publishedAt": "2026-08-10T03:18:40.000Z",
-      "points": 211
+      "points": 212
     },
     {
       "objectID": "49265879",
@@ -87,7 +87,15 @@
       "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
       "domain": "cbsnews.com",
       "publishedAt": "2026-08-11T23:26:17.000Z",
-      "points": 208
+      "points": 210
+    },
+    {
+      "objectID": "49285327",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "domain": "netlify.com",
+      "publishedAt": "2026-08-13T13:05:29.000Z",
+      "points": 198
     },
     {
       "objectID": "49267057",
@@ -114,12 +122,20 @@
       "points": 173
     },
     {
+      "objectID": "49285604",
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "domain": "economist.com",
+      "publishedAt": "2026-08-13T13:28:45.000Z",
+      "points": 161
+    },
+    {
       "objectID": "49269090",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
       "domain": "discoveredmaterials.com",
       "publishedAt": "2026-08-12T07:51:20.000Z",
-      "points": 154
+      "points": 156
     },
     {
       "objectID": "49244569",
@@ -135,23 +151,7 @@
       "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
       "domain": "bbc.com",
       "publishedAt": "2026-08-10T09:53:37.000Z",
-      "points": 148
-    },
-    {
-      "objectID": "49201342",
-      "title": "xAI, SpaceX, and the Race for AI Buildout",
-      "url": "https://illegal.solutions/posts/xai_pollution",
-      "domain": "illegal.solutions",
-      "publishedAt": "2026-08-06T19:38:45.000Z",
-      "points": 147
-    },
-    {
-      "objectID": "49285604",
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "domain": "economist.com",
-      "publishedAt": "2026-08-13T13:28:45.000Z",
-      "points": 146
+      "points": 149
     },
     {
       "objectID": "49235011",
