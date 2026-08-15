@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T19:12:10.178Z",
+  "fetchedAt": "2026-08-15T01:48:24.928Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 982
+      "points": 984
     },
     {
       "objectID": "49250836",
@@ -15,7 +15,7 @@
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "domain": "thewalrus.ca",
       "publishedAt": "2026-08-10T22:36:30.000Z",
-      "points": 933
+      "points": 934
     },
     {
       "objectID": "49239751",
@@ -39,7 +39,7 @@
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "domain": "support.claude.com",
       "publishedAt": "2026-08-10T21:36:56.000Z",
-      "points": 448
+      "points": 449
     },
     {
       "objectID": "49261133",
@@ -47,7 +47,7 @@
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "domain": "developers.googleblog.com",
       "publishedAt": "2026-08-11T16:57:09.000Z",
-      "points": 436
+      "points": 437
     },
     {
       "objectID": "49272569",
@@ -58,12 +58,20 @@
       "points": 302
     },
     {
+      "objectID": "49300314",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "domain": "blog.google",
+      "publishedAt": "2026-08-14T15:43:10.000Z",
+      "points": 280
+    },
+    {
       "objectID": "49285327",
       "title": "Choosing an AI model: one prompt, 11 models, different results",
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "domain": "netlify.com",
       "publishedAt": "2026-08-13T13:05:29.000Z",
-      "points": 213
+      "points": 215
     },
     {
       "objectID": "49238851",
@@ -82,6 +90,14 @@
       "points": 210
     },
     {
+      "objectID": "49300568",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "domain": "byhand.ai",
+      "publishedAt": "2026-08-14T15:58:59.000Z",
+      "points": 204
+    },
+    {
       "objectID": "49267057",
       "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
       "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
@@ -95,7 +111,7 @@
       "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
       "domain": "life-after-ssri.bearblog.dev",
       "publishedAt": "2026-08-14T12:23:22.000Z",
-      "points": 174
+      "points": 190
     },
     {
       "objectID": "49221864",
@@ -106,20 +122,20 @@
       "points": 173
     },
     {
+      "objectID": "49299282",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "domain": "weightythoughts.com",
+      "publishedAt": "2026-08-14T14:34:49.000Z",
+      "points": 170
+    },
+    {
       "objectID": "49285604",
       "title": "AI agents lie, cheat and steal. That is putting off users",
       "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
       "domain": "economist.com",
       "publishedAt": "2026-08-13T13:28:45.000Z",
       "points": 163
-    },
-    {
-      "objectID": "49299282",
-      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "domain": "weightythoughts.com",
-      "publishedAt": "2026-08-14T14:34:49.000Z",
-      "points": 160
     },
     {
       "objectID": "49269090",
@@ -143,23 +159,7 @@
       "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
       "domain": "bbc.com",
       "publishedAt": "2026-08-10T09:53:37.000Z",
-      "points": 149
-    },
-    {
-      "objectID": "49235011",
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "domain": "economist.com",
-      "publishedAt": "2026-08-09T19:43:52.000Z",
-      "points": 146
-    },
-    {
-      "objectID": "49286270",
-      "title": "Heart aerospace completes first flight of largest electric aircraft",
-      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-      "domain": "heartaerospace.com",
-      "publishedAt": "2026-08-13T14:11:51.000Z",
-      "points": 140
+      "points": 150
     }
   ]
 }
