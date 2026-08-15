@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T12:57:28.287Z",
+  "fetchedAt": "2026-08-15T18:46:16.993Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -34,6 +34,14 @@
       "points": 640
     },
     {
+      "objectID": "49300314",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "domain": "blog.google",
+      "publishedAt": "2026-08-14T15:43:10.000Z",
+      "points": 471
+    },
+    {
       "objectID": "49250109",
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
@@ -50,20 +58,12 @@
       "points": 438
     },
     {
-      "objectID": "49300314",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "domain": "blog.google",
-      "publishedAt": "2026-08-14T15:43:10.000Z",
-      "points": 428
-    },
-    {
       "objectID": "49300568",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
       "domain": "byhand.ai",
       "publishedAt": "2026-08-14T15:58:59.000Z",
-      "points": 331
+      "points": 345
     },
     {
       "objectID": "49272569",
@@ -79,7 +79,7 @@
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "domain": "netlify.com",
       "publishedAt": "2026-08-13T13:05:29.000Z",
-      "points": 216
+      "points": 218
     },
     {
       "objectID": "49238851",
@@ -103,7 +103,7 @@
       "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
       "domain": "life-after-ssri.bearblog.dev",
       "publishedAt": "2026-08-14T12:23:22.000Z",
-      "points": 201
+      "points": 202
     },
     {
       "objectID": "49267057",
@@ -114,12 +114,12 @@
       "points": 196
     },
     {
-      "objectID": "49221864",
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "domain": "social.treehouse.systems",
-      "publishedAt": "2026-08-08T13:55:42.000Z",
-      "points": 173
+      "objectID": "49309451",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "domain": "allen.bargi.org",
+      "publishedAt": "2026-08-15T10:39:41.000Z",
+      "points": 177
     },
     {
       "objectID": "49299282",
