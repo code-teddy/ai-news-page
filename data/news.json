@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T01:48:24.928Z",
+  "fetchedAt": "2026-08-15T06:56:13.104Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 984
+      "points": 987
     },
     {
       "objectID": "49250836",
@@ -47,7 +47,15 @@
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "domain": "developers.googleblog.com",
       "publishedAt": "2026-08-11T16:57:09.000Z",
-      "points": 437
+      "points": 438
+    },
+    {
+      "objectID": "49300314",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "domain": "blog.google",
+      "publishedAt": "2026-08-14T15:43:10.000Z",
+      "points": 355
     },
     {
       "objectID": "49272569",
@@ -58,12 +66,12 @@
       "points": 302
     },
     {
-      "objectID": "49300314",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "domain": "blog.google",
-      "publishedAt": "2026-08-14T15:43:10.000Z",
-      "points": 280
+      "objectID": "49300568",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "domain": "byhand.ai",
+      "publishedAt": "2026-08-14T15:58:59.000Z",
+      "points": 275
     },
     {
       "objectID": "49285327",
@@ -71,7 +79,7 @@
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "domain": "netlify.com",
       "publishedAt": "2026-08-13T13:05:29.000Z",
-      "points": 215
+      "points": 216
     },
     {
       "objectID": "49238851",
@@ -90,12 +98,12 @@
       "points": 210
     },
     {
-      "objectID": "49300568",
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "domain": "byhand.ai",
-      "publishedAt": "2026-08-14T15:58:59.000Z",
-      "points": 204
+      "objectID": "49297801",
+      "title": "Dear people who work at the airport",
+      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+      "domain": "life-after-ssri.bearblog.dev",
+      "publishedAt": "2026-08-14T12:23:22.000Z",
+      "points": 198
     },
     {
       "objectID": "49267057",
@@ -104,14 +112,6 @@
       "domain": "404media.co",
       "publishedAt": "2026-08-12T02:05:42.000Z",
       "points": 196
-    },
-    {
-      "objectID": "49297801",
-      "title": "Dear people who work at the airport",
-      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
-      "domain": "life-after-ssri.bearblog.dev",
-      "publishedAt": "2026-08-14T12:23:22.000Z",
-      "points": 190
     },
     {
       "objectID": "49221864",
@@ -127,7 +127,7 @@
       "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
       "domain": "weightythoughts.com",
       "publishedAt": "2026-08-14T14:34:49.000Z",
-      "points": 170
+      "points": 172
     },
     {
       "objectID": "49285604",
