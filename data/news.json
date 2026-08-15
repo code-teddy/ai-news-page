@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T06:56:13.104Z",
+  "fetchedAt": "2026-08-15T12:57:28.287Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 987
+      "points": 988
     },
     {
       "objectID": "49250836",
@@ -55,15 +55,7 @@
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "domain": "blog.google",
       "publishedAt": "2026-08-14T15:43:10.000Z",
-      "points": 355
-    },
-    {
-      "objectID": "49272569",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "domain": "knownagents.com",
-      "publishedAt": "2026-08-12T14:02:46.000Z",
-      "points": 302
+      "points": 428
     },
     {
       "objectID": "49300568",
@@ -71,7 +63,15 @@
       "url": "https://www.byhand.ai/",
       "domain": "byhand.ai",
       "publishedAt": "2026-08-14T15:58:59.000Z",
-      "points": 275
+      "points": 331
+    },
+    {
+      "objectID": "49272569",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "domain": "knownagents.com",
+      "publishedAt": "2026-08-12T14:02:46.000Z",
+      "points": 303
     },
     {
       "objectID": "49285327",
@@ -103,7 +103,7 @@
       "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
       "domain": "life-after-ssri.bearblog.dev",
       "publishedAt": "2026-08-14T12:23:22.000Z",
-      "points": 198
+      "points": 201
     },
     {
       "objectID": "49267057",
@@ -135,7 +135,7 @@
       "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
       "domain": "economist.com",
       "publishedAt": "2026-08-13T13:28:45.000Z",
-      "points": 163
+      "points": 164
     },
     {
       "objectID": "49269090",
@@ -143,7 +143,7 @@
       "url": "https://discoveredmaterials.com/research/",
       "domain": "discoveredmaterials.com",
       "publishedAt": "2026-08-12T07:51:20.000Z",
-      "points": 159
+      "points": 160
     },
     {
       "objectID": "49244569",
