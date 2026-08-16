@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T18:46:16.993Z",
+  "fetchedAt": "2026-08-16T01:56:40.855Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 988
+      "points": 991
     },
     {
       "objectID": "49250836",
@@ -39,7 +39,7 @@
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "domain": "blog.google",
       "publishedAt": "2026-08-14T15:43:10.000Z",
-      "points": 471
+      "points": 480
     },
     {
       "objectID": "49250109",
@@ -58,12 +58,20 @@
       "points": 438
     },
     {
+      "objectID": "49312845",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "domain": "davidepiffer.com",
+      "publishedAt": "2026-08-15T18:13:02.000Z",
+      "points": 412
+    },
+    {
       "objectID": "49300568",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
       "domain": "byhand.ai",
       "publishedAt": "2026-08-14T15:58:59.000Z",
-      "points": 345
+      "points": 353
     },
     {
       "objectID": "49272569",
@@ -72,6 +80,14 @@
       "domain": "knownagents.com",
       "publishedAt": "2026-08-12T14:02:46.000Z",
       "points": 303
+    },
+    {
+      "objectID": "49309451",
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "domain": "allen.bargi.org",
+      "publishedAt": "2026-08-15T10:39:41.000Z",
+      "points": 270
     },
     {
       "objectID": "49285327",
@@ -103,7 +119,7 @@
       "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
       "domain": "life-after-ssri.bearblog.dev",
       "publishedAt": "2026-08-14T12:23:22.000Z",
-      "points": 202
+      "points": 205
     },
     {
       "objectID": "49267057",
@@ -114,20 +130,12 @@
       "points": 196
     },
     {
-      "objectID": "49309451",
-      "title": "Working with AI Feels More Like Leadership Than Coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "domain": "allen.bargi.org",
-      "publishedAt": "2026-08-15T10:39:41.000Z",
-      "points": 177
-    },
-    {
       "objectID": "49299282",
       "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
       "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
       "domain": "weightythoughts.com",
       "publishedAt": "2026-08-14T14:34:49.000Z",
-      "points": 172
+      "points": 174
     },
     {
       "objectID": "49285604",
@@ -152,14 +160,6 @@
       "domain": "wcax.com",
       "publishedAt": "2026-08-10T14:56:32.000Z",
       "points": 153
-    },
-    {
-      "objectID": "49241559",
-      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
-      "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
-      "domain": "bbc.com",
-      "publishedAt": "2026-08-10T09:53:37.000Z",
-      "points": 150
     }
   ]
 }
