@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T18:45:23.727Z",
+  "fetchedAt": "2026-08-17T01:54:20.688Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 995
+      "points": 996
     },
     {
       "objectID": "49250836",
@@ -39,7 +39,7 @@
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "domain": "davidepiffer.com",
       "publishedAt": "2026-08-15T18:13:02.000Z",
-      "points": 563
+      "points": 593
     },
     {
       "objectID": "49300314",
@@ -79,7 +79,7 @@
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "domain": "allen.bargi.org",
       "publishedAt": "2026-08-15T10:39:41.000Z",
-      "points": 318
+      "points": 321
     },
     {
       "objectID": "49272569",
@@ -88,6 +88,14 @@
       "domain": "knownagents.com",
       "publishedAt": "2026-08-12T14:02:46.000Z",
       "points": 304
+    },
+    {
+      "objectID": "49320611",
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "domain": "vectoral.com",
+      "publishedAt": "2026-08-16T14:44:55.000Z",
+      "points": 226
     },
     {
       "objectID": "49285327",
@@ -119,7 +127,15 @@
       "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
       "domain": "cbsnews.com",
       "publishedAt": "2026-08-11T23:26:17.000Z",
-      "points": 210
+      "points": 211
+    },
+    {
+      "objectID": "49323381",
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "domain": "bloomberg.com",
+      "publishedAt": "2026-08-16T20:31:16.000Z",
+      "points": 199
     },
     {
       "objectID": "49267057",
@@ -135,7 +151,7 @@
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "domain": "science.org",
       "publishedAt": "2026-08-15T19:12:53.000Z",
-      "points": 177
+      "points": 180
     },
     {
       "objectID": "49299282",
@@ -144,22 +160,6 @@
       "domain": "weightythoughts.com",
       "publishedAt": "2026-08-14T14:34:49.000Z",
       "points": 176
-    },
-    {
-      "objectID": "49285604",
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "domain": "economist.com",
-      "publishedAt": "2026-08-13T13:28:45.000Z",
-      "points": 164
-    },
-    {
-      "objectID": "49269090",
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "domain": "discoveredmaterials.com",
-      "publishedAt": "2026-08-12T07:51:20.000Z",
-      "points": 161
     }
   ]
 }
