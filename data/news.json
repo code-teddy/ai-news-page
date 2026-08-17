@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T01:54:20.688Z",
+  "fetchedAt": "2026-08-17T07:14:48.966Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 996
+      "points": 997
     },
     {
       "objectID": "49250836",
@@ -16,14 +16,6 @@
       "domain": "thewalrus.ca",
       "publishedAt": "2026-08-10T22:36:30.000Z",
       "points": 936
-    },
-    {
-      "objectID": "49239751",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "domain": "docker.com",
-      "publishedAt": "2026-08-10T06:02:38.000Z",
-      "points": 693
     },
     {
       "objectID": "49243880",
@@ -39,7 +31,7 @@
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "domain": "davidepiffer.com",
       "publishedAt": "2026-08-15T18:13:02.000Z",
-      "points": 593
+      "points": 612
     },
     {
       "objectID": "49300314",
@@ -47,7 +39,7 @@
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "domain": "blog.google",
       "publishedAt": "2026-08-14T15:43:10.000Z",
-      "points": 491
+      "points": 492
     },
     {
       "objectID": "49250109",
@@ -63,7 +55,7 @@
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "domain": "developers.googleblog.com",
       "publishedAt": "2026-08-11T16:57:09.000Z",
-      "points": 439
+      "points": 440
     },
     {
       "objectID": "49300568",
@@ -79,7 +71,7 @@
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "domain": "allen.bargi.org",
       "publishedAt": "2026-08-15T10:39:41.000Z",
-      "points": 321
+      "points": 324
     },
     {
       "objectID": "49272569",
@@ -95,7 +87,7 @@
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
       "publishedAt": "2026-08-16T14:44:55.000Z",
-      "points": 226
+      "points": 269
     },
     {
       "objectID": "49285327",
@@ -104,14 +96,6 @@
       "domain": "netlify.com",
       "publishedAt": "2026-08-13T13:05:29.000Z",
       "points": 218
-    },
-    {
-      "objectID": "49238851",
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "url": "https://www.whodunnitai.com/",
-      "domain": "whodunnitai.com",
-      "publishedAt": "2026-08-10T03:18:40.000Z",
-      "points": 214
     },
     {
       "objectID": "49297801",
@@ -130,14 +114,6 @@
       "points": 211
     },
     {
-      "objectID": "49323381",
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "domain": "bloomberg.com",
-      "publishedAt": "2026-08-16T20:31:16.000Z",
-      "points": 199
-    },
-    {
       "objectID": "49267057",
       "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
       "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
@@ -151,7 +127,7 @@
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "domain": "science.org",
       "publishedAt": "2026-08-15T19:12:53.000Z",
-      "points": 180
+      "points": 184
     },
     {
       "objectID": "49299282",
@@ -160,6 +136,30 @@
       "domain": "weightythoughts.com",
       "publishedAt": "2026-08-14T14:34:49.000Z",
       "points": 176
+    },
+    {
+      "objectID": "49285604",
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "domain": "economist.com",
+      "publishedAt": "2026-08-13T13:28:45.000Z",
+      "points": 164
+    },
+    {
+      "objectID": "49269090",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "domain": "discoveredmaterials.com",
+      "publishedAt": "2026-08-12T07:51:20.000Z",
+      "points": 161
+    },
+    {
+      "objectID": "49244569",
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+      "domain": "wcax.com",
+      "publishedAt": "2026-08-10T14:56:32.000Z",
+      "points": 153
     }
   ]
 }
