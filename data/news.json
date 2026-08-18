@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T07:02:40.212Z",
+  "fetchedAt": "2026-08-18T13:06:05.438Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 1001
+      "points": 1002
     },
     {
       "objectID": "49336573",
@@ -15,7 +15,15 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 789
+      "points": 976
+    },
+    {
+      "objectID": "49337392",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "domain": "responsiblestatecraft.org",
+      "publishedAt": "2026-08-17T20:46:10.000Z",
+      "points": 721
     },
     {
       "objectID": "49312845",
@@ -42,6 +50,14 @@
       "points": 440
     },
     {
+      "objectID": "49331423",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "domain": "wiz.io",
+      "publishedAt": "2026-08-17T14:18:38.000Z",
+      "points": 395
+    },
+    {
       "objectID": "49300568",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
@@ -50,28 +66,12 @@
       "points": 366
     },
     {
-      "objectID": "49337392",
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "domain": "responsiblestatecraft.org",
-      "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 360
-    },
-    {
-      "objectID": "49331423",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "domain": "wiz.io",
-      "publishedAt": "2026-08-17T14:18:38.000Z",
-      "points": 354
-    },
-    {
       "objectID": "49309451",
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "domain": "allen.bargi.org",
       "publishedAt": "2026-08-15T10:39:41.000Z",
-      "points": 334
+      "points": 336
     },
     {
       "objectID": "49320611",
@@ -79,7 +79,15 @@
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
       "publishedAt": "2026-08-16T14:44:55.000Z",
-      "points": 323
+      "points": 327
+    },
+    {
+      "objectID": "49331220",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "domain": "librarian.net",
+      "publishedAt": "2026-08-17T14:07:56.000Z",
+      "points": 316
     },
     {
       "objectID": "49272569",
@@ -90,20 +98,12 @@
       "points": 304
     },
     {
-      "objectID": "49331220",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "domain": "librarian.net",
-      "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 282
-    },
-    {
       "objectID": "49325789",
       "title": "On AI regulation and messaging",
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "domain": "twitter.com",
       "publishedAt": "2026-08-17T01:59:56.000Z",
-      "points": 239
+      "points": 245
     },
     {
       "objectID": "49285327",
@@ -111,7 +111,7 @@
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "domain": "netlify.com",
       "publishedAt": "2026-08-13T13:05:29.000Z",
-      "points": 219
+      "points": 220
     },
     {
       "objectID": "49297801",
@@ -119,6 +119,14 @@
       "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
       "domain": "life-after-ssri.bearblog.dev",
       "publishedAt": "2026-08-14T12:23:22.000Z",
+      "points": 213
+    },
+    {
+      "objectID": "49343559",
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "domain": "theregister.com",
+      "publishedAt": "2026-08-18T10:13:28.000Z",
       "points": 213
     },
     {
@@ -143,7 +151,7 @@
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "domain": "science.org",
       "publishedAt": "2026-08-15T19:12:53.000Z",
-      "points": 185
+      "points": 186
     },
     {
       "objectID": "49299282",
@@ -152,14 +160,6 @@
       "domain": "weightythoughts.com",
       "publishedAt": "2026-08-14T14:34:49.000Z",
       "points": 176
-    },
-    {
-      "objectID": "49285604",
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "domain": "economist.com",
-      "publishedAt": "2026-08-13T13:28:45.000Z",
-      "points": 164
     }
   ]
 }
