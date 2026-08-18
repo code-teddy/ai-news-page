@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T18:55:41.580Z",
+  "fetchedAt": "2026-08-18T01:49:41.939Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,15 +7,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 998
-    },
-    {
-      "objectID": "49250836",
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "domain": "thewalrus.ca",
-      "publishedAt": "2026-08-10T22:36:30.000Z",
-      "points": 937
+      "points": 1000
     },
     {
       "objectID": "49312845",
@@ -23,7 +15,15 @@
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "domain": "davidepiffer.com",
       "publishedAt": "2026-08-15T18:13:02.000Z",
-      "points": 627
+      "points": 629
+    },
+    {
+      "objectID": "49336573",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "domain": "rickmanelius.com",
+      "publishedAt": "2026-08-17T19:47:15.000Z",
+      "points": 591
     },
     {
       "objectID": "49300314",
@@ -31,15 +31,7 @@
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "domain": "blog.google",
       "publishedAt": "2026-08-14T15:43:10.000Z",
-      "points": 497
-    },
-    {
-      "objectID": "49250109",
-      "title": "How Claude marks AI-generated content",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "domain": "support.claude.com",
-      "publishedAt": "2026-08-10T21:36:56.000Z",
-      "points": 451
+      "points": 498
     },
     {
       "objectID": "49261133",
@@ -63,7 +55,7 @@
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "domain": "allen.bargi.org",
       "publishedAt": "2026-08-15T10:39:41.000Z",
-      "points": 333
+      "points": 334
     },
     {
       "objectID": "49320611",
@@ -71,7 +63,15 @@
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
       "publishedAt": "2026-08-16T14:44:55.000Z",
-      "points": 319
+      "points": 323
+    },
+    {
+      "objectID": "49331423",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "domain": "wiz.io",
+      "publishedAt": "2026-08-17T14:18:38.000Z",
+      "points": 317
     },
     {
       "objectID": "49272569",
@@ -82,12 +82,12 @@
       "points": 304
     },
     {
-      "objectID": "49285327",
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "domain": "netlify.com",
-      "publishedAt": "2026-08-13T13:05:29.000Z",
-      "points": 219
+      "objectID": "49331220",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "domain": "librarian.net",
+      "publishedAt": "2026-08-17T14:07:56.000Z",
+      "points": 256
     },
     {
       "objectID": "49325789",
@@ -95,7 +95,15 @@
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "domain": "twitter.com",
       "publishedAt": "2026-08-17T01:59:56.000Z",
-      "points": 215
+      "points": 235
+    },
+    {
+      "objectID": "49285327",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "domain": "netlify.com",
+      "publishedAt": "2026-08-13T13:05:29.000Z",
+      "points": 219
     },
     {
       "objectID": "49297801",
@@ -114,14 +122,6 @@
       "points": 211
     },
     {
-      "objectID": "49331423",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "domain": "wiz.io",
-      "publishedAt": "2026-08-17T14:18:38.000Z",
-      "points": 206
-    },
-    {
       "objectID": "49267057",
       "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
       "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
@@ -135,7 +135,7 @@
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "domain": "science.org",
       "publishedAt": "2026-08-15T19:12:53.000Z",
-      "points": 184
+      "points": 185
     },
     {
       "objectID": "49299282",
