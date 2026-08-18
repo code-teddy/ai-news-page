@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T01:49:41.939Z",
+  "fetchedAt": "2026-08-18T07:02:40.212Z",
   "stories": [
     {
       "objectID": "49271994",
@@ -7,7 +7,15 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 1000
+      "points": 1001
+    },
+    {
+      "objectID": "49336573",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "domain": "rickmanelius.com",
+      "publishedAt": "2026-08-17T19:47:15.000Z",
+      "points": 789
     },
     {
       "objectID": "49312845",
@@ -16,14 +24,6 @@
       "domain": "davidepiffer.com",
       "publishedAt": "2026-08-15T18:13:02.000Z",
       "points": 629
-    },
-    {
-      "objectID": "49336573",
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "domain": "rickmanelius.com",
-      "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 591
     },
     {
       "objectID": "49300314",
@@ -50,6 +50,22 @@
       "points": 366
     },
     {
+      "objectID": "49337392",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "domain": "responsiblestatecraft.org",
+      "publishedAt": "2026-08-17T20:46:10.000Z",
+      "points": 360
+    },
+    {
+      "objectID": "49331423",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "domain": "wiz.io",
+      "publishedAt": "2026-08-17T14:18:38.000Z",
+      "points": 354
+    },
+    {
       "objectID": "49309451",
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
@@ -66,14 +82,6 @@
       "points": 323
     },
     {
-      "objectID": "49331423",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "domain": "wiz.io",
-      "publishedAt": "2026-08-17T14:18:38.000Z",
-      "points": 317
-    },
-    {
       "objectID": "49272569",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
@@ -87,7 +95,7 @@
       "url": "https://www.librarian.net/notoai/",
       "domain": "librarian.net",
       "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 256
+      "points": 282
     },
     {
       "objectID": "49325789",
@@ -95,7 +103,7 @@
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "domain": "twitter.com",
       "publishedAt": "2026-08-17T01:59:56.000Z",
-      "points": 235
+      "points": 239
     },
     {
       "objectID": "49285327",
@@ -152,14 +160,6 @@
       "domain": "economist.com",
       "publishedAt": "2026-08-13T13:28:45.000Z",
       "points": 164
-    },
-    {
-      "objectID": "49269090",
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "domain": "discoveredmaterials.com",
-      "publishedAt": "2026-08-12T07:51:20.000Z",
-      "points": 161
     }
   ]
 }
