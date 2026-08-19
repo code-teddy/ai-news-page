@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T07:04:05.521Z",
+  "fetchedAt": "2026-08-19T13:07:26.449Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1071
+      "points": 1081
     },
     {
       "objectID": "49337392",
@@ -15,7 +15,7 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "domain": "responsiblestatecraft.org",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 1021
+      "points": 1028
     },
     {
       "objectID": "49271994",
@@ -23,7 +23,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 1005
+      "points": 1006
     },
     {
       "objectID": "49312845",
@@ -39,7 +39,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
       "publishedAt": "2026-08-18T10:13:28.000Z",
-      "points": 574
+      "points": 586
     },
     {
       "objectID": "49300314",
@@ -55,7 +55,7 @@
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "domain": "wiz.io",
       "publishedAt": "2026-08-17T14:18:38.000Z",
-      "points": 419
+      "points": 423
     },
     {
       "objectID": "49300568",
@@ -79,7 +79,7 @@
       "url": "https://www.librarian.net/notoai/",
       "domain": "librarian.net",
       "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 333
+      "points": 335
     },
     {
       "objectID": "49320611",
@@ -90,20 +90,20 @@
       "points": 331
     },
     {
+      "objectID": "49349147",
+      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "domain": "asmedigitalcollection.asme.org",
+      "publishedAt": "2026-08-18T17:24:53.000Z",
+      "points": 306
+    },
+    {
       "objectID": "49272569",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
       "domain": "knownagents.com",
       "publishedAt": "2026-08-12T14:02:46.000Z",
       "points": 304
-    },
-    {
-      "objectID": "49349147",
-      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "domain": "asmedigitalcollection.asme.org",
-      "publishedAt": "2026-08-18T17:24:53.000Z",
-      "points": 296
     },
     {
       "objectID": "49325789",
@@ -154,12 +154,12 @@
       "points": 164
     },
     {
-      "objectID": "49269090",
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "domain": "discoveredmaterials.com",
-      "publishedAt": "2026-08-12T07:51:20.000Z",
-      "points": 161
+      "objectID": "49330742",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+      "domain": "404media.co",
+      "publishedAt": "2026-08-17T13:44:23.000Z",
+      "points": 160
     }
   ]
 }
