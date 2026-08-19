@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T18:54:54.533Z",
+  "fetchedAt": "2026-08-19T01:51:39.311Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,15 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1040
-    },
-    {
-      "objectID": "49271994",
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "domain": "blog.florianherrengt.com",
-      "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 1004
+      "points": 1061
     },
     {
       "objectID": "49337392",
@@ -23,7 +15,15 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "domain": "responsiblestatecraft.org",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 974
+      "points": 1015
+    },
+    {
+      "objectID": "49271994",
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "domain": "blog.florianherrengt.com",
+      "publishedAt": "2026-08-12T13:20:05.000Z",
+      "points": 1005
     },
     {
       "objectID": "49312845",
@@ -39,7 +39,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
       "publishedAt": "2026-08-18T10:13:28.000Z",
-      "points": 507
+      "points": 565
     },
     {
       "objectID": "49300314",
@@ -55,7 +55,7 @@
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "domain": "wiz.io",
       "publishedAt": "2026-08-17T14:18:38.000Z",
-      "points": 416
+      "points": 417
     },
     {
       "objectID": "49300568",
@@ -79,7 +79,7 @@
       "url": "https://www.librarian.net/notoai/",
       "domain": "librarian.net",
       "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 332
+      "points": 333
     },
     {
       "objectID": "49320611",
@@ -87,7 +87,7 @@
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
       "publishedAt": "2026-08-16T14:44:55.000Z",
-      "points": 330
+      "points": 331
     },
     {
       "objectID": "49272569",
@@ -98,12 +98,20 @@
       "points": 304
     },
     {
+      "objectID": "49349147",
+      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "domain": "asmedigitalcollection.asme.org",
+      "publishedAt": "2026-08-18T17:24:53.000Z",
+      "points": 285
+    },
+    {
       "objectID": "49325789",
       "title": "On AI regulation and messaging",
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "domain": "twitter.com",
       "publishedAt": "2026-08-17T01:59:56.000Z",
-      "points": 247
+      "points": 249
     },
     {
       "objectID": "49285327",
@@ -120,14 +128,6 @@
       "domain": "life-after-ssri.bearblog.dev",
       "publishedAt": "2026-08-14T12:23:22.000Z",
       "points": 214
-    },
-    {
-      "objectID": "49265879",
-      "title": "US hires over 2k video gamers as air traffic controllers",
-      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-      "domain": "cbsnews.com",
-      "publishedAt": "2026-08-11T23:26:17.000Z",
-      "points": 211
     },
     {
       "objectID": "49267057",
