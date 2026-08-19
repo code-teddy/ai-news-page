@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T01:51:39.311Z",
+  "fetchedAt": "2026-08-19T07:04:05.521Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1061
+      "points": 1071
     },
     {
       "objectID": "49337392",
@@ -15,7 +15,7 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "domain": "responsiblestatecraft.org",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 1015
+      "points": 1021
     },
     {
       "objectID": "49271994",
@@ -39,7 +39,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
       "publishedAt": "2026-08-18T10:13:28.000Z",
-      "points": 565
+      "points": 574
     },
     {
       "objectID": "49300314",
@@ -55,7 +55,7 @@
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "domain": "wiz.io",
       "publishedAt": "2026-08-17T14:18:38.000Z",
-      "points": 417
+      "points": 419
     },
     {
       "objectID": "49300568",
@@ -103,7 +103,7 @@
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "domain": "asmedigitalcollection.asme.org",
       "publishedAt": "2026-08-18T17:24:53.000Z",
-      "points": 285
+      "points": 296
     },
     {
       "objectID": "49325789",
@@ -130,14 +130,6 @@
       "points": 214
     },
     {
-      "objectID": "49267057",
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "domain": "404media.co",
-      "publishedAt": "2026-08-12T02:05:42.000Z",
-      "points": 196
-    },
-    {
       "objectID": "49313367",
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
@@ -160,6 +152,14 @@
       "domain": "economist.com",
       "publishedAt": "2026-08-13T13:28:45.000Z",
       "points": 164
+    },
+    {
+      "objectID": "49269090",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "domain": "discoveredmaterials.com",
+      "publishedAt": "2026-08-12T07:51:20.000Z",
+      "points": 161
     }
   ]
 }
