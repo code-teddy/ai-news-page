@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T13:07:26.449Z",
+  "fetchedAt": "2026-08-19T18:51:42.609Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1081
+      "points": 1085
     },
     {
       "objectID": "49337392",
@@ -15,15 +15,7 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "domain": "responsiblestatecraft.org",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 1028
-    },
-    {
-      "objectID": "49271994",
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "domain": "blog.florianherrengt.com",
-      "publishedAt": "2026-08-12T13:20:05.000Z",
-      "points": 1006
+      "points": 1040
     },
     {
       "objectID": "49312845",
@@ -31,7 +23,7 @@
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "domain": "davidepiffer.com",
       "publishedAt": "2026-08-15T18:13:02.000Z",
-      "points": 629
+      "points": 630
     },
     {
       "objectID": "49343559",
@@ -39,7 +31,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
       "publishedAt": "2026-08-18T10:13:28.000Z",
-      "points": 586
+      "points": 595
     },
     {
       "objectID": "49300314",
@@ -71,7 +63,7 @@
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "domain": "allen.bargi.org",
       "publishedAt": "2026-08-15T10:39:41.000Z",
-      "points": 336
+      "points": 337
     },
     {
       "objectID": "49331220",
@@ -79,7 +71,7 @@
       "url": "https://www.librarian.net/notoai/",
       "domain": "librarian.net",
       "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 335
+      "points": 336
     },
     {
       "objectID": "49320611",
@@ -95,15 +87,7 @@
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "domain": "asmedigitalcollection.asme.org",
       "publishedAt": "2026-08-18T17:24:53.000Z",
-      "points": 306
-    },
-    {
-      "objectID": "49272569",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "domain": "knownagents.com",
-      "publishedAt": "2026-08-12T14:02:46.000Z",
-      "points": 304
+      "points": 307
     },
     {
       "objectID": "49325789",
@@ -130,12 +114,20 @@
       "points": 214
     },
     {
+      "objectID": "49359425",
+      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "domain": "theremin.bizibah.com",
+      "publishedAt": "2026-08-19T10:15:00.000Z",
+      "points": 190
+    },
+    {
       "objectID": "49313367",
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "domain": "science.org",
       "publishedAt": "2026-08-15T19:12:53.000Z",
-      "points": 186
+      "points": 187
     },
     {
       "objectID": "49299282",
@@ -143,6 +135,14 @@
       "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
       "domain": "weightythoughts.com",
       "publishedAt": "2026-08-14T14:34:49.000Z",
+      "points": 176
+    },
+    {
+      "objectID": "49353432",
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "domain": "linear.app",
+      "publishedAt": "2026-08-18T22:08:07.000Z",
       "points": 176
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
       "domain": "404media.co",
       "publishedAt": "2026-08-17T13:44:23.000Z",
-      "points": 160
+      "points": 162
     }
   ]
 }
