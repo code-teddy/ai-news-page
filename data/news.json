@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T13:09:37.757Z",
+  "fetchedAt": "2026-08-20T18:57:58.586Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1091
+      "points": 1097
     },
     {
       "objectID": "49337392",
@@ -15,15 +15,15 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "domain": "responsiblestatecraft.org",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 1046
+      "points": 1051
     },
     {
       "objectID": "49371857",
-      "title": "Don't Paste the AI, please",
+      "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 654
+      "points": 959
     },
     {
       "objectID": "49312845",
@@ -31,7 +31,7 @@
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "domain": "davidepiffer.com",
       "publishedAt": "2026-08-15T18:13:02.000Z",
-      "points": 631
+      "points": 632
     },
     {
       "objectID": "49343559",
@@ -39,7 +39,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
       "publishedAt": "2026-08-18T10:13:28.000Z",
-      "points": 610
+      "points": 611
     },
     {
       "objectID": "49300314",
@@ -71,7 +71,7 @@
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "domain": "allen.bargi.org",
       "publishedAt": "2026-08-15T10:39:41.000Z",
-      "points": 337
+      "points": 338
     },
     {
       "objectID": "49331220",
@@ -79,7 +79,7 @@
       "url": "https://www.librarian.net/notoai/",
       "domain": "librarian.net",
       "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 336
+      "points": 337
     },
     {
       "objectID": "49320611",
@@ -87,7 +87,7 @@
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
       "publishedAt": "2026-08-16T14:44:55.000Z",
-      "points": 331
+      "points": 332
     },
     {
       "objectID": "49349147",
@@ -95,7 +95,7 @@
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "domain": "asmedigitalcollection.asme.org",
       "publishedAt": "2026-08-18T17:24:53.000Z",
-      "points": 311
+      "points": 312
     },
     {
       "objectID": "49359425",
@@ -103,7 +103,7 @@
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
       "publishedAt": "2026-08-19T10:15:00.000Z",
-      "points": 288
+      "points": 292
     },
     {
       "objectID": "49325789",
@@ -111,7 +111,7 @@
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "domain": "twitter.com",
       "publishedAt": "2026-08-17T01:59:56.000Z",
-      "points": 249
+      "points": 250
     },
     {
       "objectID": "49297801",
@@ -127,7 +127,7 @@
       "url": "https://arxiv.org/abs/2608.16753",
       "domain": "arxiv.org",
       "publishedAt": "2026-08-19T15:14:25.000Z",
-      "points": 192
+      "points": 201
     },
     {
       "objectID": "49353432",
@@ -135,7 +135,7 @@
       "url": "https://linear.app/data",
       "domain": "linear.app",
       "publishedAt": "2026-08-18T22:08:07.000Z",
-      "points": 191
+      "points": 193
     },
     {
       "objectID": "49313367",
@@ -154,12 +154,12 @@
       "points": 176
     },
     {
-      "objectID": "49285604",
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "domain": "economist.com",
-      "publishedAt": "2026-08-13T13:28:45.000Z",
-      "points": 164
+      "objectID": "49330742",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+      "domain": "404media.co",
+      "publishedAt": "2026-08-17T13:44:23.000Z",
+      "points": 163
     }
   ]
 }
