@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T07:04:35.831Z",
+  "fetchedAt": "2026-08-20T13:09:37.757Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1089
+      "points": 1091
     },
     {
       "objectID": "49337392",
@@ -15,7 +15,15 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "domain": "responsiblestatecraft.org",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 1045
+      "points": 1046
+    },
+    {
+      "objectID": "49371857",
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "domain": "dontpastetheai.com",
+      "publishedAt": "2026-08-20T08:20:44.000Z",
+      "points": 654
     },
     {
       "objectID": "49312845",
@@ -31,7 +39,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
       "publishedAt": "2026-08-18T10:13:28.000Z",
-      "points": 608
+      "points": 610
     },
     {
       "objectID": "49300314",
@@ -87,7 +95,7 @@
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "domain": "asmedigitalcollection.asme.org",
       "publishedAt": "2026-08-18T17:24:53.000Z",
-      "points": 310
+      "points": 311
     },
     {
       "objectID": "49359425",
@@ -95,7 +103,7 @@
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
       "publishedAt": "2026-08-19T10:15:00.000Z",
-      "points": 269
+      "points": 288
     },
     {
       "objectID": "49325789",
@@ -106,14 +114,6 @@
       "points": 249
     },
     {
-      "objectID": "49285327",
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "domain": "netlify.com",
-      "publishedAt": "2026-08-13T13:05:29.000Z",
-      "points": 220
-    },
-    {
       "objectID": "49297801",
       "title": "Dear people who work at the airport",
       "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
@@ -122,12 +122,12 @@
       "points": 215
     },
     {
-      "objectID": "49313367",
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "domain": "science.org",
-      "publishedAt": "2026-08-15T19:12:53.000Z",
-      "points": 187
+      "objectID": "49362728",
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-08-19T15:14:25.000Z",
+      "points": 192
     },
     {
       "objectID": "49353432",
@@ -135,7 +135,15 @@
       "url": "https://linear.app/data",
       "domain": "linear.app",
       "publishedAt": "2026-08-18T22:08:07.000Z",
-      "points": 185
+      "points": 191
+    },
+    {
+      "objectID": "49313367",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "domain": "science.org",
+      "publishedAt": "2026-08-15T19:12:53.000Z",
+      "points": 187
     },
     {
       "objectID": "49299282",
@@ -152,14 +160,6 @@
       "domain": "economist.com",
       "publishedAt": "2026-08-13T13:28:45.000Z",
       "points": 164
-    },
-    {
-      "objectID": "49330742",
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-      "domain": "404media.co",
-      "publishedAt": "2026-08-17T13:44:23.000Z",
-      "points": 162
     }
   ]
 }
