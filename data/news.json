@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T01:50:21.981Z",
+  "fetchedAt": "2026-08-20T07:04:35.831Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1086
+      "points": 1089
     },
     {
       "objectID": "49337392",
@@ -15,7 +15,7 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "domain": "responsiblestatecraft.org",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 1043
+      "points": 1045
     },
     {
       "objectID": "49312845",
@@ -31,7 +31,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
       "publishedAt": "2026-08-18T10:13:28.000Z",
-      "points": 603
+      "points": 608
     },
     {
       "objectID": "49300314",
@@ -90,19 +90,19 @@
       "points": 310
     },
     {
-      "objectID": "49325789",
-      "title": "On AI regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "domain": "twitter.com",
-      "publishedAt": "2026-08-17T01:59:56.000Z",
-      "points": 249
-    },
-    {
       "objectID": "49359425",
       "title": "Air Theremin – A browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
       "publishedAt": "2026-08-19T10:15:00.000Z",
+      "points": 269
+    },
+    {
+      "objectID": "49325789",
+      "title": "On AI regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "domain": "twitter.com",
+      "publishedAt": "2026-08-17T01:59:56.000Z",
       "points": 249
     },
     {
@@ -119,7 +119,7 @@
       "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
       "domain": "life-after-ssri.bearblog.dev",
       "publishedAt": "2026-08-14T12:23:22.000Z",
-      "points": 214
+      "points": 215
     },
     {
       "objectID": "49313367",
@@ -135,7 +135,7 @@
       "url": "https://linear.app/data",
       "domain": "linear.app",
       "publishedAt": "2026-08-18T22:08:07.000Z",
-      "points": 178
+      "points": 185
     },
     {
       "objectID": "49299282",
