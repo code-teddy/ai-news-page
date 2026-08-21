@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T01:56:12.401Z",
+  "fetchedAt": "2026-08-21T07:05:47.860Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1097
+      "points": 1099
     },
     {
       "objectID": "49337392",
@@ -15,7 +15,7 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "domain": "responsiblestatecraft.org",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 1052
+      "points": 1053
     },
     {
       "objectID": "49371857",
@@ -23,7 +23,7 @@
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 989
+      "points": 1007
     },
     {
       "objectID": "49312845",
@@ -79,7 +79,7 @@
       "url": "https://www.librarian.net/notoai/",
       "domain": "librarian.net",
       "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 337
+      "points": 338
     },
     {
       "objectID": "49320611",
@@ -103,7 +103,23 @@
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
       "publishedAt": "2026-08-19T10:15:00.000Z",
-      "points": 295
+      "points": 298
+    },
+    {
+      "objectID": "49378768",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "domain": "danielvaughn.dev",
+      "publishedAt": "2026-08-20T19:05:36.000Z",
+      "points": 285
+    },
+    {
+      "objectID": "49383026",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "domain": "annas-archive.gl",
+      "publishedAt": "2026-08-21T02:37:47.000Z",
+      "points": 271
     },
     {
       "objectID": "49325789",
@@ -112,14 +128,6 @@
       "domain": "twitter.com",
       "publishedAt": "2026-08-17T01:59:56.000Z",
       "points": 250
-    },
-    {
-      "objectID": "49378768",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "domain": "danielvaughn.dev",
-      "publishedAt": "2026-08-20T19:05:36.000Z",
-      "points": 223
     },
     {
       "objectID": "49297801",
@@ -152,14 +160,6 @@
       "domain": "science.org",
       "publishedAt": "2026-08-15T19:12:53.000Z",
       "points": 187
-    },
-    {
-      "objectID": "49299282",
-      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "domain": "weightythoughts.com",
-      "publishedAt": "2026-08-14T14:34:49.000Z",
-      "points": 176
     }
   ]
 }
