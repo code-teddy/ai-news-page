@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T13:09:28.236Z",
+  "fetchedAt": "2026-08-21T18:54:05.666Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -15,7 +15,7 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "domain": "responsiblestatecraft.org",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 1053
+      "points": 1054
     },
     {
       "objectID": "49371857",
@@ -23,7 +23,15 @@
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 1020
+      "points": 1026
+    },
+    {
+      "objectID": "49385994",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "domain": "annas-archive.pk",
+      "publishedAt": "2026-08-21T10:05:46.000Z",
+      "points": 694
     },
     {
       "objectID": "49312845",
@@ -42,12 +50,12 @@
       "points": 614
     },
     {
-      "objectID": "49300314",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "domain": "blog.google",
-      "publishedAt": "2026-08-14T15:43:10.000Z",
-      "points": 498
+      "objectID": "49383026",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "domain": "annas-archive.gl",
+      "publishedAt": "2026-08-21T02:37:47.000Z",
+      "points": 426
     },
     {
       "objectID": "49331423",
@@ -58,20 +66,12 @@
       "points": 424
     },
     {
-      "objectID": "49383026",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "domain": "annas-archive.gl",
-      "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 369
-    },
-    {
-      "objectID": "49300568",
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "domain": "byhand.ai",
-      "publishedAt": "2026-08-14T15:58:59.000Z",
-      "points": 366
+      "objectID": "49378768",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "domain": "danielvaughn.dev",
+      "publishedAt": "2026-08-20T19:05:36.000Z",
+      "points": 355
     },
     {
       "objectID": "49309451",
@@ -87,14 +87,6 @@
       "url": "https://www.librarian.net/notoai/",
       "domain": "librarian.net",
       "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 338
-    },
-    {
-      "objectID": "49378768",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "domain": "danielvaughn.dev",
-      "publishedAt": "2026-08-20T19:05:36.000Z",
       "points": 338
     },
     {
@@ -119,7 +111,7 @@
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
       "publishedAt": "2026-08-19T10:15:00.000Z",
-      "points": 299
+      "points": 300
     },
     {
       "objectID": "49325789",
@@ -138,6 +130,14 @@
       "points": 207
     },
     {
+      "objectID": "49375719",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "domain": "blog.yaros.ae",
+      "publishedAt": "2026-08-20T15:06:53.000Z",
+      "points": 201
+    },
+    {
       "objectID": "49353432",
       "title": "AI usage patterns in software teams",
       "url": "https://linear.app/data",
@@ -154,12 +154,12 @@
       "points": 187
     },
     {
-      "objectID": "49375719",
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "domain": "blog.yaros.ae",
-      "publishedAt": "2026-08-20T15:06:53.000Z",
-      "points": 185
+      "objectID": "49382041",
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "domain": "mathstodon.xyz",
+      "publishedAt": "2026-08-21T00:15:12.000Z",
+      "points": 184
     }
   ]
 }
