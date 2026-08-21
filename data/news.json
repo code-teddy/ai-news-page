@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T07:05:47.860Z",
+  "fetchedAt": "2026-08-21T13:09:28.236Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1099
+      "points": 1101
     },
     {
       "objectID": "49337392",
@@ -23,7 +23,7 @@
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 1007
+      "points": 1020
     },
     {
       "objectID": "49312845",
@@ -58,6 +58,14 @@
       "points": 424
     },
     {
+      "objectID": "49383026",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "domain": "annas-archive.gl",
+      "publishedAt": "2026-08-21T02:37:47.000Z",
+      "points": 369
+    },
+    {
       "objectID": "49300568",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
@@ -82,6 +90,14 @@
       "points": 338
     },
     {
+      "objectID": "49378768",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "domain": "danielvaughn.dev",
+      "publishedAt": "2026-08-20T19:05:36.000Z",
+      "points": 338
+    },
+    {
       "objectID": "49320611",
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
@@ -103,23 +119,7 @@
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
       "publishedAt": "2026-08-19T10:15:00.000Z",
-      "points": 298
-    },
-    {
-      "objectID": "49378768",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "domain": "danielvaughn.dev",
-      "publishedAt": "2026-08-20T19:05:36.000Z",
-      "points": 285
-    },
-    {
-      "objectID": "49383026",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "domain": "annas-archive.gl",
-      "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 271
+      "points": 299
     },
     {
       "objectID": "49325789",
@@ -130,20 +130,12 @@
       "points": 250
     },
     {
-      "objectID": "49297801",
-      "title": "Dear people who work at the airport",
-      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
-      "domain": "life-after-ssri.bearblog.dev",
-      "publishedAt": "2026-08-14T12:23:22.000Z",
-      "points": 215
-    },
-    {
       "objectID": "49362728",
       "title": "Mathematics in the age of AI",
       "url": "https://arxiv.org/abs/2608.16753",
       "domain": "arxiv.org",
       "publishedAt": "2026-08-19T15:14:25.000Z",
-      "points": 205
+      "points": 207
     },
     {
       "objectID": "49353432",
@@ -151,7 +143,7 @@
       "url": "https://linear.app/data",
       "domain": "linear.app",
       "publishedAt": "2026-08-18T22:08:07.000Z",
-      "points": 195
+      "points": 197
     },
     {
       "objectID": "49313367",
@@ -160,6 +152,14 @@
       "domain": "science.org",
       "publishedAt": "2026-08-15T19:12:53.000Z",
       "points": 187
+    },
+    {
+      "objectID": "49375719",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "domain": "blog.yaros.ae",
+      "publishedAt": "2026-08-20T15:06:53.000Z",
+      "points": 185
     }
   ]
 }
