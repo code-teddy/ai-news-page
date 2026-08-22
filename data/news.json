@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T06:58:00.963Z",
+  "fetchedAt": "2026-08-22T12:58:58.427Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -23,15 +23,7 @@
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 1035
-    },
-    {
-      "objectID": "49385994",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "domain": "annas-archive.pk",
-      "publishedAt": "2026-08-21T10:05:46.000Z",
-      "points": 703
+      "points": 1039
     },
     {
       "objectID": "49312845",
@@ -55,7 +47,7 @@
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 553
+      "points": 577
     },
     {
       "objectID": "49331423",
@@ -66,20 +58,20 @@
       "points": 424
     },
     {
+      "objectID": "49386699",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "domain": "cymerys.com",
+      "publishedAt": "2026-08-21T11:48:05.000Z",
+      "points": 410
+    },
+    {
       "objectID": "49378768",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
       "publishedAt": "2026-08-20T19:05:36.000Z",
-      "points": 369
-    },
-    {
-      "objectID": "49309451",
-      "title": "Working with AI feels more like leadership than coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "domain": "allen.bargi.org",
-      "publishedAt": "2026-08-15T10:39:41.000Z",
-      "points": 338
+      "points": 372
     },
     {
       "objectID": "49331220",
@@ -87,15 +79,7 @@
       "url": "https://www.librarian.net/notoai/",
       "domain": "librarian.net",
       "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 338
-    },
-    {
-      "objectID": "49386699",
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "domain": "cymerys.com",
-      "publishedAt": "2026-08-21T11:48:05.000Z",
-      "points": 333
+      "points": 339
     },
     {
       "objectID": "49320611",
@@ -103,7 +87,15 @@
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
       "publishedAt": "2026-08-16T14:44:55.000Z",
-      "points": 332
+      "points": 333
+    },
+    {
+      "objectID": "49357530",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "domain": "economist.com",
+      "publishedAt": "2026-08-19T06:13:31.000Z",
+      "points": 326
     },
     {
       "objectID": "49349147",
@@ -122,20 +114,20 @@
       "points": 301
     },
     {
-      "objectID": "49357530",
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "domain": "economist.com",
-      "publishedAt": "2026-08-19T06:13:31.000Z",
-      "points": 285
-    },
-    {
       "objectID": "49325789",
       "title": "On AI regulation and messaging",
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "domain": "twitter.com",
       "publishedAt": "2026-08-17T01:59:56.000Z",
       "points": 250
+    },
+    {
+      "objectID": "49375719",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "domain": "blog.yaros.ae",
+      "publishedAt": "2026-08-20T15:06:53.000Z",
+      "points": 208
     },
     {
       "objectID": "49362728",
@@ -146,20 +138,28 @@
       "points": 207
     },
     {
-      "objectID": "49375719",
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "domain": "blog.yaros.ae",
-      "publishedAt": "2026-08-20T15:06:53.000Z",
-      "points": 206
-    },
-    {
       "objectID": "49353432",
       "title": "AI usage patterns in software teams",
       "url": "https://linear.app/data",
       "domain": "linear.app",
       "publishedAt": "2026-08-18T22:08:07.000Z",
       "points": 198
+    },
+    {
+      "objectID": "49313367",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "domain": "science.org",
+      "publishedAt": "2026-08-15T19:12:53.000Z",
+      "points": 187
+    },
+    {
+      "objectID": "49382041",
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "domain": "mathstodon.xyz",
+      "publishedAt": "2026-08-21T00:15:12.000Z",
+      "points": 186
     }
   ]
 }
