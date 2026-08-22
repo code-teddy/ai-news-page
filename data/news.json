@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T18:54:05.666Z",
+  "fetchedAt": "2026-08-22T01:48:38.555Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1101
+      "points": 1103
     },
     {
       "objectID": "49337392",
@@ -23,7 +23,7 @@
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 1026
+      "points": 1030
     },
     {
       "objectID": "49385994",
@@ -31,7 +31,7 @@
       "url": "https://annas-archive.pk/blog/physical-destruction.html",
       "domain": "annas-archive.pk",
       "publishedAt": "2026-08-21T10:05:46.000Z",
-      "points": 694
+      "points": 701
     },
     {
       "objectID": "49312845",
@@ -55,7 +55,7 @@
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 426
+      "points": 534
     },
     {
       "objectID": "49331423",
@@ -71,7 +71,7 @@
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
       "publishedAt": "2026-08-20T19:05:36.000Z",
-      "points": 355
+      "points": 361
     },
     {
       "objectID": "49309451",
@@ -114,12 +114,28 @@
       "points": 300
     },
     {
+      "objectID": "49386699",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "domain": "cymerys.com",
+      "publishedAt": "2026-08-21T11:48:05.000Z",
+      "points": 268
+    },
+    {
       "objectID": "49325789",
       "title": "On AI regulation and messaging",
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "domain": "twitter.com",
       "publishedAt": "2026-08-17T01:59:56.000Z",
       "points": 250
+    },
+    {
+      "objectID": "49357530",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "domain": "economist.com",
+      "publishedAt": "2026-08-19T06:13:31.000Z",
+      "points": 232
     },
     {
       "objectID": "49362728",
@@ -135,7 +151,7 @@
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "domain": "blog.yaros.ae",
       "publishedAt": "2026-08-20T15:06:53.000Z",
-      "points": 201
+      "points": 204
     },
     {
       "objectID": "49353432",
@@ -143,23 +159,7 @@
       "url": "https://linear.app/data",
       "domain": "linear.app",
       "publishedAt": "2026-08-18T22:08:07.000Z",
-      "points": 197
-    },
-    {
-      "objectID": "49313367",
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "domain": "science.org",
-      "publishedAt": "2026-08-15T19:12:53.000Z",
-      "points": 187
-    },
-    {
-      "objectID": "49382041",
-      "title": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "domain": "mathstodon.xyz",
-      "publishedAt": "2026-08-21T00:15:12.000Z",
-      "points": 184
+      "points": 198
     }
   ]
 }
