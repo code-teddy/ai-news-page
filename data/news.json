@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T18:47:35.631Z",
+  "fetchedAt": "2026-08-23T01:58:55.135Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -7,7 +7,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1106
+      "points": 1109
     },
     {
       "objectID": "49337392",
@@ -23,7 +23,7 @@
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 1040
+      "points": 1041
     },
     {
       "objectID": "49343559",
@@ -31,7 +31,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
       "publishedAt": "2026-08-18T10:13:28.000Z",
-      "points": 615
+      "points": 616
     },
     {
       "objectID": "49383026",
@@ -39,7 +39,7 @@
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 591
+      "points": 607
     },
     {
       "objectID": "49386699",
@@ -47,7 +47,7 @@
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
       "publishedAt": "2026-08-21T11:48:05.000Z",
-      "points": 465
+      "points": 474
     },
     {
       "objectID": "49331423",
@@ -63,7 +63,7 @@
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
       "publishedAt": "2026-08-20T19:05:36.000Z",
-      "points": 374
+      "points": 378
     },
     {
       "objectID": "49357530",
@@ -71,7 +71,7 @@
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "domain": "economist.com",
       "publishedAt": "2026-08-19T06:13:31.000Z",
-      "points": 364
+      "points": 370
     },
     {
       "objectID": "49331220",
@@ -87,7 +87,7 @@
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
       "publishedAt": "2026-08-16T14:44:55.000Z",
-      "points": 333
+      "points": 334
     },
     {
       "objectID": "49349147",
@@ -143,15 +143,7 @@
       "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-08-21T00:15:12.000Z",
-      "points": 187
-    },
-    {
-      "objectID": "49313367",
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "domain": "science.org",
-      "publishedAt": "2026-08-15T19:12:53.000Z",
-      "points": 187
+      "points": 189
     },
     {
       "objectID": "49330742",
@@ -160,6 +152,14 @@
       "domain": "404media.co",
       "publishedAt": "2026-08-17T13:44:23.000Z",
       "points": 167
+    },
+    {
+      "objectID": "49389565",
+      "title": "AI boosted homework scores, then exam scores dropped: Study",
+      "url": "https://canews24.online/?p=71",
+      "domain": "canews24.online",
+      "publishedAt": "2026-08-21T15:25:42.000Z",
+      "points": 165
     }
   ]
 }
