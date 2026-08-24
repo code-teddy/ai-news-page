@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T13:11:34.120Z",
+  "fetchedAt": "2026-08-24T18:58:05.677Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -26,12 +26,28 @@
       "points": 1044
     },
     {
+      "objectID": "49411102",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "domain": "ft.com",
+      "publishedAt": "2026-08-23T18:16:37.000Z",
+      "points": 744
+    },
+    {
+      "objectID": "49409073",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "domain": "ericpardee.github.io",
+      "publishedAt": "2026-08-23T14:23:09.000Z",
+      "points": 676
+    },
+    {
       "objectID": "49383026",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 623
+      "points": 641
     },
     {
       "objectID": "49343559",
@@ -47,15 +63,7 @@
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
       "publishedAt": "2026-08-21T11:48:05.000Z",
-      "points": 487
-    },
-    {
-      "objectID": "49331423",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "domain": "wiz.io",
-      "publishedAt": "2026-08-17T14:18:38.000Z",
-      "points": 424
+      "points": 502
     },
     {
       "objectID": "49378768",
@@ -74,14 +82,6 @@
       "points": 375
     },
     {
-      "objectID": "49331220",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "domain": "librarian.net",
-      "publishedAt": "2026-08-17T14:07:56.000Z",
-      "points": 339
-    },
-    {
       "objectID": "49349147",
       "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
@@ -96,6 +96,14 @@
       "domain": "theremin.bizibah.com",
       "publishedAt": "2026-08-19T10:15:00.000Z",
       "points": 301
+    },
+    {
+      "objectID": "49421554",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "domain": "larsfaye.com",
+      "publishedAt": "2026-08-24T15:52:33.000Z",
+      "points": 260
     },
     {
       "objectID": "49375719",
@@ -138,14 +146,6 @@
       "points": 188
     },
     {
-      "objectID": "49330742",
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-      "domain": "404media.co",
-      "publishedAt": "2026-08-17T13:44:23.000Z",
-      "points": 167
-    },
-    {
       "objectID": "49389565",
       "title": "AI boosted homework scores, then exam scores dropped: Study",
       "url": "https://canews24.online/?p=71",
@@ -154,12 +154,12 @@
       "points": 165
     },
     {
-      "objectID": "49332564",
-      "title": "Anthropic's War on open source AI",
-      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "domain": "twitter.com",
-      "publishedAt": "2026-08-17T15:24:34.000Z",
-      "points": 152
+      "objectID": "49415893",
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "domain": "medicine.washu.edu",
+      "publishedAt": "2026-08-24T06:30:07.000Z",
+      "points": 159
     }
   ]
 }
