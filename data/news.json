@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T01:56:18.785Z",
+  "fetchedAt": "2026-08-24T07:19:03.584Z",
   "stories": [
     {
       "objectID": "49336573",
@@ -98,14 +98,6 @@
       "points": 301
     },
     {
-      "objectID": "49325789",
-      "title": "On AI regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "domain": "twitter.com",
-      "publishedAt": "2026-08-17T01:59:56.000Z",
-      "points": 250
-    },
-    {
       "objectID": "49375719",
       "title": "Anti-AI fonts are useless and harmful",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
@@ -160,6 +152,14 @@
       "domain": "canews24.online",
       "publishedAt": "2026-08-21T15:25:42.000Z",
       "points": 165
+    },
+    {
+      "objectID": "49332564",
+      "title": "Anthropic's War on open source AI",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "domain": "twitter.com",
+      "publishedAt": "2026-08-17T15:24:34.000Z",
+      "points": 152
     }
   ]
 }
