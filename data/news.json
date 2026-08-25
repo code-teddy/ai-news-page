@@ -1,29 +1,13 @@
 {
-  "fetchedAt": "2026-08-24T18:58:05.677Z",
+  "fetchedAt": "2026-08-25T01:50:49.709Z",
   "stories": [
-    {
-      "objectID": "49336573",
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "domain": "rickmanelius.com",
-      "publishedAt": "2026-08-17T19:47:15.000Z",
-      "points": 1111
-    },
-    {
-      "objectID": "49337392",
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "domain": "responsiblestatecraft.org",
-      "publishedAt": "2026-08-17T20:46:10.000Z",
-      "points": 1054
-    },
     {
       "objectID": "49371857",
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 1044
+      "points": 1050
     },
     {
       "objectID": "49411102",
@@ -31,7 +15,7 @@
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
       "publishedAt": "2026-08-23T18:16:37.000Z",
-      "points": 744
+      "points": 764
     },
     {
       "objectID": "49409073",
@@ -39,7 +23,7 @@
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "domain": "ericpardee.github.io",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "points": 676
+      "points": 682
     },
     {
       "objectID": "49383026",
@@ -47,7 +31,7 @@
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 641
+      "points": 642
     },
     {
       "objectID": "49343559",
@@ -63,7 +47,15 @@
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
       "publishedAt": "2026-08-21T11:48:05.000Z",
-      "points": 502
+      "points": 504
+    },
+    {
+      "objectID": "49421554",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "domain": "larsfaye.com",
+      "publishedAt": "2026-08-24T15:52:33.000Z",
+      "points": 462
     },
     {
       "objectID": "49378768",
@@ -71,7 +63,7 @@
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
       "publishedAt": "2026-08-20T19:05:36.000Z",
-      "points": 379
+      "points": 383
     },
     {
       "objectID": "49357530",
@@ -79,7 +71,15 @@
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "domain": "economist.com",
       "publishedAt": "2026-08-19T06:13:31.000Z",
-      "points": 375
+      "points": 381
+    },
+    {
+      "objectID": "49413561",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "domain": "pantel.is",
+      "publishedAt": "2026-08-23T23:18:17.000Z",
+      "points": 341
     },
     {
       "objectID": "49349147",
@@ -95,15 +95,7 @@
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
       "publishedAt": "2026-08-19T10:15:00.000Z",
-      "points": 301
-    },
-    {
-      "objectID": "49421554",
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "domain": "larsfaye.com",
-      "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 260
+      "points": 302
     },
     {
       "objectID": "49375719",
@@ -111,7 +103,7 @@
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "domain": "blog.yaros.ae",
       "publishedAt": "2026-08-20T15:06:53.000Z",
-      "points": 210
+      "points": 212
     },
     {
       "objectID": "49362728",
@@ -119,7 +111,15 @@
       "url": "https://arxiv.org/abs/2608.16753",
       "domain": "arxiv.org",
       "publishedAt": "2026-08-19T15:14:25.000Z",
-      "points": 208
+      "points": 210
+    },
+    {
+      "objectID": "49387959",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "domain": "reuters.com",
+      "publishedAt": "2026-08-21T13:43:33.000Z",
+      "points": 209
     },
     {
       "objectID": "49353432",
@@ -138,12 +138,12 @@
       "points": 189
     },
     {
-      "objectID": "49387959",
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "domain": "reuters.com",
-      "publishedAt": "2026-08-21T13:43:33.000Z",
-      "points": 188
+      "objectID": "49415893",
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "domain": "medicine.washu.edu",
+      "publishedAt": "2026-08-24T06:30:07.000Z",
+      "points": 181
     },
     {
       "objectID": "49389565",
@@ -154,12 +154,12 @@
       "points": 165
     },
     {
-      "objectID": "49415893",
-      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "domain": "medicine.washu.edu",
-      "publishedAt": "2026-08-24T06:30:07.000Z",
-      "points": 159
+      "objectID": "49405657",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "domain": "jepeake.com",
+      "publishedAt": "2026-08-23T02:25:10.000Z",
+      "points": 144
     }
   ]
 }
