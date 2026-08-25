@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T07:07:09.501Z",
+  "fetchedAt": "2026-08-25T13:09:41.074Z",
   "stories": [
     {
       "objectID": "49371857",
@@ -15,7 +15,7 @@
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
       "publishedAt": "2026-08-23T18:16:37.000Z",
-      "points": 777
+      "points": 789
     },
     {
       "objectID": "49409073",
@@ -23,7 +23,7 @@
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "domain": "ericpardee.github.io",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "points": 686
+      "points": 687
     },
     {
       "objectID": "49383026",
@@ -31,15 +31,7 @@
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 642
-    },
-    {
-      "objectID": "49343559",
-      "title": "Google has acquired the data of failed US airline Spirit",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "domain": "theregister.com",
-      "publishedAt": "2026-08-18T10:13:28.000Z",
-      "points": 616
+      "points": 644
     },
     {
       "objectID": "49421554",
@@ -47,7 +39,7 @@
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
       "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 508
+      "points": 522
     },
     {
       "objectID": "49386699",
@@ -55,7 +47,7 @@
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
       "publishedAt": "2026-08-21T11:48:05.000Z",
-      "points": 505
+      "points": 508
     },
     {
       "objectID": "49378768",
@@ -71,7 +63,7 @@
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "domain": "economist.com",
       "publishedAt": "2026-08-19T06:13:31.000Z",
-      "points": 381
+      "points": 382
     },
     {
       "objectID": "49413561",
@@ -79,7 +71,7 @@
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "domain": "pantel.is",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "points": 352
+      "points": 367
     },
     {
       "objectID": "49349147",
@@ -135,7 +127,7 @@
       "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-08-21T00:15:12.000Z",
-      "points": 189
+      "points": 190
     },
     {
       "objectID": "49415893",
@@ -143,7 +135,7 @@
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "domain": "medicine.washu.edu",
       "publishedAt": "2026-08-24T06:30:07.000Z",
-      "points": 184
+      "points": 185
     },
     {
       "objectID": "49389565",
@@ -151,7 +143,7 @@
       "url": "https://canews24.online/?p=71",
       "domain": "canews24.online",
       "publishedAt": "2026-08-21T15:25:42.000Z",
-      "points": 165
+      "points": 166
     },
     {
       "objectID": "49405657",
@@ -159,7 +151,15 @@
       "url": "https://www.jepeake.com/ai-chip-architectures",
       "domain": "jepeake.com",
       "publishedAt": "2026-08-23T02:25:10.000Z",
-      "points": 146
+      "points": 148
+    },
+    {
+      "objectID": "49411800",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "domain": "surya.website",
+      "publishedAt": "2026-08-23T19:39:29.000Z",
+      "points": 129
     }
   ]
 }
