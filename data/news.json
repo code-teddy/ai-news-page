@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T01:50:49.709Z",
+  "fetchedAt": "2026-08-25T07:07:09.501Z",
   "stories": [
     {
       "objectID": "49371857",
@@ -7,7 +7,7 @@
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 1050
+      "points": 1051
     },
     {
       "objectID": "49411102",
@@ -15,7 +15,7 @@
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
       "publishedAt": "2026-08-23T18:16:37.000Z",
-      "points": 764
+      "points": 777
     },
     {
       "objectID": "49409073",
@@ -23,7 +23,7 @@
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "domain": "ericpardee.github.io",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "points": 682
+      "points": 686
     },
     {
       "objectID": "49383026",
@@ -42,20 +42,20 @@
       "points": 616
     },
     {
-      "objectID": "49386699",
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "domain": "cymerys.com",
-      "publishedAt": "2026-08-21T11:48:05.000Z",
-      "points": 504
-    },
-    {
       "objectID": "49421554",
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
       "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 462
+      "points": 508
+    },
+    {
+      "objectID": "49386699",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "domain": "cymerys.com",
+      "publishedAt": "2026-08-21T11:48:05.000Z",
+      "points": 505
     },
     {
       "objectID": "49378768",
@@ -79,7 +79,7 @@
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "domain": "pantel.is",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "points": 341
+      "points": 352
     },
     {
       "objectID": "49349147",
@@ -119,7 +119,7 @@
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "domain": "reuters.com",
       "publishedAt": "2026-08-21T13:43:33.000Z",
-      "points": 209
+      "points": 210
     },
     {
       "objectID": "49353432",
@@ -143,7 +143,7 @@
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "domain": "medicine.washu.edu",
       "publishedAt": "2026-08-24T06:30:07.000Z",
-      "points": 181
+      "points": 184
     },
     {
       "objectID": "49389565",
@@ -159,7 +159,7 @@
       "url": "https://www.jepeake.com/ai-chip-architectures",
       "domain": "jepeake.com",
       "publishedAt": "2026-08-23T02:25:10.000Z",
-      "points": 144
+      "points": 146
     }
   ]
 }
