@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T13:09:41.074Z",
+  "fetchedAt": "2026-08-25T18:55:47.453Z",
   "stories": [
     {
       "objectID": "49371857",
@@ -7,7 +7,7 @@
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 1051
+      "points": 1052
     },
     {
       "objectID": "49411102",
@@ -15,7 +15,7 @@
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
       "publishedAt": "2026-08-23T18:16:37.000Z",
-      "points": 789
+      "points": 803
     },
     {
       "objectID": "49409073",
@@ -23,7 +23,7 @@
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "domain": "ericpardee.github.io",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "points": 687
+      "points": 690
     },
     {
       "objectID": "49383026",
@@ -31,7 +31,7 @@
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 644
+      "points": 645
     },
     {
       "objectID": "49421554",
@@ -39,7 +39,7 @@
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
       "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 522
+      "points": 533
     },
     {
       "objectID": "49386699",
@@ -55,7 +55,7 @@
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
       "publishedAt": "2026-08-20T19:05:36.000Z",
-      "points": 383
+      "points": 384
     },
     {
       "objectID": "49357530",
@@ -63,7 +63,7 @@
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "domain": "economist.com",
       "publishedAt": "2026-08-19T06:13:31.000Z",
-      "points": 382
+      "points": 383
     },
     {
       "objectID": "49413561",
@@ -71,15 +71,7 @@
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "domain": "pantel.is",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "points": 367
-    },
-    {
-      "objectID": "49349147",
-      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "domain": "asmedigitalcollection.asme.org",
-      "publishedAt": "2026-08-18T17:24:53.000Z",
-      "points": 313
+      "points": 383
     },
     {
       "objectID": "49359425",
@@ -114,6 +106,14 @@
       "points": 210
     },
     {
+      "objectID": "49435728",
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "domain": "blog.coredump.cx",
+      "publishedAt": "2026-08-25T15:23:41.000Z",
+      "points": 202
+    },
+    {
       "objectID": "49353432",
       "title": "AI usage patterns in software teams",
       "url": "https://linear.app/data",
@@ -135,6 +135,14 @@
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "domain": "medicine.washu.edu",
       "publishedAt": "2026-08-24T06:30:07.000Z",
+      "points": 187
+    },
+    {
+      "objectID": "49411800",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "domain": "surya.website",
+      "publishedAt": "2026-08-23T19:39:29.000Z",
       "points": 185
     },
     {
@@ -151,15 +159,7 @@
       "url": "https://www.jepeake.com/ai-chip-architectures",
       "domain": "jepeake.com",
       "publishedAt": "2026-08-23T02:25:10.000Z",
-      "points": 148
-    },
-    {
-      "objectID": "49411800",
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "domain": "surya.website",
-      "publishedAt": "2026-08-23T19:39:29.000Z",
-      "points": 129
+      "points": 154
     }
   ]
 }
