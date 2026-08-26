@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T07:07:19.019Z",
+  "fetchedAt": "2026-08-26T13:14:51.523Z",
   "stories": [
     {
       "objectID": "49371857",
@@ -15,7 +15,7 @@
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
       "publishedAt": "2026-08-23T18:16:37.000Z",
-      "points": 811
+      "points": 813
     },
     {
       "objectID": "49409073",
@@ -39,7 +39,7 @@
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
       "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 549
+      "points": 552
     },
     {
       "objectID": "49386699",
@@ -47,7 +47,7 @@
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
       "publishedAt": "2026-08-21T11:48:05.000Z",
-      "points": 508
+      "points": 509
     },
     {
       "objectID": "49413561",
@@ -55,7 +55,7 @@
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "domain": "pantel.is",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "points": 392
+      "points": 394
     },
     {
       "objectID": "49378768",
@@ -66,20 +66,20 @@
       "points": 384
     },
     {
-      "objectID": "49359425",
-      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "domain": "theremin.bizibah.com",
-      "publishedAt": "2026-08-19T10:15:00.000Z",
-      "points": 302
-    },
-    {
       "objectID": "49435728",
       "title": "How much of HN is AI?",
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "domain": "blog.coredump.cx",
       "publishedAt": "2026-08-25T15:23:41.000Z",
-      "points": 259
+      "points": 270
+    },
+    {
+      "objectID": "49446422",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "domain": "bloomberg.com",
+      "publishedAt": "2026-08-26T10:04:55.000Z",
+      "points": 220
     },
     {
       "objectID": "49375719",
@@ -98,20 +98,20 @@
       "points": 211
     },
     {
+      "objectID": "49411800",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "domain": "surya.website",
+      "publishedAt": "2026-08-23T19:39:29.000Z",
+      "points": 211
+    },
+    {
       "objectID": "49362728",
       "title": "Mathematics in the age of AI",
       "url": "https://arxiv.org/abs/2608.16753",
       "domain": "arxiv.org",
       "publishedAt": "2026-08-19T15:14:25.000Z",
       "points": 210
-    },
-    {
-      "objectID": "49411800",
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "domain": "surya.website",
-      "publishedAt": "2026-08-23T19:39:29.000Z",
-      "points": 203
     },
     {
       "objectID": "49382041",
@@ -146,20 +146,20 @@
       "points": 159
     },
     {
-      "objectID": "49435147",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-08-25T14:48:58.000Z",
-      "points": 138
-    },
-    {
       "objectID": "49435675",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
       "domain": "github.com",
       "publishedAt": "2026-08-25T15:20:20.000Z",
-      "points": 128
+      "points": 143
+    },
+    {
+      "objectID": "49435147",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "domain": "arstechnica.com",
+      "publishedAt": "2026-08-25T14:48:58.000Z",
+      "points": 142
     }
   ]
 }
