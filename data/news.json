@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T13:14:51.523Z",
+  "fetchedAt": "2026-08-26T20:01:38.067Z",
   "stories": [
     {
       "objectID": "49371857",
@@ -23,7 +23,7 @@
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "domain": "ericpardee.github.io",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "points": 694
+      "points": 696
     },
     {
       "objectID": "49383026",
@@ -39,7 +39,7 @@
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
       "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 552
+      "points": 555
     },
     {
       "objectID": "49386699",
@@ -47,7 +47,15 @@
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
       "publishedAt": "2026-08-21T11:48:05.000Z",
-      "points": 509
+      "points": 518
+    },
+    {
+      "objectID": "49446422",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "domain": "bloomberg.com",
+      "publishedAt": "2026-08-26T10:04:55.000Z",
+      "points": 394
     },
     {
       "objectID": "49413561",
@@ -71,15 +79,23 @@
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "domain": "blog.coredump.cx",
       "publishedAt": "2026-08-25T15:23:41.000Z",
-      "points": 270
+      "points": 273
     },
     {
-      "objectID": "49446422",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "domain": "bloomberg.com",
-      "publishedAt": "2026-08-26T10:04:55.000Z",
-      "points": 220
+      "objectID": "49447600",
+      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "domain": "theguardian.com",
+      "publishedAt": "2026-08-26T12:11:19.000Z",
+      "points": 230
+    },
+    {
+      "objectID": "49411800",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "domain": "surya.website",
+      "publishedAt": "2026-08-23T19:39:29.000Z",
+      "points": 215
     },
     {
       "objectID": "49375719",
@@ -98,22 +114,6 @@
       "points": 211
     },
     {
-      "objectID": "49411800",
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "domain": "surya.website",
-      "publishedAt": "2026-08-23T19:39:29.000Z",
-      "points": 211
-    },
-    {
-      "objectID": "49362728",
-      "title": "Mathematics in the age of AI",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-08-19T15:14:25.000Z",
-      "points": 210
-    },
-    {
       "objectID": "49382041",
       "title": "Copyright does not protect AI-generated content in EU",
       "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
@@ -127,7 +127,7 @@
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "domain": "medicine.washu.edu",
       "publishedAt": "2026-08-24T06:30:07.000Z",
-      "points": 187
+      "points": 189
     },
     {
       "objectID": "49389565",
@@ -143,7 +143,15 @@
       "url": "https://www.jepeake.com/ai-chip-architectures",
       "domain": "jepeake.com",
       "publishedAt": "2026-08-23T02:25:10.000Z",
-      "points": 159
+      "points": 162
+    },
+    {
+      "objectID": "49448137",
+      "title": "Bill Gates: The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "domain": "gatesnotes.com",
+      "publishedAt": "2026-08-26T12:47:47.000Z",
+      "points": 148
     },
     {
       "objectID": "49435675",
@@ -151,15 +159,7 @@
       "url": "https://github.com/ThinkOffApp/CarWatch",
       "domain": "github.com",
       "publishedAt": "2026-08-25T15:20:20.000Z",
-      "points": 143
-    },
-    {
-      "objectID": "49435147",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-08-25T14:48:58.000Z",
-      "points": 142
+      "points": 144
     }
   ]
 }
