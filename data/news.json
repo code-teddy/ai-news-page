@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-27T09:43:50.555Z",
+  "fetchedAt": "2026-08-27T22:14:23.097Z",
   "stories": [
+    {
+      "objectID": "49458418",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "domain": "github.com",
+      "publishedAt": "2026-08-27T01:46:22.000Z",
+      "points": 922
+    },
     {
       "objectID": "49411102",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
@@ -23,15 +31,7 @@
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 646
-    },
-    {
-      "objectID": "49458418",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "domain": "github.com",
-      "publishedAt": "2026-08-27T01:46:22.000Z",
-      "points": 593
+      "points": 647
     },
     {
       "objectID": "49421554",
@@ -55,7 +55,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "domain": "bloomberg.com",
       "publishedAt": "2026-08-26T10:04:55.000Z",
-      "points": 425
+      "points": 429
     },
     {
       "objectID": "49413561",
@@ -63,15 +63,15 @@
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "domain": "pantel.is",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "points": 395
+      "points": 396
     },
     {
-      "objectID": "49378768",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "domain": "danielvaughn.dev",
-      "publishedAt": "2026-08-20T19:05:36.000Z",
-      "points": 384
+      "objectID": "49451313",
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "domain": "gatesnotes.com",
+      "publishedAt": "2026-08-26T15:55:15.000Z",
+      "points": 342
     },
     {
       "objectID": "49435728",
@@ -82,12 +82,12 @@
       "points": 274
     },
     {
-      "objectID": "49451313",
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "domain": "gatesnotes.com",
-      "publishedAt": "2026-08-26T15:55:15.000Z",
-      "points": 250
+      "objectID": "49450898",
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "domain": "ssp.sh",
+      "publishedAt": "2026-08-26T15:30:05.000Z",
+      "points": 247
     },
     {
       "objectID": "49447600",
@@ -95,15 +95,7 @@
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
       "domain": "theguardian.com",
       "publishedAt": "2026-08-26T12:11:19.000Z",
-      "points": 240
-    },
-    {
-      "objectID": "49450898",
-      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "domain": "ssp.sh",
-      "publishedAt": "2026-08-26T15:30:05.000Z",
-      "points": 224
+      "points": 243
     },
     {
       "objectID": "49411800",
@@ -111,15 +103,7 @@
       "url": "https://surya.website/rling-qwen-to-paint-with-code",
       "domain": "surya.website",
       "publishedAt": "2026-08-23T19:39:29.000Z",
-      "points": 219
-    },
-    {
-      "objectID": "49375719",
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "domain": "blog.yaros.ae",
-      "publishedAt": "2026-08-20T15:06:53.000Z",
-      "points": 212
+      "points": 222
     },
     {
       "objectID": "49387959",
@@ -147,11 +131,19 @@
     },
     {
       "objectID": "49448137",
-      "title": "Bill Gates: The turbulent AI era is here",
+      "title": "The turbulent AI era is here",
       "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T12:47:47.000Z",
-      "points": 185
+      "points": 189
+    },
+    {
+      "objectID": "49454764",
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "domain": "acceptmarkdown.com",
+      "publishedAt": "2026-08-26T19:45:59.000Z",
+      "points": 172
     },
     {
       "objectID": "49389565",
@@ -160,6 +152,14 @@
       "domain": "canews24.online",
       "publishedAt": "2026-08-21T15:25:42.000Z",
       "points": 166
+    },
+    {
+      "objectID": "49405657",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "domain": "jepeake.com",
+      "publishedAt": "2026-08-23T02:25:10.000Z",
+      "points": 162
     }
   ]
 }
