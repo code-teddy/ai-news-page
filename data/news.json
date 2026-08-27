@@ -1,21 +1,13 @@
 {
-  "fetchedAt": "2026-08-26T20:01:38.067Z",
+  "fetchedAt": "2026-08-27T09:43:50.555Z",
   "stories": [
-    {
-      "objectID": "49371857",
-      "title": "Don't paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "domain": "dontpastetheai.com",
-      "publishedAt": "2026-08-20T08:20:44.000Z",
-      "points": 1054
-    },
     {
       "objectID": "49411102",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
       "publishedAt": "2026-08-23T18:16:37.000Z",
-      "points": 813
+      "points": 816
     },
     {
       "objectID": "49409073",
@@ -23,7 +15,7 @@
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "domain": "ericpardee.github.io",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "points": 696
+      "points": 697
     },
     {
       "objectID": "49383026",
@@ -34,12 +26,20 @@
       "points": 646
     },
     {
+      "objectID": "49458418",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "domain": "github.com",
+      "publishedAt": "2026-08-27T01:46:22.000Z",
+      "points": 593
+    },
+    {
       "objectID": "49421554",
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
       "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 555
+      "points": 558
     },
     {
       "objectID": "49386699",
@@ -47,7 +47,7 @@
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
       "publishedAt": "2026-08-21T11:48:05.000Z",
-      "points": 518
+      "points": 521
     },
     {
       "objectID": "49446422",
@@ -55,7 +55,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "domain": "bloomberg.com",
       "publishedAt": "2026-08-26T10:04:55.000Z",
-      "points": 394
+      "points": 425
     },
     {
       "objectID": "49413561",
@@ -63,7 +63,7 @@
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "domain": "pantel.is",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "points": 394
+      "points": 395
     },
     {
       "objectID": "49378768",
@@ -79,7 +79,15 @@
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "domain": "blog.coredump.cx",
       "publishedAt": "2026-08-25T15:23:41.000Z",
-      "points": 273
+      "points": 274
+    },
+    {
+      "objectID": "49451313",
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "domain": "gatesnotes.com",
+      "publishedAt": "2026-08-26T15:55:15.000Z",
+      "points": 250
     },
     {
       "objectID": "49447600",
@@ -87,7 +95,15 @@
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
       "domain": "theguardian.com",
       "publishedAt": "2026-08-26T12:11:19.000Z",
-      "points": 230
+      "points": 240
+    },
+    {
+      "objectID": "49450898",
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "domain": "ssp.sh",
+      "publishedAt": "2026-08-26T15:30:05.000Z",
+      "points": 224
     },
     {
       "objectID": "49411800",
@@ -95,7 +111,7 @@
       "url": "https://surya.website/rling-qwen-to-paint-with-code",
       "domain": "surya.website",
       "publishedAt": "2026-08-23T19:39:29.000Z",
-      "points": 215
+      "points": 219
     },
     {
       "objectID": "49375719",
@@ -130,36 +146,20 @@
       "points": 189
     },
     {
+      "objectID": "49448137",
+      "title": "Bill Gates: The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "domain": "gatesnotes.com",
+      "publishedAt": "2026-08-26T12:47:47.000Z",
+      "points": 185
+    },
+    {
       "objectID": "49389565",
       "title": "AI boosted homework scores, then exam scores dropped: Study",
       "url": "https://canews24.online/?p=71",
       "domain": "canews24.online",
       "publishedAt": "2026-08-21T15:25:42.000Z",
       "points": 166
-    },
-    {
-      "objectID": "49405657",
-      "title": "AI Chip Architectures",
-      "url": "https://www.jepeake.com/ai-chip-architectures",
-      "domain": "jepeake.com",
-      "publishedAt": "2026-08-23T02:25:10.000Z",
-      "points": 162
-    },
-    {
-      "objectID": "49448137",
-      "title": "Bill Gates: The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-      "domain": "gatesnotes.com",
-      "publishedAt": "2026-08-26T12:47:47.000Z",
-      "points": 148
-    },
-    {
-      "objectID": "49435675",
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "domain": "github.com",
-      "publishedAt": "2026-08-25T15:20:20.000Z",
-      "points": 144
     }
   ]
 }
