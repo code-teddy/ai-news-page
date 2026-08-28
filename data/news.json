@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-27T22:14:23.097Z",
+  "fetchedAt": "2026-08-28T11:20:34.446Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -7,7 +7,7 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
       "publishedAt": "2026-08-27T01:46:22.000Z",
-      "points": 922
+      "points": 978
     },
     {
       "objectID": "49411102",
@@ -24,14 +24,6 @@
       "domain": "ericpardee.github.io",
       "publishedAt": "2026-08-23T14:23:09.000Z",
       "points": 697
-    },
-    {
-      "objectID": "49383026",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "domain": "annas-archive.gl",
-      "publishedAt": "2026-08-21T02:37:47.000Z",
-      "points": 647
     },
     {
       "objectID": "49421554",
@@ -55,7 +47,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "domain": "bloomberg.com",
       "publishedAt": "2026-08-26T10:04:55.000Z",
-      "points": 429
+      "points": 433
     },
     {
       "objectID": "49413561",
@@ -63,7 +55,7 @@
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "domain": "pantel.is",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "points": 396
+      "points": 398
     },
     {
       "objectID": "49451313",
@@ -71,7 +63,7 @@
       "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T15:55:15.000Z",
-      "points": 342
+      "points": 359
     },
     {
       "objectID": "49435728",
@@ -87,7 +79,7 @@
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "domain": "ssp.sh",
       "publishedAt": "2026-08-26T15:30:05.000Z",
-      "points": 247
+      "points": 253
     },
     {
       "objectID": "49447600",
@@ -95,7 +87,7 @@
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
       "domain": "theguardian.com",
       "publishedAt": "2026-08-26T12:11:19.000Z",
-      "points": 243
+      "points": 244
     },
     {
       "objectID": "49411800",
@@ -114,12 +106,12 @@
       "points": 211
     },
     {
-      "objectID": "49382041",
-      "title": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "domain": "mathstodon.xyz",
-      "publishedAt": "2026-08-21T00:15:12.000Z",
-      "points": 190
+      "objectID": "49448137",
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "domain": "gatesnotes.com",
+      "publishedAt": "2026-08-26T12:47:47.000Z",
+      "points": 191
     },
     {
       "objectID": "49415893",
@@ -130,12 +122,20 @@
       "points": 189
     },
     {
-      "objectID": "49448137",
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-      "domain": "gatesnotes.com",
-      "publishedAt": "2026-08-26T12:47:47.000Z",
-      "points": 189
+      "objectID": "49468315",
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+      "domain": "bbc.com",
+      "publishedAt": "2026-08-27T17:33:13.000Z",
+      "points": 183
+    },
+    {
+      "objectID": "49474143",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "domain": "neilalexander.dev",
+      "publishedAt": "2026-08-28T03:49:33.000Z",
+      "points": 177
     },
     {
       "objectID": "49454764",
@@ -143,7 +143,7 @@
       "url": "https://acceptmarkdown.com/",
       "domain": "acceptmarkdown.com",
       "publishedAt": "2026-08-26T19:45:59.000Z",
-      "points": 172
+      "points": 174
     },
     {
       "objectID": "49389565",
