@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T07:01:47.577Z",
+  "fetchedAt": "2026-08-29T16:42:02.943Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -7,7 +7,7 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
       "publishedAt": "2026-08-27T01:46:22.000Z",
-      "points": 1010
+      "points": 1013
     },
     {
       "objectID": "49411102",
@@ -15,7 +15,7 @@
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
       "publishedAt": "2026-08-23T18:16:37.000Z",
-      "points": 818
+      "points": 819
     },
     {
       "objectID": "49409073",
@@ -23,7 +23,7 @@
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "domain": "ericpardee.github.io",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "points": 701
+      "points": 702
     },
     {
       "objectID": "49421554",
@@ -39,7 +39,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 479
+      "points": 500
     },
     {
       "objectID": "49446422",
@@ -63,7 +63,15 @@
       "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T15:55:15.000Z",
-      "points": 360
+      "points": 361
+    },
+    {
+      "objectID": "49489982",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "domain": "lwn.net",
+      "publishedAt": "2026-08-29T14:02:10.000Z",
+      "points": 284
     },
     {
       "objectID": "49435728",
@@ -71,7 +79,7 @@
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "domain": "blog.coredump.cx",
       "publishedAt": "2026-08-25T15:23:41.000Z",
-      "points": 274
+      "points": 275
     },
     {
       "objectID": "49450898",
@@ -79,7 +87,7 @@
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "domain": "ssp.sh",
       "publishedAt": "2026-08-26T15:30:05.000Z",
-      "points": 258
+      "points": 259
     },
     {
       "objectID": "49447600",
@@ -95,7 +103,7 @@
       "url": "https://surya.website/rling-qwen-to-paint-with-code",
       "domain": "surya.website",
       "publishedAt": "2026-08-23T19:39:29.000Z",
-      "points": 226
+      "points": 227
     },
     {
       "objectID": "49474143",
@@ -103,7 +111,7 @@
       "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
       "domain": "neilalexander.dev",
       "publishedAt": "2026-08-28T03:49:33.000Z",
-      "points": 211
+      "points": 212
     },
     {
       "objectID": "49448137",
@@ -119,7 +127,7 @@
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "domain": "medicine.washu.edu",
       "publishedAt": "2026-08-24T06:30:07.000Z",
-      "points": 189
+      "points": 190
     },
     {
       "objectID": "49468315",
@@ -138,28 +146,20 @@
       "points": 175
     },
     {
+      "objectID": "49486081",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "domain": "github.com",
+      "publishedAt": "2026-08-29T01:24:13.000Z",
+      "points": 171
+    },
+    {
       "objectID": "49405657",
       "title": "AI Chip Architectures",
       "url": "https://www.jepeake.com/ai-chip-architectures",
       "domain": "jepeake.com",
       "publishedAt": "2026-08-23T02:25:10.000Z",
       "points": 162
-    },
-    {
-      "objectID": "49435147",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-08-25T14:48:58.000Z",
-      "points": 145
-    },
-    {
-      "objectID": "49435675",
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "domain": "github.com",
-      "publishedAt": "2026-08-25T15:20:20.000Z",
-      "points": 145
     }
   ]
 }
