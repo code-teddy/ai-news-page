@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T16:42:02.943Z",
+  "fetchedAt": "2026-08-29T20:53:29.781Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -7,7 +7,7 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
       "publishedAt": "2026-08-27T01:46:22.000Z",
-      "points": 1013
+      "points": 1019
     },
     {
       "objectID": "49411102",
@@ -39,7 +39,15 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 500
+      "points": 508
+    },
+    {
+      "objectID": "49489982",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "domain": "lwn.net",
+      "publishedAt": "2026-08-29T14:02:10.000Z",
+      "points": 455
     },
     {
       "objectID": "49446422",
@@ -66,14 +74,6 @@
       "points": 361
     },
     {
-      "objectID": "49489982",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "domain": "lwn.net",
-      "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 284
-    },
-    {
       "objectID": "49435728",
       "title": "How much of HN is AI?",
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
@@ -87,7 +87,7 @@
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "domain": "ssp.sh",
       "publishedAt": "2026-08-26T15:30:05.000Z",
-      "points": 259
+      "points": 260
     },
     {
       "objectID": "49447600",
@@ -95,7 +95,7 @@
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
       "domain": "theguardian.com",
       "publishedAt": "2026-08-26T12:11:19.000Z",
-      "points": 246
+      "points": 247
     },
     {
       "objectID": "49411800",
@@ -119,7 +119,7 @@
       "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T12:47:47.000Z",
-      "points": 194
+      "points": 195
     },
     {
       "objectID": "49415893",
@@ -128,6 +128,14 @@
       "domain": "medicine.washu.edu",
       "publishedAt": "2026-08-24T06:30:07.000Z",
       "points": 190
+    },
+    {
+      "objectID": "49486081",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "domain": "github.com",
+      "publishedAt": "2026-08-29T01:24:13.000Z",
+      "points": 188
     },
     {
       "objectID": "49468315",
@@ -144,14 +152,6 @@
       "domain": "acceptmarkdown.com",
       "publishedAt": "2026-08-26T19:45:59.000Z",
       "points": 175
-    },
-    {
-      "objectID": "49486081",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "domain": "github.com",
-      "publishedAt": "2026-08-29T01:24:13.000Z",
-      "points": 171
     },
     {
       "objectID": "49405657",
