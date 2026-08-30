@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T20:53:29.781Z",
+  "fetchedAt": "2026-08-30T05:21:34.366Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -7,7 +7,7 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
       "publishedAt": "2026-08-27T01:46:22.000Z",
-      "points": 1019
+      "points": 1023
     },
     {
       "objectID": "49411102",
@@ -23,7 +23,7 @@
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "domain": "ericpardee.github.io",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "points": 702
+      "points": 703
     },
     {
       "objectID": "49421554",
@@ -39,7 +39,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 508
+      "points": 516
     },
     {
       "objectID": "49489982",
@@ -47,7 +47,7 @@
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 455
+      "points": 475
     },
     {
       "objectID": "49446422",
@@ -71,7 +71,15 @@
       "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T15:55:15.000Z",
-      "points": 361
+      "points": 363
+    },
+    {
+      "objectID": "49491568",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "domain": "newsletter.eng-leadership.com",
+      "publishedAt": "2026-08-29T17:19:47.000Z",
+      "points": 315
     },
     {
       "objectID": "49435728",
@@ -103,7 +111,15 @@
       "url": "https://surya.website/rling-qwen-to-paint-with-code",
       "domain": "surya.website",
       "publishedAt": "2026-08-23T19:39:29.000Z",
-      "points": 227
+      "points": 228
+    },
+    {
+      "objectID": "49486081",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "domain": "github.com",
+      "publishedAt": "2026-08-29T01:24:13.000Z",
+      "points": 214
     },
     {
       "objectID": "49474143",
@@ -130,14 +146,6 @@
       "points": 190
     },
     {
-      "objectID": "49486081",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "domain": "github.com",
-      "publishedAt": "2026-08-29T01:24:13.000Z",
-      "points": 188
-    },
-    {
       "objectID": "49468315",
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
       "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
@@ -151,15 +159,7 @@
       "url": "https://acceptmarkdown.com/",
       "domain": "acceptmarkdown.com",
       "publishedAt": "2026-08-26T19:45:59.000Z",
-      "points": 175
-    },
-    {
-      "objectID": "49405657",
-      "title": "AI Chip Architectures",
-      "url": "https://www.jepeake.com/ai-chip-architectures",
-      "domain": "jepeake.com",
-      "publishedAt": "2026-08-23T02:25:10.000Z",
-      "points": 162
+      "points": 176
     }
   ]
 }
