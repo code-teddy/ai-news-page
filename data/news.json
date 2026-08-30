@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T11:52:10.466Z",
+  "fetchedAt": "2026-08-30T16:38:59.845Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -18,14 +18,6 @@
       "points": 819
     },
     {
-      "objectID": "49409073",
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "domain": "ericpardee.github.io",
-      "publishedAt": "2026-08-23T14:23:09.000Z",
-      "points": 703
-    },
-    {
       "objectID": "49421554",
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
@@ -39,7 +31,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 518
+      "points": 519
     },
     {
       "objectID": "49489982",
@@ -47,7 +39,7 @@
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 490
+      "points": 492
     },
     {
       "objectID": "49446422",
@@ -63,7 +55,7 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
       "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 403
+      "points": 423
     },
     {
       "objectID": "49413561",
@@ -111,6 +103,14 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "domain": "github.com",
       "publishedAt": "2026-08-29T01:24:13.000Z",
+      "points": 235
+    },
+    {
+      "objectID": "49498095",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "domain": "noaifridays.com",
+      "publishedAt": "2026-08-30T12:31:05.000Z",
       "points": 228
     },
     {
