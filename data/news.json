@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T16:38:59.845Z",
+  "fetchedAt": "2026-08-30T21:02:44.987Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -7,15 +7,7 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
       "publishedAt": "2026-08-27T01:46:22.000Z",
-      "points": 1023
-    },
-    {
-      "objectID": "49411102",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "domain": "ft.com",
-      "publishedAt": "2026-08-23T18:16:37.000Z",
-      "points": 819
+      "points": 1026
     },
     {
       "objectID": "49421554",
@@ -23,7 +15,7 @@
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
       "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 558
+      "points": 559
     },
     {
       "objectID": "49475079",
@@ -31,7 +23,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 519
+      "points": 520
     },
     {
       "objectID": "49489982",
@@ -39,7 +31,15 @@
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 492
+      "points": 495
+    },
+    {
+      "objectID": "49491568",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "domain": "newsletter.eng-leadership.com",
+      "publishedAt": "2026-08-29T17:19:47.000Z",
+      "points": 441
     },
     {
       "objectID": "49446422",
@@ -48,14 +48,6 @@
       "domain": "bloomberg.com",
       "publishedAt": "2026-08-26T10:04:55.000Z",
       "points": 434
-    },
-    {
-      "objectID": "49491568",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "domain": "newsletter.eng-leadership.com",
-      "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 423
     },
     {
       "objectID": "49413561",
@@ -90,6 +82,14 @@
       "points": 261
     },
     {
+      "objectID": "49498095",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "domain": "noaifridays.com",
+      "publishedAt": "2026-08-30T12:31:05.000Z",
+      "points": 255
+    },
+    {
       "objectID": "49447600",
       "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
@@ -103,23 +103,7 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "domain": "github.com",
       "publishedAt": "2026-08-29T01:24:13.000Z",
-      "points": 235
-    },
-    {
-      "objectID": "49498095",
-      "title": "No AI Fridays",
-      "url": "https://noaifridays.com/",
-      "domain": "noaifridays.com",
-      "publishedAt": "2026-08-30T12:31:05.000Z",
-      "points": 228
-    },
-    {
-      "objectID": "49411800",
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "domain": "surya.website",
-      "publishedAt": "2026-08-23T19:39:29.000Z",
-      "points": 228
+      "points": 238
     },
     {
       "objectID": "49474143",
@@ -135,7 +119,7 @@
       "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T12:47:47.000Z",
-      "points": 196
+      "points": 197
     },
     {
       "objectID": "49415893",
@@ -160,6 +144,22 @@
       "domain": "acceptmarkdown.com",
       "publishedAt": "2026-08-26T19:45:59.000Z",
       "points": 176
+    },
+    {
+      "objectID": "49435675",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "domain": "github.com",
+      "publishedAt": "2026-08-25T15:20:20.000Z",
+      "points": 146
+    },
+    {
+      "objectID": "49435147",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "domain": "arstechnica.com",
+      "publishedAt": "2026-08-25T14:48:58.000Z",
+      "points": 145
     }
   ]
 }
