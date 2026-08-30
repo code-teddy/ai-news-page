@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T05:21:34.366Z",
+  "fetchedAt": "2026-08-30T11:52:10.466Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -39,7 +39,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 516
+      "points": 518
     },
     {
       "objectID": "49489982",
@@ -47,7 +47,7 @@
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 475
+      "points": 490
     },
     {
       "objectID": "49446422",
@@ -55,7 +55,15 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "domain": "bloomberg.com",
       "publishedAt": "2026-08-26T10:04:55.000Z",
-      "points": 433
+      "points": 434
+    },
+    {
+      "objectID": "49491568",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "domain": "newsletter.eng-leadership.com",
+      "publishedAt": "2026-08-29T17:19:47.000Z",
+      "points": 403
     },
     {
       "objectID": "49413561",
@@ -63,7 +71,7 @@
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "domain": "pantel.is",
       "publishedAt": "2026-08-23T23:18:17.000Z",
-      "points": 398
+      "points": 399
     },
     {
       "objectID": "49451313",
@@ -72,14 +80,6 @@
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T15:55:15.000Z",
       "points": 363
-    },
-    {
-      "objectID": "49491568",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "domain": "newsletter.eng-leadership.com",
-      "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 315
     },
     {
       "objectID": "49435728",
@@ -95,7 +95,7 @@
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "domain": "ssp.sh",
       "publishedAt": "2026-08-26T15:30:05.000Z",
-      "points": 260
+      "points": 261
     },
     {
       "objectID": "49447600",
@@ -106,6 +106,14 @@
       "points": 247
     },
     {
+      "objectID": "49486081",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "domain": "github.com",
+      "publishedAt": "2026-08-29T01:24:13.000Z",
+      "points": 228
+    },
+    {
       "objectID": "49411800",
       "title": "Training AI to Paint with Code",
       "url": "https://surya.website/rling-qwen-to-paint-with-code",
@@ -114,20 +122,12 @@
       "points": 228
     },
     {
-      "objectID": "49486081",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "domain": "github.com",
-      "publishedAt": "2026-08-29T01:24:13.000Z",
-      "points": 214
-    },
-    {
       "objectID": "49474143",
       "title": "Please stop flooding our projects with AI slop to furnish your CV",
       "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
       "domain": "neilalexander.dev",
       "publishedAt": "2026-08-28T03:49:33.000Z",
-      "points": 212
+      "points": 213
     },
     {
       "objectID": "49448137",
@@ -135,7 +135,7 @@
       "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T12:47:47.000Z",
-      "points": 195
+      "points": 196
     },
     {
       "objectID": "49415893",
