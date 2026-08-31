@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T13:44:10.676Z",
+  "fetchedAt": "2026-08-31T22:48:30.124Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -7,15 +7,7 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
       "publishedAt": "2026-08-27T01:46:22.000Z",
-      "points": 1029
-    },
-    {
-      "objectID": "49421554",
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "domain": "larsfaye.com",
-      "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 560
+      "points": 1030
     },
     {
       "objectID": "49475079",
@@ -23,7 +15,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 522
+      "points": 523
     },
     {
       "objectID": "49489982",
@@ -31,7 +23,7 @@
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 509
+      "points": 510
     },
     {
       "objectID": "49491568",
@@ -39,7 +31,7 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
       "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 466
+      "points": 475
     },
     {
       "objectID": "49446422",
@@ -63,7 +55,7 @@
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
       "publishedAt": "2026-08-30T12:31:05.000Z",
-      "points": 277
+      "points": 284
     },
     {
       "objectID": "49435728",
@@ -82,6 +74,14 @@
       "points": 262
     },
     {
+      "objectID": "49508982",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "domain": "macrumors.com",
+      "publishedAt": "2026-08-31T12:41:22.000Z",
+      "points": 250
+    },
+    {
       "objectID": "49447600",
       "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
@@ -95,7 +95,7 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "domain": "github.com",
       "publishedAt": "2026-08-29T01:24:13.000Z",
-      "points": 243
+      "points": 244
     },
     {
       "objectID": "49474143",
@@ -119,7 +119,7 @@
       "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
       "domain": "bbc.com",
       "publishedAt": "2026-08-27T17:33:13.000Z",
-      "points": 187
+      "points": 188
     },
     {
       "objectID": "49454764",
