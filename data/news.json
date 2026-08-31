@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T05:30:04.339Z",
+  "fetchedAt": "2026-08-31T13:44:10.676Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -7,7 +7,7 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
       "publishedAt": "2026-08-27T01:46:22.000Z",
-      "points": 1027
+      "points": 1029
     },
     {
       "objectID": "49421554",
@@ -15,7 +15,7 @@
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
       "publishedAt": "2026-08-24T15:52:33.000Z",
-      "points": 559
+      "points": 560
     },
     {
       "objectID": "49475079",
@@ -23,7 +23,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 521
+      "points": 522
     },
     {
       "objectID": "49489982",
@@ -31,7 +31,7 @@
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 500
+      "points": 509
     },
     {
       "objectID": "49491568",
@@ -39,7 +39,7 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
       "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 455
+      "points": 466
     },
     {
       "objectID": "49446422",
@@ -58,6 +58,14 @@
       "points": 364
     },
     {
+      "objectID": "49498095",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "domain": "noaifridays.com",
+      "publishedAt": "2026-08-30T12:31:05.000Z",
+      "points": 277
+    },
+    {
       "objectID": "49435728",
       "title": "How much of HN is AI?",
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
@@ -66,20 +74,12 @@
       "points": 275
     },
     {
-      "objectID": "49498095",
-      "title": "No AI Fridays",
-      "url": "https://noaifridays.com/",
-      "domain": "noaifridays.com",
-      "publishedAt": "2026-08-30T12:31:05.000Z",
-      "points": 266
-    },
-    {
       "objectID": "49450898",
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "domain": "ssp.sh",
       "publishedAt": "2026-08-26T15:30:05.000Z",
-      "points": 261
+      "points": 262
     },
     {
       "objectID": "49447600",
@@ -95,7 +95,7 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "domain": "github.com",
       "publishedAt": "2026-08-29T01:24:13.000Z",
-      "points": 241
+      "points": 243
     },
     {
       "objectID": "49474143",
@@ -112,14 +112,6 @@
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T12:47:47.000Z",
       "points": 197
-    },
-    {
-      "objectID": "49415893",
-      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "domain": "medicine.washu.edu",
-      "publishedAt": "2026-08-24T06:30:07.000Z",
-      "points": 190
     },
     {
       "objectID": "49468315",
@@ -160,6 +152,14 @@
       "domain": "aiandeducation.mit.edu",
       "publishedAt": "2026-08-27T13:07:45.000Z",
       "points": 144
+    },
+    {
+      "objectID": "49463367",
+      "title": "Air Conditioning Is Not a Luxury, It Is a Necessity",
+      "url": "https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/",
+      "domain": "humanprogress.org",
+      "publishedAt": "2026-08-27T12:01:03.000Z",
+      "points": 122
     }
   ]
 }
