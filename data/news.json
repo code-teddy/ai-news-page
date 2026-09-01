@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T22:48:30.124Z",
+  "fetchedAt": "2026-09-01T05:04:13.127Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -23,7 +23,7 @@
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 510
+      "points": 512
     },
     {
       "objectID": "49491568",
@@ -31,7 +31,7 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
       "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 475
+      "points": 476
     },
     {
       "objectID": "49446422",
@@ -50,12 +50,20 @@
       "points": 364
     },
     {
+      "objectID": "49508982",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "domain": "macrumors.com",
+      "publishedAt": "2026-08-31T12:41:22.000Z",
+      "points": 355
+    },
+    {
       "objectID": "49498095",
       "title": "No AI Fridays",
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
       "publishedAt": "2026-08-30T12:31:05.000Z",
-      "points": 284
+      "points": 285
     },
     {
       "objectID": "49435728",
@@ -72,14 +80,6 @@
       "domain": "ssp.sh",
       "publishedAt": "2026-08-26T15:30:05.000Z",
       "points": 262
-    },
-    {
-      "objectID": "49508982",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "domain": "macrumors.com",
-      "publishedAt": "2026-08-31T12:41:22.000Z",
-      "points": 250
     },
     {
       "objectID": "49447600",
@@ -122,6 +122,14 @@
       "points": 188
     },
     {
+      "objectID": "49496292",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "domain": "chosun.com",
+      "publishedAt": "2026-08-30T06:52:04.000Z",
+      "points": 180
+    },
+    {
       "objectID": "49454764",
       "title": "Serve Markdown to AI Agents with Accept Headers",
       "url": "https://acceptmarkdown.com/",
@@ -152,14 +160,6 @@
       "domain": "aiandeducation.mit.edu",
       "publishedAt": "2026-08-27T13:07:45.000Z",
       "points": 144
-    },
-    {
-      "objectID": "49463367",
-      "title": "Air Conditioning Is Not a Luxury, It Is a Necessity",
-      "url": "https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/",
-      "domain": "humanprogress.org",
-      "publishedAt": "2026-08-27T12:01:03.000Z",
-      "points": 122
     }
   ]
 }
