@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T16:32:34.994Z",
+  "fetchedAt": "2026-09-02T21:00:52.361Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -15,7 +15,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 818
+      "points": 835
     },
     {
       "objectID": "49475079",
@@ -23,7 +23,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 527
+      "points": 528
     },
     {
       "objectID": "49489982",
@@ -55,7 +55,7 @@
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "domain": "simpleflying.com",
       "publishedAt": "2026-08-29T21:25:17.000Z",
-      "points": 381
+      "points": 382
     },
     {
       "objectID": "49498095",
@@ -63,7 +63,7 @@
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
       "publishedAt": "2026-08-30T12:31:05.000Z",
-      "points": 289
+      "points": 290
     },
     {
       "objectID": "49496292",
@@ -72,6 +72,14 @@
       "domain": "chosun.com",
       "publishedAt": "2026-08-30T06:52:04.000Z",
       "points": 277
+    },
+    {
+      "objectID": "49536375",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "domain": "trellner.com",
+      "publishedAt": "2026-09-02T13:59:59.000Z",
+      "points": 252
     },
     {
       "objectID": "49486081",
@@ -87,7 +95,7 @@
       "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
       "domain": "pcgamer.com",
       "publishedAt": "2026-09-01T15:53:42.000Z",
-      "points": 233
+      "points": 234
     },
     {
       "objectID": "49474143",
@@ -111,15 +119,7 @@
       "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
       "domain": "hermit-tech.com",
       "publishedAt": "2026-09-01T05:32:56.000Z",
-      "points": 181
-    },
-    {
-      "objectID": "49454764",
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://acceptmarkdown.com/",
-      "domain": "acceptmarkdown.com",
-      "publishedAt": "2026-08-26T19:45:59.000Z",
-      "points": 176
+      "points": 183
     },
     {
       "objectID": "49528895",
@@ -127,7 +127,7 @@
       "url": "https://masteranza.github.io/weedout/",
       "domain": "masteranza.github.io",
       "publishedAt": "2026-09-01T22:06:57.000Z",
-      "points": 170
+      "points": 174
     },
     {
       "objectID": "49521315",
@@ -136,6 +136,14 @@
       "domain": "eff.org",
       "publishedAt": "2026-09-01T12:53:51.000Z",
       "points": 163
+    },
+    {
+      "objectID": "49534132",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "domain": "multiversecomputing.com",
+      "publishedAt": "2026-09-02T10:02:41.000Z",
+      "points": 153
     },
     {
       "objectID": "49512856",
@@ -152,14 +160,6 @@
       "domain": "aiandeducation.mit.edu",
       "publishedAt": "2026-08-27T13:07:45.000Z",
       "points": 144
-    },
-    {
-      "objectID": "49536375",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "domain": "trellner.com",
-      "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 143
     }
   ]
 }
