@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T04:29:49.943Z",
+  "fetchedAt": "2026-09-02T11:14:45.352Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -10,20 +10,20 @@
       "points": 1031
     },
     {
-      "objectID": "49475079",
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "domain": "blog.luanti.org",
-      "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 526
-    },
-    {
       "objectID": "49526069",
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 525
+      "points": 733
+    },
+    {
+      "objectID": "49475079",
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "domain": "blog.luanti.org",
+      "publishedAt": "2026-08-28T06:33:57.000Z",
+      "points": 527
     },
     {
       "objectID": "49489982",
@@ -47,15 +47,7 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
       "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 476
-    },
-    {
-      "objectID": "49446422",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "domain": "bloomberg.com",
-      "publishedAt": "2026-08-26T10:04:55.000Z",
-      "points": 435
+      "points": 477
     },
     {
       "objectID": "49493468",
@@ -63,7 +55,7 @@
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "domain": "simpleflying.com",
       "publishedAt": "2026-08-29T21:25:17.000Z",
-      "points": 375
+      "points": 377
     },
     {
       "objectID": "49451313",
@@ -114,20 +106,20 @@
       "points": 245
     },
     {
+      "objectID": "49523720",
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "domain": "pcgamer.com",
+      "publishedAt": "2026-09-01T15:53:42.000Z",
+      "points": 227
+    },
+    {
       "objectID": "49474143",
       "title": "Please stop flooding our projects with AI slop to furnish your CV",
       "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
       "domain": "neilalexander.dev",
       "publishedAt": "2026-08-28T03:49:33.000Z",
       "points": 213
-    },
-    {
-      "objectID": "49523720",
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-      "domain": "pcgamer.com",
-      "publishedAt": "2026-09-01T15:53:42.000Z",
-      "points": 210
     },
     {
       "objectID": "49448137",
@@ -146,6 +138,14 @@
       "points": 190
     },
     {
+      "objectID": "49518316",
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "domain": "hermit-tech.com",
+      "publishedAt": "2026-09-01T05:32:56.000Z",
+      "points": 178
+    },
+    {
       "objectID": "49454764",
       "title": "Serve Markdown to AI Agents with Accept Headers",
       "url": "https://acceptmarkdown.com/",
@@ -159,7 +159,7 @@
       "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
       "domain": "eff.org",
       "publishedAt": "2026-09-01T12:53:51.000Z",
-      "points": 161
+      "points": 163
     }
   ]
 }
