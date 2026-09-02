@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T11:14:45.352Z",
+  "fetchedAt": "2026-09-02T16:32:34.994Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -15,7 +15,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 733
+      "points": 818
     },
     {
       "objectID": "49475079",
@@ -39,7 +39,7 @@
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "domain": "macrumors.com",
       "publishedAt": "2026-08-31T12:41:22.000Z",
-      "points": 492
+      "points": 495
     },
     {
       "objectID": "49491568",
@@ -47,7 +47,7 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
       "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 477
+      "points": 478
     },
     {
       "objectID": "49493468",
@@ -55,15 +55,7 @@
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "domain": "simpleflying.com",
       "publishedAt": "2026-08-29T21:25:17.000Z",
-      "points": 377
-    },
-    {
-      "objectID": "49451313",
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "domain": "gatesnotes.com",
-      "publishedAt": "2026-08-26T15:55:15.000Z",
-      "points": 364
+      "points": 381
     },
     {
       "objectID": "49498095",
@@ -79,23 +71,7 @@
       "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
       "domain": "chosun.com",
       "publishedAt": "2026-08-30T06:52:04.000Z",
-      "points": 273
-    },
-    {
-      "objectID": "49450898",
-      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "domain": "ssp.sh",
-      "publishedAt": "2026-08-26T15:30:05.000Z",
-      "points": 263
-    },
-    {
-      "objectID": "49447600",
-      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "domain": "theguardian.com",
-      "publishedAt": "2026-08-26T12:11:19.000Z",
-      "points": 247
+      "points": 277
     },
     {
       "objectID": "49486081",
@@ -103,7 +79,7 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "domain": "github.com",
       "publishedAt": "2026-08-29T01:24:13.000Z",
-      "points": 245
+      "points": 246
     },
     {
       "objectID": "49523720",
@@ -111,7 +87,7 @@
       "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
       "domain": "pcgamer.com",
       "publishedAt": "2026-09-01T15:53:42.000Z",
-      "points": 227
+      "points": 233
     },
     {
       "objectID": "49474143",
@@ -120,14 +96,6 @@
       "domain": "neilalexander.dev",
       "publishedAt": "2026-08-28T03:49:33.000Z",
       "points": 213
-    },
-    {
-      "objectID": "49448137",
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-      "domain": "gatesnotes.com",
-      "publishedAt": "2026-08-26T12:47:47.000Z",
-      "points": 197
     },
     {
       "objectID": "49468315",
@@ -143,7 +111,7 @@
       "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
       "domain": "hermit-tech.com",
       "publishedAt": "2026-09-01T05:32:56.000Z",
-      "points": 178
+      "points": 181
     },
     {
       "objectID": "49454764",
@@ -154,12 +122,44 @@
       "points": 176
     },
     {
+      "objectID": "49528895",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "domain": "masteranza.github.io",
+      "publishedAt": "2026-09-01T22:06:57.000Z",
+      "points": 170
+    },
+    {
       "objectID": "49521315",
       "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
       "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
       "domain": "eff.org",
       "publishedAt": "2026-09-01T12:53:51.000Z",
       "points": 163
+    },
+    {
+      "objectID": "49512856",
+      "title": "The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "domain": "muratbuffalo.blogspot.com",
+      "publishedAt": "2026-08-31T18:12:20.000Z",
+      "points": 149
+    },
+    {
+      "objectID": "49464314",
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "url": "https://aiandeducation.mit.edu/report/",
+      "domain": "aiandeducation.mit.edu",
+      "publishedAt": "2026-08-27T13:07:45.000Z",
+      "points": 144
+    },
+    {
+      "objectID": "49536375",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "domain": "trellner.com",
+      "publishedAt": "2026-09-02T13:59:59.000Z",
+      "points": 143
     }
   ]
 }
