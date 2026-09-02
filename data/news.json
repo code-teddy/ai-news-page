@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T21:00:35.184Z",
+  "fetchedAt": "2026-09-02T04:29:49.943Z",
   "stories": [
     {
       "objectID": "49458418",
@@ -18,12 +18,20 @@
       "points": 526
     },
     {
+      "objectID": "49526069",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "domain": "danluu.com",
+      "publishedAt": "2026-09-01T18:35:15.000Z",
+      "points": 525
+    },
+    {
       "objectID": "49489982",
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 514
+      "points": 515
     },
     {
       "objectID": "49508982",
@@ -31,7 +39,7 @@
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "domain": "macrumors.com",
       "publishedAt": "2026-08-31T12:41:22.000Z",
-      "points": 488
+      "points": 492
     },
     {
       "objectID": "49491568",
@@ -50,20 +58,20 @@
       "points": 435
     },
     {
+      "objectID": "49493468",
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "domain": "simpleflying.com",
+      "publishedAt": "2026-08-29T21:25:17.000Z",
+      "points": 375
+    },
+    {
       "objectID": "49451313",
       "title": "The turbulent AI era is here",
       "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "publishedAt": "2026-08-26T15:55:15.000Z",
       "points": 364
-    },
-    {
-      "objectID": "49493468",
-      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "domain": "simpleflying.com",
-      "publishedAt": "2026-08-29T21:25:17.000Z",
-      "points": 351
     },
     {
       "objectID": "49498095",
@@ -79,7 +87,7 @@
       "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
       "domain": "chosun.com",
       "publishedAt": "2026-08-30T06:52:04.000Z",
-      "points": 269
+      "points": 273
     },
     {
       "objectID": "49450898",
@@ -103,7 +111,7 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "domain": "github.com",
       "publishedAt": "2026-08-29T01:24:13.000Z",
-      "points": 244
+      "points": 245
     },
     {
       "objectID": "49474143",
@@ -112,6 +120,14 @@
       "domain": "neilalexander.dev",
       "publishedAt": "2026-08-28T03:49:33.000Z",
       "points": 213
+    },
+    {
+      "objectID": "49523720",
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "domain": "pcgamer.com",
+      "publishedAt": "2026-09-01T15:53:42.000Z",
+      "points": 210
     },
     {
       "objectID": "49448137",
@@ -138,28 +154,12 @@
       "points": 176
     },
     {
-      "objectID": "49523720",
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-      "domain": "pcgamer.com",
-      "publishedAt": "2026-09-01T15:53:42.000Z",
-      "points": 170
-    },
-    {
       "objectID": "49521315",
       "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
       "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
       "domain": "eff.org",
       "publishedAt": "2026-09-01T12:53:51.000Z",
-      "points": 158
-    },
-    {
-      "objectID": "49526069",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "domain": "danluu.com",
-      "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 152
+      "points": 161
     }
   ]
 }
