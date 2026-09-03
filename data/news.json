@@ -1,21 +1,13 @@
 {
-  "fetchedAt": "2026-09-02T21:00:52.361Z",
+  "fetchedAt": "2026-09-03T04:20:18.592Z",
   "stories": [
-    {
-      "objectID": "49458418",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "domain": "github.com",
-      "publishedAt": "2026-08-27T01:46:22.000Z",
-      "points": 1031
-    },
     {
       "objectID": "49526069",
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 835
+      "points": 842
     },
     {
       "objectID": "49475079",
@@ -58,6 +50,14 @@
       "points": 382
     },
     {
+      "objectID": "49536375",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "domain": "trellner.com",
+      "publishedAt": "2026-09-02T13:59:59.000Z",
+      "points": 335
+    },
+    {
       "objectID": "49498095",
       "title": "No AI Fridays",
       "url": "https://noaifridays.com/",
@@ -71,15 +71,7 @@
       "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
       "domain": "chosun.com",
       "publishedAt": "2026-08-30T06:52:04.000Z",
-      "points": 277
-    },
-    {
-      "objectID": "49536375",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "domain": "trellner.com",
-      "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 252
+      "points": 278
     },
     {
       "objectID": "49486081",
@@ -95,7 +87,7 @@
       "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
       "domain": "pcgamer.com",
       "publishedAt": "2026-09-01T15:53:42.000Z",
-      "points": 234
+      "points": 237
     },
     {
       "objectID": "49474143",
@@ -119,7 +111,7 @@
       "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
       "domain": "hermit-tech.com",
       "publishedAt": "2026-09-01T05:32:56.000Z",
-      "points": 183
+      "points": 186
     },
     {
       "objectID": "49528895",
@@ -127,7 +119,15 @@
       "url": "https://masteranza.github.io/weedout/",
       "domain": "masteranza.github.io",
       "publishedAt": "2026-09-01T22:06:57.000Z",
-      "points": 174
+      "points": 176
+    },
+    {
+      "objectID": "49534132",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "domain": "multiversecomputing.com",
+      "publishedAt": "2026-09-02T10:02:41.000Z",
+      "points": 164
     },
     {
       "objectID": "49521315",
@@ -138,12 +138,12 @@
       "points": 163
     },
     {
-      "objectID": "49534132",
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "domain": "multiversecomputing.com",
-      "publishedAt": "2026-09-02T10:02:41.000Z",
-      "points": 153
+      "objectID": "49542443",
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "domain": "nytimes.com",
+      "publishedAt": "2026-09-02T20:57:04.000Z",
+      "points": 151
     },
     {
       "objectID": "49512856",
