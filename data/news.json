@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T16:23:38.012Z",
+  "fetchedAt": "2026-09-03T21:00:10.619Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -7,7 +7,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 858
+      "points": 864
     },
     {
       "objectID": "49475079",
@@ -23,7 +23,15 @@
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 515
+      "points": 516
+    },
+    {
+      "objectID": "49536375",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "domain": "trellner.com",
+      "publishedAt": "2026-09-02T13:59:59.000Z",
+      "points": 503
     },
     {
       "objectID": "49508982",
@@ -32,14 +40,6 @@
       "domain": "macrumors.com",
       "publishedAt": "2026-08-31T12:41:22.000Z",
       "points": 499
-    },
-    {
-      "objectID": "49536375",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "domain": "trellner.com",
-      "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 494
     },
     {
       "objectID": "49491568",
@@ -63,7 +63,7 @@
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
       "publishedAt": "2026-08-30T12:31:05.000Z",
-      "points": 291
+      "points": 292
     },
     {
       "objectID": "49496292",
@@ -71,7 +71,7 @@
       "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
       "domain": "chosun.com",
       "publishedAt": "2026-08-30T06:52:04.000Z",
-      "points": 282
+      "points": 283
     },
     {
       "objectID": "49486081",
@@ -99,11 +99,11 @@
     },
     {
       "objectID": "49542443",
-      "title": "Mamdani Bans AI in NYC Schools",
+      "title": "Mamdani bans AI in NYC schools",
       "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-02T20:57:04.000Z",
-      "points": 199
+      "points": 205
     },
     {
       "objectID": "49518316",
@@ -114,20 +114,12 @@
       "points": 191
     },
     {
-      "objectID": "49468315",
-      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
-      "domain": "bbc.com",
-      "publishedAt": "2026-08-27T17:33:13.000Z",
-      "points": 190
-    },
-    {
       "objectID": "49534132",
       "title": "Quasar 438B: Europe's Leading AI Model",
       "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
       "domain": "multiversecomputing.com",
       "publishedAt": "2026-09-02T10:02:41.000Z",
-      "points": 187
+      "points": 188
     },
     {
       "objectID": "49528895",
@@ -143,7 +135,7 @@
       "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "domain": "admiralcloudberg.medium.com",
       "publishedAt": "2026-09-02T18:42:41.000Z",
-      "points": 168
+      "points": 172
     },
     {
       "objectID": "49521315",
@@ -159,7 +151,15 @@
       "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
       "domain": "muratbuffalo.blogspot.com",
       "publishedAt": "2026-08-31T18:12:20.000Z",
-      "points": 149
+      "points": 150
+    },
+    {
+      "objectID": "49508225",
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "domain": "wired.com",
+      "publishedAt": "2026-08-31T11:01:19.000Z",
+      "points": 136
     }
   ]
 }
