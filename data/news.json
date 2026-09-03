@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T04:20:18.592Z",
+  "fetchedAt": "2026-09-03T11:10:31.560Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -7,7 +7,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 842
+      "points": 849
     },
     {
       "objectID": "49475079",
@@ -31,7 +31,7 @@
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "domain": "macrumors.com",
       "publishedAt": "2026-08-31T12:41:22.000Z",
-      "points": 495
+      "points": 498
     },
     {
       "objectID": "49491568",
@@ -42,20 +42,20 @@
       "points": 478
     },
     {
+      "objectID": "49536375",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "domain": "trellner.com",
+      "publishedAt": "2026-09-02T13:59:59.000Z",
+      "points": 436
+    },
+    {
       "objectID": "49493468",
       "title": "American Airlines mechanic Azriel “Al” Blackman has died",
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "domain": "simpleflying.com",
       "publishedAt": "2026-08-29T21:25:17.000Z",
       "points": 382
-    },
-    {
-      "objectID": "49536375",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "domain": "trellner.com",
-      "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 335
     },
     {
       "objectID": "49498095",
@@ -71,7 +71,7 @@
       "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
       "domain": "chosun.com",
       "publishedAt": "2026-08-30T06:52:04.000Z",
-      "points": 278
+      "points": 280
     },
     {
       "objectID": "49486081",
@@ -87,7 +87,7 @@
       "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
       "domain": "pcgamer.com",
       "publishedAt": "2026-09-01T15:53:42.000Z",
-      "points": 237
+      "points": 239
     },
     {
       "objectID": "49474143",
@@ -98,6 +98,14 @@
       "points": 213
     },
     {
+      "objectID": "49518316",
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "domain": "hermit-tech.com",
+      "publishedAt": "2026-09-01T05:32:56.000Z",
+      "points": 190
+    },
+    {
       "objectID": "49468315",
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
       "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
@@ -106,12 +114,20 @@
       "points": 190
     },
     {
-      "objectID": "49518316",
-      "title": "AI Can Make You Suck Faster Too",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "domain": "hermit-tech.com",
-      "publishedAt": "2026-09-01T05:32:56.000Z",
-      "points": 186
+      "objectID": "49534132",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "domain": "multiversecomputing.com",
+      "publishedAt": "2026-09-02T10:02:41.000Z",
+      "points": 183
+    },
+    {
+      "objectID": "49542443",
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "domain": "nytimes.com",
+      "publishedAt": "2026-09-02T20:57:04.000Z",
+      "points": 179
     },
     {
       "objectID": "49528895",
@@ -119,15 +135,7 @@
       "url": "https://masteranza.github.io/weedout/",
       "domain": "masteranza.github.io",
       "publishedAt": "2026-09-01T22:06:57.000Z",
-      "points": 176
-    },
-    {
-      "objectID": "49534132",
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "domain": "multiversecomputing.com",
-      "publishedAt": "2026-09-02T10:02:41.000Z",
-      "points": 164
+      "points": 178
     },
     {
       "objectID": "49521315",
@@ -138,14 +146,6 @@
       "points": 163
     },
     {
-      "objectID": "49542443",
-      "title": "Mamdani Bans AI in NYC Schools",
-      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-      "domain": "nytimes.com",
-      "publishedAt": "2026-09-02T20:57:04.000Z",
-      "points": 151
-    },
-    {
       "objectID": "49512856",
       "title": "The safest job from AI may be writing",
       "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
@@ -154,12 +154,12 @@
       "points": 149
     },
     {
-      "objectID": "49464314",
-      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "url": "https://aiandeducation.mit.edu/report/",
-      "domain": "aiandeducation.mit.edu",
-      "publishedAt": "2026-08-27T13:07:45.000Z",
-      "points": 144
+      "objectID": "49540565",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "domain": "admiralcloudberg.medium.com",
+      "publishedAt": "2026-09-02T18:42:41.000Z",
+      "points": 147
     }
   ]
 }
