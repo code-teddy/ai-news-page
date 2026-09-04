@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T11:14:46.749Z",
+  "fetchedAt": "2026-09-04T16:19:29.346Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -7,7 +7,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 865
+      "points": 867
     },
     {
       "objectID": "49489982",
@@ -15,7 +15,7 @@
       "url": "https://lwn.net/Articles/1091231/",
       "domain": "lwn.net",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 516
+      "points": 517
     },
     {
       "objectID": "49536375",
@@ -23,7 +23,7 @@
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "domain": "trellner.com",
       "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 508
+      "points": 512
     },
     {
       "objectID": "49508982",
@@ -39,23 +39,7 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
       "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 479
-    },
-    {
-      "objectID": "49493468",
-      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "domain": "simpleflying.com",
-      "publishedAt": "2026-08-29T21:25:17.000Z",
-      "points": 383
-    },
-    {
-      "objectID": "49526453",
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "domain": "youtube.com",
-      "publishedAt": "2026-09-01T19:02:34.000Z",
-      "points": 349
+      "points": 480
     },
     {
       "objectID": "49544762",
@@ -63,7 +47,23 @@
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "domain": "kedglobal.com",
       "publishedAt": "2026-09-03T01:11:22.000Z",
-      "points": 330
+      "points": 423
+    },
+    {
+      "objectID": "49526453",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "domain": "youtube.com",
+      "publishedAt": "2026-09-01T19:02:34.000Z",
+      "points": 419
+    },
+    {
+      "objectID": "49493468",
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "domain": "simpleflying.com",
+      "publishedAt": "2026-08-29T21:25:17.000Z",
+      "points": 384
     },
     {
       "objectID": "49498095",
@@ -71,7 +71,7 @@
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
       "publishedAt": "2026-08-30T12:31:05.000Z",
-      "points": 292
+      "points": 293
     },
     {
       "objectID": "49496292",
@@ -80,6 +80,14 @@
       "domain": "chosun.com",
       "publishedAt": "2026-08-30T06:52:04.000Z",
       "points": 283
+    },
+    {
+      "objectID": "49563386",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "domain": "productrise.app",
+      "publishedAt": "2026-09-04T11:59:15.000Z",
+      "points": 255
     },
     {
       "objectID": "49486081",
@@ -103,7 +111,7 @@
       "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-02T20:57:04.000Z",
-      "points": 212
+      "points": 213
     },
     {
       "objectID": "49534132",
@@ -111,7 +119,7 @@
       "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
       "domain": "multiversecomputing.com",
       "publishedAt": "2026-09-02T10:02:41.000Z",
-      "points": 194
+      "points": 195
     },
     {
       "objectID": "49518316",
@@ -127,7 +135,7 @@
       "url": "https://masteranza.github.io/weedout/",
       "domain": "masteranza.github.io",
       "publishedAt": "2026-09-01T22:06:57.000Z",
-      "points": 181
+      "points": 182
     },
     {
       "objectID": "49540565",
@@ -151,15 +159,7 @@
       "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
       "domain": "muratbuffalo.blogspot.com",
       "publishedAt": "2026-08-31T18:12:20.000Z",
-      "points": 151
-    },
-    {
-      "objectID": "49508225",
-      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-      "domain": "wired.com",
-      "publishedAt": "2026-08-31T11:01:19.000Z",
-      "points": 138
+      "points": 153
     }
   ]
 }
