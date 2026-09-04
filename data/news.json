@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T04:28:43.772Z",
+  "fetchedAt": "2026-09-04T11:14:46.749Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -7,15 +7,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 864
-    },
-    {
-      "objectID": "49475079",
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "domain": "blog.luanti.org",
-      "publishedAt": "2026-08-28T06:33:57.000Z",
-      "points": 529
+      "points": 865
     },
     {
       "objectID": "49489982",
@@ -31,7 +23,7 @@
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "domain": "trellner.com",
       "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 503
+      "points": 508
     },
     {
       "objectID": "49508982",
@@ -58,6 +50,22 @@
       "points": 383
     },
     {
+      "objectID": "49526453",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "domain": "youtube.com",
+      "publishedAt": "2026-09-01T19:02:34.000Z",
+      "points": 349
+    },
+    {
+      "objectID": "49544762",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "domain": "kedglobal.com",
+      "publishedAt": "2026-09-03T01:11:22.000Z",
+      "points": 330
+    },
+    {
       "objectID": "49498095",
       "title": "No AI Fridays",
       "url": "https://noaifridays.com/",
@@ -79,7 +87,7 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "domain": "github.com",
       "publishedAt": "2026-08-29T01:24:13.000Z",
-      "points": 246
+      "points": 247
     },
     {
       "objectID": "49523720",
@@ -90,22 +98,6 @@
       "points": 239
     },
     {
-      "objectID": "49526453",
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "domain": "youtube.com",
-      "publishedAt": "2026-09-01T19:02:34.000Z",
-      "points": 238
-    },
-    {
-      "objectID": "49544762",
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "domain": "kedglobal.com",
-      "publishedAt": "2026-09-03T01:11:22.000Z",
-      "points": 229
-    },
-    {
       "objectID": "49542443",
       "title": "Mamdani bans AI in NYC schools",
       "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
@@ -114,20 +106,20 @@
       "points": 212
     },
     {
-      "objectID": "49518316",
-      "title": "AI Can Make You Suck Faster Too",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "domain": "hermit-tech.com",
-      "publishedAt": "2026-09-01T05:32:56.000Z",
-      "points": 191
-    },
-    {
       "objectID": "49534132",
       "title": "Quasar 438B: Europe's Leading AI Model",
       "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
       "domain": "multiversecomputing.com",
       "publishedAt": "2026-09-02T10:02:41.000Z",
-      "points": 190
+      "points": 194
+    },
+    {
+      "objectID": "49518316",
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "domain": "hermit-tech.com",
+      "publishedAt": "2026-09-01T05:32:56.000Z",
+      "points": 192
     },
     {
       "objectID": "49528895",
@@ -135,7 +127,7 @@
       "url": "https://masteranza.github.io/weedout/",
       "domain": "masteranza.github.io",
       "publishedAt": "2026-09-01T22:06:57.000Z",
-      "points": 180
+      "points": 181
     },
     {
       "objectID": "49540565",
@@ -143,7 +135,7 @@
       "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "domain": "admiralcloudberg.medium.com",
       "publishedAt": "2026-09-02T18:42:41.000Z",
-      "points": 173
+      "points": 177
     },
     {
       "objectID": "49521315",
@@ -160,6 +152,14 @@
       "domain": "muratbuffalo.blogspot.com",
       "publishedAt": "2026-08-31T18:12:20.000Z",
       "points": 151
+    },
+    {
+      "objectID": "49508225",
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "domain": "wired.com",
+      "publishedAt": "2026-08-31T11:01:19.000Z",
+      "points": 138
     }
   ]
 }
