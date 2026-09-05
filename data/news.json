@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T10:31:49.839Z",
+  "fetchedAt": "2026-09-05T15:10:58.419Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -7,15 +7,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 871
-    },
-    {
-      "objectID": "49489982",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "domain": "lwn.net",
-      "publishedAt": "2026-08-29T14:02:10.000Z",
-      "points": 517
+      "points": 872
     },
     {
       "objectID": "49536375",
@@ -55,7 +47,15 @@
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "domain": "kedglobal.com",
       "publishedAt": "2026-09-03T01:11:22.000Z",
-      "points": 459
+      "points": 460
+    },
+    {
+      "objectID": "49563386",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "domain": "productrise.app",
+      "publishedAt": "2026-09-04T11:59:15.000Z",
+      "points": 392
     },
     {
       "objectID": "49493468",
@@ -66,20 +66,20 @@
       "points": 384
     },
     {
-      "objectID": "49563386",
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "domain": "productrise.app",
-      "publishedAt": "2026-09-04T11:59:15.000Z",
-      "points": 383
-    },
-    {
       "objectID": "49566137",
       "title": "Corporate America is getting hooked on open-source AI",
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 297
+      "points": 308
+    },
+    {
+      "objectID": "49569366",
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "domain": "eebench.org",
+      "publishedAt": "2026-09-04T19:48:29.000Z",
+      "points": 303
     },
     {
       "objectID": "49498095",
@@ -98,12 +98,12 @@
       "points": 283
     },
     {
-      "objectID": "49569366",
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "domain": "eebench.org",
-      "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 263
+      "objectID": "49574167",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "domain": "sylvainkalache.com",
+      "publishedAt": "2026-09-05T07:52:50.000Z",
+      "points": 259
     },
     {
       "objectID": "49523720",
