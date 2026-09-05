@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T15:10:58.419Z",
+  "fetchedAt": "2026-09-05T20:18:16.698Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -26,20 +26,12 @@
       "points": 501
     },
     {
-      "objectID": "49491568",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "domain": "newsletter.eng-leadership.com",
-      "publishedAt": "2026-08-29T17:19:47.000Z",
-      "points": 480
-    },
-    {
       "objectID": "49526453",
       "title": "The largest electric aircraft just flew [video]",
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "domain": "youtube.com",
       "publishedAt": "2026-09-01T19:02:34.000Z",
-      "points": 467
+      "points": 468
     },
     {
       "objectID": "49544762",
@@ -47,7 +39,7 @@
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "domain": "kedglobal.com",
       "publishedAt": "2026-09-03T01:11:22.000Z",
-      "points": 460
+      "points": 463
     },
     {
       "objectID": "49563386",
@@ -55,7 +47,7 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
       "publishedAt": "2026-09-04T11:59:15.000Z",
-      "points": 392
+      "points": 393
     },
     {
       "objectID": "49493468",
@@ -66,20 +58,28 @@
       "points": 384
     },
     {
-      "objectID": "49566137",
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "domain": "nytimes.com",
-      "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 308
-    },
-    {
       "objectID": "49569366",
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "domain": "eebench.org",
       "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 303
+      "points": 340
+    },
+    {
+      "objectID": "49574167",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "domain": "sylvainkalache.com",
+      "publishedAt": "2026-09-05T07:52:50.000Z",
+      "points": 330
+    },
+    {
+      "objectID": "49566137",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "domain": "nytimes.com",
+      "publishedAt": "2026-09-04T15:33:45.000Z",
+      "points": 315
     },
     {
       "objectID": "49498095",
@@ -98,20 +98,12 @@
       "points": 283
     },
     {
-      "objectID": "49574167",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "domain": "sylvainkalache.com",
-      "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 259
-    },
-    {
       "objectID": "49523720",
       "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
       "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
       "domain": "pcgamer.com",
       "publishedAt": "2026-09-01T15:53:42.000Z",
-      "points": 239
+      "points": 240
     },
     {
       "objectID": "49542443",
@@ -135,7 +127,7 @@
       "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
       "domain": "hermit-tech.com",
       "publishedAt": "2026-09-01T05:32:56.000Z",
-      "points": 193
+      "points": 194
     },
     {
       "objectID": "49528895",
@@ -160,6 +152,14 @@
       "domain": "eff.org",
       "publishedAt": "2026-09-01T12:53:51.000Z",
       "points": 163
+    },
+    {
+      "objectID": "49512856",
+      "title": "The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "domain": "muratbuffalo.blogspot.com",
+      "publishedAt": "2026-08-31T18:12:20.000Z",
+      "points": 153
     }
   ]
 }
