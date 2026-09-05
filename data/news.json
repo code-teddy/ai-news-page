@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T04:23:26.491Z",
+  "fetchedAt": "2026-09-05T10:31:49.839Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -47,7 +47,7 @@
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "domain": "youtube.com",
       "publishedAt": "2026-09-01T19:02:34.000Z",
-      "points": 464
+      "points": 467
     },
     {
       "objectID": "49544762",
@@ -71,7 +71,15 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
       "publishedAt": "2026-09-04T11:59:15.000Z",
-      "points": 371
+      "points": 383
+    },
+    {
+      "objectID": "49566137",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "domain": "nytimes.com",
+      "publishedAt": "2026-09-04T15:33:45.000Z",
+      "points": 297
     },
     {
       "objectID": "49498095",
@@ -90,12 +98,12 @@
       "points": 283
     },
     {
-      "objectID": "49566137",
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "domain": "nytimes.com",
-      "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 278
+      "objectID": "49569366",
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "domain": "eebench.org",
+      "publishedAt": "2026-09-04T19:48:29.000Z",
+      "points": 263
     },
     {
       "objectID": "49523720",
@@ -111,7 +119,7 @@
       "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-02T20:57:04.000Z",
-      "points": 218
+      "points": 219
     },
     {
       "objectID": "49534132",
@@ -128,14 +136,6 @@
       "domain": "hermit-tech.com",
       "publishedAt": "2026-09-01T05:32:56.000Z",
       "points": 193
-    },
-    {
-      "objectID": "49569366",
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "domain": "eebench.org",
-      "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 192
     },
     {
       "objectID": "49528895",
