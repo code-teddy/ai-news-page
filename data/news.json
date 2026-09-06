@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T15:26:19.164Z",
+  "fetchedAt": "2026-09-06T20:22:29.470Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -15,7 +15,7 @@
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "domain": "trellner.com",
       "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 516
+      "points": 517
     },
     {
       "objectID": "49508982",
@@ -47,7 +47,15 @@
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "domain": "eebench.org",
       "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 413
+      "points": 414
+    },
+    {
+      "objectID": "49574167",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "domain": "sylvainkalache.com",
+      "publishedAt": "2026-09-05T07:52:50.000Z",
+      "points": 398
     },
     {
       "objectID": "49563386",
@@ -56,14 +64,6 @@
       "domain": "productrise.app",
       "publishedAt": "2026-09-04T11:59:15.000Z",
       "points": 396
-    },
-    {
-      "objectID": "49574167",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "domain": "sylvainkalache.com",
-      "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 393
     },
     {
       "objectID": "49566137",
@@ -111,7 +111,7 @@
       "url": "https://masteranza.github.io/weedout/",
       "domain": "masteranza.github.io",
       "publishedAt": "2026-09-01T22:06:57.000Z",
-      "points": 183
+      "points": 185
     },
     {
       "objectID": "49540565",
@@ -138,6 +138,14 @@
       "points": 153
     },
     {
+      "objectID": "49587128",
+      "title": "How I feel about AI",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "domain": "beza1e1.tuxen.de",
+      "publishedAt": "2026-09-06T15:00:19.000Z",
+      "points": 143
+    },
+    {
       "objectID": "49508225",
       "title": "You Know Who Hates AI? Insurance Claims Adjusters",
       "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
@@ -151,15 +159,7 @@
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "domain": "ben-evans.com",
       "publishedAt": "2026-09-06T02:12:46.000Z",
-      "points": 111
-    },
-    {
-      "objectID": "49522374",
-      "title": "Saab has unveiled its A3 collaborative combat aircraft concept",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
-      "domain": "aviationweek.com",
-      "publishedAt": "2026-09-01T14:19:30.000Z",
-      "points": 104
+      "points": 136
     }
   ]
 }
