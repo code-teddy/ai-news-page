@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T20:18:16.698Z",
+  "fetchedAt": "2026-09-06T04:35:01.355Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -15,7 +15,7 @@
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "domain": "trellner.com",
       "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 513
+      "points": 514
     },
     {
       "objectID": "49508982",
@@ -39,7 +39,15 @@
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "domain": "kedglobal.com",
       "publishedAt": "2026-09-03T01:11:22.000Z",
-      "points": 463
+      "points": 465
+    },
+    {
+      "objectID": "49569366",
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "domain": "eebench.org",
+      "publishedAt": "2026-09-04T19:48:29.000Z",
+      "points": 393
     },
     {
       "objectID": "49563386",
@@ -50,28 +58,12 @@
       "points": 393
     },
     {
-      "objectID": "49493468",
-      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "domain": "simpleflying.com",
-      "publishedAt": "2026-08-29T21:25:17.000Z",
-      "points": 384
-    },
-    {
-      "objectID": "49569366",
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "domain": "eebench.org",
-      "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 340
-    },
-    {
       "objectID": "49574167",
       "title": "AI handles incidents, engineers lose touch with their systems",
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
       "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 330
+      "points": 368
     },
     {
       "objectID": "49566137",
@@ -79,7 +71,7 @@
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 315
+      "points": 320
     },
     {
       "objectID": "49498095",
@@ -103,7 +95,7 @@
       "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
       "domain": "pcgamer.com",
       "publishedAt": "2026-09-01T15:53:42.000Z",
-      "points": 240
+      "points": 241
     },
     {
       "objectID": "49542443",
@@ -160,6 +152,14 @@
       "domain": "muratbuffalo.blogspot.com",
       "publishedAt": "2026-08-31T18:12:20.000Z",
       "points": 153
+    },
+    {
+      "objectID": "49508225",
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "domain": "wired.com",
+      "publishedAt": "2026-08-31T11:01:19.000Z",
+      "points": 138
     }
   ]
 }
