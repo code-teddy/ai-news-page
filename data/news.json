@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T04:35:01.355Z",
+  "fetchedAt": "2026-09-06T10:53:17.972Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -7,7 +7,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 872
+      "points": 873
     },
     {
       "objectID": "49536375",
@@ -15,7 +15,7 @@
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "domain": "trellner.com",
       "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 514
+      "points": 516
     },
     {
       "objectID": "49508982",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "domain": "youtube.com",
       "publishedAt": "2026-09-01T19:02:34.000Z",
-      "points": 468
+      "points": 470
     },
     {
       "objectID": "49544762",
@@ -39,7 +39,7 @@
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "domain": "kedglobal.com",
       "publishedAt": "2026-09-03T01:11:22.000Z",
-      "points": 465
+      "points": 466
     },
     {
       "objectID": "49569366",
@@ -47,7 +47,7 @@
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "domain": "eebench.org",
       "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 393
+      "points": 408
     },
     {
       "objectID": "49563386",
@@ -55,7 +55,7 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
       "publishedAt": "2026-09-04T11:59:15.000Z",
-      "points": 393
+      "points": 394
     },
     {
       "objectID": "49574167",
@@ -63,7 +63,7 @@
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
       "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 368
+      "points": 383
     },
     {
       "objectID": "49566137",
@@ -71,7 +71,7 @@
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 320
+      "points": 325
     },
     {
       "objectID": "49498095",
@@ -80,14 +80,6 @@
       "domain": "noaifridays.com",
       "publishedAt": "2026-08-30T12:31:05.000Z",
       "points": 293
-    },
-    {
-      "objectID": "49496292",
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "domain": "chosun.com",
-      "publishedAt": "2026-08-30T06:52:04.000Z",
-      "points": 283
     },
     {
       "objectID": "49523720",
@@ -103,7 +95,7 @@
       "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-02T20:57:04.000Z",
-      "points": 219
+      "points": 220
     },
     {
       "objectID": "49534132",
@@ -160,6 +152,14 @@
       "domain": "wired.com",
       "publishedAt": "2026-08-31T11:01:19.000Z",
       "points": 138
+    },
+    {
+      "objectID": "49522374",
+      "title": "Saab has unveiled its A3 collaborative combat aircraft concept",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+      "domain": "aviationweek.com",
+      "publishedAt": "2026-09-01T14:19:30.000Z",
+      "points": 104
     }
   ]
 }
