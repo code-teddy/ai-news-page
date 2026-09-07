@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T12:27:22.388Z",
+  "fetchedAt": "2026-09-07T21:29:24.103Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -7,7 +7,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 875
+      "points": 876
     },
     {
       "objectID": "49536375",
@@ -16,14 +16,6 @@
       "domain": "trellner.com",
       "publishedAt": "2026-09-02T13:59:59.000Z",
       "points": 517
-    },
-    {
-      "objectID": "49508982",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "domain": "macrumors.com",
-      "publishedAt": "2026-08-31T12:41:22.000Z",
-      "points": 501
     },
     {
       "objectID": "49526453",
@@ -55,7 +47,7 @@
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
       "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 411
+      "points": 412
     },
     {
       "objectID": "49563386",
@@ -63,7 +55,7 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
       "publishedAt": "2026-09-04T11:59:15.000Z",
-      "points": 396
+      "points": 398
     },
     {
       "objectID": "49566137",
@@ -71,7 +63,7 @@
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 330
+      "points": 331
     },
     {
       "objectID": "49523720",
@@ -119,7 +111,7 @@
       "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "domain": "admiralcloudberg.medium.com",
       "publishedAt": "2026-09-02T18:42:41.000Z",
-      "points": 178
+      "points": 179
     },
     {
       "objectID": "49521315",
@@ -135,15 +127,7 @@
       "url": "https://beza1e1.tuxen.de/ai_feelings.html",
       "domain": "beza1e1.tuxen.de",
       "publishedAt": "2026-09-06T15:00:19.000Z",
-      "points": 158
-    },
-    {
-      "objectID": "49512856",
-      "title": "The safest job from AI may be writing",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "domain": "muratbuffalo.blogspot.com",
-      "publishedAt": "2026-08-31T18:12:20.000Z",
-      "points": 153
+      "points": 162
     },
     {
       "objectID": "49582656",
@@ -151,7 +135,7 @@
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "domain": "ben-evans.com",
       "publishedAt": "2026-09-06T02:12:46.000Z",
-      "points": 152
+      "points": 153
     },
     {
       "objectID": "49522374",
@@ -160,6 +144,22 @@
       "domain": "aviationweek.com",
       "publishedAt": "2026-09-01T14:19:30.000Z",
       "points": 104
+    },
+    {
+      "objectID": "49601338",
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "domain": "bottlenecklabs.com",
+      "publishedAt": "2026-09-07T18:24:32.000Z",
+      "points": 95
+    },
+    {
+      "objectID": "49562744",
+      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "domain": "reuters.com",
+      "publishedAt": "2026-09-04T10:30:57.000Z",
+      "points": 95
     }
   ]
 }
