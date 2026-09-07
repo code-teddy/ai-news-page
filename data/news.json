@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T04:36:13.229Z",
+  "fetchedAt": "2026-09-07T12:27:22.388Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -7,7 +7,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 874
+      "points": 875
     },
     {
       "objectID": "49536375",
@@ -47,7 +47,7 @@
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "domain": "eebench.org",
       "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 418
+      "points": 419
     },
     {
       "objectID": "49574167",
@@ -55,7 +55,7 @@
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
       "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 408
+      "points": 411
     },
     {
       "objectID": "49563386",
@@ -130,6 +130,14 @@
       "points": 163
     },
     {
+      "objectID": "49587128",
+      "title": "How I feel about AI",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "domain": "beza1e1.tuxen.de",
+      "publishedAt": "2026-09-06T15:00:19.000Z",
+      "points": 158
+    },
+    {
       "objectID": "49512856",
       "title": "The safest job from AI may be writing",
       "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
@@ -138,28 +146,20 @@
       "points": 153
     },
     {
-      "objectID": "49587128",
-      "title": "How I feel about AI",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "domain": "beza1e1.tuxen.de",
-      "publishedAt": "2026-09-06T15:00:19.000Z",
-      "points": 151
-    },
-    {
       "objectID": "49582656",
       "title": "AI, Tools and Transformation",
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "domain": "ben-evans.com",
       "publishedAt": "2026-09-06T02:12:46.000Z",
-      "points": 150
+      "points": 152
     },
     {
-      "objectID": "49508225",
-      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-      "domain": "wired.com",
-      "publishedAt": "2026-08-31T11:01:19.000Z",
-      "points": 138
+      "objectID": "49522374",
+      "title": "Saab has unveiled its A3 collaborative combat aircraft concept",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+      "domain": "aviationweek.com",
+      "publishedAt": "2026-09-01T14:19:30.000Z",
+      "points": 104
     }
   ]
 }
