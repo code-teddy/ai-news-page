@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T20:22:29.470Z",
+  "fetchedAt": "2026-09-07T04:36:13.229Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -7,7 +7,7 @@
       "url": "https://danluu.com/zitron/",
       "domain": "danluu.com",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 873
+      "points": 874
     },
     {
       "objectID": "49536375",
@@ -47,7 +47,7 @@
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "domain": "eebench.org",
       "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 414
+      "points": 418
     },
     {
       "objectID": "49574167",
@@ -55,7 +55,7 @@
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
       "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 398
+      "points": 408
     },
     {
       "objectID": "49563386",
@@ -71,7 +71,7 @@
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 329
+      "points": 330
     },
     {
       "objectID": "49523720",
@@ -143,7 +143,15 @@
       "url": "https://beza1e1.tuxen.de/ai_feelings.html",
       "domain": "beza1e1.tuxen.de",
       "publishedAt": "2026-09-06T15:00:19.000Z",
-      "points": 143
+      "points": 151
+    },
+    {
+      "objectID": "49582656",
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "domain": "ben-evans.com",
+      "publishedAt": "2026-09-06T02:12:46.000Z",
+      "points": 150
     },
     {
       "objectID": "49508225",
@@ -152,14 +160,6 @@
       "domain": "wired.com",
       "publishedAt": "2026-08-31T11:01:19.000Z",
       "points": 138
-    },
-    {
-      "objectID": "49582656",
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "domain": "ben-evans.com",
-      "publishedAt": "2026-09-06T02:12:46.000Z",
-      "points": 136
     }
   ]
 }
