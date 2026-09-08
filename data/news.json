@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T11:14:56.136Z",
+  "fetchedAt": "2026-09-08T16:35:58.156Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -16,6 +16,14 @@
       "domain": "trellner.com",
       "publishedAt": "2026-09-02T13:59:59.000Z",
       "points": 517
+    },
+    {
+      "objectID": "49610538",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "domain": "manualdousuario.net",
+      "publishedAt": "2026-09-08T14:05:57.000Z",
+      "points": 514
     },
     {
       "objectID": "49526453",
@@ -55,7 +63,7 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
       "publishedAt": "2026-09-04T11:59:15.000Z",
-      "points": 400
+      "points": 402
     },
     {
       "objectID": "49566137",
@@ -63,15 +71,15 @@
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 331
+      "points": 332
     },
     {
-      "objectID": "49523720",
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-      "domain": "pcgamer.com",
-      "publishedAt": "2026-09-01T15:53:42.000Z",
-      "points": 241
+      "objectID": "49610229",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "domain": "mcsweeneys.net",
+      "publishedAt": "2026-09-08T13:41:25.000Z",
+      "points": 308
     },
     {
       "objectID": "49542443",
@@ -106,20 +114,12 @@
       "points": 179
     },
     {
-      "objectID": "49521315",
-      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-      "domain": "eff.org",
-      "publishedAt": "2026-09-01T12:53:51.000Z",
-      "points": 163
-    },
-    {
       "objectID": "49587128",
       "title": "How I feel about AI",
       "url": "https://beza1e1.tuxen.de/ai_feelings.html",
       "domain": "beza1e1.tuxen.de",
       "publishedAt": "2026-09-06T15:00:19.000Z",
-      "points": 162
+      "points": 163
     },
     {
       "objectID": "49582656",
@@ -127,15 +127,7 @@
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "domain": "ben-evans.com",
       "publishedAt": "2026-09-06T02:12:46.000Z",
-      "points": 155
-    },
-    {
-      "objectID": "49522374",
-      "title": "Saab has unveiled its A3 collaborative combat aircraft concept",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
-      "domain": "aviationweek.com",
-      "publishedAt": "2026-09-01T14:19:30.000Z",
-      "points": 104
+      "points": 157
     },
     {
       "objectID": "49601338",
@@ -151,7 +143,7 @@
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
       "domain": "restofworld.org",
       "publishedAt": "2026-09-07T04:38:22.000Z",
-      "points": 95
+      "points": 96
     },
     {
       "objectID": "49562744",
@@ -160,6 +152,14 @@
       "domain": "reuters.com",
       "publishedAt": "2026-09-04T10:30:57.000Z",
       "points": 95
+    },
+    {
+      "objectID": "49596610",
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "domain": "economist.com",
+      "publishedAt": "2026-09-07T10:38:32.000Z",
+      "points": 93
     }
   ]
 }
