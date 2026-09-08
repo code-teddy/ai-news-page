@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T04:31:29.927Z",
+  "fetchedAt": "2026-09-08T11:14:56.136Z",
   "stories": [
     {
       "objectID": "49526069",
@@ -39,7 +39,7 @@
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "domain": "eebench.org",
       "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 420
+      "points": 421
     },
     {
       "objectID": "49574167",
@@ -47,7 +47,7 @@
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
       "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 412
+      "points": 415
     },
     {
       "objectID": "49563386",
@@ -55,7 +55,7 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
       "publishedAt": "2026-09-04T11:59:15.000Z",
-      "points": 398
+      "points": 400
     },
     {
       "objectID": "49566137",
@@ -88,14 +88,6 @@
       "domain": "multiversecomputing.com",
       "publishedAt": "2026-09-02T10:02:41.000Z",
       "points": 196
-    },
-    {
-      "objectID": "49518316",
-      "title": "AI Can Make You Suck Faster Too",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "domain": "hermit-tech.com",
-      "publishedAt": "2026-09-01T05:32:56.000Z",
-      "points": 194
     },
     {
       "objectID": "49528895",
@@ -151,7 +143,15 @@
       "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
       "domain": "bottlenecklabs.com",
       "publishedAt": "2026-09-07T18:24:32.000Z",
-      "points": 98
+      "points": 100
+    },
+    {
+      "objectID": "49593959",
+      "title": "I refused to train the AI that could replace me",
+      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "domain": "restofworld.org",
+      "publishedAt": "2026-09-07T04:38:22.000Z",
+      "points": 95
     },
     {
       "objectID": "49562744",
