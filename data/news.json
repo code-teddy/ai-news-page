@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-09-08T16:35:58.156Z",
+  "fetchedAt": "2026-09-08T21:07:21.529Z",
   "stories": [
     {
-      "objectID": "49526069",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "domain": "danluu.com",
-      "publishedAt": "2026-09-01T18:35:15.000Z",
-      "points": 876
+      "objectID": "49610538",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "domain": "manualdousuario.net",
+      "publishedAt": "2026-09-08T14:05:57.000Z",
+      "points": 630
     },
     {
       "objectID": "49536375",
@@ -16,22 +16,6 @@
       "domain": "trellner.com",
       "publishedAt": "2026-09-02T13:59:59.000Z",
       "points": 517
-    },
-    {
-      "objectID": "49610538",
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "domain": "manualdousuario.net",
-      "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 514
-    },
-    {
-      "objectID": "49526453",
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "domain": "youtube.com",
-      "publishedAt": "2026-09-01T19:02:34.000Z",
-      "points": 471
     },
     {
       "objectID": "49544762",
@@ -63,7 +47,15 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
       "publishedAt": "2026-09-04T11:59:15.000Z",
-      "points": 402
+      "points": 403
+    },
+    {
+      "objectID": "49610229",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "domain": "mcsweeneys.net",
+      "publishedAt": "2026-09-08T13:41:25.000Z",
+      "points": 351
     },
     {
       "objectID": "49566137",
@@ -72,14 +64,6 @@
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
       "points": 332
-    },
-    {
-      "objectID": "49610229",
-      "title": "We Must Return to the Office to Use AI in Person",
-      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "domain": "mcsweeneys.net",
-      "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 308
     },
     {
       "objectID": "49542443",
@@ -128,6 +112,22 @@
       "domain": "ben-evans.com",
       "publishedAt": "2026-09-06T02:12:46.000Z",
       "points": 157
+    },
+    {
+      "objectID": "49615537",
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "url": "https://ai.meta.com/muse/",
+      "domain": "ai.meta.com",
+      "publishedAt": "2026-09-08T19:25:00.000Z",
+      "points": 151
+    },
+    {
+      "objectID": "49614557",
+      "title": "Flights cancelled at UK airports due to ATC issue",
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "domain": "bbc.com",
+      "publishedAt": "2026-09-08T18:26:27.000Z",
+      "points": 108
     },
     {
       "objectID": "49601338",
