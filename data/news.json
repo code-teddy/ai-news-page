@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T11:19:07.691Z",
+  "fetchedAt": "2026-09-09T16:36:14.761Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -7,7 +7,7 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 682
+      "points": 696
     },
     {
       "objectID": "49615537",
@@ -15,15 +15,7 @@
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
       "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 533
-    },
-    {
-      "objectID": "49536375",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "domain": "trellner.com",
-      "publishedAt": "2026-09-02T13:59:59.000Z",
-      "points": 517
+      "points": 598
     },
     {
       "objectID": "49544762",
@@ -34,12 +26,20 @@
       "points": 467
     },
     {
+      "objectID": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "domain": "mathstodon.xyz",
+      "publishedAt": "2026-09-08T21:00:52.000Z",
+      "points": 444
+    },
+    {
       "objectID": "49569366",
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "domain": "eebench.org",
       "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 421
+      "points": 422
     },
     {
       "objectID": "49574167",
@@ -63,15 +63,7 @@
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
       "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 379
-    },
-    {
-      "objectID": "49616968",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "domain": "mathstodon.xyz",
-      "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 378
+      "points": 387
     },
     {
       "objectID": "49566137",
@@ -88,6 +80,14 @@
       "domain": "nytimes.com",
       "publishedAt": "2026-09-02T20:57:04.000Z",
       "points": 220
+    },
+    {
+      "objectID": "49624163",
+      "title": "How An AI math breakthrough ignited a controversy",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "domain": "science.org",
+      "publishedAt": "2026-09-09T10:25:41.000Z",
+      "points": 199
     },
     {
       "objectID": "49540565",
@@ -119,7 +119,7 @@
       "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
       "domain": "bbc.com",
       "publishedAt": "2026-09-08T18:26:27.000Z",
-      "points": 123
+      "points": 125
     },
     {
       "objectID": "49601338",
@@ -130,20 +130,20 @@
       "points": 100
     },
     {
+      "objectID": "49596610",
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "domain": "economist.com",
+      "publishedAt": "2026-09-07T10:38:32.000Z",
+      "points": 97
+    },
+    {
       "objectID": "49593959",
       "title": "I refused to train the AI that could replace me",
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
       "domain": "restofworld.org",
       "publishedAt": "2026-09-07T04:38:22.000Z",
       "points": 97
-    },
-    {
-      "objectID": "49596610",
-      "title": "Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "domain": "economist.com",
-      "publishedAt": "2026-09-07T10:38:32.000Z",
-      "points": 96
     },
     {
       "objectID": "49562744",
