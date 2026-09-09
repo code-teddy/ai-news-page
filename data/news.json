@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T16:36:14.761Z",
+  "fetchedAt": "2026-09-09T20:54:46.352Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -7,7 +7,7 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 696
+      "points": 701
     },
     {
       "objectID": "49615537",
@@ -15,7 +15,7 @@
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
       "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 598
+      "points": 620
     },
     {
       "objectID": "49544762",
@@ -31,7 +31,7 @@
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 444
+      "points": 463
     },
     {
       "objectID": "49569366",
@@ -47,7 +47,7 @@
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
       "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 415
+      "points": 416
     },
     {
       "objectID": "49563386",
@@ -63,7 +63,7 @@
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
       "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 387
+      "points": 388
     },
     {
       "objectID": "49566137",
@@ -72,6 +72,14 @@
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
       "points": 332
+    },
+    {
+      "objectID": "49630253",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "domain": "apple.com",
+      "publishedAt": "2026-09-09T17:39:24.000Z",
+      "points": 249
     },
     {
       "objectID": "49542443",
@@ -87,15 +95,7 @@
       "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
       "domain": "science.org",
       "publishedAt": "2026-09-09T10:25:41.000Z",
-      "points": 199
-    },
-    {
-      "objectID": "49540565",
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "domain": "admiralcloudberg.medium.com",
-      "publishedAt": "2026-09-02T18:42:41.000Z",
-      "points": 179
+      "points": 209
     },
     {
       "objectID": "49587128",
@@ -119,7 +119,7 @@
       "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
       "domain": "bbc.com",
       "publishedAt": "2026-09-08T18:26:27.000Z",
-      "points": 125
+      "points": 126
     },
     {
       "objectID": "49601338",
@@ -135,7 +135,7 @@
       "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
       "domain": "economist.com",
       "publishedAt": "2026-09-07T10:38:32.000Z",
-      "points": 97
+      "points": 98
     },
     {
       "objectID": "49593959",
