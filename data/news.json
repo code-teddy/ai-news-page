@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T04:38:25.153Z",
+  "fetchedAt": "2026-09-09T11:19:07.691Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -7,7 +7,15 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 657
+      "points": 682
+    },
+    {
+      "objectID": "49615537",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "domain": "ai.meta.com",
+      "publishedAt": "2026-09-08T19:25:00.000Z",
+      "points": 533
     },
     {
       "objectID": "49536375",
@@ -50,20 +58,20 @@
       "points": 403
     },
     {
-      "objectID": "49615537",
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "domain": "ai.meta.com",
-      "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 386
-    },
-    {
       "objectID": "49610229",
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
       "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 371
+      "points": 379
+    },
+    {
+      "objectID": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "domain": "mathstodon.xyz",
+      "publishedAt": "2026-09-08T21:00:52.000Z",
+      "points": 378
     },
     {
       "objectID": "49566137",
@@ -74,28 +82,12 @@
       "points": 332
     },
     {
-      "objectID": "49616968",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "domain": "mathstodon.xyz",
-      "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 242
-    },
-    {
       "objectID": "49542443",
       "title": "Mamdani bans AI in NYC schools",
       "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-02T20:57:04.000Z",
       "points": 220
-    },
-    {
-      "objectID": "49534132",
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "domain": "multiversecomputing.com",
-      "publishedAt": "2026-09-02T10:02:41.000Z",
-      "points": 196
     },
     {
       "objectID": "49540565",
@@ -127,7 +119,7 @@
       "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
       "domain": "bbc.com",
       "publishedAt": "2026-09-08T18:26:27.000Z",
-      "points": 118
+      "points": 123
     },
     {
       "objectID": "49601338",
@@ -146,6 +138,14 @@
       "points": 97
     },
     {
+      "objectID": "49596610",
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "domain": "economist.com",
+      "publishedAt": "2026-09-07T10:38:32.000Z",
+      "points": 96
+    },
+    {
       "objectID": "49562744",
       "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
       "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
@@ -154,12 +154,12 @@
       "points": 95
     },
     {
-      "objectID": "49596610",
-      "title": "Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "domain": "economist.com",
-      "publishedAt": "2026-09-07T10:38:32.000Z",
-      "points": 93
+      "objectID": "49594008",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://github.com/timgordontg/engrim",
+      "domain": "github.com",
+      "publishedAt": "2026-09-07T04:49:36.000Z",
+      "points": 91
     }
   ]
 }
