@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T21:07:21.529Z",
+  "fetchedAt": "2026-09-09T04:38:25.153Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -7,7 +7,7 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 630
+      "points": 657
     },
     {
       "objectID": "49536375",
@@ -50,12 +50,20 @@
       "points": 403
     },
     {
+      "objectID": "49615537",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "domain": "ai.meta.com",
+      "publishedAt": "2026-09-08T19:25:00.000Z",
+      "points": 386
+    },
+    {
       "objectID": "49610229",
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
       "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 351
+      "points": 371
     },
     {
       "objectID": "49566137",
@@ -64,6 +72,14 @@
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
       "points": 332
+    },
+    {
+      "objectID": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "domain": "mathstodon.xyz",
+      "publishedAt": "2026-09-08T21:00:52.000Z",
+      "points": 242
     },
     {
       "objectID": "49542443",
@@ -80,14 +96,6 @@
       "domain": "multiversecomputing.com",
       "publishedAt": "2026-09-02T10:02:41.000Z",
       "points": 196
-    },
-    {
-      "objectID": "49528895",
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "domain": "masteranza.github.io",
-      "publishedAt": "2026-09-01T22:06:57.000Z",
-      "points": 185
     },
     {
       "objectID": "49540565",
@@ -111,15 +119,7 @@
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "domain": "ben-evans.com",
       "publishedAt": "2026-09-06T02:12:46.000Z",
-      "points": 157
-    },
-    {
-      "objectID": "49615537",
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "url": "https://ai.meta.com/muse/",
-      "domain": "ai.meta.com",
-      "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 151
+      "points": 158
     },
     {
       "objectID": "49614557",
@@ -127,7 +127,7 @@
       "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
       "domain": "bbc.com",
       "publishedAt": "2026-09-08T18:26:27.000Z",
-      "points": 108
+      "points": 118
     },
     {
       "objectID": "49601338",
@@ -143,7 +143,7 @@
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
       "domain": "restofworld.org",
       "publishedAt": "2026-09-07T04:38:22.000Z",
-      "points": 96
+      "points": 97
     },
     {
       "objectID": "49562744",
