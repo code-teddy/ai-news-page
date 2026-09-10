@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T16:22:00.257Z",
+  "fetchedAt": "2026-09-10T20:49:41.839Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -15,7 +15,7 @@
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
       "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 648
+      "points": 650
     },
     {
       "objectID": "49630253",
@@ -23,7 +23,7 @@
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "domain": "apple.com",
       "publishedAt": "2026-09-09T17:39:24.000Z",
-      "points": 498
+      "points": 500
     },
     {
       "objectID": "49616968",
@@ -31,7 +31,7 @@
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 479
+      "points": 483
     },
     {
       "objectID": "49569366",
@@ -95,7 +95,7 @@
       "url": "https://beza1e1.tuxen.de/ai_feelings.html",
       "domain": "beza1e1.tuxen.de",
       "publishedAt": "2026-09-06T15:00:19.000Z",
-      "points": 163
+      "points": 164
     },
     {
       "objectID": "49582656",
@@ -103,7 +103,7 @@
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "domain": "ben-evans.com",
       "publishedAt": "2026-09-06T02:12:46.000Z",
-      "points": 159
+      "points": 160
     },
     {
       "objectID": "49614557",
@@ -119,7 +119,7 @@
       "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
       "domain": "bottlenecklabs.com",
       "publishedAt": "2026-09-07T18:24:32.000Z",
-      "points": 100
+      "points": 101
     },
     {
       "objectID": "49596610",
@@ -159,7 +159,7 @@
       "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
       "domain": "slimemoldtimemold.com",
       "publishedAt": "2026-09-10T01:59:51.000Z",
-      "points": 89
+      "points": 90
     }
   ]
 }
