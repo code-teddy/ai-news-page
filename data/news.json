@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T04:38:37.379Z",
+  "fetchedAt": "2026-09-10T11:15:55.768Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -7,7 +7,7 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 704
+      "points": 710
     },
     {
       "objectID": "49615537",
@@ -15,7 +15,7 @@
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
       "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 639
+      "points": 645
     },
     {
       "objectID": "49616968",
@@ -23,7 +23,15 @@
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 470
+      "points": 476
+    },
+    {
+      "objectID": "49630253",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "domain": "apple.com",
+      "publishedAt": "2026-09-09T17:39:24.000Z",
+      "points": 460
     },
     {
       "objectID": "49569366",
@@ -42,14 +50,6 @@
       "points": 416
     },
     {
-      "objectID": "49630253",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "domain": "apple.com",
-      "publishedAt": "2026-09-09T17:39:24.000Z",
-      "points": 413
-    },
-    {
       "objectID": "49563386",
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
@@ -63,7 +63,7 @@
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
       "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 391
+      "points": 392
     },
     {
       "objectID": "49566137",
@@ -79,7 +79,7 @@
       "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
       "domain": "science.org",
       "publishedAt": "2026-09-09T10:25:41.000Z",
-      "points": 213
+      "points": 218
     },
     {
       "objectID": "49636345",
@@ -87,7 +87,7 @@
       "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
       "domain": "engadget.com",
       "publishedAt": "2026-09-09T23:57:29.000Z",
-      "points": 174
+      "points": 179
     },
     {
       "objectID": "49587128",
