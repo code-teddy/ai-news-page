@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T11:15:55.768Z",
+  "fetchedAt": "2026-09-10T16:22:00.257Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -15,15 +15,7 @@
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
       "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 645
-    },
-    {
-      "objectID": "49616968",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "domain": "mathstodon.xyz",
-      "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 476
+      "points": 648
     },
     {
       "objectID": "49630253",
@@ -31,7 +23,15 @@
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "domain": "apple.com",
       "publishedAt": "2026-09-09T17:39:24.000Z",
-      "points": 460
+      "points": 498
+    },
+    {
+      "objectID": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "domain": "mathstodon.xyz",
+      "publishedAt": "2026-09-08T21:00:52.000Z",
+      "points": 479
     },
     {
       "objectID": "49569366",
@@ -63,7 +63,7 @@
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
       "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 392
+      "points": 394
     },
     {
       "objectID": "49566137",
@@ -79,7 +79,7 @@
       "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
       "domain": "science.org",
       "publishedAt": "2026-09-09T10:25:41.000Z",
-      "points": 218
+      "points": 220
     },
     {
       "objectID": "49636345",
@@ -87,7 +87,7 @@
       "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
       "domain": "engadget.com",
       "publishedAt": "2026-09-09T23:57:29.000Z",
-      "points": 179
+      "points": 183
     },
     {
       "objectID": "49587128",
@@ -135,7 +135,7 @@
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
       "domain": "restofworld.org",
       "publishedAt": "2026-09-07T04:38:22.000Z",
-      "points": 97
+      "points": 98
     },
     {
       "objectID": "49562744",
@@ -154,11 +154,11 @@
       "points": 92
     },
     {
-      "objectID": "49619639",
-      "title": "AI Responsibility – OpenAI and Anthropic",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-      "domain": "twitter.com",
-      "publishedAt": "2026-09-09T01:32:49.000Z",
+      "objectID": "49637395",
+      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+      "domain": "slimemoldtimemold.com",
+      "publishedAt": "2026-09-10T01:59:51.000Z",
       "points": 89
     }
   ]
