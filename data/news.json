@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T20:54:46.352Z",
+  "fetchedAt": "2026-09-10T04:38:37.379Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -7,7 +7,7 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 701
+      "points": 704
     },
     {
       "objectID": "49615537",
@@ -15,15 +15,7 @@
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
       "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 620
-    },
-    {
-      "objectID": "49544762",
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "domain": "kedglobal.com",
-      "publishedAt": "2026-09-03T01:11:22.000Z",
-      "points": 467
+      "points": 639
     },
     {
       "objectID": "49616968",
@@ -31,7 +23,7 @@
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 463
+      "points": 470
     },
     {
       "objectID": "49569366",
@@ -50,6 +42,14 @@
       "points": 416
     },
     {
+      "objectID": "49630253",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "domain": "apple.com",
+      "publishedAt": "2026-09-09T17:39:24.000Z",
+      "points": 413
+    },
+    {
       "objectID": "49563386",
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
@@ -63,7 +63,7 @@
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
       "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 388
+      "points": 391
     },
     {
       "objectID": "49566137",
@@ -71,23 +71,7 @@
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 332
-    },
-    {
-      "objectID": "49630253",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "domain": "apple.com",
-      "publishedAt": "2026-09-09T17:39:24.000Z",
-      "points": 249
-    },
-    {
-      "objectID": "49542443",
-      "title": "Mamdani bans AI in NYC schools",
-      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-      "domain": "nytimes.com",
-      "publishedAt": "2026-09-02T20:57:04.000Z",
-      "points": 220
+      "points": 333
     },
     {
       "objectID": "49624163",
@@ -95,7 +79,15 @@
       "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
       "domain": "science.org",
       "publishedAt": "2026-09-09T10:25:41.000Z",
-      "points": 209
+      "points": 213
+    },
+    {
+      "objectID": "49636345",
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "domain": "engadget.com",
+      "publishedAt": "2026-09-09T23:57:29.000Z",
+      "points": 174
     },
     {
       "objectID": "49587128",
@@ -111,7 +103,7 @@
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "domain": "ben-evans.com",
       "publishedAt": "2026-09-06T02:12:46.000Z",
-      "points": 158
+      "points": 159
     },
     {
       "objectID": "49614557",
@@ -135,7 +127,7 @@
       "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
       "domain": "economist.com",
       "publishedAt": "2026-09-07T10:38:32.000Z",
-      "points": 98
+      "points": 99
     },
     {
       "objectID": "49593959",
@@ -159,7 +151,15 @@
       "url": "https://github.com/timgordontg/engrim",
       "domain": "github.com",
       "publishedAt": "2026-09-07T04:49:36.000Z",
-      "points": 91
+      "points": 92
+    },
+    {
+      "objectID": "49619639",
+      "title": "AI Responsibility – OpenAI and Anthropic",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+      "domain": "twitter.com",
+      "publishedAt": "2026-09-09T01:32:49.000Z",
+      "points": 89
     }
   ]
 }
