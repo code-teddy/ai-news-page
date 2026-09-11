@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T04:36:24.621Z",
+  "fetchedAt": "2026-09-11T11:17:15.402Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -15,7 +15,7 @@
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
       "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 652
+      "points": 654
     },
     {
       "objectID": "49630253",
@@ -23,7 +23,7 @@
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "domain": "apple.com",
       "publishedAt": "2026-09-09T17:39:24.000Z",
-      "points": 503
+      "points": 506
     },
     {
       "objectID": "49616968",
@@ -31,7 +31,7 @@
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 485
+      "points": 487
     },
     {
       "objectID": "49569366",
@@ -47,7 +47,7 @@
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
       "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 416
+      "points": 417
     },
     {
       "objectID": "49563386",
@@ -106,6 +106,14 @@
       "points": 160
     },
     {
+      "objectID": "49647300",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "domain": "anthropic.com",
+      "publishedAt": "2026-09-10T17:23:42.000Z",
+      "points": 140
+    },
+    {
       "objectID": "49614557",
       "title": "Flights cancelled at UK airports due to ATC issue",
       "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
@@ -114,12 +122,12 @@
       "points": 126
     },
     {
-      "objectID": "49647300",
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "domain": "anthropic.com",
-      "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 102
+      "objectID": "49651372",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "domain": "system76.com",
+      "publishedAt": "2026-09-10T23:10:06.000Z",
+      "points": 110
     },
     {
       "objectID": "49601338",
@@ -146,20 +154,12 @@
       "points": 98
     },
     {
-      "objectID": "49562744",
-      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-      "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-      "domain": "reuters.com",
-      "publishedAt": "2026-09-04T10:30:57.000Z",
-      "points": 95
-    },
-    {
       "objectID": "49637395",
       "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
       "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
       "domain": "slimemoldtimemold.com",
       "publishedAt": "2026-09-10T01:59:51.000Z",
-      "points": 93
+      "points": 94
     }
   ]
 }
