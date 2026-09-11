@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T11:17:15.402Z",
+  "fetchedAt": "2026-09-11T16:26:04.460Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -7,7 +7,7 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 711
+      "points": 713
     },
     {
       "objectID": "49615537",
@@ -15,7 +15,15 @@
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
       "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 654
+      "points": 655
+    },
+    {
+      "objectID": "49657850",
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "domain": "news.ycombinator.com",
+      "publishedAt": "2026-09-11T13:11:04.000Z",
+      "points": 631
     },
     {
       "objectID": "49630253",
@@ -23,7 +31,7 @@
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "domain": "apple.com",
       "publishedAt": "2026-09-09T17:39:24.000Z",
-      "points": 506
+      "points": 507
     },
     {
       "objectID": "49616968",
@@ -31,7 +39,7 @@
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 487
+      "points": 488
     },
     {
       "objectID": "49569366",
@@ -50,28 +58,20 @@
       "points": 417
     },
     {
-      "objectID": "49563386",
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "domain": "productrise.app",
-      "publishedAt": "2026-09-04T11:59:15.000Z",
-      "points": 403
-    },
-    {
       "objectID": "49610229",
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
       "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 395
+      "points": 396
     },
     {
-      "objectID": "49566137",
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "domain": "nytimes.com",
-      "publishedAt": "2026-09-04T15:33:45.000Z",
-      "points": 333
+      "objectID": "49656496",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "domain": "researchagenda.news",
+      "publishedAt": "2026-09-11T11:17:50.000Z",
+      "points": 305
     },
     {
       "objectID": "49624163",
@@ -111,7 +111,7 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "domain": "anthropic.com",
       "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 140
+      "points": 159
     },
     {
       "objectID": "49614557",
@@ -127,7 +127,15 @@
       "url": "https://system76.com/workstations/thelio-mira-ai",
       "domain": "system76.com",
       "publishedAt": "2026-09-10T23:10:06.000Z",
-      "points": 110
+      "points": 116
+    },
+    {
+      "objectID": "49644179",
+      "title": "AI Is Breaking This Thing We Call Trust",
+      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+      "domain": "terriblesoftware.org",
+      "publishedAt": "2026-09-10T14:21:20.000Z",
+      "points": 105
     },
     {
       "objectID": "49601338",
@@ -152,14 +160,6 @@
       "domain": "restofworld.org",
       "publishedAt": "2026-09-07T04:38:22.000Z",
       "points": 98
-    },
-    {
-      "objectID": "49637395",
-      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-      "domain": "slimemoldtimemold.com",
-      "publishedAt": "2026-09-10T01:59:51.000Z",
-      "points": 94
     }
   ]
 }
