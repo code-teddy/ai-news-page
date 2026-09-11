@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T16:26:04.460Z",
+  "fetchedAt": "2026-09-11T20:56:02.728Z",
   "stories": [
     {
       "objectID": "49610538",
@@ -7,7 +7,15 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 713
+      "points": 714
+    },
+    {
+      "objectID": "49657850",
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "domain": "news.ycombinator.com",
+      "publishedAt": "2026-09-11T13:11:04.000Z",
+      "points": 712
     },
     {
       "objectID": "49615537",
@@ -16,14 +24,6 @@
       "domain": "ai.meta.com",
       "publishedAt": "2026-09-08T19:25:00.000Z",
       "points": 655
-    },
-    {
-      "objectID": "49657850",
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "domain": "news.ycombinator.com",
-      "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 631
     },
     {
       "objectID": "49630253",
@@ -39,15 +39,7 @@
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 488
-    },
-    {
-      "objectID": "49569366",
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "domain": "eebench.org",
-      "publishedAt": "2026-09-04T19:48:29.000Z",
-      "points": 422
+      "points": 489
     },
     {
       "objectID": "49574167",
@@ -71,7 +63,15 @@
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
       "publishedAt": "2026-09-11T11:17:50.000Z",
-      "points": 305
+      "points": 315
+    },
+    {
+      "objectID": "49662371",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "domain": "mathandai.org",
+      "publishedAt": "2026-09-11T17:45:12.000Z",
+      "points": 294
     },
     {
       "objectID": "49624163",
@@ -90,12 +90,20 @@
       "points": 183
     },
     {
+      "objectID": "49647300",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "domain": "anthropic.com",
+      "publishedAt": "2026-09-10T17:23:42.000Z",
+      "points": 166
+    },
+    {
       "objectID": "49587128",
       "title": "How I feel about AI",
       "url": "https://beza1e1.tuxen.de/ai_feelings.html",
       "domain": "beza1e1.tuxen.de",
       "publishedAt": "2026-09-06T15:00:19.000Z",
-      "points": 164
+      "points": 165
     },
     {
       "objectID": "49582656",
@@ -106,12 +114,36 @@
       "points": 160
     },
     {
-      "objectID": "49647300",
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "domain": "anthropic.com",
-      "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 159
+      "objectID": "49661506",
+      "title": "Feeling Sad about AI",
+      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+      "domain": "artificialworlds.net",
+      "publishedAt": "2026-09-11T16:50:51.000Z",
+      "points": 158
+    },
+    {
+      "objectID": "49660783",
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "domain": "unslop.news",
+      "publishedAt": "2026-09-11T16:08:50.000Z",
+      "points": 150
+    },
+    {
+      "objectID": "49662116",
+      "title": "A Misalignment of AI in Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "domain": "terrytao.wordpress.com",
+      "publishedAt": "2026-09-11T17:30:26.000Z",
+      "points": 143
+    },
+    {
+      "objectID": "49659647",
+      "title": "Show HN: Hacker News, without AI",
+      "url": "https://hcker.news/?ai=exclude",
+      "domain": "hcker.news",
+      "publishedAt": "2026-09-11T15:01:19.000Z",
+      "points": 142
     },
     {
       "objectID": "49614557",
@@ -127,39 +159,7 @@
       "url": "https://system76.com/workstations/thelio-mira-ai",
       "domain": "system76.com",
       "publishedAt": "2026-09-10T23:10:06.000Z",
-      "points": 116
-    },
-    {
-      "objectID": "49644179",
-      "title": "AI Is Breaking This Thing We Call Trust",
-      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-      "domain": "terriblesoftware.org",
-      "publishedAt": "2026-09-10T14:21:20.000Z",
-      "points": 105
-    },
-    {
-      "objectID": "49601338",
-      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-      "domain": "bottlenecklabs.com",
-      "publishedAt": "2026-09-07T18:24:32.000Z",
-      "points": 101
-    },
-    {
-      "objectID": "49596610",
-      "title": "Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "domain": "economist.com",
-      "publishedAt": "2026-09-07T10:38:32.000Z",
-      "points": 99
-    },
-    {
-      "objectID": "49593959",
-      "title": "I refused to train the AI that could replace me",
-      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
-      "domain": "restofworld.org",
-      "publishedAt": "2026-09-07T04:38:22.000Z",
-      "points": 98
+      "points": 119
     }
   ]
 }
