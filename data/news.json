@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T04:31:20.276Z",
+  "fetchedAt": "2026-09-12T10:42:35.350Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -7,7 +7,7 @@
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
       "publishedAt": "2026-09-11T17:45:12.000Z",
-      "points": 763
+      "points": 945
     },
     {
       "objectID": "49657850",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 761
+      "points": 793
     },
     {
       "objectID": "49610538",
@@ -23,7 +23,7 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 715
+      "points": 716
     },
     {
       "objectID": "49615537",
@@ -50,14 +50,6 @@
       "points": 490
     },
     {
-      "objectID": "49574167",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "domain": "sylvainkalache.com",
-      "publishedAt": "2026-09-05T07:52:50.000Z",
-      "points": 417
-    },
-    {
       "objectID": "49610229",
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
@@ -71,7 +63,7 @@
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
       "publishedAt": "2026-09-11T11:17:50.000Z",
-      "points": 322
+      "points": 324
     },
     {
       "objectID": "49624163",
@@ -82,20 +74,12 @@
       "points": 220
     },
     {
-      "objectID": "49636345",
-      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
-      "domain": "engadget.com",
-      "publishedAt": "2026-09-09T23:57:29.000Z",
-      "points": 183
-    },
-    {
       "objectID": "49659647",
       "title": "Show HN: Hacker News, without AI",
       "url": "https://hcker.news/?ai=exclude",
       "domain": "hcker.news",
       "publishedAt": "2026-09-11T15:01:19.000Z",
-      "points": 178
+      "points": 190
     },
     {
       "objectID": "49660783",
@@ -103,7 +87,15 @@
       "url": "https://www.unslop.news/",
       "domain": "unslop.news",
       "publishedAt": "2026-09-11T16:08:50.000Z",
-      "points": 178
+      "points": 186
+    },
+    {
+      "objectID": "49636345",
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "domain": "engadget.com",
+      "publishedAt": "2026-09-09T23:57:29.000Z",
+      "points": 184
     },
     {
       "objectID": "49647300",
@@ -111,7 +103,7 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "domain": "anthropic.com",
       "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 173
+      "points": 176
     },
     {
       "objectID": "49661506",
@@ -119,7 +111,7 @@
       "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
       "domain": "artificialworlds.net",
       "publishedAt": "2026-09-11T16:50:51.000Z",
-      "points": 169
+      "points": 172
     },
     {
       "objectID": "49587128",
@@ -159,6 +151,14 @@
       "url": "https://system76.com/workstations/thelio-mira-ai",
       "domain": "system76.com",
       "publishedAt": "2026-09-10T23:10:06.000Z",
+      "points": 119
+    },
+    {
+      "objectID": "49660482",
+      "title": "Hacker News with reduced priority for AI driven content",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "domain": "sprinklz.io",
+      "publishedAt": "2026-09-11T15:52:49.000Z",
       "points": 119
     }
   ]
