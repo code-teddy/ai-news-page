@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T10:42:35.350Z",
+  "fetchedAt": "2026-09-12T15:29:56.778Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -7,7 +7,7 @@
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
       "publishedAt": "2026-09-11T17:45:12.000Z",
-      "points": 945
+      "points": 1090
     },
     {
       "objectID": "49657850",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 793
+      "points": 807
     },
     {
       "objectID": "49610538",
@@ -63,7 +63,7 @@
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
       "publishedAt": "2026-09-11T11:17:50.000Z",
-      "points": 324
+      "points": 327
     },
     {
       "objectID": "49624163",
@@ -79,7 +79,7 @@
       "url": "https://hcker.news/?ai=exclude",
       "domain": "hcker.news",
       "publishedAt": "2026-09-11T15:01:19.000Z",
-      "points": 190
+      "points": 194
     },
     {
       "objectID": "49660783",
@@ -87,7 +87,7 @@
       "url": "https://www.unslop.news/",
       "domain": "unslop.news",
       "publishedAt": "2026-09-11T16:08:50.000Z",
-      "points": 186
+      "points": 189
     },
     {
       "objectID": "49636345",
@@ -103,7 +103,7 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "domain": "anthropic.com",
       "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 176
+      "points": 179
     },
     {
       "objectID": "49661506",
@@ -111,7 +111,7 @@
       "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
       "domain": "artificialworlds.net",
       "publishedAt": "2026-09-11T16:50:51.000Z",
-      "points": 172
+      "points": 176
     },
     {
       "objectID": "49587128",
@@ -135,7 +135,7 @@
       "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
       "domain": "terrytao.wordpress.com",
       "publishedAt": "2026-09-11T17:30:26.000Z",
-      "points": 145
+      "points": 147
     },
     {
       "objectID": "49614557",
@@ -146,20 +146,20 @@
       "points": 126
     },
     {
+      "objectID": "49644179",
+      "title": "AI Is Breaking This Thing We Call Trust",
+      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+      "domain": "terriblesoftware.org",
+      "publishedAt": "2026-09-10T14:21:20.000Z",
+      "points": 122
+    },
+    {
       "objectID": "49651372",
       "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
       "url": "https://system76.com/workstations/thelio-mira-ai",
       "domain": "system76.com",
       "publishedAt": "2026-09-10T23:10:06.000Z",
-      "points": 119
-    },
-    {
-      "objectID": "49660482",
-      "title": "Hacker News with reduced priority for AI driven content",
-      "url": "https://sprinklz.io/public/pdwt4dve5uai",
-      "domain": "sprinklz.io",
-      "publishedAt": "2026-09-11T15:52:49.000Z",
-      "points": 119
+      "points": 120
     }
   ]
 }
