@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T15:29:56.778Z",
+  "fetchedAt": "2026-09-12T20:31:30.554Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -7,7 +7,7 @@
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
       "publishedAt": "2026-09-11T17:45:12.000Z",
-      "points": 1090
+      "points": 1161
     },
     {
       "objectID": "49657850",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 807
+      "points": 815
     },
     {
       "objectID": "49610538",
@@ -23,7 +23,7 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 716
+      "points": 717
     },
     {
       "objectID": "49615537",
@@ -63,7 +63,15 @@
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
       "publishedAt": "2026-09-11T11:17:50.000Z",
-      "points": 327
+      "points": 329
+    },
+    {
+      "objectID": "49673098",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "domain": "economist.com",
+      "publishedAt": "2026-09-12T15:08:27.000Z",
+      "points": 247
     },
     {
       "objectID": "49624163",
@@ -79,7 +87,7 @@
       "url": "https://hcker.news/?ai=exclude",
       "domain": "hcker.news",
       "publishedAt": "2026-09-11T15:01:19.000Z",
-      "points": 194
+      "points": 197
     },
     {
       "objectID": "49660783",
@@ -87,7 +95,7 @@
       "url": "https://www.unslop.news/",
       "domain": "unslop.news",
       "publishedAt": "2026-09-11T16:08:50.000Z",
-      "points": 189
+      "points": 191
     },
     {
       "objectID": "49636345",
@@ -103,7 +111,7 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "domain": "anthropic.com",
       "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 179
+      "points": 180
     },
     {
       "objectID": "49661506",
@@ -151,15 +159,7 @@
       "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
       "domain": "terriblesoftware.org",
       "publishedAt": "2026-09-10T14:21:20.000Z",
-      "points": 122
-    },
-    {
-      "objectID": "49651372",
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "domain": "system76.com",
-      "publishedAt": "2026-09-10T23:10:06.000Z",
-      "points": 120
+      "points": 123
     }
   ]
 }
