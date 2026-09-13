@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T16:14:09.361Z",
+  "fetchedAt": "2026-09-13T20:47:27.308Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -7,7 +7,7 @@
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
       "publishedAt": "2026-09-11T17:45:12.000Z",
-      "points": 1207
+      "points": 1217
     },
     {
       "objectID": "49657850",
@@ -15,15 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 838
-    },
-    {
-      "objectID": "49610538",
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "domain": "manualdousuario.net",
-      "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 717
+      "points": 842
     },
     {
       "objectID": "49678683",
@@ -31,7 +23,15 @@
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "domain": "xeiaso.net",
       "publishedAt": "2026-09-13T00:30:44.000Z",
-      "points": 672
+      "points": 719
+    },
+    {
+      "objectID": "49610538",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "domain": "manualdousuario.net",
+      "publishedAt": "2026-09-08T14:05:57.000Z",
+      "points": 718
     },
     {
       "objectID": "49615537",
@@ -47,7 +47,15 @@
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "domain": "economist.com",
       "publishedAt": "2026-09-12T15:08:27.000Z",
-      "points": 533
+      "points": 551
+    },
+    {
+      "objectID": "49678969",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "domain": "yoshuabengio.org",
+      "publishedAt": "2026-09-13T01:22:31.000Z",
+      "points": 537
     },
     {
       "objectID": "49630253",
@@ -66,20 +74,12 @@
       "points": 491
     },
     {
-      "objectID": "49678969",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "domain": "yoshuabengio.org",
-      "publishedAt": "2026-09-13T01:22:31.000Z",
-      "points": 451
-    },
-    {
       "objectID": "49610229",
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
       "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 397
+      "points": 399
     },
     {
       "objectID": "49656496",
@@ -87,7 +87,7 @@
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
       "publishedAt": "2026-09-11T11:17:50.000Z",
-      "points": 332
+      "points": 333
     },
     {
       "objectID": "49676820",
@@ -95,7 +95,15 @@
       "url": "https://withspecific.com/benchmarks/real-swe",
       "domain": "withspecific.com",
       "publishedAt": "2026-09-12T20:25:48.000Z",
-      "points": 257
+      "points": 264
+    },
+    {
+      "objectID": "49685253",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-13T15:44:38.000Z",
+      "points": 243
     },
     {
       "objectID": "49624163",
@@ -111,7 +119,7 @@
       "url": "https://hcker.news/?ai=exclude",
       "domain": "hcker.news",
       "publishedAt": "2026-09-11T15:01:19.000Z",
-      "points": 200
+      "points": 203
     },
     {
       "objectID": "49660783",
@@ -119,7 +127,7 @@
       "url": "https://www.unslop.news/",
       "domain": "unslop.news",
       "publishedAt": "2026-09-11T16:08:50.000Z",
-      "points": 193
+      "points": 196
     },
     {
       "objectID": "49636345",
@@ -135,7 +143,7 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "domain": "anthropic.com",
       "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 182
+      "points": 183
     },
     {
       "objectID": "49661506",
@@ -152,14 +160,6 @@
       "domain": "terrytao.wordpress.com",
       "publishedAt": "2026-09-11T17:30:26.000Z",
       "points": 149
-    },
-    {
-      "objectID": "49614557",
-      "title": "Flights cancelled at UK airports due to ATC issue",
-      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-      "domain": "bbc.com",
-      "publishedAt": "2026-09-08T18:26:27.000Z",
-      "points": 126
     }
   ]
 }
