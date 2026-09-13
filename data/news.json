@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T11:47:58.512Z",
+  "fetchedAt": "2026-09-13T16:14:09.361Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -7,7 +7,7 @@
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
       "publishedAt": "2026-09-11T17:45:12.000Z",
-      "points": 1199
+      "points": 1207
     },
     {
       "objectID": "49657850",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 834
+      "points": 838
     },
     {
       "objectID": "49610538",
@@ -26,6 +26,14 @@
       "points": 717
     },
     {
+      "objectID": "49678683",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "domain": "xeiaso.net",
+      "publishedAt": "2026-09-13T00:30:44.000Z",
+      "points": 672
+    },
+    {
       "objectID": "49615537",
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
@@ -34,12 +42,12 @@
       "points": 658
     },
     {
-      "objectID": "49678683",
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "domain": "xeiaso.net",
-      "publishedAt": "2026-09-13T00:30:44.000Z",
-      "points": 538
+      "objectID": "49673098",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "domain": "economist.com",
+      "publishedAt": "2026-09-12T15:08:27.000Z",
+      "points": 533
     },
     {
       "objectID": "49630253",
@@ -50,20 +58,20 @@
       "points": 508
     },
     {
-      "objectID": "49673098",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "domain": "economist.com",
-      "publishedAt": "2026-09-12T15:08:27.000Z",
-      "points": 502
-    },
-    {
       "objectID": "49616968",
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
       "publishedAt": "2026-09-08T21:00:52.000Z",
       "points": 491
+    },
+    {
+      "objectID": "49678969",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "domain": "yoshuabengio.org",
+      "publishedAt": "2026-09-13T01:22:31.000Z",
+      "points": 451
     },
     {
       "objectID": "49610229",
@@ -82,20 +90,12 @@
       "points": 332
     },
     {
-      "objectID": "49678969",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "domain": "yoshuabengio.org",
-      "publishedAt": "2026-09-13T01:22:31.000Z",
-      "points": 280
-    },
-    {
       "objectID": "49676820",
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
       "url": "https://withspecific.com/benchmarks/real-swe",
       "domain": "withspecific.com",
       "publishedAt": "2026-09-12T20:25:48.000Z",
-      "points": 248
+      "points": 257
     },
     {
       "objectID": "49624163",
@@ -135,7 +135,7 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "domain": "anthropic.com",
       "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 181
+      "points": 182
     },
     {
       "objectID": "49661506",
@@ -143,15 +143,7 @@
       "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
       "domain": "artificialworlds.net",
       "publishedAt": "2026-09-11T16:50:51.000Z",
-      "points": 177
-    },
-    {
-      "objectID": "49587128",
-      "title": "How I feel about AI",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "domain": "beza1e1.tuxen.de",
-      "publishedAt": "2026-09-06T15:00:19.000Z",
-      "points": 165
+      "points": 178
     },
     {
       "objectID": "49662116",
@@ -160,6 +152,14 @@
       "domain": "terrytao.wordpress.com",
       "publishedAt": "2026-09-11T17:30:26.000Z",
       "points": 149
+    },
+    {
+      "objectID": "49614557",
+      "title": "Flights cancelled at UK airports due to ATC issue",
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "domain": "bbc.com",
+      "publishedAt": "2026-09-08T18:26:27.000Z",
+      "points": 126
     }
   ]
 }
