@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T20:47:27.308Z",
+  "fetchedAt": "2026-09-14T04:51:52.000Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -7,7 +7,7 @@
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
       "publishedAt": "2026-09-11T17:45:12.000Z",
-      "points": 1217
+      "points": 1224
     },
     {
       "objectID": "49657850",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 842
+      "points": 848
     },
     {
       "objectID": "49678683",
@@ -23,7 +23,7 @@
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "domain": "xeiaso.net",
       "publishedAt": "2026-09-13T00:30:44.000Z",
-      "points": 719
+      "points": 757
     },
     {
       "objectID": "49610538",
@@ -31,7 +31,7 @@
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "domain": "manualdousuario.net",
       "publishedAt": "2026-09-08T14:05:57.000Z",
-      "points": 718
+      "points": 720
     },
     {
       "objectID": "49615537",
@@ -42,20 +42,20 @@
       "points": 658
     },
     {
-      "objectID": "49673098",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "domain": "economist.com",
-      "publishedAt": "2026-09-12T15:08:27.000Z",
-      "points": 551
-    },
-    {
       "objectID": "49678969",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
       "publishedAt": "2026-09-13T01:22:31.000Z",
-      "points": 537
+      "points": 606
+    },
+    {
+      "objectID": "49673098",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "domain": "economist.com",
+      "publishedAt": "2026-09-12T15:08:27.000Z",
+      "points": 564
     },
     {
       "objectID": "49630253",
@@ -82,6 +82,14 @@
       "points": 399
     },
     {
+      "objectID": "49685253",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-13T15:44:38.000Z",
+      "points": 374
+    },
+    {
       "objectID": "49656496",
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
@@ -95,15 +103,7 @@
       "url": "https://withspecific.com/benchmarks/real-swe",
       "domain": "withspecific.com",
       "publishedAt": "2026-09-12T20:25:48.000Z",
-      "points": 264
-    },
-    {
-      "objectID": "49685253",
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "domain": "techcrunch.com",
-      "publishedAt": "2026-09-13T15:44:38.000Z",
-      "points": 243
+      "points": 269
     },
     {
       "objectID": "49624163",
@@ -119,7 +119,7 @@
       "url": "https://hcker.news/?ai=exclude",
       "domain": "hcker.news",
       "publishedAt": "2026-09-11T15:01:19.000Z",
-      "points": 203
+      "points": 205
     },
     {
       "objectID": "49660783",
@@ -130,20 +130,20 @@
       "points": 196
     },
     {
+      "objectID": "49647300",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "domain": "anthropic.com",
+      "publishedAt": "2026-09-10T17:23:42.000Z",
+      "points": 184
+    },
+    {
       "objectID": "49636345",
       "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
       "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
       "domain": "engadget.com",
       "publishedAt": "2026-09-09T23:57:29.000Z",
       "points": 184
-    },
-    {
-      "objectID": "49647300",
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "domain": "anthropic.com",
-      "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 183
     },
     {
       "objectID": "49661506",
