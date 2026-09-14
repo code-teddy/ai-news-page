@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T12:41:16.834Z",
+  "fetchedAt": "2026-09-14T21:47:39.053Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -7,7 +7,7 @@
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
       "publishedAt": "2026-09-11T17:45:12.000Z",
-      "points": 1228
+      "points": 1229
     },
     {
       "objectID": "49657850",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 852
+      "points": 857
     },
     {
       "objectID": "49678683",
@@ -23,7 +23,7 @@
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "domain": "xeiaso.net",
       "publishedAt": "2026-09-13T00:30:44.000Z",
-      "points": 780
+      "points": 796
     },
     {
       "objectID": "49610538",
@@ -47,7 +47,7 @@
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
       "publishedAt": "2026-09-13T01:22:31.000Z",
-      "points": 628
+      "points": 642
     },
     {
       "objectID": "49673098",
@@ -55,7 +55,7 @@
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "domain": "economist.com",
       "publishedAt": "2026-09-12T15:08:27.000Z",
-      "points": 572
+      "points": 575
     },
     {
       "objectID": "49630253",
@@ -74,20 +74,20 @@
       "points": 491
     },
     {
-      "objectID": "49610229",
-      "title": "We Must Return to the Office to Use AI in Person",
-      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "domain": "mcsweeneys.net",
-      "publishedAt": "2026-09-08T13:41:25.000Z",
-      "points": 399
-    },
-    {
       "objectID": "49685253",
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-13T15:44:38.000Z",
-      "points": 392
+      "points": 404
+    },
+    {
+      "objectID": "49610229",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "domain": "mcsweeneys.net",
+      "publishedAt": "2026-09-08T13:41:25.000Z",
+      "points": 400
     },
     {
       "objectID": "49656496",
@@ -95,7 +95,7 @@
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
       "publishedAt": "2026-09-11T11:17:50.000Z",
-      "points": 333
+      "points": 334
     },
     {
       "objectID": "49676820",
@@ -103,7 +103,7 @@
       "url": "https://withspecific.com/benchmarks/real-swe",
       "domain": "withspecific.com",
       "publishedAt": "2026-09-12T20:25:48.000Z",
-      "points": 271
+      "points": 272
     },
     {
       "objectID": "49624163",
@@ -112,6 +112,14 @@
       "domain": "science.org",
       "publishedAt": "2026-09-09T10:25:41.000Z",
       "points": 220
+    },
+    {
+      "objectID": "49695409",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "domain": "macrumors.com",
+      "publishedAt": "2026-09-14T12:01:32.000Z",
+      "points": 214
     },
     {
       "objectID": "49659647",
@@ -135,7 +143,7 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "domain": "anthropic.com",
       "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 185
+      "points": 186
     },
     {
       "objectID": "49636345",
@@ -152,14 +160,6 @@
       "domain": "artificialworlds.net",
       "publishedAt": "2026-09-11T16:50:51.000Z",
       "points": 179
-    },
-    {
-      "objectID": "49662116",
-      "title": "A Misalignment of AI in Mathematics",
-      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-      "domain": "terrytao.wordpress.com",
-      "publishedAt": "2026-09-11T17:30:26.000Z",
-      "points": 149
     }
   ]
 }
