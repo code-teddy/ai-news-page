@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T16:56:28.228Z",
+  "fetchedAt": "2026-09-15T21:18:20.369Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -7,7 +7,7 @@
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
       "publishedAt": "2026-09-11T17:45:12.000Z",
-      "points": 1233
+      "points": 1237
     },
     {
       "objectID": "49657850",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 858
+      "points": 859
     },
     {
       "objectID": "49678683",
@@ -24,14 +24,6 @@
       "domain": "xeiaso.net",
       "publishedAt": "2026-09-13T00:30:44.000Z",
       "points": 809
-    },
-    {
-      "objectID": "49615537",
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "domain": "ai.meta.com",
-      "publishedAt": "2026-09-08T19:25:00.000Z",
-      "points": 658
     },
     {
       "objectID": "49678969",
@@ -58,20 +50,12 @@
       "points": 508
     },
     {
-      "objectID": "49616968",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "domain": "mathstodon.xyz",
-      "publishedAt": "2026-09-08T21:00:52.000Z",
-      "points": 491
-    },
-    {
       "objectID": "49685253",
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-13T15:44:38.000Z",
-      "points": 411
+      "points": 412
     },
     {
       "objectID": "49656496",
@@ -111,7 +95,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "domain": "theregister.com",
       "publishedAt": "2026-09-15T00:40:14.000Z",
-      "points": 206
+      "points": 214
     },
     {
       "objectID": "49659647",
@@ -119,7 +103,7 @@
       "url": "https://hcker.news/?ai=exclude",
       "domain": "hcker.news",
       "publishedAt": "2026-09-11T15:01:19.000Z",
-      "points": 206
+      "points": 207
     },
     {
       "objectID": "49660783",
@@ -130,12 +114,20 @@
       "points": 197
     },
     {
+      "objectID": "49715113",
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+      "domain": "404media.co",
+      "publishedAt": "2026-09-15T16:38:45.000Z",
+      "points": 193
+    },
+    {
       "objectID": "49647300",
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "domain": "anthropic.com",
       "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 187
+      "points": 189
     },
     {
       "objectID": "49636345",
@@ -159,7 +151,15 @@
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "domain": "interconnects.ai",
       "publishedAt": "2026-09-14T00:22:51.000Z",
-      "points": 155
+      "points": 156
+    },
+    {
+      "objectID": "49662116",
+      "title": "A Misalignment of AI in Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "domain": "terrytao.wordpress.com",
+      "publishedAt": "2026-09-11T17:30:26.000Z",
+      "points": 150
     }
   ]
 }
