@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T11:28:12.948Z",
+  "fetchedAt": "2026-09-16T16:51:50.017Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -31,7 +31,7 @@
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
       "publishedAt": "2026-09-13T01:22:31.000Z",
-      "points": 653
+      "points": 654
     },
     {
       "objectID": "49673098",
@@ -39,7 +39,7 @@
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "domain": "economist.com",
       "publishedAt": "2026-09-12T15:08:27.000Z",
-      "points": 581
+      "points": 582
     },
     {
       "objectID": "49630253",
@@ -55,7 +55,15 @@
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-13T15:44:38.000Z",
-      "points": 412
+      "points": 413
+    },
+    {
+      "objectID": "49723408",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "domain": "mistral.ai",
+      "publishedAt": "2026-09-16T08:08:57.000Z",
+      "points": 357
     },
     {
       "objectID": "49656496",
@@ -74,20 +82,12 @@
       "points": 275
     },
     {
-      "objectID": "49695409",
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "domain": "macrumors.com",
-      "publishedAt": "2026-09-14T12:01:32.000Z",
-      "points": 225
-    },
-    {
       "objectID": "49706223",
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "domain": "theregister.com",
       "publishedAt": "2026-09-15T00:40:14.000Z",
-      "points": 225
+      "points": 226
     },
     {
       "objectID": "49715113",
@@ -95,7 +95,15 @@
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
       "domain": "404media.co",
       "publishedAt": "2026-09-15T16:38:45.000Z",
-      "points": 222
+      "points": 225
+    },
+    {
+      "objectID": "49695409",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "domain": "macrumors.com",
+      "publishedAt": "2026-09-14T12:01:32.000Z",
+      "points": 225
     },
     {
       "objectID": "49659647",
@@ -152,14 +160,6 @@
       "domain": "nathannaveen.dev",
       "publishedAt": "2026-09-14T14:29:23.000Z",
       "points": 152
-    },
-    {
-      "objectID": "49662116",
-      "title": "A Misalignment of AI in Mathematics",
-      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-      "domain": "terrytao.wordpress.com",
-      "publishedAt": "2026-09-11T17:30:26.000Z",
-      "points": 150
     }
   ]
 }
