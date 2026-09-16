@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T16:51:50.017Z",
+  "fetchedAt": "2026-09-16T21:15:43.443Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -42,12 +42,12 @@
       "points": 582
     },
     {
-      "objectID": "49630253",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "domain": "apple.com",
-      "publishedAt": "2026-09-09T17:39:24.000Z",
-      "points": 508
+      "objectID": "49723408",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "domain": "mistral.ai",
+      "publishedAt": "2026-09-16T08:08:57.000Z",
+      "points": 488
     },
     {
       "objectID": "49685253",
@@ -56,14 +56,6 @@
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-13T15:44:38.000Z",
       "points": 413
-    },
-    {
-      "objectID": "49723408",
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "domain": "mistral.ai",
-      "publishedAt": "2026-09-16T08:08:57.000Z",
-      "points": 357
     },
     {
       "objectID": "49656496",
@@ -87,7 +79,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "domain": "theregister.com",
       "publishedAt": "2026-09-15T00:40:14.000Z",
-      "points": 226
+      "points": 227
     },
     {
       "objectID": "49715113",
@@ -95,7 +87,7 @@
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
       "domain": "404media.co",
       "publishedAt": "2026-09-15T16:38:45.000Z",
-      "points": 225
+      "points": 226
     },
     {
       "objectID": "49695409",
@@ -154,12 +146,20 @@
       "points": 156
     },
     {
+      "objectID": "49694035",
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "url": "https://arxiv.org/abs/2511.07885",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-09-14T09:16:39.000Z",
+      "points": 153
+    },
+    {
       "objectID": "49697477",
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
       "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
       "domain": "nathannaveen.dev",
       "publishedAt": "2026-09-14T14:29:23.000Z",
-      "points": 152
+      "points": 153
     }
   ]
 }
