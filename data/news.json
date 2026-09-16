@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T04:46:18.733Z",
+  "fetchedAt": "2026-09-16T11:28:12.948Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -79,7 +79,7 @@
       "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
       "domain": "macrumors.com",
       "publishedAt": "2026-09-14T12:01:32.000Z",
-      "points": 224
+      "points": 225
     },
     {
       "objectID": "49706223",
@@ -87,15 +87,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "domain": "theregister.com",
       "publishedAt": "2026-09-15T00:40:14.000Z",
-      "points": 223
-    },
-    {
-      "objectID": "49624163",
-      "title": "How An AI math breakthrough ignited a controversy",
-      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "domain": "science.org",
-      "publishedAt": "2026-09-09T10:25:41.000Z",
-      "points": 220
+      "points": 225
     },
     {
       "objectID": "49715113",
@@ -103,7 +95,7 @@
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
       "domain": "404media.co",
       "publishedAt": "2026-09-15T16:38:45.000Z",
-      "points": 215
+      "points": 222
     },
     {
       "objectID": "49659647",
@@ -159,6 +151,14 @@
       "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
       "domain": "nathannaveen.dev",
       "publishedAt": "2026-09-14T14:29:23.000Z",
+      "points": 152
+    },
+    {
+      "objectID": "49662116",
+      "title": "A Misalignment of AI in Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "domain": "terrytao.wordpress.com",
+      "publishedAt": "2026-09-11T17:30:26.000Z",
       "points": 150
     }
   ]
