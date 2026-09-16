@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T21:18:20.369Z",
+  "fetchedAt": "2026-09-16T04:46:18.733Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 859
+      "points": 860
     },
     {
       "objectID": "49678683",
@@ -23,7 +23,7 @@
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "domain": "xeiaso.net",
       "publishedAt": "2026-09-13T00:30:44.000Z",
-      "points": 809
+      "points": 810
     },
     {
       "objectID": "49678969",
@@ -31,7 +31,7 @@
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
       "publishedAt": "2026-09-13T01:22:31.000Z",
-      "points": 652
+      "points": 653
     },
     {
       "objectID": "49673098",
@@ -63,7 +63,7 @@
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
       "publishedAt": "2026-09-11T11:17:50.000Z",
-      "points": 334
+      "points": 335
     },
     {
       "objectID": "49676820",
@@ -71,7 +71,7 @@
       "url": "https://withspecific.com/benchmarks/real-swe",
       "domain": "withspecific.com",
       "publishedAt": "2026-09-12T20:25:48.000Z",
-      "points": 274
+      "points": 275
     },
     {
       "objectID": "49695409",
@@ -82,6 +82,14 @@
       "points": 224
     },
     {
+      "objectID": "49706223",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "domain": "theregister.com",
+      "publishedAt": "2026-09-15T00:40:14.000Z",
+      "points": 223
+    },
+    {
       "objectID": "49624163",
       "title": "How An AI math breakthrough ignited a controversy",
       "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
@@ -90,12 +98,12 @@
       "points": 220
     },
     {
-      "objectID": "49706223",
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "domain": "theregister.com",
-      "publishedAt": "2026-09-15T00:40:14.000Z",
-      "points": 214
+      "objectID": "49715113",
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+      "domain": "404media.co",
+      "publishedAt": "2026-09-15T16:38:45.000Z",
+      "points": 215
     },
     {
       "objectID": "49659647",
@@ -112,14 +120,6 @@
       "domain": "unslop.news",
       "publishedAt": "2026-09-11T16:08:50.000Z",
       "points": 197
-    },
-    {
-      "objectID": "49715113",
-      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-      "domain": "404media.co",
-      "publishedAt": "2026-09-15T16:38:45.000Z",
-      "points": 193
     },
     {
       "objectID": "49647300",
@@ -154,11 +154,11 @@
       "points": 156
     },
     {
-      "objectID": "49662116",
-      "title": "A Misalignment of AI in Mathematics",
-      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-      "domain": "terrytao.wordpress.com",
-      "publishedAt": "2026-09-11T17:30:26.000Z",
+      "objectID": "49697477",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "domain": "nathannaveen.dev",
+      "publishedAt": "2026-09-14T14:29:23.000Z",
       "points": 150
     }
   ]
