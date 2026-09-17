@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T11:38:05.736Z",
+  "fetchedAt": "2026-09-17T16:58:07.317Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -47,7 +47,7 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "domain": "mistral.ai",
       "publishedAt": "2026-09-16T08:08:57.000Z",
-      "points": 567
+      "points": 577
     },
     {
       "objectID": "49685253",
@@ -79,7 +79,7 @@
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
       "domain": "404media.co",
       "publishedAt": "2026-09-15T16:38:45.000Z",
-      "points": 229
+      "points": 230
     },
     {
       "objectID": "49706223",
@@ -122,12 +122,28 @@
       "points": 189
     },
     {
+      "objectID": "49734264",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "domain": "openspec.dev",
+      "publishedAt": "2026-09-16T23:06:39.000Z",
+      "points": 180
+    },
+    {
       "objectID": "49661506",
       "title": "Feeling Sad about AI",
       "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
       "domain": "artificialworlds.net",
       "publishedAt": "2026-09-11T16:50:51.000Z",
       "points": 179
+    },
+    {
+      "objectID": "49737985",
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "domain": "skywriter.blue",
+      "publishedAt": "2026-09-17T08:36:37.000Z",
+      "points": 170
     },
     {
       "objectID": "49694035",
@@ -144,22 +160,6 @@
       "domain": "interconnects.ai",
       "publishedAt": "2026-09-14T00:22:51.000Z",
       "points": 158
-    },
-    {
-      "objectID": "49697477",
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "domain": "nathannaveen.dev",
-      "publishedAt": "2026-09-14T14:29:23.000Z",
-      "points": 153
-    },
-    {
-      "objectID": "49662116",
-      "title": "A Misalignment of AI in Mathematics",
-      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-      "domain": "terrytao.wordpress.com",
-      "publishedAt": "2026-09-11T17:30:26.000Z",
-      "points": 150
     }
   ]
 }
