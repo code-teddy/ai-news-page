@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T16:58:07.317Z",
+  "fetchedAt": "2026-09-17T21:19:32.912Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 860
+      "points": 861
     },
     {
       "objectID": "49678683",
@@ -47,7 +47,7 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "domain": "mistral.ai",
       "publishedAt": "2026-09-16T08:08:57.000Z",
-      "points": 577
+      "points": 578
     },
     {
       "objectID": "49685253",
@@ -74,6 +74,14 @@
       "points": 275
     },
     {
+      "objectID": "49737985",
+      "title": "AI safety is mostly a sex cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "domain": "skywriter.blue",
+      "publishedAt": "2026-09-17T08:36:37.000Z",
+      "points": 246
+    },
+    {
       "objectID": "49715113",
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
@@ -95,7 +103,7 @@
       "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
       "domain": "macrumors.com",
       "publishedAt": "2026-09-14T12:01:32.000Z",
-      "points": 225
+      "points": 226
     },
     {
       "objectID": "49659647",
@@ -114,20 +122,12 @@
       "points": 197
     },
     {
-      "objectID": "49647300",
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "domain": "anthropic.com",
-      "publishedAt": "2026-09-10T17:23:42.000Z",
-      "points": 189
-    },
-    {
       "objectID": "49734264",
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
       "url": "https://openspec.dev/",
       "domain": "openspec.dev",
       "publishedAt": "2026-09-16T23:06:39.000Z",
-      "points": 180
+      "points": 187
     },
     {
       "objectID": "49661506",
@@ -136,14 +136,6 @@
       "domain": "artificialworlds.net",
       "publishedAt": "2026-09-11T16:50:51.000Z",
       "points": 179
-    },
-    {
-      "objectID": "49737985",
-      "title": "AI Safety Is Mostly a Sex Cult",
-      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-      "domain": "skywriter.blue",
-      "publishedAt": "2026-09-17T08:36:37.000Z",
-      "points": 170
     },
     {
       "objectID": "49694035",
@@ -160,6 +152,14 @@
       "domain": "interconnects.ai",
       "publishedAt": "2026-09-14T00:22:51.000Z",
       "points": 158
+    },
+    {
+      "objectID": "49697477",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "domain": "nathannaveen.dev",
+      "publishedAt": "2026-09-14T14:29:23.000Z",
+      "points": 153
     }
   ]
 }
