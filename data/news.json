@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T04:49:19.525Z",
+  "fetchedAt": "2026-09-17T11:38:05.736Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -7,7 +7,7 @@
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
       "publishedAt": "2026-09-11T17:45:12.000Z",
-      "points": 1237
+      "points": 1239
     },
     {
       "objectID": "49657850",
@@ -31,7 +31,7 @@
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
       "publishedAt": "2026-09-13T01:22:31.000Z",
-      "points": 655
+      "points": 656
     },
     {
       "objectID": "49673098",
@@ -47,7 +47,7 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "domain": "mistral.ai",
       "publishedAt": "2026-09-16T08:08:57.000Z",
-      "points": 547
+      "points": 567
     },
     {
       "objectID": "49685253",
@@ -135,7 +135,7 @@
       "url": "https://arxiv.org/abs/2511.07885",
       "domain": "arxiv.org",
       "publishedAt": "2026-09-14T09:16:39.000Z",
-      "points": 161
+      "points": 166
     },
     {
       "objectID": "49690260",
