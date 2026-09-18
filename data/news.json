@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T11:10:27.196Z",
+  "fetchedAt": "2026-09-18T16:22:02.896Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -10,20 +10,20 @@
       "points": 1239
     },
     {
-      "objectID": "49657850",
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "domain": "news.ycombinator.com",
-      "publishedAt": "2026-09-11T13:11:04.000Z",
-      "points": 861
-    },
-    {
       "objectID": "49678683",
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "domain": "xeiaso.net",
       "publishedAt": "2026-09-13T00:30:44.000Z",
       "points": 811
+    },
+    {
+      "objectID": "49752056",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-18T09:45:07.000Z",
+      "points": 667
     },
     {
       "objectID": "49678969",
@@ -55,7 +55,7 @@
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "points": 490
+      "points": 566
     },
     {
       "objectID": "49685253",
@@ -66,20 +66,12 @@
       "points": 416
     },
     {
-      "objectID": "49656496",
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "domain": "researchagenda.news",
-      "publishedAt": "2026-09-11T11:17:50.000Z",
-      "points": 335
-    },
-    {
       "objectID": "49737985",
       "title": "AI safety is mostly a sex cult",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
       "publishedAt": "2026-09-17T08:36:37.000Z",
-      "points": 296
+      "points": 308
     },
     {
       "objectID": "49676820",
@@ -106,6 +98,14 @@
       "points": 229
     },
     {
+      "objectID": "49740105",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "domain": "mysetup.ai",
+      "publishedAt": "2026-09-17T13:01:44.000Z",
+      "points": 228
+    },
+    {
       "objectID": "49695409",
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
       "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
@@ -114,36 +114,12 @@
       "points": 226
     },
     {
-      "objectID": "49740105",
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "url": "https://mysetup.ai/",
-      "domain": "mysetup.ai",
-      "publishedAt": "2026-09-17T13:01:44.000Z",
-      "points": 216
-    },
-    {
       "objectID": "49746654",
       "title": "Sex, AI, and the Apocalypse",
       "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
       "domain": "iankduncan.com",
       "publishedAt": "2026-09-17T21:15:52.000Z",
-      "points": 210
-    },
-    {
-      "objectID": "49659647",
-      "title": "Show HN: Hacker News, without AI",
-      "url": "https://hcker.news/?ai=exclude",
-      "domain": "hcker.news",
-      "publishedAt": "2026-09-11T15:01:19.000Z",
-      "points": 207
-    },
-    {
-      "objectID": "49660783",
-      "title": "Show HN: Hacker News, Without AI",
-      "url": "https://www.unslop.news/",
-      "domain": "unslop.news",
-      "publishedAt": "2026-09-11T16:08:50.000Z",
-      "points": 197
+      "points": 214
     },
     {
       "objectID": "49734264",
@@ -160,6 +136,30 @@
       "domain": "artificialworlds.net",
       "publishedAt": "2026-09-11T16:50:51.000Z",
       "points": 179
+    },
+    {
+      "objectID": "49694035",
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "url": "https://arxiv.org/abs/2511.07885",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-09-14T09:16:39.000Z",
+      "points": 168
+    },
+    {
+      "objectID": "49690260",
+      "title": "Open-source AI and open models reading list",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "domain": "interconnects.ai",
+      "publishedAt": "2026-09-14T00:22:51.000Z",
+      "points": 159
+    },
+    {
+      "objectID": "49697477",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "domain": "nathannaveen.dev",
+      "publishedAt": "2026-09-14T14:29:23.000Z",
+      "points": 153
     }
   ]
 }
