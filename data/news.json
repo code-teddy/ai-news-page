@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T04:40:14.659Z",
+  "fetchedAt": "2026-09-18T11:10:27.196Z",
   "stories": [
     {
       "objectID": "49662371",
@@ -47,15 +47,7 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "domain": "mistral.ai",
       "publishedAt": "2026-09-16T08:08:57.000Z",
-      "points": 581
-    },
-    {
-      "objectID": "49685253",
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "domain": "techcrunch.com",
-      "publishedAt": "2026-09-13T15:44:38.000Z",
-      "points": 415
+      "points": 582
     },
     {
       "objectID": "49746163",
@@ -63,7 +55,15 @@
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "points": 361
+      "points": 490
+    },
+    {
+      "objectID": "49685253",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-13T15:44:38.000Z",
+      "points": 416
     },
     {
       "objectID": "49656496",
@@ -79,7 +79,7 @@
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
       "publishedAt": "2026-09-17T08:36:37.000Z",
-      "points": 285
+      "points": 296
     },
     {
       "objectID": "49676820",
@@ -114,20 +114,28 @@
       "points": 226
     },
     {
+      "objectID": "49740105",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "domain": "mysetup.ai",
+      "publishedAt": "2026-09-17T13:01:44.000Z",
+      "points": 216
+    },
+    {
+      "objectID": "49746654",
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "domain": "iankduncan.com",
+      "publishedAt": "2026-09-17T21:15:52.000Z",
+      "points": 210
+    },
+    {
       "objectID": "49659647",
       "title": "Show HN: Hacker News, without AI",
       "url": "https://hcker.news/?ai=exclude",
       "domain": "hcker.news",
       "publishedAt": "2026-09-11T15:01:19.000Z",
       "points": 207
-    },
-    {
-      "objectID": "49740105",
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "url": "https://mysetup.ai/",
-      "domain": "mysetup.ai",
-      "publishedAt": "2026-09-17T13:01:44.000Z",
-      "points": 203
     },
     {
       "objectID": "49660783",
@@ -143,7 +151,7 @@
       "url": "https://openspec.dev/",
       "domain": "openspec.dev",
       "publishedAt": "2026-09-16T23:06:39.000Z",
-      "points": 192
+      "points": 195
     },
     {
       "objectID": "49661506",
@@ -152,14 +160,6 @@
       "domain": "artificialworlds.net",
       "publishedAt": "2026-09-11T16:50:51.000Z",
       "points": 179
-    },
-    {
-      "objectID": "49746654",
-      "title": "Sex, AI, and the Apocalypse",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-      "domain": "iankduncan.com",
-      "publishedAt": "2026-09-17T21:15:52.000Z",
-      "points": 173
     }
   ]
 }
