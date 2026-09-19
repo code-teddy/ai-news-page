@@ -1,13 +1,21 @@
 {
-  "fetchedAt": "2026-09-19T15:51:27.464Z",
+  "fetchedAt": "2026-09-19T20:36:55.898Z",
   "stories": [
+    {
+      "objectID": "49764791",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "domain": "john.hartnup.uk",
+      "publishedAt": "2026-09-19T09:20:58.000Z",
+      "points": 1118
+    },
     {
       "objectID": "49752056",
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-18T09:45:07.000Z",
-      "points": 906
+      "points": 912
     },
     {
       "objectID": "49678683",
@@ -16,14 +24,6 @@
       "domain": "xeiaso.net",
       "publishedAt": "2026-09-13T00:30:44.000Z",
       "points": 811
-    },
-    {
-      "objectID": "49764791",
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "domain": "john.hartnup.uk",
-      "publishedAt": "2026-09-19T09:20:58.000Z",
-      "points": 666
     },
     {
       "objectID": "49678969",
@@ -39,7 +39,7 @@
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "points": 601
+      "points": 603
     },
     {
       "objectID": "49723408",
@@ -55,7 +55,7 @@
       "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "domain": "cnn.com",
       "publishedAt": "2026-09-18T17:28:01.000Z",
-      "points": 479
+      "points": 493
     },
     {
       "objectID": "49685253",
@@ -71,15 +71,7 @@
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
       "publishedAt": "2026-09-17T08:36:37.000Z",
-      "points": 321
-    },
-    {
-      "objectID": "49676820",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "domain": "withspecific.com",
-      "publishedAt": "2026-09-12T20:25:48.000Z",
-      "points": 275
+      "points": 324
     },
     {
       "objectID": "49740105",
@@ -87,7 +79,7 @@
       "url": "https://mysetup.ai/",
       "domain": "mysetup.ai",
       "publishedAt": "2026-09-17T13:01:44.000Z",
-      "points": 236
+      "points": 237
     },
     {
       "objectID": "49715113",
@@ -111,7 +103,7 @@
       "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
       "domain": "iankduncan.com",
       "publishedAt": "2026-09-17T21:15:52.000Z",
-      "points": 227
+      "points": 228
     },
     {
       "objectID": "49695409",
@@ -143,7 +135,7 @@
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "domain": "interconnects.ai",
       "publishedAt": "2026-09-14T00:22:51.000Z",
-      "points": 160
+      "points": 161
     },
     {
       "objectID": "49697477",
@@ -159,7 +151,15 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
       "domain": "scmp.com",
       "publishedAt": "2026-09-18T23:54:42.000Z",
-      "points": 139
+      "points": 143
+    },
+    {
+      "objectID": "49699384",
+      "title": "For AI leaders Doom is a form of hype",
+      "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
+      "domain": "erkansaka.net",
+      "publishedAt": "2026-09-14T16:15:05.000Z",
+      "points": 131
     }
   ]
 }
