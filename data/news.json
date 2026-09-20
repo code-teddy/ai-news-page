@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T16:02:48.496Z",
+  "fetchedAt": "2026-09-20T20:46:43.089Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -7,7 +7,7 @@
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
       "publishedAt": "2026-09-19T09:20:58.000Z",
-      "points": 1714
+      "points": 1757
     },
     {
       "objectID": "49752056",
@@ -15,7 +15,7 @@
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-18T09:45:07.000Z",
-      "points": 932
+      "points": 934
     },
     {
       "objectID": "49746163",
@@ -23,7 +23,7 @@
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "points": 607
+      "points": 608
     },
     {
       "objectID": "49723408",
@@ -39,7 +39,15 @@
       "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "domain": "cnn.com",
       "publishedAt": "2026-09-18T17:28:01.000Z",
-      "points": 509
+      "points": 510
+    },
+    {
+      "objectID": "49767937",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "domain": "erichgrunewald.substack.com",
+      "publishedAt": "2026-09-19T16:35:24.000Z",
+      "points": 333
     },
     {
       "objectID": "49737985",
@@ -50,20 +58,12 @@
       "points": 327
     },
     {
-      "objectID": "49767937",
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "domain": "erichgrunewald.substack.com",
-      "publishedAt": "2026-09-19T16:35:24.000Z",
-      "points": 321
-    },
-    {
       "objectID": "49740105",
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
       "domain": "mysetup.ai",
       "publishedAt": "2026-09-17T13:01:44.000Z",
-      "points": 244
+      "points": 245
     },
     {
       "objectID": "49746654",
@@ -103,7 +103,7 @@
       "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
       "domain": "chesterwisniewski.com",
       "publishedAt": "2026-09-20T10:07:51.000Z",
-      "points": 206
+      "points": 214
     },
     {
       "objectID": "49734264",
@@ -119,7 +119,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
       "domain": "tomshardware.com",
       "publishedAt": "2026-09-19T18:21:30.000Z",
-      "points": 176
+      "points": 179
     },
     {
       "objectID": "49694035",
@@ -151,7 +151,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
       "domain": "scmp.com",
       "publishedAt": "2026-09-18T23:54:42.000Z",
-      "points": 148
+      "points": 150
     },
     {
       "objectID": "49699384",
