@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T04:51:10.357Z",
+  "fetchedAt": "2026-09-20T11:19:08.514Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -7,7 +7,7 @@
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
       "publishedAt": "2026-09-19T09:20:58.000Z",
-      "points": 1462
+      "points": 1608
     },
     {
       "objectID": "49752056",
@@ -15,7 +15,7 @@
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-18T09:45:07.000Z",
-      "points": 920
+      "points": 930
     },
     {
       "objectID": "49746163",
@@ -23,7 +23,7 @@
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "points": 603
+      "points": 606
     },
     {
       "objectID": "49723408",
@@ -31,7 +31,7 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "domain": "mistral.ai",
       "publishedAt": "2026-09-16T08:08:57.000Z",
-      "points": 584
+      "points": 588
     },
     {
       "objectID": "49757520",
@@ -39,7 +39,7 @@
       "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "domain": "cnn.com",
       "publishedAt": "2026-09-18T17:28:01.000Z",
-      "points": 499
+      "points": 503
     },
     {
       "objectID": "49685253",
@@ -55,7 +55,7 @@
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
       "publishedAt": "2026-09-17T08:36:37.000Z",
-      "points": 325
+      "points": 326
     },
     {
       "objectID": "49767937",
@@ -63,7 +63,7 @@
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "domain": "erichgrunewald.substack.com",
       "publishedAt": "2026-09-19T16:35:24.000Z",
-      "points": 267
+      "points": 304
     },
     {
       "objectID": "49740105",
@@ -71,15 +71,7 @@
       "url": "https://mysetup.ai/",
       "domain": "mysetup.ai",
       "publishedAt": "2026-09-17T13:01:44.000Z",
-      "points": 241
-    },
-    {
-      "objectID": "49715113",
-      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-      "domain": "404media.co",
-      "publishedAt": "2026-09-15T16:38:45.000Z",
-      "points": 230
+      "points": 242
     },
     {
       "objectID": "49746654",
@@ -87,7 +79,15 @@
       "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
       "domain": "iankduncan.com",
       "publishedAt": "2026-09-17T21:15:52.000Z",
-      "points": 229
+      "points": 231
+    },
+    {
+      "objectID": "49715113",
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+      "domain": "404media.co",
+      "publishedAt": "2026-09-15T16:38:45.000Z",
+      "points": 231
     },
     {
       "objectID": "49706223",
@@ -95,7 +95,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "domain": "theregister.com",
       "publishedAt": "2026-09-15T00:40:14.000Z",
-      "points": 229
+      "points": 230
     },
     {
       "objectID": "49695409",
@@ -103,7 +103,7 @@
       "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
       "domain": "macrumors.com",
       "publishedAt": "2026-09-14T12:01:32.000Z",
-      "points": 226
+      "points": 227
     },
     {
       "objectID": "49734264",
@@ -111,7 +111,15 @@
       "url": "https://openspec.dev/",
       "domain": "openspec.dev",
       "publishedAt": "2026-09-16T23:06:39.000Z",
-      "points": 198
+      "points": 199
+    },
+    {
+      "objectID": "49768921",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "domain": "tomshardware.com",
+      "publishedAt": "2026-09-19T18:21:30.000Z",
+      "points": 170
     },
     {
       "objectID": "49694035",
@@ -135,7 +143,7 @@
       "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
       "domain": "nathannaveen.dev",
       "publishedAt": "2026-09-14T14:29:23.000Z",
-      "points": 153
+      "points": 154
     },
     {
       "objectID": "49761840",
@@ -143,15 +151,7 @@
       "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
       "domain": "scmp.com",
       "publishedAt": "2026-09-18T23:54:42.000Z",
-      "points": 145
-    },
-    {
-      "objectID": "49768921",
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "domain": "tomshardware.com",
-      "publishedAt": "2026-09-19T18:21:30.000Z",
-      "points": 142
+      "points": 148
     },
     {
       "objectID": "49699384",
@@ -159,7 +159,7 @@
       "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
       "domain": "erkansaka.net",
       "publishedAt": "2026-09-14T16:15:05.000Z",
-      "points": 131
+      "points": 132
     }
   ]
 }
