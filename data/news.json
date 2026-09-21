@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T04:51:58.127Z",
+  "fetchedAt": "2026-09-21T12:43:49.611Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -7,7 +7,7 @@
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
       "publishedAt": "2026-09-19T09:20:58.000Z",
-      "points": 1792
+      "points": 1830
     },
     {
       "objectID": "49752056",
@@ -15,7 +15,7 @@
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-18T09:45:07.000Z",
-      "points": 936
+      "points": 940
     },
     {
       "objectID": "49746163",
@@ -23,7 +23,7 @@
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "points": 609
+      "points": 611
     },
     {
       "objectID": "49723408",
@@ -47,7 +47,7 @@
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "domain": "erichgrunewald.substack.com",
       "publishedAt": "2026-09-19T16:35:24.000Z",
-      "points": 344
+      "points": 353
     },
     {
       "objectID": "49737985",
@@ -55,7 +55,7 @@
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
       "publishedAt": "2026-09-17T08:36:37.000Z",
-      "points": 327
+      "points": 328
     },
     {
       "objectID": "49740105",
@@ -63,7 +63,7 @@
       "url": "https://mysetup.ai/",
       "domain": "mysetup.ai",
       "publishedAt": "2026-09-17T13:01:44.000Z",
-      "points": 245
+      "points": 249
     },
     {
       "objectID": "49746654",
@@ -82,28 +82,20 @@
       "points": 231
     },
     {
+      "objectID": "49774329",
+      "title": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "domain": "chesterwisniewski.com",
+      "publishedAt": "2026-09-20T10:07:51.000Z",
+      "points": 230
+    },
+    {
       "objectID": "49706223",
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "domain": "theregister.com",
       "publishedAt": "2026-09-15T00:40:14.000Z",
       "points": 230
-    },
-    {
-      "objectID": "49695409",
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "domain": "macrumors.com",
-      "publishedAt": "2026-09-14T12:01:32.000Z",
-      "points": 227
-    },
-    {
-      "objectID": "49774329",
-      "title": "AI and the Destruction of the Creative Commons",
-      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-      "domain": "chesterwisniewski.com",
-      "publishedAt": "2026-09-20T10:07:51.000Z",
-      "points": 225
     },
     {
       "objectID": "49734264",
@@ -119,15 +111,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
       "domain": "tomshardware.com",
       "publishedAt": "2026-09-19T18:21:30.000Z",
-      "points": 184
-    },
-    {
-      "objectID": "49694035",
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "url": "https://arxiv.org/abs/2511.07885",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-09-14T09:16:39.000Z",
-      "points": 168
+      "points": 186
     },
     {
       "objectID": "49697477",
@@ -151,7 +135,7 @@
       "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
       "domain": "science.org",
       "publishedAt": "2026-09-18T13:39:27.000Z",
-      "points": 135
+      "points": 136
     },
     {
       "objectID": "49699384",
@@ -160,6 +144,22 @@
       "domain": "erkansaka.net",
       "publishedAt": "2026-09-14T16:15:05.000Z",
       "points": 132
+    },
+    {
+      "objectID": "49783062",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "domain": "ft.com",
+      "publishedAt": "2026-09-21T04:28:44.000Z",
+      "points": 124
+    },
+    {
+      "objectID": "49755590",
+      "title": "AI is an elite crime spree",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "domain": "thebignewsletter.com",
+      "publishedAt": "2026-09-18T15:15:33.000Z",
+      "points": 124
     }
   ]
 }
