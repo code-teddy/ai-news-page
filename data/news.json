@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T16:55:20.797Z",
+  "fetchedAt": "2026-09-22T21:16:00.225Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -7,7 +7,7 @@
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
       "publishedAt": "2026-09-19T09:20:58.000Z",
-      "points": 1869
+      "points": 1870
     },
     {
       "objectID": "49752056",
@@ -15,7 +15,7 @@
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-18T09:45:07.000Z",
-      "points": 947
+      "points": 948
     },
     {
       "objectID": "49746163",
@@ -23,7 +23,7 @@
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "points": 613
+      "points": 614
     },
     {
       "objectID": "49723408",
@@ -55,7 +55,7 @@
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
       "domain": "alexn.org",
       "publishedAt": "2026-09-22T12:11:09.000Z",
-      "points": 332
+      "points": 355
     },
     {
       "objectID": "49737985",
@@ -63,7 +63,7 @@
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
       "publishedAt": "2026-09-17T08:36:37.000Z",
-      "points": 328
+      "points": 329
     },
     {
       "objectID": "49792067",
@@ -71,7 +71,7 @@
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "domain": "linear.app",
       "publishedAt": "2026-09-21T19:23:33.000Z",
-      "points": 299
+      "points": 306
     },
     {
       "objectID": "49740105",
@@ -90,6 +90,14 @@
       "points": 235
     },
     {
+      "objectID": "49806430",
+      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "domain": "bloomberg.com",
+      "publishedAt": "2026-09-22T19:03:38.000Z",
+      "points": 235
+    },
+    {
       "objectID": "49787535",
       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
       "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
@@ -103,7 +111,7 @@
       "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
       "domain": "iankduncan.com",
       "publishedAt": "2026-09-17T21:15:52.000Z",
-      "points": 231
+      "points": 232
     },
     {
       "objectID": "49791509",
@@ -111,7 +119,7 @@
       "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
       "domain": "reuters.com",
       "publishedAt": "2026-09-21T18:41:59.000Z",
-      "points": 230
+      "points": 231
     },
     {
       "objectID": "49734264",
@@ -119,7 +127,7 @@
       "url": "https://openspec.dev/",
       "domain": "openspec.dev",
       "publishedAt": "2026-09-16T23:06:39.000Z",
-      "points": 200
+      "points": 201
     },
     {
       "objectID": "49768921",
@@ -135,7 +143,7 @@
       "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
       "domain": "timdettmers.com",
       "publishedAt": "2026-09-21T18:53:01.000Z",
-      "points": 175
+      "points": 176
     },
     {
       "objectID": "49783062",
@@ -143,7 +151,7 @@
       "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
       "domain": "ft.com",
       "publishedAt": "2026-09-21T04:28:44.000Z",
-      "points": 154
+      "points": 156
     },
     {
       "objectID": "49761840",
@@ -152,14 +160,6 @@
       "domain": "scmp.com",
       "publishedAt": "2026-09-18T23:54:42.000Z",
       "points": 152
-    },
-    {
-      "objectID": "49789982",
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "domain": "forbes.com",
-      "publishedAt": "2026-09-21T17:00:23.000Z",
-      "points": 150
     }
   ]
 }
