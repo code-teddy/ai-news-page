@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T11:34:25.016Z",
+  "fetchedAt": "2026-09-22T16:55:20.797Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -7,7 +7,7 @@
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
       "publishedAt": "2026-09-19T09:20:58.000Z",
-      "points": 1867
+      "points": 1869
     },
     {
       "objectID": "49752056",
@@ -15,7 +15,7 @@
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-18T09:45:07.000Z",
-      "points": 945
+      "points": 947
     },
     {
       "objectID": "49746163",
@@ -31,7 +31,7 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "domain": "mistral.ai",
       "publishedAt": "2026-09-16T08:08:57.000Z",
-      "points": 589
+      "points": 590
     },
     {
       "objectID": "49757520",
@@ -39,7 +39,7 @@
       "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "domain": "cnn.com",
       "publishedAt": "2026-09-18T17:28:01.000Z",
-      "points": 515
+      "points": 518
     },
     {
       "objectID": "49767937",
@@ -48,6 +48,14 @@
       "domain": "erichgrunewald.substack.com",
       "publishedAt": "2026-09-19T16:35:24.000Z",
       "points": 360
+    },
+    {
+      "objectID": "49799965",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "domain": "alexn.org",
+      "publishedAt": "2026-09-22T12:11:09.000Z",
+      "points": 332
     },
     {
       "objectID": "49737985",
@@ -63,7 +71,7 @@
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "domain": "linear.app",
       "publishedAt": "2026-09-21T19:23:33.000Z",
-      "points": 252
+      "points": 299
     },
     {
       "objectID": "49740105",
@@ -82,12 +90,12 @@
       "points": 235
     },
     {
-      "objectID": "49715113",
-      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-      "domain": "404media.co",
-      "publishedAt": "2026-09-15T16:38:45.000Z",
-      "points": 232
+      "objectID": "49787535",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "domain": "reddit.com",
+      "publishedAt": "2026-09-21T14:10:49.000Z",
+      "points": 235
     },
     {
       "objectID": "49746654",
@@ -98,20 +106,12 @@
       "points": 231
     },
     {
-      "objectID": "49787535",
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "domain": "reddit.com",
-      "publishedAt": "2026-09-21T14:10:49.000Z",
-      "points": 230
-    },
-    {
       "objectID": "49791509",
       "title": "US halts flights at busy East Coast airports, says fiber line cut",
       "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
       "domain": "reuters.com",
       "publishedAt": "2026-09-21T18:41:59.000Z",
-      "points": 222
+      "points": 230
     },
     {
       "objectID": "49734264",
@@ -135,7 +135,7 @@
       "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
       "domain": "timdettmers.com",
       "publishedAt": "2026-09-21T18:53:01.000Z",
-      "points": 166
+      "points": 175
     },
     {
       "objectID": "49783062",
@@ -143,7 +143,7 @@
       "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
       "domain": "ft.com",
       "publishedAt": "2026-09-21T04:28:44.000Z",
-      "points": 153
+      "points": 154
     },
     {
       "objectID": "49761840",
@@ -159,7 +159,7 @@
       "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
       "domain": "forbes.com",
       "publishedAt": "2026-09-21T17:00:23.000Z",
-      "points": 148
+      "points": 150
     }
   ]
 }
