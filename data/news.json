@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T21:16:00.225Z",
+  "fetchedAt": "2026-09-23T04:42:04.668Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -7,7 +7,7 @@
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
       "publishedAt": "2026-09-19T09:20:58.000Z",
-      "points": 1870
+      "points": 1874
     },
     {
       "objectID": "49752056",
@@ -15,7 +15,7 @@
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-18T09:45:07.000Z",
-      "points": 948
+      "points": 950
     },
     {
       "objectID": "49746163",
@@ -23,7 +23,7 @@
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "points": 614
+      "points": 615
     },
     {
       "objectID": "49723408",
@@ -42,12 +42,12 @@
       "points": 518
     },
     {
-      "objectID": "49767937",
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "domain": "erichgrunewald.substack.com",
-      "publishedAt": "2026-09-19T16:35:24.000Z",
-      "points": 360
+      "objectID": "49806430",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "domain": "bloomberg.com",
+      "publishedAt": "2026-09-22T19:03:38.000Z",
+      "points": 517
     },
     {
       "objectID": "49799965",
@@ -55,7 +55,15 @@
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
       "domain": "alexn.org",
       "publishedAt": "2026-09-22T12:11:09.000Z",
-      "points": 355
+      "points": 372
+    },
+    {
+      "objectID": "49767937",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "domain": "erichgrunewald.substack.com",
+      "publishedAt": "2026-09-19T16:35:24.000Z",
+      "points": 362
     },
     {
       "objectID": "49737985",
@@ -71,7 +79,7 @@
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "domain": "linear.app",
       "publishedAt": "2026-09-21T19:23:33.000Z",
-      "points": 306
+      "points": 311
     },
     {
       "objectID": "49740105",
@@ -79,7 +87,7 @@
       "url": "https://mysetup.ai/",
       "domain": "mysetup.ai",
       "publishedAt": "2026-09-17T13:01:44.000Z",
-      "points": 249
+      "points": 250
     },
     {
       "objectID": "49774329",
@@ -87,15 +95,7 @@
       "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
       "domain": "chesterwisniewski.com",
       "publishedAt": "2026-09-20T10:07:51.000Z",
-      "points": 235
-    },
-    {
-      "objectID": "49806430",
-      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "domain": "bloomberg.com",
-      "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 235
+      "points": 236
     },
     {
       "objectID": "49787535",
@@ -103,6 +103,14 @@
       "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
       "domain": "reddit.com",
       "publishedAt": "2026-09-21T14:10:49.000Z",
+      "points": 236
+    },
+    {
+      "objectID": "49791509",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "domain": "reuters.com",
+      "publishedAt": "2026-09-21T18:41:59.000Z",
       "points": 235
     },
     {
@@ -112,14 +120,6 @@
       "domain": "iankduncan.com",
       "publishedAt": "2026-09-17T21:15:52.000Z",
       "points": 232
-    },
-    {
-      "objectID": "49791509",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "domain": "reuters.com",
-      "publishedAt": "2026-09-21T18:41:59.000Z",
-      "points": 231
     },
     {
       "objectID": "49734264",
@@ -143,7 +143,7 @@
       "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
       "domain": "timdettmers.com",
       "publishedAt": "2026-09-21T18:53:01.000Z",
-      "points": 176
+      "points": 179
     },
     {
       "objectID": "49783062",
