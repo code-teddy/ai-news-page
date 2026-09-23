@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T16:54:43.934Z",
+  "fetchedAt": "2026-09-23T21:28:16.657Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -23,7 +23,7 @@
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 827
+      "points": 881
     },
     {
       "objectID": "49746163",
@@ -71,7 +71,7 @@
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "domain": "linear.app",
       "publishedAt": "2026-09-21T19:23:33.000Z",
-      "points": 311
+      "points": 312
     },
     {
       "objectID": "49740105",
@@ -80,6 +80,14 @@
       "domain": "mysetup.ai",
       "publishedAt": "2026-09-17T13:01:44.000Z",
       "points": 250
+    },
+    {
+      "objectID": "49787535",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "domain": "reddit.com",
+      "publishedAt": "2026-09-21T14:10:49.000Z",
+      "points": 237
     },
     {
       "objectID": "49774329",
@@ -95,14 +103,6 @@
       "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
       "domain": "reuters.com",
       "publishedAt": "2026-09-21T18:41:59.000Z",
-      "points": 236
-    },
-    {
-      "objectID": "49787535",
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "domain": "reddit.com",
-      "publishedAt": "2026-09-21T14:10:49.000Z",
       "points": 236
     },
     {
@@ -135,7 +135,7 @@
       "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
       "domain": "timdettmers.com",
       "publishedAt": "2026-09-21T18:53:01.000Z",
-      "points": 182
+      "points": 183
     },
     {
       "objectID": "49783062",
@@ -146,20 +146,20 @@
       "points": 156
     },
     {
+      "objectID": "49815982",
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "domain": "stripe.dev",
+      "publishedAt": "2026-09-23T13:38:00.000Z",
+      "points": 153
+    },
+    {
       "objectID": "49761840",
       "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
       "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
       "domain": "scmp.com",
       "publishedAt": "2026-09-18T23:54:42.000Z",
       "points": 152
-    },
-    {
-      "objectID": "49789982",
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "domain": "forbes.com",
-      "publishedAt": "2026-09-21T17:00:23.000Z",
-      "points": 151
     }
   ]
 }
