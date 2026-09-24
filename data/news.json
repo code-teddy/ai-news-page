@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T21:28:16.657Z",
+  "fetchedAt": "2026-09-24T04:45:49.746Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -7,7 +7,7 @@
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
       "publishedAt": "2026-09-19T09:20:58.000Z",
-      "points": 1880
+      "points": 1883
     },
     {
       "objectID": "49752056",
@@ -15,7 +15,7 @@
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-09-18T09:45:07.000Z",
-      "points": 950
+      "points": 951
     },
     {
       "objectID": "49806430",
@@ -23,7 +23,7 @@
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 881
+      "points": 899
     },
     {
       "objectID": "49746163",
@@ -71,7 +71,7 @@
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "domain": "linear.app",
       "publishedAt": "2026-09-21T19:23:33.000Z",
-      "points": 312
+      "points": 313
     },
     {
       "objectID": "49740105",
@@ -80,6 +80,14 @@
       "domain": "mysetup.ai",
       "publishedAt": "2026-09-17T13:01:44.000Z",
       "points": 250
+    },
+    {
+      "objectID": "49791509",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "domain": "reuters.com",
+      "publishedAt": "2026-09-21T18:41:59.000Z",
+      "points": 237
     },
     {
       "objectID": "49787535",
@@ -98,28 +106,12 @@
       "points": 236
     },
     {
-      "objectID": "49791509",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "domain": "reuters.com",
-      "publishedAt": "2026-09-21T18:41:59.000Z",
-      "points": 236
-    },
-    {
       "objectID": "49746654",
       "title": "Sex, AI, and the Apocalypse",
       "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
       "domain": "iankduncan.com",
       "publishedAt": "2026-09-17T21:15:52.000Z",
       "points": 232
-    },
-    {
-      "objectID": "49734264",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
-      "domain": "openspec.dev",
-      "publishedAt": "2026-09-16T23:06:39.000Z",
-      "points": 201
     },
     {
       "objectID": "49768921",
@@ -138,6 +130,14 @@
       "points": 183
     },
     {
+      "objectID": "49815982",
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "domain": "stripe.dev",
+      "publishedAt": "2026-09-23T13:38:00.000Z",
+      "points": 176
+    },
+    {
       "objectID": "49783062",
       "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
       "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
@@ -146,12 +146,12 @@
       "points": 156
     },
     {
-      "objectID": "49815982",
-      "title": "Stripe's Knowledge AI Platform",
-      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "domain": "stripe.dev",
-      "publishedAt": "2026-09-23T13:38:00.000Z",
-      "points": 153
+      "objectID": "49824686",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "domain": "kenklippenstein.com",
+      "publishedAt": "2026-09-24T00:41:31.000Z",
+      "points": 152
     },
     {
       "objectID": "49761840",
