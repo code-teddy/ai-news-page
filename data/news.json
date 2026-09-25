@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T04:53:59.595Z",
+  "fetchedAt": "2026-09-25T11:47:31.945Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -10,20 +10,12 @@
       "points": 1887
     },
     {
-      "objectID": "49752056",
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "domain": "techcrunch.com",
-      "publishedAt": "2026-09-18T09:45:07.000Z",
-      "points": 954
-    },
-    {
       "objectID": "49806430",
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 949
+      "points": 953
     },
     {
       "objectID": "49827794",
@@ -31,7 +23,7 @@
       "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "domain": "reddit.com",
       "publishedAt": "2026-09-24T08:23:03.000Z",
-      "points": 604
+      "points": 612
     },
     {
       "objectID": "49757520",
@@ -55,7 +47,7 @@
       "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
       "publishedAt": "2026-09-24T00:41:31.000Z",
-      "points": 375
+      "points": 380
     },
     {
       "objectID": "49767937",
@@ -71,7 +63,7 @@
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "domain": "linear.app",
       "publishedAt": "2026-09-21T19:23:33.000Z",
-      "points": 313
+      "points": 314
     },
     {
       "objectID": "49826565",
@@ -79,7 +71,7 @@
       "url": "https://transluce.org/agent-activity",
       "domain": "transluce.org",
       "publishedAt": "2026-09-24T05:21:10.000Z",
-      "points": 254
+      "points": 259
     },
     {
       "objectID": "49787535",
@@ -119,7 +111,7 @@
       "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
       "domain": "stripe.dev",
       "publishedAt": "2026-09-23T13:38:00.000Z",
-      "points": 184
+      "points": 185
     },
     {
       "objectID": "49791647",
@@ -128,6 +120,14 @@
       "domain": "timdettmers.com",
       "publishedAt": "2026-09-21T18:53:01.000Z",
       "points": 183
+    },
+    {
+      "objectID": "49829650",
+      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "domain": "theguardian.com",
+      "publishedAt": "2026-09-24T12:23:41.000Z",
+      "points": 167
     },
     {
       "objectID": "49783062",
