@@ -1,21 +1,13 @@
 {
-  "fetchedAt": "2026-09-26T04:54:24.223Z",
+  "fetchedAt": "2026-09-26T11:21:17.714Z",
   "stories": [
-    {
-      "objectID": "49764791",
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "domain": "john.hartnup.uk",
-      "publishedAt": "2026-09-19T09:20:58.000Z",
-      "points": 1889
-    },
     {
       "objectID": "49806430",
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 959
+      "points": 960
     },
     {
       "objectID": "49827794",
@@ -23,7 +15,7 @@
       "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "domain": "reddit.com",
       "publishedAt": "2026-09-24T08:23:03.000Z",
-      "points": 623
+      "points": 626
     },
     {
       "objectID": "49824686",
@@ -95,7 +87,7 @@
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
-      "points": 201
+      "points": 205
     },
     {
       "objectID": "49768921",
@@ -159,7 +151,15 @@
       "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
       "domain": "afr.com",
       "publishedAt": "2026-09-24T15:09:38.000Z",
-      "points": 134
+      "points": 137
+    },
+    {
+      "objectID": "49774795",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "domain": "i-kh.net",
+      "publishedAt": "2026-09-20T11:37:10.000Z",
+      "points": 129
     }
   ]
 }
