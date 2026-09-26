@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T21:32:34.808Z",
+  "fetchedAt": "2026-09-26T04:54:24.223Z",
   "stories": [
     {
       "objectID": "49764791",
@@ -15,7 +15,7 @@
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 958
+      "points": 959
     },
     {
       "objectID": "49827794",
@@ -23,7 +23,7 @@
       "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "domain": "reddit.com",
       "publishedAt": "2026-09-24T08:23:03.000Z",
-      "points": 622
+      "points": 623
     },
     {
       "objectID": "49824686",
@@ -95,7 +95,7 @@
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
-      "points": 193
+      "points": 201
     },
     {
       "objectID": "49768921",
@@ -127,7 +127,7 @@
       "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
       "domain": "washingtonsun.com",
       "publishedAt": "2026-09-25T15:27:35.000Z",
-      "points": 165
+      "points": 171
     },
     {
       "objectID": "49783062",
@@ -135,7 +135,7 @@
       "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
       "domain": "ft.com",
       "publishedAt": "2026-09-21T04:28:44.000Z",
-      "points": 156
+      "points": 157
     },
     {
       "objectID": "49789982",
@@ -146,20 +146,20 @@
       "points": 152
     },
     {
-      "objectID": "49761840",
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "domain": "scmp.com",
-      "publishedAt": "2026-09-18T23:54:42.000Z",
-      "points": 152
-    },
-    {
       "objectID": "49784816",
       "title": "Don't Use AI to Write",
       "url": "https://paulbakker.io/writing/no-ai-for-writing/",
       "domain": "paulbakker.io",
       "publishedAt": "2026-09-21T08:54:44.000Z",
       "points": 148
+    },
+    {
+      "objectID": "49831690",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "domain": "afr.com",
+      "publishedAt": "2026-09-24T15:09:38.000Z",
+      "points": 134
     }
   ]
 }
