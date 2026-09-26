@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T11:21:17.714Z",
+  "fetchedAt": "2026-09-26T16:20:39.813Z",
   "stories": [
     {
       "objectID": "49806430",
@@ -7,7 +7,7 @@
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 960
+      "points": 961
     },
     {
       "objectID": "49827794",
@@ -15,7 +15,7 @@
       "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "domain": "reddit.com",
       "publishedAt": "2026-09-24T08:23:03.000Z",
-      "points": 626
+      "points": 627
     },
     {
       "objectID": "49824686",
@@ -87,7 +87,7 @@
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
-      "points": 205
+      "points": 206
     },
     {
       "objectID": "49768921",
@@ -119,7 +119,7 @@
       "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
       "domain": "washingtonsun.com",
       "publishedAt": "2026-09-25T15:27:35.000Z",
-      "points": 171
+      "points": 172
     },
     {
       "objectID": "49783062",
@@ -138,6 +138,14 @@
       "points": 152
     },
     {
+      "objectID": "49855018",
+      "title": "One Month Without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "domain": "blog.bustikiller.com",
+      "publishedAt": "2026-09-26T10:08:21.000Z",
+      "points": 150
+    },
+    {
       "objectID": "49784816",
       "title": "Don't Use AI to Write",
       "url": "https://paulbakker.io/writing/no-ai-for-writing/",
@@ -151,15 +159,7 @@
       "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
       "domain": "afr.com",
       "publishedAt": "2026-09-24T15:09:38.000Z",
-      "points": 137
-    },
-    {
-      "objectID": "49774795",
-      "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "domain": "i-kh.net",
-      "publishedAt": "2026-09-20T11:37:10.000Z",
-      "points": 129
+      "points": 138
     }
   ]
 }
