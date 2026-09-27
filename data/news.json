@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T11:58:59.103Z",
+  "fetchedAt": "2026-09-27T16:56:09.366Z",
   "stories": [
     {
       "objectID": "49806430",
@@ -7,7 +7,7 @@
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 966
+      "points": 967
     },
     {
       "objectID": "49827794",
@@ -15,7 +15,7 @@
       "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "domain": "reddit.com",
       "publishedAt": "2026-09-24T08:23:03.000Z",
-      "points": 628
+      "points": 629
     },
     {
       "objectID": "49824686",
@@ -42,6 +42,14 @@
       "points": 316
     },
     {
+      "objectID": "49836579",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "domain": "thelastsoftwareengineer.substack.com",
+      "publishedAt": "2026-09-24T20:51:50.000Z",
+      "points": 270
+    },
+    {
       "objectID": "49826565",
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "url": "https://transluce.org/agent-activity",
@@ -66,20 +74,12 @@
       "points": 239
     },
     {
-      "objectID": "49836579",
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "domain": "thelastsoftwareengineer.substack.com",
-      "publishedAt": "2026-09-24T20:51:50.000Z",
-      "points": 223
-    },
-    {
       "objectID": "49829650",
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
-      "points": 212
+      "points": 213
     },
     {
       "objectID": "49815982",
@@ -98,20 +98,20 @@
       "points": 185
     },
     {
-      "objectID": "49845952",
-      "title": "Classified estimates show the NSA is paying billions to test AI models",
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "domain": "washingtonsun.com",
-      "publishedAt": "2026-09-25T15:27:35.000Z",
-      "points": 176
-    },
-    {
       "objectID": "49855018",
       "title": "One Month Without AI",
       "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
       "domain": "blog.bustikiller.com",
       "publishedAt": "2026-09-26T10:08:21.000Z",
-      "points": 175
+      "points": 178
+    },
+    {
+      "objectID": "49845952",
+      "title": "Classified estimates show the NSA is paying billions to test AI models",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "domain": "washingtonsun.com",
+      "publishedAt": "2026-09-25T15:27:35.000Z",
+      "points": 177
     },
     {
       "objectID": "49783062",
@@ -122,20 +122,20 @@
       "points": 157
     },
     {
+      "objectID": "49844896",
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "domain": "bloomberg.com",
+      "publishedAt": "2026-09-25T14:07:08.000Z",
+      "points": 153
+    },
+    {
       "objectID": "49789982",
       "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
       "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
       "domain": "forbes.com",
       "publishedAt": "2026-09-21T17:00:23.000Z",
       "points": 152
-    },
-    {
-      "objectID": "49844896",
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "domain": "bloomberg.com",
-      "publishedAt": "2026-09-25T14:07:08.000Z",
-      "points": 149
     },
     {
       "objectID": "49784816",
@@ -154,12 +154,12 @@
       "points": 142
     },
     {
-      "objectID": "49831269",
-      "title": "AI safety is mostly a sex cult in Berkeley",
-      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-      "domain": "verysane.ai",
-      "publishedAt": "2026-09-24T14:38:31.000Z",
-      "points": 120
+      "objectID": "49839567",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "domain": "dashbit.co",
+      "publishedAt": "2026-09-25T02:34:39.000Z",
+      "points": 128
     }
   ]
 }
