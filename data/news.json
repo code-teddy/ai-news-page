@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T05:15:24.721Z",
+  "fetchedAt": "2026-09-27T11:58:59.103Z",
   "stories": [
     {
       "objectID": "49806430",
@@ -23,7 +23,7 @@
       "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
       "publishedAt": "2026-09-24T00:41:31.000Z",
-      "points": 391
+      "points": 392
     },
     {
       "objectID": "49799965",
@@ -31,7 +31,7 @@
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
       "domain": "alexn.org",
       "publishedAt": "2026-09-22T12:11:09.000Z",
-      "points": 384
+      "points": 385
     },
     {
       "objectID": "49792067",
@@ -66,12 +66,12 @@
       "points": 239
     },
     {
-      "objectID": "49774329",
-      "title": "AI and the Destruction of the Creative Commons",
-      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-      "domain": "chesterwisniewski.com",
-      "publishedAt": "2026-09-20T10:07:51.000Z",
-      "points": 236
+      "objectID": "49836579",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "domain": "thelastsoftwareengineer.substack.com",
+      "publishedAt": "2026-09-24T20:51:50.000Z",
+      "points": 223
     },
     {
       "objectID": "49829650",
@@ -79,7 +79,7 @@
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
-      "points": 210
+      "points": 212
     },
     {
       "objectID": "49815982",
@@ -111,15 +111,7 @@
       "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
       "domain": "blog.bustikiller.com",
       "publishedAt": "2026-09-26T10:08:21.000Z",
-      "points": 170
-    },
-    {
-      "objectID": "49836579",
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "domain": "thelastsoftwareengineer.substack.com",
-      "publishedAt": "2026-09-24T20:51:50.000Z",
-      "points": 164
+      "points": 175
     },
     {
       "objectID": "49783062",
@@ -138,6 +130,14 @@
       "points": 152
     },
     {
+      "objectID": "49844896",
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "domain": "bloomberg.com",
+      "publishedAt": "2026-09-25T14:07:08.000Z",
+      "points": 149
+    },
+    {
       "objectID": "49784816",
       "title": "Don't Use AI to Write",
       "url": "https://paulbakker.io/writing/no-ai-for-writing/",
@@ -146,20 +146,20 @@
       "points": 148
     },
     {
-      "objectID": "49844896",
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "domain": "bloomberg.com",
-      "publishedAt": "2026-09-25T14:07:08.000Z",
-      "points": 145
-    },
-    {
       "objectID": "49831690",
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
       "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
       "domain": "afr.com",
       "publishedAt": "2026-09-24T15:09:38.000Z",
       "points": 142
+    },
+    {
+      "objectID": "49831269",
+      "title": "AI safety is mostly a sex cult in Berkeley",
+      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+      "domain": "verysane.ai",
+      "publishedAt": "2026-09-24T14:38:31.000Z",
+      "points": 120
     }
   ]
 }
