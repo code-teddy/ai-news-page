@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T21:07:13.261Z",
+  "fetchedAt": "2026-09-27T05:15:24.721Z",
   "stories": [
     {
       "objectID": "49806430",
@@ -7,7 +7,7 @@
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 961
+      "points": 966
     },
     {
       "objectID": "49827794",
@@ -23,7 +23,7 @@
       "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
       "publishedAt": "2026-09-24T00:41:31.000Z",
-      "points": 390
+      "points": 391
     },
     {
       "objectID": "49799965",
@@ -79,7 +79,7 @@
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
-      "points": 208
+      "points": 210
     },
     {
       "objectID": "49815982",
@@ -103,7 +103,7 @@
       "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
       "domain": "washingtonsun.com",
       "publishedAt": "2026-09-25T15:27:35.000Z",
-      "points": 173
+      "points": 176
     },
     {
       "objectID": "49855018",
@@ -111,7 +111,15 @@
       "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
       "domain": "blog.bustikiller.com",
       "publishedAt": "2026-09-26T10:08:21.000Z",
-      "points": 167
+      "points": 170
+    },
+    {
+      "objectID": "49836579",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "domain": "thelastsoftwareengineer.substack.com",
+      "publishedAt": "2026-09-24T20:51:50.000Z",
+      "points": 164
     },
     {
       "objectID": "49783062",
@@ -138,28 +146,20 @@
       "points": 148
     },
     {
-      "objectID": "49831690",
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "domain": "afr.com",
-      "publishedAt": "2026-09-24T15:09:38.000Z",
-      "points": 141
-    },
-    {
       "objectID": "49844896",
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-25T14:07:08.000Z",
-      "points": 138
+      "points": 145
     },
     {
-      "objectID": "49774795",
-      "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "domain": "i-kh.net",
-      "publishedAt": "2026-09-20T11:37:10.000Z",
-      "points": 129
+      "objectID": "49831690",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "domain": "afr.com",
+      "publishedAt": "2026-09-24T15:09:38.000Z",
+      "points": 142
     }
   ]
 }
