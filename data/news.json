@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T13:49:09.398Z",
+  "fetchedAt": "2026-09-28T23:14:18.141Z",
   "stories": [
     {
       "objectID": "49806430",
@@ -18,12 +18,28 @@
       "points": 631
     },
     {
+      "objectID": "49875148",
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "domain": "thecivilian.co.nz",
+      "publishedAt": "2026-09-28T08:35:40.000Z",
+      "points": 425
+    },
+    {
       "objectID": "49824686",
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
       "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
       "publishedAt": "2026-09-24T00:41:31.000Z",
       "points": 394
+    },
+    {
+      "objectID": "49868083",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "domain": "eoinhiggins.substack.com",
+      "publishedAt": "2026-09-27T16:19:46.000Z",
+      "points": 388
     },
     {
       "objectID": "49799965",
@@ -34,28 +50,12 @@
       "points": 386
     },
     {
-      "objectID": "49868083",
-      "title": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "domain": "eoinhiggins.substack.com",
-      "publishedAt": "2026-09-27T16:19:46.000Z",
-      "points": 374
-    },
-    {
-      "objectID": "49792067",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "domain": "linear.app",
-      "publishedAt": "2026-09-21T19:23:33.000Z",
-      "points": 316
-    },
-    {
-      "objectID": "49875148",
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-      "domain": "thecivilian.co.nz",
-      "publishedAt": "2026-09-28T08:35:40.000Z",
-      "points": 299
+      "objectID": "49880312",
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "domain": "ssp.sh",
+      "publishedAt": "2026-09-28T16:11:42.000Z",
+      "points": 338
     },
     {
       "objectID": "49836579",
@@ -63,7 +63,7 @@
       "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
       "domain": "thelastsoftwareengineer.substack.com",
       "publishedAt": "2026-09-24T20:51:50.000Z",
-      "points": 295
+      "points": 301
     },
     {
       "objectID": "49826565",
@@ -74,28 +74,12 @@
       "points": 266
     },
     {
-      "objectID": "49787535",
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "domain": "reddit.com",
-      "publishedAt": "2026-09-21T14:10:49.000Z",
-      "points": 240
-    },
-    {
-      "objectID": "49791509",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "domain": "reuters.com",
-      "publishedAt": "2026-09-21T18:41:59.000Z",
-      "points": 239
-    },
-    {
       "objectID": "49829650",
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
-      "points": 214
+      "points": 215
     },
     {
       "objectID": "49815982",
@@ -106,20 +90,20 @@
       "points": 189
     },
     {
-      "objectID": "49791647",
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "domain": "timdettmers.com",
-      "publishedAt": "2026-09-21T18:53:01.000Z",
-      "points": 185
-    },
-    {
       "objectID": "49855018",
       "title": "One Month Without AI",
       "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
       "domain": "blog.bustikiller.com",
       "publishedAt": "2026-09-26T10:08:21.000Z",
-      "points": 183
+      "points": 187
+    },
+    {
+      "objectID": "49883471",
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "domain": "calnewport.com",
+      "publishedAt": "2026-09-28T19:53:35.000Z",
+      "points": 182
     },
     {
       "objectID": "49845952",
@@ -130,20 +114,20 @@
       "points": 177
     },
     {
+      "objectID": "49873241",
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-09-28T03:23:53.000Z",
+      "points": 169
+    },
+    {
       "objectID": "49844896",
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-25T14:07:08.000Z",
-      "points": 156
-    },
-    {
-      "objectID": "49789982",
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "domain": "forbes.com",
-      "publishedAt": "2026-09-21T17:00:23.000Z",
-      "points": 152
+      "points": 157
     },
     {
       "objectID": "49831690",
@@ -159,7 +143,23 @@
       "url": "https://dashbit.co/blog/evolving-ai-era",
       "domain": "dashbit.co",
       "publishedAt": "2026-09-25T02:34:39.000Z",
-      "points": 136
+      "points": 137
+    },
+    {
+      "objectID": "49876148",
+      "title": "What would a serious AI product look like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "domain": "blog.glyph.im",
+      "publishedAt": "2026-09-28T11:02:12.000Z",
+      "points": 122
+    },
+    {
+      "objectID": "49831269",
+      "title": "AI safety is mostly a sex cult in Berkeley",
+      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+      "domain": "verysane.ai",
+      "publishedAt": "2026-09-24T14:38:31.000Z",
+      "points": 121
     }
   ]
 }
