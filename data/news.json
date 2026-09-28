@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T21:18:39.983Z",
+  "fetchedAt": "2026-09-28T05:19:48.094Z",
   "stories": [
     {
       "objectID": "49806430",
@@ -7,7 +7,7 @@
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 969
+      "points": 970
     },
     {
       "objectID": "49827794",
@@ -23,7 +23,7 @@
       "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
       "publishedAt": "2026-09-24T00:41:31.000Z",
-      "points": 393
+      "points": 394
     },
     {
       "objectID": "49799965",
@@ -34,6 +34,14 @@
       "points": 386
     },
     {
+      "objectID": "49868083",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "domain": "eoinhiggins.substack.com",
+      "publishedAt": "2026-09-27T16:19:46.000Z",
+      "points": 348
+    },
+    {
       "objectID": "49792067",
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
@@ -42,20 +50,12 @@
       "points": 316
     },
     {
-      "objectID": "49868083",
-      "title": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "domain": "eoinhiggins.substack.com",
-      "publishedAt": "2026-09-27T16:19:46.000Z",
-      "points": 295
-    },
-    {
       "objectID": "49836579",
       "title": "How I changed teaching after AI managed to do all my homework assignments",
       "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
       "domain": "thelastsoftwareengineer.substack.com",
       "publishedAt": "2026-09-24T20:51:50.000Z",
-      "points": 279
+      "points": 288
     },
     {
       "objectID": "49826565",
@@ -63,7 +63,7 @@
       "url": "https://transluce.org/agent-activity",
       "domain": "transluce.org",
       "publishedAt": "2026-09-24T05:21:10.000Z",
-      "points": 265
+      "points": 266
     },
     {
       "objectID": "49787535",
@@ -87,7 +87,7 @@
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
-      "points": 213
+      "points": 214
     },
     {
       "objectID": "49815982",
@@ -111,7 +111,7 @@
       "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
       "domain": "blog.bustikiller.com",
       "publishedAt": "2026-09-26T10:08:21.000Z",
-      "points": 179
+      "points": 182
     },
     {
       "objectID": "49845952",
@@ -122,20 +122,12 @@
       "points": 177
     },
     {
-      "objectID": "49783062",
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "domain": "ft.com",
-      "publishedAt": "2026-09-21T04:28:44.000Z",
-      "points": 157
-    },
-    {
       "objectID": "49844896",
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-25T14:07:08.000Z",
-      "points": 154
+      "points": 155
     },
     {
       "objectID": "49789982",
@@ -160,6 +152,14 @@
       "domain": "afr.com",
       "publishedAt": "2026-09-24T15:09:38.000Z",
       "points": 142
+    },
+    {
+      "objectID": "49839567",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "domain": "dashbit.co",
+      "publishedAt": "2026-09-25T02:34:39.000Z",
+      "points": 135
     }
   ]
 }
