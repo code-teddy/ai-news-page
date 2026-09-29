@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T23:14:18.141Z",
+  "fetchedAt": "2026-09-29T05:40:44.843Z",
   "stories": [
     {
       "objectID": "49806430",
@@ -23,7 +23,7 @@
       "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
       "domain": "thecivilian.co.nz",
       "publishedAt": "2026-09-28T08:35:40.000Z",
-      "points": 425
+      "points": 428
     },
     {
       "objectID": "49824686",
@@ -34,12 +34,20 @@
       "points": 394
     },
     {
+      "objectID": "49883471",
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "domain": "calnewport.com",
+      "publishedAt": "2026-09-28T19:53:35.000Z",
+      "points": 392
+    },
+    {
       "objectID": "49868083",
       "title": "There are no \"rogue\" AI agents",
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "domain": "eoinhiggins.substack.com",
       "publishedAt": "2026-09-27T16:19:46.000Z",
-      "points": 388
+      "points": 391
     },
     {
       "objectID": "49799965",
@@ -55,7 +63,7 @@
       "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
       "domain": "ssp.sh",
       "publishedAt": "2026-09-28T16:11:42.000Z",
-      "points": 338
+      "points": 358
     },
     {
       "objectID": "49836579",
@@ -98,14 +106,6 @@
       "points": 187
     },
     {
-      "objectID": "49883471",
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "domain": "calnewport.com",
-      "publishedAt": "2026-09-28T19:53:35.000Z",
-      "points": 182
-    },
-    {
       "objectID": "49845952",
       "title": "Classified estimates show the NSA is paying billions to test AI models",
       "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
@@ -119,7 +119,7 @@
       "url": "https://arxiv.org/abs/2110.01834",
       "domain": "arxiv.org",
       "publishedAt": "2026-09-28T03:23:53.000Z",
-      "points": 169
+      "points": 171
     },
     {
       "objectID": "49844896",
@@ -130,11 +130,27 @@
       "points": 157
     },
     {
+      "objectID": "49876148",
+      "title": "What would a serious AI product look like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "domain": "blog.glyph.im",
+      "publishedAt": "2026-09-28T11:02:12.000Z",
+      "points": 143
+    },
+    {
       "objectID": "49831690",
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
       "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
       "domain": "afr.com",
       "publishedAt": "2026-09-24T15:09:38.000Z",
+      "points": 142
+    },
+    {
+      "objectID": "49879883",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "domain": "cnbc.com",
+      "publishedAt": "2026-09-28T15:46:36.000Z",
       "points": 142
     },
     {
@@ -144,22 +160,6 @@
       "domain": "dashbit.co",
       "publishedAt": "2026-09-25T02:34:39.000Z",
       "points": 137
-    },
-    {
-      "objectID": "49876148",
-      "title": "What would a serious AI product look like?",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "domain": "blog.glyph.im",
-      "publishedAt": "2026-09-28T11:02:12.000Z",
-      "points": 122
-    },
-    {
-      "objectID": "49831269",
-      "title": "AI safety is mostly a sex cult in Berkeley",
-      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-      "domain": "verysane.ai",
-      "publishedAt": "2026-09-24T14:38:31.000Z",
-      "points": 121
     }
   ]
 }
