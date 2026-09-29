@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T05:40:44.843Z",
+  "fetchedAt": "2026-09-29T12:48:36.686Z",
   "stories": [
     {
       "objectID": "49806430",
@@ -7,7 +7,7 @@
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-22T19:03:38.000Z",
-      "points": 970
+      "points": 971
     },
     {
       "objectID": "49827794",
@@ -18,12 +18,20 @@
       "points": 631
     },
     {
+      "objectID": "49883471",
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "domain": "calnewport.com",
+      "publishedAt": "2026-09-28T19:53:35.000Z",
+      "points": 537
+    },
+    {
       "objectID": "49875148",
       "title": "AI companies in race to demonstrate their model most threatening to humanity",
       "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
       "domain": "thecivilian.co.nz",
       "publishedAt": "2026-09-28T08:35:40.000Z",
-      "points": 428
+      "points": 432
     },
     {
       "objectID": "49824686",
@@ -34,14 +42,6 @@
       "points": 394
     },
     {
-      "objectID": "49883471",
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "domain": "calnewport.com",
-      "publishedAt": "2026-09-28T19:53:35.000Z",
-      "points": 392
-    },
-    {
       "objectID": "49868083",
       "title": "There are no \"rogue\" AI agents",
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
@@ -50,20 +50,12 @@
       "points": 391
     },
     {
-      "objectID": "49799965",
-      "title": "AI Has No Wisdom and Neither Will You",
-      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-      "domain": "alexn.org",
-      "publishedAt": "2026-09-22T12:11:09.000Z",
-      "points": 386
-    },
-    {
       "objectID": "49880312",
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
       "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
       "domain": "ssp.sh",
       "publishedAt": "2026-09-28T16:11:42.000Z",
-      "points": 358
+      "points": 370
     },
     {
       "objectID": "49836579",
@@ -88,6 +80,22 @@
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
       "points": 215
+    },
+    {
+      "objectID": "49879883",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "domain": "cnbc.com",
+      "publishedAt": "2026-09-28T15:46:36.000Z",
+      "points": 199
+    },
+    {
+      "objectID": "49890226",
+      "title": "AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "domain": "jorgegarciaherrero.com",
+      "publishedAt": "2026-09-29T09:03:41.000Z",
+      "points": 190
     },
     {
       "objectID": "49815982",
@@ -119,7 +127,15 @@
       "url": "https://arxiv.org/abs/2110.01834",
       "domain": "arxiv.org",
       "publishedAt": "2026-09-28T03:23:53.000Z",
-      "points": 171
+      "points": 173
+    },
+    {
+      "objectID": "49876148",
+      "title": "What would a serious AI product look like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "domain": "blog.glyph.im",
+      "publishedAt": "2026-09-28T11:02:12.000Z",
+      "points": 161
     },
     {
       "objectID": "49844896",
@@ -130,27 +146,11 @@
       "points": 157
     },
     {
-      "objectID": "49876148",
-      "title": "What would a serious AI product look like?",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "domain": "blog.glyph.im",
-      "publishedAt": "2026-09-28T11:02:12.000Z",
-      "points": 143
-    },
-    {
       "objectID": "49831690",
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
       "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
       "domain": "afr.com",
       "publishedAt": "2026-09-24T15:09:38.000Z",
-      "points": 142
-    },
-    {
-      "objectID": "49879883",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "domain": "cnbc.com",
-      "publishedAt": "2026-09-28T15:46:36.000Z",
       "points": 142
     },
     {
