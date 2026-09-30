@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T05:29:03.042Z",
+  "fetchedAt": "2026-09-30T12:30:34.129Z",
   "stories": [
     {
       "objectID": "49827794",
@@ -15,7 +15,7 @@
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
       "domain": "calnewport.com",
       "publishedAt": "2026-09-28T19:53:35.000Z",
-      "points": 600
+      "points": 610
     },
     {
       "objectID": "49896050",
@@ -23,7 +23,7 @@
       "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "domain": "eff.org",
       "publishedAt": "2026-09-29T16:30:48.000Z",
-      "points": 535
+      "points": 545
     },
     {
       "objectID": "49875148",
@@ -31,7 +31,7 @@
       "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
       "domain": "thecivilian.co.nz",
       "publishedAt": "2026-09-28T08:35:40.000Z",
-      "points": 437
+      "points": 438
     },
     {
       "objectID": "49890226",
@@ -39,15 +39,7 @@
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "domain": "jorgegarciaherrero.com",
       "publishedAt": "2026-09-29T09:03:41.000Z",
-      "points": 413
-    },
-    {
-      "objectID": "49824686",
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "domain": "kenklippenstein.com",
-      "publishedAt": "2026-09-24T00:41:31.000Z",
-      "points": 394
+      "points": 419
     },
     {
       "objectID": "49868083",
@@ -55,6 +47,14 @@
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "domain": "eoinhiggins.substack.com",
       "publishedAt": "2026-09-27T16:19:46.000Z",
+      "points": 395
+    },
+    {
+      "objectID": "49824686",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "domain": "kenklippenstein.com",
+      "publishedAt": "2026-09-24T00:41:31.000Z",
       "points": 394
     },
     {
@@ -87,7 +87,7 @@
       "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
       "domain": "cnbc.com",
       "publishedAt": "2026-09-28T15:46:36.000Z",
-      "points": 223
+      "points": 225
     },
     {
       "objectID": "49829650",
@@ -103,7 +103,7 @@
       "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
       "domain": "thenationalnews.com",
       "publishedAt": "2026-09-29T19:21:25.000Z",
-      "points": 199
+      "points": 208
     },
     {
       "objectID": "49815982",
@@ -135,7 +135,7 @@
       "url": "https://arxiv.org/abs/2110.01834",
       "domain": "arxiv.org",
       "publishedAt": "2026-09-28T03:23:53.000Z",
-      "points": 176
+      "points": 177
     },
     {
       "objectID": "49876148",
@@ -143,7 +143,15 @@
       "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
       "domain": "blog.glyph.im",
       "publishedAt": "2026-09-28T11:02:12.000Z",
-      "points": 170
+      "points": 171
+    },
+    {
+      "objectID": "49893709",
+      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+      "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+      "domain": "appleinsider.com",
+      "publishedAt": "2026-09-29T14:15:24.000Z",
+      "points": 158
     },
     {
       "objectID": "49844896",
@@ -152,14 +160,6 @@
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-25T14:07:08.000Z",
       "points": 157
-    },
-    {
-      "objectID": "49893709",
-      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-      "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-      "domain": "appleinsider.com",
-      "publishedAt": "2026-09-29T14:15:24.000Z",
-      "points": 154
     }
   ]
 }
