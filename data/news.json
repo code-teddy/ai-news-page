@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T12:30:34.129Z",
+  "fetchedAt": "2026-09-30T22:12:48.516Z",
   "stories": [
     {
       "objectID": "49827794",
@@ -15,7 +15,7 @@
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
       "domain": "calnewport.com",
       "publishedAt": "2026-09-28T19:53:35.000Z",
-      "points": 610
+      "points": 618
     },
     {
       "objectID": "49896050",
@@ -23,7 +23,7 @@
       "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "domain": "eff.org",
       "publishedAt": "2026-09-29T16:30:48.000Z",
-      "points": 545
+      "points": 561
     },
     {
       "objectID": "49875148",
@@ -39,7 +39,7 @@
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "domain": "jorgegarciaherrero.com",
       "publishedAt": "2026-09-29T09:03:41.000Z",
-      "points": 419
+      "points": 422
     },
     {
       "objectID": "49868083",
@@ -63,7 +63,15 @@
       "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
       "domain": "ssp.sh",
       "publishedAt": "2026-09-28T16:11:42.000Z",
-      "points": 382
+      "points": 384
+    },
+    {
+      "objectID": "49910553",
+      "title": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "domain": "insufferable.dev",
+      "publishedAt": "2026-09-30T15:50:11.000Z",
+      "points": 364
     },
     {
       "objectID": "49836579",
@@ -71,7 +79,7 @@
       "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
       "domain": "thelastsoftwareengineer.substack.com",
       "publishedAt": "2026-09-24T20:51:50.000Z",
-      "points": 303
+      "points": 304
     },
     {
       "objectID": "49826565",
@@ -87,7 +95,15 @@
       "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
       "domain": "cnbc.com",
       "publishedAt": "2026-09-28T15:46:36.000Z",
-      "points": 225
+      "points": 226
+    },
+    {
+      "objectID": "49898952",
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "domain": "thenationalnews.com",
+      "publishedAt": "2026-09-29T19:21:25.000Z",
+      "points": 218
     },
     {
       "objectID": "49829650",
@@ -96,22 +112,6 @@
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
       "points": 216
-    },
-    {
-      "objectID": "49898952",
-      "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-      "domain": "thenationalnews.com",
-      "publishedAt": "2026-09-29T19:21:25.000Z",
-      "points": 208
-    },
-    {
-      "objectID": "49815982",
-      "title": "Stripe's Knowledge AI Platform",
-      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "domain": "stripe.dev",
-      "publishedAt": "2026-09-23T13:38:00.000Z",
-      "points": 189
     },
     {
       "objectID": "49855018",
@@ -143,7 +143,7 @@
       "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
       "domain": "blog.glyph.im",
       "publishedAt": "2026-09-28T11:02:12.000Z",
-      "points": 171
+      "points": 174
     },
     {
       "objectID": "49893709",
@@ -151,7 +151,7 @@
       "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
       "domain": "appleinsider.com",
       "publishedAt": "2026-09-29T14:15:24.000Z",
-      "points": 158
+      "points": 161
     },
     {
       "objectID": "49844896",
