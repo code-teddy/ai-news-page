@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T22:12:34.343Z",
+  "fetchedAt": "2026-09-30T05:29:03.042Z",
   "stories": [
     {
       "objectID": "49827794",
@@ -15,7 +15,7 @@
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
       "domain": "calnewport.com",
       "publishedAt": "2026-09-28T19:53:35.000Z",
-      "points": 593
+      "points": 600
     },
     {
       "objectID": "49896050",
@@ -23,7 +23,7 @@
       "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "domain": "eff.org",
       "publishedAt": "2026-09-29T16:30:48.000Z",
-      "points": 508
+      "points": 535
     },
     {
       "objectID": "49875148",
@@ -31,7 +31,7 @@
       "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
       "domain": "thecivilian.co.nz",
       "publishedAt": "2026-09-28T08:35:40.000Z",
-      "points": 436
+      "points": 437
     },
     {
       "objectID": "49890226",
@@ -39,7 +39,7 @@
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "domain": "jorgegarciaherrero.com",
       "publishedAt": "2026-09-29T09:03:41.000Z",
-      "points": 398
+      "points": 413
     },
     {
       "objectID": "49824686",
@@ -55,7 +55,7 @@
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "domain": "eoinhiggins.substack.com",
       "publishedAt": "2026-09-27T16:19:46.000Z",
-      "points": 393
+      "points": 394
     },
     {
       "objectID": "49880312",
@@ -63,7 +63,7 @@
       "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
       "domain": "ssp.sh",
       "publishedAt": "2026-09-28T16:11:42.000Z",
-      "points": 380
+      "points": 382
     },
     {
       "objectID": "49836579",
@@ -79,7 +79,7 @@
       "url": "https://transluce.org/agent-activity",
       "domain": "transluce.org",
       "publishedAt": "2026-09-24T05:21:10.000Z",
-      "points": 266
+      "points": 267
     },
     {
       "objectID": "49879883",
@@ -87,7 +87,7 @@
       "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
       "domain": "cnbc.com",
       "publishedAt": "2026-09-28T15:46:36.000Z",
-      "points": 222
+      "points": 223
     },
     {
       "objectID": "49829650",
@@ -96,6 +96,14 @@
       "domain": "theguardian.com",
       "publishedAt": "2026-09-24T12:23:41.000Z",
       "points": 216
+    },
+    {
+      "objectID": "49898952",
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "domain": "thenationalnews.com",
+      "publishedAt": "2026-09-29T19:21:25.000Z",
+      "points": 199
     },
     {
       "objectID": "49815982",
@@ -114,14 +122,6 @@
       "points": 188
     },
     {
-      "objectID": "49898952",
-      "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-      "domain": "thenationalnews.com",
-      "publishedAt": "2026-09-29T19:21:25.000Z",
-      "points": 178
-    },
-    {
       "objectID": "49845952",
       "title": "Classified estimates show the NSA is paying billions to test AI models",
       "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
@@ -135,7 +135,7 @@
       "url": "https://arxiv.org/abs/2110.01834",
       "domain": "arxiv.org",
       "publishedAt": "2026-09-28T03:23:53.000Z",
-      "points": 175
+      "points": 176
     },
     {
       "objectID": "49876148",
@@ -143,7 +143,7 @@
       "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
       "domain": "blog.glyph.im",
       "publishedAt": "2026-09-28T11:02:12.000Z",
-      "points": 168
+      "points": 170
     },
     {
       "objectID": "49844896",
@@ -159,7 +159,7 @@
       "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
       "domain": "appleinsider.com",
       "publishedAt": "2026-09-29T14:15:24.000Z",
-      "points": 150
+      "points": 154
     }
   ]
 }
