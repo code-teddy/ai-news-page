@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T22:12:48.516Z",
+  "fetchedAt": "2026-10-01T05:47:45.153Z",
   "stories": [
     {
       "objectID": "49827794",
@@ -15,7 +15,7 @@
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
       "domain": "calnewport.com",
       "publishedAt": "2026-09-28T19:53:35.000Z",
-      "points": 618
+      "points": 620
     },
     {
       "objectID": "49896050",
@@ -23,7 +23,7 @@
       "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "domain": "eff.org",
       "publishedAt": "2026-09-29T16:30:48.000Z",
-      "points": 561
+      "points": 562
     },
     {
       "objectID": "49875148",
@@ -31,7 +31,7 @@
       "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
       "domain": "thecivilian.co.nz",
       "publishedAt": "2026-09-28T08:35:40.000Z",
-      "points": 438
+      "points": 440
     },
     {
       "objectID": "49890226",
@@ -50,20 +50,12 @@
       "points": 395
     },
     {
-      "objectID": "49824686",
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "domain": "kenklippenstein.com",
-      "publishedAt": "2026-09-24T00:41:31.000Z",
-      "points": 394
-    },
-    {
       "objectID": "49880312",
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
       "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
       "domain": "ssp.sh",
       "publishedAt": "2026-09-28T16:11:42.000Z",
-      "points": 384
+      "points": 386
     },
     {
       "objectID": "49910553",
@@ -71,7 +63,7 @@
       "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
       "domain": "insufferable.dev",
       "publishedAt": "2026-09-30T15:50:11.000Z",
-      "points": 364
+      "points": 382
     },
     {
       "objectID": "49836579",
@@ -82,20 +74,12 @@
       "points": 304
     },
     {
-      "objectID": "49826565",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "domain": "transluce.org",
-      "publishedAt": "2026-09-24T05:21:10.000Z",
-      "points": 267
-    },
-    {
       "objectID": "49879883",
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
       "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
       "domain": "cnbc.com",
       "publishedAt": "2026-09-28T15:46:36.000Z",
-      "points": 226
+      "points": 227
     },
     {
       "objectID": "49898952",
@@ -103,7 +87,7 @@
       "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
       "domain": "thenationalnews.com",
       "publishedAt": "2026-09-29T19:21:25.000Z",
-      "points": 218
+      "points": 219
     },
     {
       "objectID": "49829650",
@@ -151,7 +135,7 @@
       "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
       "domain": "appleinsider.com",
       "publishedAt": "2026-09-29T14:15:24.000Z",
-      "points": 161
+      "points": 163
     },
     {
       "objectID": "49844896",
@@ -160,6 +144,22 @@
       "domain": "bloomberg.com",
       "publishedAt": "2026-09-25T14:07:08.000Z",
       "points": 157
+    },
+    {
+      "objectID": "49892175",
+      "title": "Sustainable energy without the hot air (2008)",
+      "url": "https://www.withouthotair.com/",
+      "domain": "withouthotair.com",
+      "publishedAt": "2026-09-29T12:38:18.000Z",
+      "points": 149
+    },
+    {
+      "objectID": "49831690",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "domain": "afr.com",
+      "publishedAt": "2026-09-24T15:09:38.000Z",
+      "points": 142
     }
   ]
 }
