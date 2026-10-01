@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T13:08:07.245Z",
+  "fetchedAt": "2026-10-01T22:39:04.502Z",
   "stories": [
     {
       "objectID": "49883471",
@@ -7,7 +7,7 @@
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
       "domain": "calnewport.com",
       "publishedAt": "2026-09-28T19:53:35.000Z",
-      "points": 621
+      "points": 624
     },
     {
       "objectID": "49896050",
@@ -15,7 +15,7 @@
       "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "domain": "eff.org",
       "publishedAt": "2026-09-29T16:30:48.000Z",
-      "points": 564
+      "points": 565
     },
     {
       "objectID": "49875148",
@@ -31,7 +31,15 @@
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "domain": "jorgegarciaherrero.com",
       "publishedAt": "2026-09-29T09:03:41.000Z",
-      "points": 422
+      "points": 423
+    },
+    {
+      "objectID": "49910553",
+      "title": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "domain": "insufferable.dev",
+      "publishedAt": "2026-09-30T15:50:11.000Z",
+      "points": 406
     },
     {
       "objectID": "49868083",
@@ -42,28 +50,12 @@
       "points": 396
     },
     {
-      "objectID": "49910553",
-      "title": "The AI Race Just Got Awkward",
-      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-      "domain": "insufferable.dev",
-      "publishedAt": "2026-09-30T15:50:11.000Z",
-      "points": 393
-    },
-    {
       "objectID": "49880312",
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
       "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
       "domain": "ssp.sh",
       "publishedAt": "2026-09-28T16:11:42.000Z",
       "points": 386
-    },
-    {
-      "objectID": "49836579",
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "domain": "thelastsoftwareengineer.substack.com",
-      "publishedAt": "2026-09-24T20:51:50.000Z",
-      "points": 304
     },
     {
       "objectID": "49879883",
@@ -79,7 +71,15 @@
       "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
       "domain": "thenationalnews.com",
       "publishedAt": "2026-09-29T19:21:25.000Z",
-      "points": 220
+      "points": 222
+    },
+    {
+      "objectID": "49921050",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "domain": "cnbc.com",
+      "publishedAt": "2026-10-01T13:00:55.000Z",
+      "points": 196
     },
     {
       "objectID": "49855018",
@@ -111,7 +111,7 @@
       "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
       "domain": "blog.glyph.im",
       "publishedAt": "2026-09-28T11:02:12.000Z",
-      "points": 174
+      "points": 175
     },
     {
       "objectID": "49893709",
@@ -138,20 +138,12 @@
       "points": 149
     },
     {
-      "objectID": "49831690",
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "domain": "afr.com",
-      "publishedAt": "2026-09-24T15:09:38.000Z",
-      "points": 142
-    },
-    {
       "objectID": "49886005",
       "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
       "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
       "domain": "reuters.com",
       "publishedAt": "2026-09-28T23:40:59.000Z",
-      "points": 139
+      "points": 140
     },
     {
       "objectID": "49839567",
@@ -160,6 +152,14 @@
       "domain": "dashbit.co",
       "publishedAt": "2026-09-25T02:34:39.000Z",
       "points": 138
+    },
+    {
+      "objectID": "49861755",
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
+      "domain": "this.os.isfine.org",
+      "publishedAt": "2026-09-26T23:49:01.000Z",
+      "points": 134
     }
   ]
 }
