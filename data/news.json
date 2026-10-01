@@ -1,21 +1,13 @@
 {
-  "fetchedAt": "2026-10-01T05:47:45.153Z",
+  "fetchedAt": "2026-10-01T13:08:07.245Z",
   "stories": [
-    {
-      "objectID": "49827794",
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "domain": "reddit.com",
-      "publishedAt": "2026-09-24T08:23:03.000Z",
-      "points": 631
-    },
     {
       "objectID": "49883471",
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
       "domain": "calnewport.com",
       "publishedAt": "2026-09-28T19:53:35.000Z",
-      "points": 620
+      "points": 621
     },
     {
       "objectID": "49896050",
@@ -23,7 +15,7 @@
       "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "domain": "eff.org",
       "publishedAt": "2026-09-29T16:30:48.000Z",
-      "points": 562
+      "points": 564
     },
     {
       "objectID": "49875148",
@@ -47,7 +39,15 @@
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "domain": "eoinhiggins.substack.com",
       "publishedAt": "2026-09-27T16:19:46.000Z",
-      "points": 395
+      "points": 396
+    },
+    {
+      "objectID": "49910553",
+      "title": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "domain": "insufferable.dev",
+      "publishedAt": "2026-09-30T15:50:11.000Z",
+      "points": 393
     },
     {
       "objectID": "49880312",
@@ -56,14 +56,6 @@
       "domain": "ssp.sh",
       "publishedAt": "2026-09-28T16:11:42.000Z",
       "points": 386
-    },
-    {
-      "objectID": "49910553",
-      "title": "The AI Race Just Got Awkward",
-      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-      "domain": "insufferable.dev",
-      "publishedAt": "2026-09-30T15:50:11.000Z",
-      "points": 382
     },
     {
       "objectID": "49836579",
@@ -87,15 +79,7 @@
       "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
       "domain": "thenationalnews.com",
       "publishedAt": "2026-09-29T19:21:25.000Z",
-      "points": 219
-    },
-    {
-      "objectID": "49829650",
-      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "domain": "theguardian.com",
-      "publishedAt": "2026-09-24T12:23:41.000Z",
-      "points": 216
+      "points": 220
     },
     {
       "objectID": "49855018",
@@ -160,6 +144,22 @@
       "domain": "afr.com",
       "publishedAt": "2026-09-24T15:09:38.000Z",
       "points": 142
+    },
+    {
+      "objectID": "49886005",
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "domain": "reuters.com",
+      "publishedAt": "2026-09-28T23:40:59.000Z",
+      "points": 139
+    },
+    {
+      "objectID": "49839567",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "domain": "dashbit.co",
+      "publishedAt": "2026-09-25T02:34:39.000Z",
+      "points": 138
     }
   ]
 }
