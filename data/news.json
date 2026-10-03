@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T11:36:24.154Z",
+  "fetchedAt": "2026-10-03T16:15:14.211Z",
   "stories": [
     {
       "objectID": "49883471",
@@ -23,7 +23,7 @@
       "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
       "domain": "thecivilian.co.nz",
       "publishedAt": "2026-09-28T08:35:40.000Z",
-      "points": 440
+      "points": 441
     },
     {
       "objectID": "49890226",
@@ -58,20 +58,20 @@
       "points": 387
     },
     {
+      "objectID": "49933740",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "domain": "arstechnica.com",
+      "publishedAt": "2026-10-02T14:11:24.000Z",
+      "points": 255
+    },
+    {
       "objectID": "49879883",
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
       "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
       "domain": "cnbc.com",
       "publishedAt": "2026-09-28T15:46:36.000Z",
       "points": 229
-    },
-    {
-      "objectID": "49933740",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-10-02T14:11:24.000Z",
-      "points": 223
     },
     {
       "objectID": "49898952",
@@ -95,7 +95,7 @@
       "url": "https://stoppels.ch/goalposts/",
       "domain": "stoppels.ch",
       "publishedAt": "2026-10-01T17:32:43.000Z",
-      "points": 197
+      "points": 198
     },
     {
       "objectID": "49934487",
@@ -103,7 +103,7 @@
       "url": "https://mondobe.com/ai-makes-me-sad",
       "domain": "mondobe.com",
       "publishedAt": "2026-10-02T15:18:00.000Z",
-      "points": 188
+      "points": 189
     },
     {
       "objectID": "49873241",
@@ -154,12 +154,12 @@
       "points": 135
     },
     {
-      "objectID": "49903713",
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
-      "domain": "agmai.org",
-      "publishedAt": "2026-09-30T02:36:12.000Z",
-      "points": 123
+      "objectID": "49937916",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "domain": "github.com",
+      "publishedAt": "2026-10-02T20:00:15.000Z",
+      "points": 127
     }
   ]
 }
