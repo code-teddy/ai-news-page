@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T05:48:37.596Z",
+  "fetchedAt": "2026-10-04T12:18:05.014Z",
   "stories": [
     {
       "objectID": "49883471",
@@ -63,7 +63,7 @@
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-10-02T14:11:24.000Z",
-      "points": 280
+      "points": 281
     },
     {
       "objectID": "49948332",
@@ -71,7 +71,7 @@
       "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "domain": "theguardian.com",
       "publishedAt": "2026-10-03T22:18:13.000Z",
-      "points": 256
+      "points": 264
     },
     {
       "objectID": "49879883",
@@ -111,7 +111,7 @@
       "url": "https://mondobe.com/ai-makes-me-sad",
       "domain": "mondobe.com",
       "publishedAt": "2026-10-02T15:18:00.000Z",
-      "points": 192
+      "points": 193
     },
     {
       "objectID": "49873241",
@@ -120,6 +120,14 @@
       "domain": "arxiv.org",
       "publishedAt": "2026-09-28T03:23:53.000Z",
       "points": 177
+    },
+    {
+      "objectID": "49946228",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "domain": "fortune.com",
+      "publishedAt": "2026-10-03T17:44:29.000Z",
+      "points": 176
     },
     {
       "objectID": "49876148",
@@ -151,15 +159,7 @@
       "url": "https://github.com/anteloc/ldraw-nova",
       "domain": "github.com",
       "publishedAt": "2026-10-02T20:00:15.000Z",
-      "points": 145
-    },
-    {
-      "objectID": "49886005",
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "domain": "reuters.com",
-      "publishedAt": "2026-09-28T23:40:59.000Z",
-      "points": 143
+      "points": 146
     }
   ]
 }
