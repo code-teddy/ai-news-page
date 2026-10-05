@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T21:21:09.523Z",
+  "fetchedAt": "2026-10-05T05:34:44.948Z",
   "stories": [
     {
       "objectID": "49883471",
@@ -42,6 +42,14 @@
       "points": 412
     },
     {
+      "objectID": "49946228",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "domain": "fortune.com",
+      "publishedAt": "2026-10-03T17:44:29.000Z",
+      "points": 393
+    },
+    {
       "objectID": "49880312",
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
       "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
@@ -50,20 +58,12 @@
       "points": 387
     },
     {
-      "objectID": "49946228",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "domain": "fortune.com",
-      "publishedAt": "2026-10-03T17:44:29.000Z",
-      "points": 361
-    },
-    {
       "objectID": "49933740",
       "title": "With most information hidden, the game Stratego had stumped AI until now",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-10-02T14:11:24.000Z",
-      "points": 284
+      "points": 286
     },
     {
       "objectID": "49948332",
@@ -114,14 +114,6 @@
       "points": 195
     },
     {
-      "objectID": "49873241",
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-09-28T03:23:53.000Z",
-      "points": 177
-    },
-    {
       "objectID": "49876148",
       "title": "What would a serious AI product look like?",
       "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
@@ -143,7 +135,7 @@
       "url": "https://github.com/anteloc/ldraw-nova",
       "domain": "github.com",
       "publishedAt": "2026-10-02T20:00:15.000Z",
-      "points": 153
+      "points": 154
     },
     {
       "objectID": "49892175",
@@ -152,6 +144,14 @@
       "domain": "withouthotair.com",
       "publishedAt": "2026-09-29T12:38:18.000Z",
       "points": 150
+    },
+    {
+      "objectID": "49952111",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "domain": "github.com",
+      "publishedAt": "2026-10-04T09:24:52.000Z",
+      "points": 147
     },
     {
       "objectID": "49886005",
