@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T05:34:44.948Z",
+  "fetchedAt": "2026-10-05T14:31:53.846Z",
   "stories": [
     {
       "objectID": "49883471",
@@ -16,14 +16,6 @@
       "domain": "eff.org",
       "publishedAt": "2026-09-29T16:30:48.000Z",
       "points": 570
-    },
-    {
-      "objectID": "49875148",
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-      "domain": "thecivilian.co.nz",
-      "publishedAt": "2026-09-28T08:35:40.000Z",
-      "points": 441
     },
     {
       "objectID": "49890226",
@@ -47,7 +39,7 @@
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-03T17:44:29.000Z",
-      "points": 393
+      "points": 405
     },
     {
       "objectID": "49880312",
@@ -63,7 +55,7 @@
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-10-02T14:11:24.000Z",
-      "points": 286
+      "points": 288
     },
     {
       "objectID": "49948332",
@@ -114,14 +106,6 @@
       "points": 195
     },
     {
-      "objectID": "49876148",
-      "title": "What would a serious AI product look like?",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "domain": "blog.glyph.im",
-      "publishedAt": "2026-09-28T11:02:12.000Z",
-      "points": 176
-    },
-    {
       "objectID": "49893709",
       "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
       "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
@@ -130,12 +114,20 @@
       "points": 163
     },
     {
+      "objectID": "49952111",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "domain": "github.com",
+      "publishedAt": "2026-10-04T09:24:52.000Z",
+      "points": 156
+    },
+    {
       "objectID": "49937916",
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
       "domain": "github.com",
       "publishedAt": "2026-10-02T20:00:15.000Z",
-      "points": 154
+      "points": 156
     },
     {
       "objectID": "49892175",
@@ -146,20 +138,28 @@
       "points": 150
     },
     {
-      "objectID": "49952111",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "domain": "github.com",
-      "publishedAt": "2026-10-04T09:24:52.000Z",
-      "points": 147
-    },
-    {
       "objectID": "49886005",
       "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
       "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
       "domain": "reuters.com",
       "publishedAt": "2026-09-28T23:40:59.000Z",
       "points": 143
+    },
+    {
+      "objectID": "49903713",
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "domain": "agmai.org",
+      "publishedAt": "2026-09-30T02:36:12.000Z",
+      "points": 123
+    },
+    {
+      "objectID": "49913458",
+      "title": "CS240 AI Cheating Retrospective",
+      "url": "https://turkeyland.net/thoughts/ai.php",
+      "domain": "turkeyland.net",
+      "publishedAt": "2026-09-30T19:54:29.000Z",
+      "points": 120
     }
   ]
 }
