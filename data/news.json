@@ -1,14 +1,6 @@
 {
-  "fetchedAt": "2026-10-05T14:31:53.846Z",
+  "fetchedAt": "2026-10-06T00:01:16.583Z",
   "stories": [
-    {
-      "objectID": "49883471",
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "domain": "calnewport.com",
-      "publishedAt": "2026-09-28T19:53:35.000Z",
-      "points": 629
-    },
     {
       "objectID": "49896050",
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
@@ -39,15 +31,7 @@
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-03T17:44:29.000Z",
-      "points": 405
-    },
-    {
-      "objectID": "49880312",
-      "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-      "domain": "ssp.sh",
-      "publishedAt": "2026-09-28T16:11:42.000Z",
-      "points": 387
+      "points": 410
     },
     {
       "objectID": "49933740",
@@ -55,7 +39,7 @@
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-10-02T14:11:24.000Z",
-      "points": 288
+      "points": 289
     },
     {
       "objectID": "49948332",
@@ -63,15 +47,7 @@
       "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "domain": "theguardian.com",
       "publishedAt": "2026-10-03T22:18:13.000Z",
-      "points": 267
-    },
-    {
-      "objectID": "49879883",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "domain": "cnbc.com",
-      "publishedAt": "2026-09-28T15:46:36.000Z",
-      "points": 230
+      "points": 268
     },
     {
       "objectID": "49898952",
@@ -103,7 +79,23 @@
       "url": "https://mondobe.com/ai-makes-me-sad",
       "domain": "mondobe.com",
       "publishedAt": "2026-10-02T15:18:00.000Z",
-      "points": 195
+      "points": 196
+    },
+    {
+      "objectID": "49952111",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "domain": "github.com",
+      "publishedAt": "2026-10-04T09:24:52.000Z",
+      "points": 163
+    },
+    {
+      "objectID": "49937916",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "domain": "github.com",
+      "publishedAt": "2026-10-02T20:00:15.000Z",
+      "points": 163
     },
     {
       "objectID": "49893709",
@@ -114,36 +106,12 @@
       "points": 163
     },
     {
-      "objectID": "49952111",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "domain": "github.com",
-      "publishedAt": "2026-10-04T09:24:52.000Z",
-      "points": 156
-    },
-    {
-      "objectID": "49937916",
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "domain": "github.com",
-      "publishedAt": "2026-10-02T20:00:15.000Z",
-      "points": 156
-    },
-    {
       "objectID": "49892175",
       "title": "Sustainable energy without the hot air (2008)",
       "url": "https://www.withouthotair.com/",
       "domain": "withouthotair.com",
       "publishedAt": "2026-09-29T12:38:18.000Z",
       "points": 150
-    },
-    {
-      "objectID": "49886005",
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "domain": "reuters.com",
-      "publishedAt": "2026-09-28T23:40:59.000Z",
-      "points": 143
     },
     {
       "objectID": "49903713",
@@ -159,7 +127,39 @@
       "url": "https://turkeyland.net/thoughts/ai.php",
       "domain": "turkeyland.net",
       "publishedAt": "2026-09-30T19:54:29.000Z",
-      "points": 120
+      "points": 121
+    },
+    {
+      "objectID": "49946321",
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "domain": "neowin.net",
+      "publishedAt": "2026-10-03T17:57:03.000Z",
+      "points": 119
+    },
+    {
+      "objectID": "49936725",
+      "title": "Crypto Capture of Foreign Aid",
+      "url": "https://www.nber.org/papers/w35655",
+      "domain": "nber.org",
+      "publishedAt": "2026-10-02T18:14:29.000Z",
+      "points": 100
+    },
+    {
+      "objectID": "49951891",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "domain": "youtube.com",
+      "publishedAt": "2026-10-04T08:41:58.000Z",
+      "points": 98
+    },
+    {
+      "objectID": "49921051",
+      "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "domain": "ft.com",
+      "publishedAt": "2026-10-01T13:01:02.000Z",
+      "points": 90
     }
   ]
 }
