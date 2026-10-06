@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T06:16:26.185Z",
+  "fetchedAt": "2026-10-06T13:21:20.595Z",
   "stories": [
     {
       "objectID": "49896050",
@@ -10,12 +10,12 @@
       "points": 570
     },
     {
-      "objectID": "49890226",
-      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "domain": "jorgegarciaherrero.com",
-      "publishedAt": "2026-09-29T09:03:41.000Z",
-      "points": 426
+      "objectID": "49946228",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "domain": "fortune.com",
+      "publishedAt": "2026-10-03T17:44:29.000Z",
+      "points": 412
     },
     {
       "objectID": "49910553",
@@ -24,14 +24,6 @@
       "domain": "insufferable.dev",
       "publishedAt": "2026-09-30T15:50:11.000Z",
       "points": 412
-    },
-    {
-      "objectID": "49946228",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "domain": "fortune.com",
-      "publishedAt": "2026-10-03T17:44:29.000Z",
-      "points": 411
     },
     {
       "objectID": "49933740",
@@ -87,7 +79,7 @@
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
       "publishedAt": "2026-10-04T09:24:52.000Z",
-      "points": 165
+      "points": 169
     },
     {
       "objectID": "49937916",
@@ -103,15 +95,7 @@
       "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
       "domain": "appleinsider.com",
       "publishedAt": "2026-09-29T14:15:24.000Z",
-      "points": 163
-    },
-    {
-      "objectID": "49892175",
-      "title": "Sustainable energy without the hot air (2008)",
-      "url": "https://www.withouthotair.com/",
-      "domain": "withouthotair.com",
-      "publishedAt": "2026-09-29T12:38:18.000Z",
-      "points": 150
+      "points": 164
     },
     {
       "objectID": "49903713",
@@ -122,6 +106,14 @@
       "points": 123
     },
     {
+      "objectID": "49946321",
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "domain": "neowin.net",
+      "publishedAt": "2026-10-03T17:57:03.000Z",
+      "points": 121
+    },
+    {
       "objectID": "49913458",
       "title": "CS240 AI Cheating Retrospective",
       "url": "https://turkeyland.net/thoughts/ai.php",
@@ -130,12 +122,12 @@
       "points": 121
     },
     {
-      "objectID": "49946321",
-      "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-      "domain": "neowin.net",
-      "publishedAt": "2026-10-03T17:57:03.000Z",
-      "points": 120
+      "objectID": "49951891",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "domain": "youtube.com",
+      "publishedAt": "2026-10-04T08:41:58.000Z",
+      "points": 100
     },
     {
       "objectID": "49936725",
@@ -146,20 +138,28 @@
       "points": 100
     },
     {
-      "objectID": "49951891",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "domain": "youtube.com",
-      "publishedAt": "2026-10-04T08:41:58.000Z",
-      "points": 99
-    },
-    {
       "objectID": "49921051",
       "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
       "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
       "domain": "ft.com",
       "publishedAt": "2026-10-01T13:01:02.000Z",
       "points": 90
+    },
+    {
+      "objectID": "49930872",
+      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
+      "domain": "lenfestinstitute.org",
+      "publishedAt": "2026-10-02T07:40:15.000Z",
+      "points": 86
+    },
+    {
+      "objectID": "49922736",
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "domain": "openid.net",
+      "publishedAt": "2026-10-01T15:11:10.000Z",
+      "points": 82
     }
   ]
 }
