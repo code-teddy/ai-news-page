@@ -1,21 +1,13 @@
 {
-  "fetchedAt": "2026-10-06T13:21:20.595Z",
+  "fetchedAt": "2026-10-06T22:38:17.870Z",
   "stories": [
-    {
-      "objectID": "49896050",
-      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "domain": "eff.org",
-      "publishedAt": "2026-09-29T16:30:48.000Z",
-      "points": 570
-    },
     {
       "objectID": "49946228",
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-03T17:44:29.000Z",
-      "points": 412
+      "points": 417
     },
     {
       "objectID": "49910553",
@@ -42,14 +34,6 @@
       "points": 268
     },
     {
-      "objectID": "49898952",
-      "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-      "domain": "thenationalnews.com",
-      "publishedAt": "2026-09-29T19:21:25.000Z",
-      "points": 222
-    },
-    {
       "objectID": "49921050",
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
       "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
@@ -71,7 +55,15 @@
       "url": "https://mondobe.com/ai-makes-me-sad",
       "domain": "mondobe.com",
       "publishedAt": "2026-10-02T15:18:00.000Z",
-      "points": 197
+      "points": 199
+    },
+    {
+      "objectID": "49980715",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "domain": "github.com",
+      "publishedAt": "2026-10-06T16:23:25.000Z",
+      "points": 192
     },
     {
       "objectID": "49952111",
@@ -79,7 +71,7 @@
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
       "publishedAt": "2026-10-04T09:24:52.000Z",
-      "points": 169
+      "points": 174
     },
     {
       "objectID": "49937916",
@@ -87,15 +79,7 @@
       "url": "https://github.com/anteloc/ldraw-nova",
       "domain": "github.com",
       "publishedAt": "2026-10-02T20:00:15.000Z",
-      "points": 165
-    },
-    {
-      "objectID": "49893709",
-      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-      "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-      "domain": "appleinsider.com",
-      "publishedAt": "2026-09-29T14:15:24.000Z",
-      "points": 164
+      "points": 166
     },
     {
       "objectID": "49903713",
@@ -111,7 +95,7 @@
       "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
       "domain": "neowin.net",
       "publishedAt": "2026-10-03T17:57:03.000Z",
-      "points": 121
+      "points": 122
     },
     {
       "objectID": "49913458",
@@ -127,7 +111,7 @@
       "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
       "domain": "youtube.com",
       "publishedAt": "2026-10-04T08:41:58.000Z",
-      "points": 100
+      "points": 101
     },
     {
       "objectID": "49936725",
@@ -160,6 +144,22 @@
       "domain": "openid.net",
       "publishedAt": "2026-10-01T15:11:10.000Z",
       "points": 82
+    },
+    {
+      "objectID": "49957117",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "domain": "youtube.com",
+      "publishedAt": "2026-10-04T19:42:25.000Z",
+      "points": 80
+    },
+    {
+      "objectID": "49944127",
+      "title": "US killer's sentence quashed because of AI video of victim shown in court",
+      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "domain": "bbc.com",
+      "publishedAt": "2026-10-03T13:34:18.000Z",
+      "points": 78
     }
   ]
 }
