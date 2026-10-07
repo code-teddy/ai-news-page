@@ -1,13 +1,21 @@
 {
-  "fetchedAt": "2026-10-06T22:38:17.870Z",
+  "fetchedAt": "2026-10-07T05:55:15.412Z",
   "stories": [
+    {
+      "objectID": "49984923",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "domain": "openai.com",
+      "publishedAt": "2026-10-06T22:17:21.000Z",
+      "points": 693
+    },
     {
       "objectID": "49946228",
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-03T17:44:29.000Z",
-      "points": 417
+      "points": 419
     },
     {
       "objectID": "49910553",
@@ -34,6 +42,14 @@
       "points": 268
     },
     {
+      "objectID": "49980715",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "domain": "github.com",
+      "publishedAt": "2026-10-06T16:23:25.000Z",
+      "points": 267
+    },
+    {
       "objectID": "49921050",
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
       "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
@@ -58,20 +74,12 @@
       "points": 199
     },
     {
-      "objectID": "49980715",
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "domain": "github.com",
-      "publishedAt": "2026-10-06T16:23:25.000Z",
-      "points": 192
-    },
-    {
       "objectID": "49952111",
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
       "publishedAt": "2026-10-04T09:24:52.000Z",
-      "points": 174
+      "points": 177
     },
     {
       "objectID": "49937916",
@@ -82,12 +90,12 @@
       "points": 166
     },
     {
-      "objectID": "49903713",
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
-      "domain": "agmai.org",
-      "publishedAt": "2026-09-30T02:36:12.000Z",
-      "points": 123
+      "objectID": "49984716",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "domain": "penguin-mail.com",
+      "publishedAt": "2026-10-06T21:59:43.000Z",
+      "points": 139
     },
     {
       "objectID": "49946321",
@@ -106,12 +114,20 @@
       "points": 121
     },
     {
+      "objectID": "49981197",
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "domain": "techspot.com",
+      "publishedAt": "2026-10-06T17:01:52.000Z",
+      "points": 120
+    },
+    {
       "objectID": "49951891",
       "title": "How to scale intent, quality, and artistry with AI [video]",
       "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
       "domain": "youtube.com",
       "publishedAt": "2026-10-04T08:41:58.000Z",
-      "points": 101
+      "points": 102
     },
     {
       "objectID": "49936725",
@@ -120,6 +136,14 @@
       "domain": "nber.org",
       "publishedAt": "2026-10-02T18:14:29.000Z",
       "points": 100
+    },
+    {
+      "objectID": "49977689",
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "domain": "erdosproblems.com",
+      "publishedAt": "2026-10-06T12:53:58.000Z",
+      "points": 99
     },
     {
       "objectID": "49921051",
@@ -136,30 +160,6 @@
       "domain": "lenfestinstitute.org",
       "publishedAt": "2026-10-02T07:40:15.000Z",
       "points": 86
-    },
-    {
-      "objectID": "49922736",
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "domain": "openid.net",
-      "publishedAt": "2026-10-01T15:11:10.000Z",
-      "points": 82
-    },
-    {
-      "objectID": "49957117",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "domain": "youtube.com",
-      "publishedAt": "2026-10-04T19:42:25.000Z",
-      "points": 80
-    },
-    {
-      "objectID": "49944127",
-      "title": "US killer's sentence quashed because of AI video of victim shown in court",
-      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-      "domain": "bbc.com",
-      "publishedAt": "2026-10-03T13:34:18.000Z",
-      "points": 78
     }
   ]
 }
