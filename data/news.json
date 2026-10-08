@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T05:59:05.069Z",
+  "fetchedAt": "2026-10-08T13:25:06.399Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -7,7 +7,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
       "publishedAt": "2026-10-06T22:17:21.000Z",
-      "points": 1265
+      "points": 1290
     },
     {
       "objectID": "49946228",
@@ -18,20 +18,20 @@
       "points": 423
     },
     {
-      "objectID": "49980715",
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "domain": "github.com",
-      "publishedAt": "2026-10-06T16:23:25.000Z",
-      "points": 338
-    },
-    {
       "objectID": "49997161",
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "domain": "rswebsols.com",
       "publishedAt": "2026-10-07T18:49:40.000Z",
-      "points": 330
+      "points": 349
+    },
+    {
+      "objectID": "49980715",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "domain": "github.com",
+      "publishedAt": "2026-10-06T16:23:25.000Z",
+      "points": 339
     },
     {
       "objectID": "49933740",
@@ -55,15 +55,7 @@
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
       "publishedAt": "2026-10-06T21:59:43.000Z",
-      "points": 231
-    },
-    {
-      "objectID": "49921050",
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "domain": "cnbc.com",
-      "publishedAt": "2026-10-01T13:00:55.000Z",
-      "points": 210
+      "points": 235
     },
     {
       "objectID": "49924618",
@@ -119,7 +111,7 @@
       "url": "https://www.erdosproblems.com/forum/thread/blog:9",
       "domain": "erdosproblems.com",
       "publishedAt": "2026-10-06T12:53:58.000Z",
-      "points": 116
+      "points": 118
     },
     {
       "objectID": "49993121",
@@ -127,7 +119,7 @@
       "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
       "domain": "github.com",
       "publishedAt": "2026-10-07T14:10:55.000Z",
-      "points": 113
+      "points": 116
     },
     {
       "objectID": "49951891",
@@ -151,15 +143,23 @@
       "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
       "domain": "reuters.com",
       "publishedAt": "2026-10-06T23:50:33.000Z",
-      "points": 97
+      "points": 98
     },
     {
-      "objectID": "49921051",
-      "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-      "domain": "ft.com",
-      "publishedAt": "2026-10-01T13:01:02.000Z",
-      "points": 90
+      "objectID": "49954015",
+      "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+      "url": "https://astrohelm.app/",
+      "domain": "astrohelm.app",
+      "publishedAt": "2026-10-04T14:01:09.000Z",
+      "points": 93
+    },
+    {
+      "objectID": "49930872",
+      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
+      "domain": "lenfestinstitute.org",
+      "publishedAt": "2026-10-02T07:40:15.000Z",
+      "points": 89
     }
   ]
 }
