@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T23:03:09.361Z",
+  "fetchedAt": "2026-10-08T05:59:05.069Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -7,7 +7,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
       "publishedAt": "2026-10-06T22:17:21.000Z",
-      "points": 1212
+      "points": 1265
     },
     {
       "objectID": "49946228",
@@ -23,7 +23,15 @@
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
       "publishedAt": "2026-10-06T16:23:25.000Z",
-      "points": 334
+      "points": 338
+    },
+    {
+      "objectID": "49997161",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "domain": "rswebsols.com",
+      "publishedAt": "2026-10-07T18:49:40.000Z",
+      "points": 330
     },
     {
       "objectID": "49933740",
@@ -47,15 +55,7 @@
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
       "publishedAt": "2026-10-06T21:59:43.000Z",
-      "points": 230
-    },
-    {
-      "objectID": "49997161",
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "domain": "rswebsols.com",
-      "publishedAt": "2026-10-07T18:49:40.000Z",
-      "points": 224
+      "points": 231
     },
     {
       "objectID": "49921050",
@@ -87,7 +87,7 @@
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
       "publishedAt": "2026-10-04T09:24:52.000Z",
-      "points": 177
+      "points": 178
     },
     {
       "objectID": "49937916",
@@ -95,7 +95,7 @@
       "url": "https://github.com/anteloc/ldraw-nova",
       "domain": "github.com",
       "publishedAt": "2026-10-02T20:00:15.000Z",
-      "points": 166
+      "points": 167
     },
     {
       "objectID": "49981197",
@@ -103,7 +103,7 @@
       "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
       "domain": "techspot.com",
       "publishedAt": "2026-10-06T17:01:52.000Z",
-      "points": 135
+      "points": 138
     },
     {
       "objectID": "49946321",
@@ -119,15 +119,7 @@
       "url": "https://www.erdosproblems.com/forum/thread/blog:9",
       "domain": "erdosproblems.com",
       "publishedAt": "2026-10-06T12:53:58.000Z",
-      "points": 115
-    },
-    {
-      "objectID": "49951891",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "domain": "youtube.com",
-      "publishedAt": "2026-10-04T08:41:58.000Z",
-      "points": 102
+      "points": 116
     },
     {
       "objectID": "49993121",
@@ -135,7 +127,15 @@
       "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
       "domain": "github.com",
       "publishedAt": "2026-10-07T14:10:55.000Z",
-      "points": 102
+      "points": 113
+    },
+    {
+      "objectID": "49951891",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "domain": "youtube.com",
+      "publishedAt": "2026-10-04T08:41:58.000Z",
+      "points": 103
     },
     {
       "objectID": "49936725",
