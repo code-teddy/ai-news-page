@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T13:25:06.399Z",
+  "fetchedAt": "2026-10-08T23:18:50.580Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -7,7 +7,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
       "publishedAt": "2026-10-06T22:17:21.000Z",
-      "points": 1290
+      "points": 1321
     },
     {
       "objectID": "49946228",
@@ -23,7 +23,7 @@
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "domain": "rswebsols.com",
       "publishedAt": "2026-10-07T18:49:40.000Z",
-      "points": 349
+      "points": 367
     },
     {
       "objectID": "49980715",
@@ -31,7 +31,7 @@
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
       "publishedAt": "2026-10-06T16:23:25.000Z",
-      "points": 339
+      "points": 341
     },
     {
       "objectID": "49933740",
@@ -55,15 +55,7 @@
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
       "publishedAt": "2026-10-06T21:59:43.000Z",
-      "points": 235
-    },
-    {
-      "objectID": "49924618",
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
-      "domain": "stoppels.ch",
-      "publishedAt": "2026-10-01T17:32:43.000Z",
-      "points": 202
+      "points": 238
     },
     {
       "objectID": "49934487",
@@ -79,7 +71,7 @@
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
       "publishedAt": "2026-10-04T09:24:52.000Z",
-      "points": 178
+      "points": 180
     },
     {
       "objectID": "49937916",
@@ -95,7 +87,7 @@
       "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
       "domain": "techspot.com",
       "publishedAt": "2026-10-06T17:01:52.000Z",
-      "points": 138
+      "points": 140
     },
     {
       "objectID": "49946321",
@@ -119,7 +111,7 @@
       "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
       "domain": "github.com",
       "publishedAt": "2026-10-07T14:10:55.000Z",
-      "points": 116
+      "points": 117
     },
     {
       "objectID": "49951891",
@@ -143,7 +135,7 @@
       "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
       "domain": "reuters.com",
       "publishedAt": "2026-10-06T23:50:33.000Z",
-      "points": 98
+      "points": 100
     },
     {
       "objectID": "49954015",
@@ -151,7 +143,7 @@
       "url": "https://astrohelm.app/",
       "domain": "astrohelm.app",
       "publishedAt": "2026-10-04T14:01:09.000Z",
-      "points": 93
+      "points": 96
     },
     {
       "objectID": "49930872",
@@ -160,6 +152,14 @@
       "domain": "lenfestinstitute.org",
       "publishedAt": "2026-10-02T07:40:15.000Z",
       "points": 89
+    },
+    {
+      "objectID": "49957117",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "domain": "youtube.com",
+      "publishedAt": "2026-10-04T19:42:25.000Z",
+      "points": 81
     }
   ]
 }
