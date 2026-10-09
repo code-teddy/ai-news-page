@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T23:18:50.580Z",
+  "fetchedAt": "2026-10-09T06:04:36.194Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -7,7 +7,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
       "publishedAt": "2026-10-06T22:17:21.000Z",
-      "points": 1321
+      "points": 1324
     },
     {
       "objectID": "49946228",
@@ -23,7 +23,7 @@
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "domain": "rswebsols.com",
       "publishedAt": "2026-10-07T18:49:40.000Z",
-      "points": 367
+      "points": 368
     },
     {
       "objectID": "49980715",
@@ -31,7 +31,7 @@
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
       "publishedAt": "2026-10-06T16:23:25.000Z",
-      "points": 341
+      "points": 342
     },
     {
       "objectID": "49933740",
@@ -103,7 +103,7 @@
       "url": "https://www.erdosproblems.com/forum/thread/blog:9",
       "domain": "erdosproblems.com",
       "publishedAt": "2026-10-06T12:53:58.000Z",
-      "points": 118
+      "points": 119
     },
     {
       "objectID": "49993121",
@@ -112,6 +112,14 @@
       "domain": "github.com",
       "publishedAt": "2026-10-07T14:10:55.000Z",
       "points": 117
+    },
+    {
+      "objectID": "50011999",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "domain": "biohub.org",
+      "publishedAt": "2026-10-08T20:46:25.000Z",
+      "points": 105
     },
     {
       "objectID": "49951891",
@@ -152,14 +160,6 @@
       "domain": "lenfestinstitute.org",
       "publishedAt": "2026-10-02T07:40:15.000Z",
       "points": 89
-    },
-    {
-      "objectID": "49957117",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "domain": "youtube.com",
-      "publishedAt": "2026-10-04T19:42:25.000Z",
-      "points": 81
     }
   ]
 }
