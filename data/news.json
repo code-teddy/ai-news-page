@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T13:12:35.843Z",
+  "fetchedAt": "2026-10-09T22:35:50.967Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -7,7 +7,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
       "publishedAt": "2026-10-06T22:17:21.000Z",
-      "points": 1329
+      "points": 1334
     },
     {
       "objectID": "49946228",
@@ -23,7 +23,15 @@
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "domain": "rswebsols.com",
       "publishedAt": "2026-10-07T18:49:40.000Z",
-      "points": 371
+      "points": 375
+    },
+    {
+      "objectID": "50018817",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "domain": "github.com",
+      "publishedAt": "2026-10-09T11:03:48.000Z",
+      "points": 357
     },
     {
       "objectID": "49980715",
@@ -31,15 +39,7 @@
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
       "publishedAt": "2026-10-06T16:23:25.000Z",
-      "points": 343
-    },
-    {
-      "objectID": "49933740",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-10-02T14:11:24.000Z",
-      "points": 289
+      "points": 345
     },
     {
       "objectID": "49948332",
@@ -55,15 +55,15 @@
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
       "publishedAt": "2026-10-06T21:59:43.000Z",
-      "points": 239
+      "points": 240
     },
     {
-      "objectID": "49934487",
-      "title": "AI Makes Me Sad",
-      "url": "https://mondobe.com/ai-makes-me-sad",
-      "domain": "mondobe.com",
-      "publishedAt": "2026-10-02T15:18:00.000Z",
-      "points": 199
+      "objectID": "50023450",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "domain": "typesafe.ai",
+      "publishedAt": "2026-10-09T17:02:31.000Z",
+      "points": 204
     },
     {
       "objectID": "49952111",
@@ -71,15 +71,15 @@
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
       "publishedAt": "2026-10-04T09:24:52.000Z",
-      "points": 181
+      "points": 183
     },
     {
-      "objectID": "49937916",
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "domain": "github.com",
-      "publishedAt": "2026-10-02T20:00:15.000Z",
-      "points": 167
+      "objectID": "50011999",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "domain": "biohub.org",
+      "publishedAt": "2026-10-08T20:46:25.000Z",
+      "points": 142
     },
     {
       "objectID": "49981197",
@@ -88,22 +88,6 @@
       "domain": "techspot.com",
       "publishedAt": "2026-10-06T17:01:52.000Z",
       "points": 140
-    },
-    {
-      "objectID": "50018817",
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "domain": "github.com",
-      "publishedAt": "2026-10-09T11:03:48.000Z",
-      "points": 139
-    },
-    {
-      "objectID": "50011999",
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "domain": "biohub.org",
-      "publishedAt": "2026-10-08T20:46:25.000Z",
-      "points": 133
     },
     {
       "objectID": "49946321",
@@ -135,15 +119,7 @@
       "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
       "domain": "youtube.com",
       "publishedAt": "2026-10-04T08:41:58.000Z",
-      "points": 103
-    },
-    {
-      "objectID": "49936725",
-      "title": "Crypto Capture of Foreign Aid",
-      "url": "https://www.nber.org/papers/w35655",
-      "domain": "nber.org",
-      "publishedAt": "2026-10-02T18:14:29.000Z",
-      "points": 100
+      "points": 104
     },
     {
       "objectID": "49985861",
@@ -159,7 +135,31 @@
       "url": "https://astrohelm.app/",
       "domain": "astrohelm.app",
       "publishedAt": "2026-10-04T14:01:09.000Z",
-      "points": 96
+      "points": 98
+    },
+    {
+      "objectID": "49989684",
+      "title": "Forever junior: Skills AI can't develop for you",
+      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+      "domain": "tech.criteo.com",
+      "publishedAt": "2026-10-07T08:00:06.000Z",
+      "points": 81
+    },
+    {
+      "objectID": "49957117",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "domain": "youtube.com",
+      "publishedAt": "2026-10-04T19:42:25.000Z",
+      "points": 81
+    },
+    {
+      "objectID": "49990204",
+      "title": "Reasons to Dislike AI Coding",
+      "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+      "domain": "sicpers.info",
+      "publishedAt": "2026-10-07T09:15:00.000Z",
+      "points": 80
     }
   ]
 }
