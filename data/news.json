@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T05:48:19.497Z",
+  "fetchedAt": "2026-10-10T12:27:27.047Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -7,7 +7,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
       "publishedAt": "2026-10-06T22:17:21.000Z",
-      "points": 1341
+      "points": 1345
     },
     {
       "objectID": "49946228",
@@ -23,7 +23,15 @@
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
       "publishedAt": "2026-10-09T11:03:48.000Z",
-      "points": 391
+      "points": 400
+    },
+    {
+      "objectID": "50023450",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "domain": "typesafe.ai",
+      "publishedAt": "2026-10-09T17:02:31.000Z",
+      "points": 383
     },
     {
       "objectID": "49997161",
@@ -40,14 +48,6 @@
       "domain": "github.com",
       "publishedAt": "2026-10-06T16:23:25.000Z",
       "points": 345
-    },
-    {
-      "objectID": "50023450",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "domain": "typesafe.ai",
-      "publishedAt": "2026-10-09T17:02:31.000Z",
-      "points": 326
     },
     {
       "objectID": "49948332",
@@ -74,12 +74,28 @@
       "points": 183
     },
     {
+      "objectID": "50027118",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "domain": "nbcphiladelphia.com",
+      "publishedAt": "2026-10-09T22:00:35.000Z",
+      "points": 176
+    },
+    {
+      "objectID": "50019056",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "domain": "jessewaites.com",
+      "publishedAt": "2026-10-09T11:36:20.000Z",
+      "points": 154
+    },
+    {
       "objectID": "50011999",
       "title": "AI-ready biological data: $1.8B global commitment",
       "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
       "domain": "biohub.org",
       "publishedAt": "2026-10-08T20:46:25.000Z",
-      "points": 143
+      "points": 146
     },
     {
       "objectID": "49981197",
@@ -90,20 +106,12 @@
       "points": 140
     },
     {
-      "objectID": "50019056",
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "domain": "jessewaites.com",
-      "publishedAt": "2026-10-09T11:36:20.000Z",
-      "points": 131
-    },
-    {
-      "objectID": "50027118",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "domain": "nbcphiladelphia.com",
-      "publishedAt": "2026-10-09T22:00:35.000Z",
-      "points": 127
+      "objectID": "50024090",
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "domain": "terrytao.wordpress.com",
+      "publishedAt": "2026-10-09T17:42:12.000Z",
+      "points": 135
     },
     {
       "objectID": "49946321",
@@ -152,14 +160,6 @@
       "domain": "astrohelm.app",
       "publishedAt": "2026-10-04T14:01:09.000Z",
       "points": 99
-    },
-    {
-      "objectID": "49989684",
-      "title": "Forever junior: Skills AI can't develop for you",
-      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
-      "domain": "tech.criteo.com",
-      "publishedAt": "2026-10-07T08:00:06.000Z",
-      "points": 82
     }
   ]
 }
