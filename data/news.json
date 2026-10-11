@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T12:45:04.084Z",
+  "fetchedAt": "2026-10-11T21:55:06.038Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -7,7 +7,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
       "publishedAt": "2026-10-06T22:17:21.000Z",
-      "points": 1348
+      "points": 1352
     },
     {
       "objectID": "50023450",
@@ -15,7 +15,7 @@
       "url": "https://typesafe.ai/blog/series-ai",
       "domain": "typesafe.ai",
       "publishedAt": "2026-10-09T17:02:31.000Z",
-      "points": 439
+      "points": 442
     },
     {
       "objectID": "50018817",
@@ -23,7 +23,7 @@
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
       "publishedAt": "2026-10-09T11:03:48.000Z",
-      "points": 413
+      "points": 414
     },
     {
       "objectID": "49997161",
@@ -39,7 +39,7 @@
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
       "publishedAt": "2026-10-06T16:23:25.000Z",
-      "points": 346
+      "points": 347
     },
     {
       "objectID": "50031614",
@@ -47,7 +47,7 @@
       "url": "https://github.com/rociiu/talorys",
       "domain": "github.com",
       "publishedAt": "2026-10-10T10:52:09.000Z",
-      "points": 301
+      "points": 320
     },
     {
       "objectID": "49984716",
@@ -55,7 +55,7 @@
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
       "publishedAt": "2026-10-06T21:59:43.000Z",
-      "points": 241
+      "points": 242
     },
     {
       "objectID": "50027118",
@@ -63,7 +63,7 @@
       "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "domain": "nbcphiladelphia.com",
       "publishedAt": "2026-10-09T22:00:35.000Z",
-      "points": 209
+      "points": 212
     },
     {
       "objectID": "50024090",
@@ -71,7 +71,7 @@
       "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
       "domain": "terrytao.wordpress.com",
       "publishedAt": "2026-10-09T17:42:12.000Z",
-      "points": 198
+      "points": 205
     },
     {
       "objectID": "50019056",
@@ -79,7 +79,7 @@
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "domain": "jessewaites.com",
       "publishedAt": "2026-10-09T11:36:20.000Z",
-      "points": 183
+      "points": 184
     },
     {
       "objectID": "50035886",
@@ -87,7 +87,7 @@
       "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "domain": "ft.com",
       "publishedAt": "2026-10-10T18:48:35.000Z",
-      "points": 168
+      "points": 175
     },
     {
       "objectID": "50011999",
@@ -95,7 +95,7 @@
       "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
       "domain": "biohub.org",
       "publishedAt": "2026-10-08T20:46:25.000Z",
-      "points": 148
+      "points": 149
     },
     {
       "objectID": "49981197",
@@ -104,6 +104,14 @@
       "domain": "techspot.com",
       "publishedAt": "2026-10-06T17:01:52.000Z",
       "points": 140
+    },
+    {
+      "objectID": "50039092",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "domain": "momo5502.com",
+      "publishedAt": "2026-10-11T02:02:38.000Z",
+      "points": 126
     },
     {
       "objectID": "49977689",
@@ -122,14 +130,6 @@
       "points": 118
     },
     {
-      "objectID": "50039092",
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "domain": "momo5502.com",
-      "publishedAt": "2026-10-11T02:02:38.000Z",
-      "points": 110
-    },
-    {
       "objectID": "49985861",
       "title": "South Korea says AI agents appear to have been used to hack the country's banks",
       "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
@@ -138,20 +138,12 @@
       "points": 100
     },
     {
-      "objectID": "49954015",
-      "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
-      "url": "https://astrohelm.app/",
-      "domain": "astrohelm.app",
-      "publishedAt": "2026-10-04T14:01:09.000Z",
-      "points": 99
-    },
-    {
       "objectID": "50027257",
       "title": "Recent AI models struggled to match a human algorithmic innovation",
       "url": "https://epoch.ai/publications/innovationeval",
       "domain": "epoch.ai",
       "publishedAt": "2026-10-09T22:14:40.000Z",
-      "points": 88
+      "points": 89
     },
     {
       "objectID": "49989684",
@@ -160,6 +152,14 @@
       "domain": "tech.criteo.com",
       "publishedAt": "2026-10-07T08:00:06.000Z",
       "points": 83
+    },
+    {
+      "objectID": "49990204",
+      "title": "Reasons to Dislike AI Coding",
+      "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+      "domain": "sicpers.info",
+      "publishedAt": "2026-10-07T09:15:00.000Z",
+      "points": 82
     }
   ]
 }
