@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T21:40:34.212Z",
+  "fetchedAt": "2026-10-11T05:42:18.063Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -15,7 +15,7 @@
       "url": "https://typesafe.ai/blog/series-ai",
       "domain": "typesafe.ai",
       "publishedAt": "2026-10-09T17:02:31.000Z",
-      "points": 425
+      "points": 433
     },
     {
       "objectID": "50018817",
@@ -23,7 +23,7 @@
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
       "publishedAt": "2026-10-09T11:03:48.000Z",
-      "points": 410
+      "points": 412
     },
     {
       "objectID": "49997161",
@@ -42,12 +42,12 @@
       "points": 346
     },
     {
-      "objectID": "49948332",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "domain": "theguardian.com",
-      "publishedAt": "2026-10-03T22:18:13.000Z",
-      "points": 268
+      "objectID": "50031614",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "domain": "github.com",
+      "publishedAt": "2026-10-10T10:52:09.000Z",
+      "points": 273
     },
     {
       "objectID": "49984716",
@@ -58,20 +58,12 @@
       "points": 241
     },
     {
-      "objectID": "50031614",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "domain": "github.com",
-      "publishedAt": "2026-10-10T10:52:09.000Z",
-      "points": 217
-    },
-    {
       "objectID": "50027118",
       "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
       "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "domain": "nbcphiladelphia.com",
       "publishedAt": "2026-10-09T22:00:35.000Z",
-      "points": 206
+      "points": 208
     },
     {
       "objectID": "50024090",
@@ -79,7 +71,7 @@
       "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
       "domain": "terrytao.wordpress.com",
       "publishedAt": "2026-10-09T17:42:12.000Z",
-      "points": 189
+      "points": 198
     },
     {
       "objectID": "49952111",
@@ -95,7 +87,7 @@
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "domain": "jessewaites.com",
       "publishedAt": "2026-10-09T11:36:20.000Z",
-      "points": 179
+      "points": 181
     },
     {
       "objectID": "50011999",
@@ -104,6 +96,14 @@
       "domain": "biohub.org",
       "publishedAt": "2026-10-08T20:46:25.000Z",
       "points": 148
+    },
+    {
+      "objectID": "50035886",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "domain": "ft.com",
+      "publishedAt": "2026-10-10T18:48:35.000Z",
+      "points": 146
     },
     {
       "objectID": "49981197",
@@ -154,12 +154,12 @@
       "points": 99
     },
     {
-      "objectID": "49989684",
-      "title": "Forever junior: Skills AI can't develop for you",
-      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
-      "domain": "tech.criteo.com",
-      "publishedAt": "2026-10-07T08:00:06.000Z",
-      "points": 83
+      "objectID": "50027257",
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "domain": "epoch.ai",
+      "publishedAt": "2026-10-09T22:14:40.000Z",
+      "points": 86
     }
   ]
 }
