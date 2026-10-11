@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T05:42:18.063Z",
+  "fetchedAt": "2026-10-11T12:45:04.084Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -15,7 +15,7 @@
       "url": "https://typesafe.ai/blog/series-ai",
       "domain": "typesafe.ai",
       "publishedAt": "2026-10-09T17:02:31.000Z",
-      "points": 433
+      "points": 439
     },
     {
       "objectID": "50018817",
@@ -23,7 +23,7 @@
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
       "publishedAt": "2026-10-09T11:03:48.000Z",
-      "points": 412
+      "points": 413
     },
     {
       "objectID": "49997161",
@@ -47,7 +47,7 @@
       "url": "https://github.com/rociiu/talorys",
       "domain": "github.com",
       "publishedAt": "2026-10-10T10:52:09.000Z",
-      "points": 273
+      "points": 301
     },
     {
       "objectID": "49984716",
@@ -63,7 +63,7 @@
       "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "domain": "nbcphiladelphia.com",
       "publishedAt": "2026-10-09T22:00:35.000Z",
-      "points": 208
+      "points": 209
     },
     {
       "objectID": "50024090",
@@ -74,20 +74,20 @@
       "points": 198
     },
     {
-      "objectID": "49952111",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "domain": "github.com",
-      "publishedAt": "2026-10-04T09:24:52.000Z",
-      "points": 183
-    },
-    {
       "objectID": "50019056",
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "domain": "jessewaites.com",
       "publishedAt": "2026-10-09T11:36:20.000Z",
-      "points": 181
+      "points": 183
+    },
+    {
+      "objectID": "50035886",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "domain": "ft.com",
+      "publishedAt": "2026-10-10T18:48:35.000Z",
+      "points": 168
     },
     {
       "objectID": "50011999",
@@ -96,14 +96,6 @@
       "domain": "biohub.org",
       "publishedAt": "2026-10-08T20:46:25.000Z",
       "points": 148
-    },
-    {
-      "objectID": "50035886",
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "domain": "ft.com",
-      "publishedAt": "2026-10-10T18:48:35.000Z",
-      "points": 146
     },
     {
       "objectID": "49981197",
@@ -130,12 +122,12 @@
       "points": 118
     },
     {
-      "objectID": "49951891",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "domain": "youtube.com",
-      "publishedAt": "2026-10-04T08:41:58.000Z",
-      "points": 104
+      "objectID": "50039092",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "domain": "momo5502.com",
+      "publishedAt": "2026-10-11T02:02:38.000Z",
+      "points": 110
     },
     {
       "objectID": "49985861",
@@ -159,7 +151,15 @@
       "url": "https://epoch.ai/publications/innovationeval",
       "domain": "epoch.ai",
       "publishedAt": "2026-10-09T22:14:40.000Z",
-      "points": 86
+      "points": 88
+    },
+    {
+      "objectID": "49989684",
+      "title": "Forever junior: Skills AI can't develop for you",
+      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+      "domain": "tech.criteo.com",
+      "publishedAt": "2026-10-07T08:00:06.000Z",
+      "points": 83
     }
   ]
 }
