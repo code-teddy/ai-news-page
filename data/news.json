@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T21:55:06.038Z",
+  "fetchedAt": "2026-10-12T05:52:15.744Z",
   "stories": [
     {
       "objectID": "49984923",
@@ -7,7 +7,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
       "publishedAt": "2026-10-06T22:17:21.000Z",
-      "points": 1352
+      "points": 1353
     },
     {
       "objectID": "50023450",
@@ -15,7 +15,7 @@
       "url": "https://typesafe.ai/blog/series-ai",
       "domain": "typesafe.ai",
       "publishedAt": "2026-10-09T17:02:31.000Z",
-      "points": 442
+      "points": 443
     },
     {
       "objectID": "50018817",
@@ -23,7 +23,7 @@
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
       "publishedAt": "2026-10-09T11:03:48.000Z",
-      "points": 414
+      "points": 415
     },
     {
       "objectID": "49997161",
@@ -47,7 +47,7 @@
       "url": "https://github.com/rociiu/talorys",
       "domain": "github.com",
       "publishedAt": "2026-10-10T10:52:09.000Z",
-      "points": 320
+      "points": 323
     },
     {
       "objectID": "49984716",
@@ -74,6 +74,14 @@
       "points": 205
     },
     {
+      "objectID": "50039092",
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "domain": "momo5502.com",
+      "publishedAt": "2026-10-11T02:02:38.000Z",
+      "points": 188
+    },
+    {
       "objectID": "50019056",
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
@@ -87,7 +95,7 @@
       "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "domain": "ft.com",
       "publishedAt": "2026-10-10T18:48:35.000Z",
-      "points": 175
+      "points": 176
     },
     {
       "objectID": "50011999",
@@ -104,14 +112,6 @@
       "domain": "techspot.com",
       "publishedAt": "2026-10-06T17:01:52.000Z",
       "points": 140
-    },
-    {
-      "objectID": "50039092",
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "domain": "momo5502.com",
-      "publishedAt": "2026-10-11T02:02:38.000Z",
-      "points": 126
     },
     {
       "objectID": "49977689",
@@ -138,28 +138,28 @@
       "points": 100
     },
     {
+      "objectID": "50041765",
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "domain": "vcresearch.berkeley.edu",
+      "publishedAt": "2026-10-11T10:47:21.000Z",
+      "points": 96
+    },
+    {
       "objectID": "50027257",
       "title": "Recent AI models struggled to match a human algorithmic innovation",
       "url": "https://epoch.ai/publications/innovationeval",
       "domain": "epoch.ai",
       "publishedAt": "2026-10-09T22:14:40.000Z",
-      "points": 89
+      "points": 90
     },
     {
-      "objectID": "49989684",
-      "title": "Forever junior: Skills AI can't develop for you",
-      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
-      "domain": "tech.criteo.com",
-      "publishedAt": "2026-10-07T08:00:06.000Z",
-      "points": 83
-    },
-    {
-      "objectID": "49990204",
-      "title": "Reasons to Dislike AI Coding",
-      "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
-      "domain": "sicpers.info",
-      "publishedAt": "2026-10-07T09:15:00.000Z",
-      "points": 82
+      "objectID": "50041873",
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "domain": "latimes.com",
+      "publishedAt": "2026-10-11T11:03:21.000Z",
+      "points": 87
     }
   ]
 }
