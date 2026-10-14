@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T22:42:07.508Z",
+  "fetchedAt": "2026-10-14T04:48:54.832Z",
   "stories": [
     {
       "objectID": "50063427",
@@ -7,7 +7,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 637
+      "points": 656
     },
     {
       "objectID": "50023450",
@@ -31,7 +31,7 @@
       "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
       "domain": "github.com",
       "publishedAt": "2026-10-12T11:22:24.000Z",
-      "points": 385
+      "points": 387
     },
     {
       "objectID": "49997161",
@@ -47,7 +47,7 @@
       "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-10-12T17:14:01.000Z",
-      "points": 358
+      "points": 361
     },
     {
       "objectID": "50057278",
@@ -66,12 +66,20 @@
       "points": 329
     },
     {
+      "objectID": "50068036",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "domain": "blog.character.ai",
+      "publishedAt": "2026-10-13T07:28:34.000Z",
+      "points": 313
+    },
+    {
       "objectID": "50063365",
       "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
       "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
       "domain": "intel.com",
       "publishedAt": "2026-10-12T21:35:35.000Z",
-      "points": 301
+      "points": 302
     },
     {
       "objectID": "50060269",
@@ -79,7 +87,15 @@
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 301
+      "points": 302
+    },
+    {
+      "objectID": "50073221",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "domain": "sammystraus.com",
+      "publishedAt": "2026-10-13T15:25:50.000Z",
+      "points": 293
     },
     {
       "objectID": "50065692",
@@ -87,15 +103,7 @@
       "url": "https://arxiv.org/abs/2610.13928",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-13T02:07:08.000Z",
-      "points": 271
-    },
-    {
-      "objectID": "50068036",
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "domain": "blog.character.ai",
-      "publishedAt": "2026-10-13T07:28:34.000Z",
-      "points": 260
+      "points": 273
     },
     {
       "objectID": "50039092",
@@ -111,7 +119,7 @@
       "url": "https://taylor.town/kk-ai-2026",
       "domain": "taylor.town",
       "publishedAt": "2026-10-12T15:16:45.000Z",
-      "points": 214
+      "points": 215
     },
     {
       "objectID": "50027118",
@@ -119,14 +127,6 @@
       "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "domain": "nbcphiladelphia.com",
       "publishedAt": "2026-10-09T22:00:35.000Z",
-      "points": 213
-    },
-    {
-      "objectID": "50073221",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "domain": "sammystraus.com",
-      "publishedAt": "2026-10-13T15:25:50.000Z",
       "points": 213
     },
     {
