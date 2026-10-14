@@ -1,13 +1,21 @@
 {
-  "fetchedAt": "2026-10-14T17:07:13.775Z",
+  "fetchedAt": "2026-10-14T21:38:28.948Z",
   "stories": [
+    {
+      "objectID": "50091788",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "domain": "csoonline.com",
+      "publishedAt": "2026-10-14T17:45:23.000Z",
+      "points": 774
+    },
     {
       "objectID": "50063427",
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 749
+      "points": 755
     },
     {
       "objectID": "50023450",
@@ -34,20 +42,20 @@
       "points": 392
     },
     {
-      "objectID": "49997161",
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "domain": "rswebsols.com",
-      "publishedAt": "2026-10-07T18:49:40.000Z",
-      "points": 377
-    },
-    {
       "objectID": "50059523",
       "title": "AI coding agents generate more code, but not more software",
       "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-10-12T17:14:01.000Z",
-      "points": 363
+      "points": 364
+    },
+    {
+      "objectID": "50073221",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "domain": "sammystraus.com",
+      "publishedAt": "2026-10-13T15:25:50.000Z",
+      "points": 339
     },
     {
       "objectID": "50057278",
@@ -58,12 +66,12 @@
       "points": 335
     },
     {
-      "objectID": "50073221",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "domain": "sammystraus.com",
-      "publishedAt": "2026-10-13T15:25:50.000Z",
-      "points": 335
+      "objectID": "50068036",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "domain": "blog.character.ai",
+      "publishedAt": "2026-10-13T07:28:34.000Z",
+      "points": 331
     },
     {
       "objectID": "50031614",
@@ -74,20 +82,12 @@
       "points": 329
     },
     {
-      "objectID": "50068036",
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "domain": "blog.character.ai",
-      "publishedAt": "2026-10-13T07:28:34.000Z",
-      "points": 328
-    },
-    {
       "objectID": "50060269",
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 309
+      "points": 310
     },
     {
       "objectID": "50063365",
@@ -103,7 +103,7 @@
       "url": "https://arxiv.org/abs/2610.13928",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-13T02:07:08.000Z",
-      "points": 277
+      "points": 279
     },
     {
       "objectID": "50057668",
@@ -111,7 +111,7 @@
       "url": "https://taylor.town/kk-ai-2026",
       "domain": "taylor.town",
       "publishedAt": "2026-10-12T15:16:45.000Z",
-      "points": 218
+      "points": 219
     },
     {
       "objectID": "50039092",
@@ -127,7 +127,7 @@
       "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "domain": "nbcphiladelphia.com",
       "publishedAt": "2026-10-09T22:00:35.000Z",
-      "points": 213
+      "points": 214
     },
     {
       "objectID": "50024090",
@@ -136,6 +136,14 @@
       "domain": "terrytao.wordpress.com",
       "publishedAt": "2026-10-09T17:42:12.000Z",
       "points": 208
+    },
+    {
+      "objectID": "50092664",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "domain": "startupfortune.com",
+      "publishedAt": "2026-10-14T18:32:52.000Z",
+      "points": 200
     },
     {
       "objectID": "50041765",
@@ -151,15 +159,7 @@
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "domain": "jessewaites.com",
       "publishedAt": "2026-10-09T11:36:20.000Z",
-      "points": 184
-    },
-    {
-      "objectID": "50035886",
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "domain": "ft.com",
-      "publishedAt": "2026-10-10T18:48:35.000Z",
-      "points": 179
+      "points": 185
     }
   ]
 }
