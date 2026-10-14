@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T11:47:29.943Z",
+  "fetchedAt": "2026-10-14T17:07:13.775Z",
   "stories": [
     {
       "objectID": "50063427",
@@ -7,7 +7,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 710
+      "points": 749
     },
     {
       "objectID": "50023450",
@@ -31,7 +31,7 @@
       "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
       "domain": "github.com",
       "publishedAt": "2026-10-12T11:22:24.000Z",
-      "points": 391
+      "points": 392
     },
     {
       "objectID": "49997161",
@@ -47,7 +47,7 @@
       "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-10-12T17:14:01.000Z",
-      "points": 362
+      "points": 363
     },
     {
       "objectID": "50057278",
@@ -55,7 +55,15 @@
       "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
       "domain": "mortoray.com",
       "publishedAt": "2026-10-12T14:52:37.000Z",
-      "points": 333
+      "points": 335
+    },
+    {
+      "objectID": "50073221",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "domain": "sammystraus.com",
+      "publishedAt": "2026-10-13T15:25:50.000Z",
+      "points": 335
     },
     {
       "objectID": "50031614",
@@ -66,20 +74,12 @@
       "points": 329
     },
     {
-      "objectID": "50073221",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "domain": "sammystraus.com",
-      "publishedAt": "2026-10-13T15:25:50.000Z",
-      "points": 327
-    },
-    {
       "objectID": "50068036",
       "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
       "url": "https://blog.character.ai/an-update-on-character-ai/",
       "domain": "blog.character.ai",
       "publishedAt": "2026-10-13T07:28:34.000Z",
-      "points": 325
+      "points": 328
     },
     {
       "objectID": "50060269",
@@ -87,7 +87,7 @@
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 305
+      "points": 309
     },
     {
       "objectID": "50063365",
@@ -95,7 +95,7 @@
       "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
       "domain": "intel.com",
       "publishedAt": "2026-10-12T21:35:35.000Z",
-      "points": 304
+      "points": 306
     },
     {
       "objectID": "50065692",
@@ -103,15 +103,7 @@
       "url": "https://arxiv.org/abs/2610.13928",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-13T02:07:08.000Z",
-      "points": 275
-    },
-    {
-      "objectID": "50039092",
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "domain": "momo5502.com",
-      "publishedAt": "2026-10-11T02:02:38.000Z",
-      "points": 216
+      "points": 277
     },
     {
       "objectID": "50057668",
@@ -119,6 +111,14 @@
       "url": "https://taylor.town/kk-ai-2026",
       "domain": "taylor.town",
       "publishedAt": "2026-10-12T15:16:45.000Z",
+      "points": 218
+    },
+    {
+      "objectID": "50039092",
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "domain": "momo5502.com",
+      "publishedAt": "2026-10-11T02:02:38.000Z",
       "points": 216
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
       "domain": "vcresearch.berkeley.edu",
       "publishedAt": "2026-10-11T10:47:21.000Z",
-      "points": 190
+      "points": 192
     },
     {
       "objectID": "50019056",
