@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T04:33:42.162Z",
+  "fetchedAt": "2026-10-15T11:24:03.079Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,7 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 854
+      "points": 911
     },
     {
       "objectID": "50063427",
@@ -15,7 +15,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 765
+      "points": 778
     },
     {
       "objectID": "50023450",
@@ -42,6 +42,14 @@
       "points": 392
     },
     {
+      "objectID": "50092664",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "domain": "startupfortune.com",
+      "publishedAt": "2026-10-14T18:32:52.000Z",
+      "points": 368
+    },
+    {
       "objectID": "50059523",
       "title": "AI coding agents generate more code, but not more software",
       "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
@@ -55,15 +63,7 @@
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "domain": "sammystraus.com",
       "publishedAt": "2026-10-13T15:25:50.000Z",
-      "points": 344
-    },
-    {
-      "objectID": "50092664",
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "domain": "startupfortune.com",
-      "publishedAt": "2026-10-14T18:32:52.000Z",
-      "points": 338
+      "points": 345
     },
     {
       "objectID": "50057278",
@@ -79,7 +79,7 @@
       "url": "https://blog.character.ai/an-update-on-character-ai/",
       "domain": "blog.character.ai",
       "publishedAt": "2026-10-13T07:28:34.000Z",
-      "points": 331
+      "points": 332
     },
     {
       "objectID": "50031614",
@@ -95,7 +95,7 @@
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 311
+      "points": 312
     },
     {
       "objectID": "50063365",
@@ -103,7 +103,7 @@
       "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
       "domain": "intel.com",
       "publishedAt": "2026-10-12T21:35:35.000Z",
-      "points": 306
+      "points": 308
     },
     {
       "objectID": "50065692",
@@ -119,7 +119,7 @@
       "url": "https://taylor.town/kk-ai-2026",
       "domain": "taylor.town",
       "publishedAt": "2026-10-12T15:16:45.000Z",
-      "points": 219
+      "points": 220
     },
     {
       "objectID": "50039092",
@@ -127,7 +127,7 @@
       "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
       "domain": "momo5502.com",
       "publishedAt": "2026-10-11T02:02:38.000Z",
-      "points": 216
+      "points": 217
     },
     {
       "objectID": "50027118",
@@ -151,7 +151,7 @@
       "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
       "domain": "vcresearch.berkeley.edu",
       "publishedAt": "2026-10-11T10:47:21.000Z",
-      "points": 193
+      "points": 194
     },
     {
       "objectID": "50019056",
@@ -159,7 +159,7 @@
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "domain": "jessewaites.com",
       "publishedAt": "2026-10-09T11:36:20.000Z",
-      "points": 185
+      "points": 186
     }
   ]
 }
