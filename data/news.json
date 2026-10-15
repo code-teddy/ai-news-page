@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T16:57:20.872Z",
+  "fetchedAt": "2026-10-15T21:19:55.912Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,7 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 933
+      "points": 936
     },
     {
       "objectID": "50063427",
@@ -15,7 +15,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 782
+      "points": 784
     },
     {
       "objectID": "50023450",
@@ -47,7 +47,7 @@
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "domain": "startupfortune.com",
       "publishedAt": "2026-10-14T18:32:52.000Z",
-      "points": 375
+      "points": 377
     },
     {
       "objectID": "50059523",
@@ -79,7 +79,7 @@
       "url": "https://blog.character.ai/an-update-on-character-ai/",
       "domain": "blog.character.ai",
       "publishedAt": "2026-10-13T07:28:34.000Z",
-      "points": 332
+      "points": 333
     },
     {
       "objectID": "50031614",
@@ -95,7 +95,7 @@
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 312
+      "points": 314
     },
     {
       "objectID": "50063365",
@@ -146,20 +146,20 @@
       "points": 208
     },
     {
-      "objectID": "50041765",
-      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-      "domain": "vcresearch.berkeley.edu",
-      "publishedAt": "2026-10-11T10:47:21.000Z",
-      "points": 194
+      "objectID": "50108131",
+      "title": "Why We're Banning AI",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "domain": "currentaffairs.org",
+      "publishedAt": "2026-10-15T18:32:29.000Z",
+      "points": 203
     },
     {
-      "objectID": "50019056",
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "domain": "jessewaites.com",
-      "publishedAt": "2026-10-09T11:36:20.000Z",
-      "points": 186
+      "objectID": "50104654",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "domain": "simonsfoundation.org",
+      "publishedAt": "2026-10-15T14:58:48.000Z",
+      "points": 201
     }
   ]
 }
