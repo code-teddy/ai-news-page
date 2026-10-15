@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T21:38:28.948Z",
+  "fetchedAt": "2026-10-15T04:33:42.162Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,7 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 774
+      "points": 854
     },
     {
       "objectID": "50063427",
@@ -15,7 +15,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 755
+      "points": 765
     },
     {
       "objectID": "50023450",
@@ -55,7 +55,15 @@
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "domain": "sammystraus.com",
       "publishedAt": "2026-10-13T15:25:50.000Z",
-      "points": 339
+      "points": 344
+    },
+    {
+      "objectID": "50092664",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "domain": "startupfortune.com",
+      "publishedAt": "2026-10-14T18:32:52.000Z",
+      "points": 338
     },
     {
       "objectID": "50057278",
@@ -87,7 +95,7 @@
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 310
+      "points": 311
     },
     {
       "objectID": "50063365",
@@ -138,20 +146,12 @@
       "points": 208
     },
     {
-      "objectID": "50092664",
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "domain": "startupfortune.com",
-      "publishedAt": "2026-10-14T18:32:52.000Z",
-      "points": 200
-    },
-    {
       "objectID": "50041765",
       "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
       "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
       "domain": "vcresearch.berkeley.edu",
       "publishedAt": "2026-10-11T10:47:21.000Z",
-      "points": 192
+      "points": 193
     },
     {
       "objectID": "50019056",
