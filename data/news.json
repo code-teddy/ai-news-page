@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T04:27:24.442Z",
+  "fetchedAt": "2026-10-16T11:18:22.724Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,7 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 940
+      "points": 942
     },
     {
       "objectID": "50063427",
@@ -15,7 +15,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 786
+      "points": 789
     },
     {
       "objectID": "50023450",
@@ -24,14 +24,6 @@
       "domain": "typesafe.ai",
       "publishedAt": "2026-10-09T17:02:31.000Z",
       "points": 444
-    },
-    {
-      "objectID": "50018817",
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "domain": "github.com",
-      "publishedAt": "2026-10-09T11:03:48.000Z",
-      "points": 419
     },
     {
       "objectID": "50054751",
@@ -63,7 +55,7 @@
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "domain": "sammystraus.com",
       "publishedAt": "2026-10-13T15:25:50.000Z",
-      "points": 348
+      "points": 350
     },
     {
       "objectID": "50057278",
@@ -114,20 +106,20 @@
       "points": 279
     },
     {
-      "objectID": "50104654",
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "domain": "simonsfoundation.org",
-      "publishedAt": "2026-10-15T14:58:48.000Z",
-      "points": 233
-    },
-    {
       "objectID": "50108131",
       "title": "Why We're Banning AI",
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "domain": "currentaffairs.org",
       "publishedAt": "2026-10-15T18:32:29.000Z",
-      "points": 230
+      "points": 244
+    },
+    {
+      "objectID": "50104654",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "domain": "simonsfoundation.org",
+      "publishedAt": "2026-10-15T14:58:48.000Z",
+      "points": 240
     },
     {
       "objectID": "50057668",
@@ -160,6 +152,14 @@
       "domain": "terrytao.wordpress.com",
       "publishedAt": "2026-10-09T17:42:12.000Z",
       "points": 208
+    },
+    {
+      "objectID": "50104299",
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "domain": "blogs.gnome.org",
+      "publishedAt": "2026-10-15T14:35:15.000Z",
+      "points": 204
     }
   ]
 }
