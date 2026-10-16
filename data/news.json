@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T16:35:37.985Z",
+  "fetchedAt": "2026-10-16T21:03:54.373Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,7 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 945
+      "points": 946
     },
     {
       "objectID": "50063427",
@@ -15,15 +15,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 795
-    },
-    {
-      "objectID": "50023450",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "domain": "typesafe.ai",
-      "publishedAt": "2026-10-09T17:02:31.000Z",
-      "points": 445
+      "points": 799
     },
     {
       "objectID": "50054751",
@@ -39,7 +31,7 @@
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "domain": "startupfortune.com",
       "publishedAt": "2026-10-14T18:32:52.000Z",
-      "points": 382
+      "points": 383
     },
     {
       "objectID": "50059523",
@@ -98,6 +90,14 @@
       "points": 308
     },
     {
+      "objectID": "50121179",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "domain": "mercor.com",
+      "publishedAt": "2026-10-16T17:08:38.000Z",
+      "points": 291
+    },
+    {
       "objectID": "50065692",
       "title": "AI models can provably hide arbitrary capabilities",
       "url": "https://arxiv.org/abs/2610.13928",
@@ -111,7 +111,7 @@
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "domain": "currentaffairs.org",
       "publishedAt": "2026-10-15T18:32:29.000Z",
-      "points": 247
+      "points": 253
     },
     {
       "objectID": "50104654",
@@ -119,7 +119,7 @@
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "domain": "simonsfoundation.org",
       "publishedAt": "2026-10-15T14:58:48.000Z",
-      "points": 243
+      "points": 246
     },
     {
       "objectID": "50104299",
@@ -127,7 +127,7 @@
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "domain": "blogs.gnome.org",
       "publishedAt": "2026-10-15T14:35:15.000Z",
-      "points": 236
+      "points": 242
     },
     {
       "objectID": "50057668",
@@ -154,12 +154,12 @@
       "points": 214
     },
     {
-      "objectID": "50024090",
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "domain": "terrytao.wordpress.com",
-      "publishedAt": "2026-10-09T17:42:12.000Z",
-      "points": 208
+      "objectID": "50041765",
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "domain": "vcresearch.berkeley.edu",
+      "publishedAt": "2026-10-11T10:47:21.000Z",
+      "points": 194
     }
   ]
 }
