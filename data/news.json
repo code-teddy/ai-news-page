@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T21:19:55.912Z",
+  "fetchedAt": "2026-10-16T04:27:24.442Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,7 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 936
+      "points": 940
     },
     {
       "objectID": "50063427",
@@ -15,7 +15,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 784
+      "points": 786
     },
     {
       "objectID": "50023450",
@@ -47,7 +47,7 @@
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "domain": "startupfortune.com",
       "publishedAt": "2026-10-14T18:32:52.000Z",
-      "points": 377
+      "points": 378
     },
     {
       "objectID": "50059523",
@@ -63,7 +63,7 @@
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "domain": "sammystraus.com",
       "publishedAt": "2026-10-13T15:25:50.000Z",
-      "points": 345
+      "points": 348
     },
     {
       "objectID": "50057278",
@@ -71,7 +71,7 @@
       "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
       "domain": "mortoray.com",
       "publishedAt": "2026-10-12T14:52:37.000Z",
-      "points": 335
+      "points": 336
     },
     {
       "objectID": "50068036",
@@ -79,7 +79,7 @@
       "url": "https://blog.character.ai/an-update-on-character-ai/",
       "domain": "blog.character.ai",
       "publishedAt": "2026-10-13T07:28:34.000Z",
-      "points": 333
+      "points": 334
     },
     {
       "objectID": "50031614",
@@ -95,7 +95,7 @@
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 314
+      "points": 315
     },
     {
       "objectID": "50063365",
@@ -112,6 +112,22 @@
       "domain": "arxiv.org",
       "publishedAt": "2026-10-13T02:07:08.000Z",
       "points": 279
+    },
+    {
+      "objectID": "50104654",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "domain": "simonsfoundation.org",
+      "publishedAt": "2026-10-15T14:58:48.000Z",
+      "points": 233
+    },
+    {
+      "objectID": "50108131",
+      "title": "Why We're Banning AI",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "domain": "currentaffairs.org",
+      "publishedAt": "2026-10-15T18:32:29.000Z",
+      "points": 230
     },
     {
       "objectID": "50057668",
@@ -144,22 +160,6 @@
       "domain": "terrytao.wordpress.com",
       "publishedAt": "2026-10-09T17:42:12.000Z",
       "points": 208
-    },
-    {
-      "objectID": "50108131",
-      "title": "Why We're Banning AI",
-      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-      "domain": "currentaffairs.org",
-      "publishedAt": "2026-10-15T18:32:29.000Z",
-      "points": 203
-    },
-    {
-      "objectID": "50104654",
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "domain": "simonsfoundation.org",
-      "publishedAt": "2026-10-15T14:58:48.000Z",
-      "points": 201
     }
   ]
 }
