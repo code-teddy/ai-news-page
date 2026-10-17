@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T04:21:20.712Z",
+  "fetchedAt": "2026-10-17T10:39:13.569Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,7 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 946
+      "points": 947
     },
     {
       "objectID": "50063427",
@@ -15,7 +15,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 801
+      "points": 802
     },
     {
       "objectID": "50121179",
@@ -23,7 +23,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 441
+      "points": 509
     },
     {
       "objectID": "50054751",
@@ -55,7 +55,7 @@
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "domain": "sammystraus.com",
       "publishedAt": "2026-10-13T15:25:50.000Z",
-      "points": 350
+      "points": 351
     },
     {
       "objectID": "50057278",
@@ -71,7 +71,7 @@
       "url": "https://blog.character.ai/an-update-on-character-ai/",
       "domain": "blog.character.ai",
       "publishedAt": "2026-10-13T07:28:34.000Z",
-      "points": 334
+      "points": 335
     },
     {
       "objectID": "50031614",
@@ -87,7 +87,7 @@
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 316
+      "points": 317
     },
     {
       "objectID": "50063365",
@@ -103,7 +103,7 @@
       "url": "https://arxiv.org/abs/2610.13928",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-13T02:07:08.000Z",
-      "points": 279
+      "points": 280
     },
     {
       "objectID": "50108131",
@@ -114,20 +114,20 @@
       "points": 255
     },
     {
+      "objectID": "50104299",
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "domain": "blogs.gnome.org",
+      "publishedAt": "2026-10-15T14:35:15.000Z",
+      "points": 249
+    },
+    {
       "objectID": "50104654",
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "domain": "simonsfoundation.org",
       "publishedAt": "2026-10-15T14:58:48.000Z",
       "points": 247
-    },
-    {
-      "objectID": "50104299",
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "domain": "blogs.gnome.org",
-      "publishedAt": "2026-10-15T14:35:15.000Z",
-      "points": 246
     },
     {
       "objectID": "50057668",
@@ -146,20 +146,20 @@
       "points": 218
     },
     {
+      "objectID": "50119991",
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "domain": "theregister.com",
+      "publishedAt": "2026-10-16T15:55:40.000Z",
+      "points": 199
+    },
+    {
       "objectID": "50041765",
       "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
       "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
       "domain": "vcresearch.berkeley.edu",
       "publishedAt": "2026-10-11T10:47:21.000Z",
       "points": 194
-    },
-    {
-      "objectID": "50119991",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "domain": "theregister.com",
-      "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 188
     }
   ]
 }
