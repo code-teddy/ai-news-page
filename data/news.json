@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T10:39:13.569Z",
+  "fetchedAt": "2026-10-17T15:30:31.203Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -23,7 +23,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 509
+      "points": 558
     },
     {
       "objectID": "50054751",
@@ -74,14 +74,6 @@
       "points": 335
     },
     {
-      "objectID": "50031614",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "domain": "github.com",
-      "publishedAt": "2026-10-10T10:52:09.000Z",
-      "points": 329
-    },
-    {
       "objectID": "50060269",
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
@@ -111,7 +103,7 @@
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "domain": "currentaffairs.org",
       "publishedAt": "2026-10-15T18:32:29.000Z",
-      "points": 255
+      "points": 256
     },
     {
       "objectID": "50104299",
@@ -151,7 +143,7 @@
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 199
+      "points": 202
     },
     {
       "objectID": "50041765",
@@ -160,6 +152,14 @@
       "domain": "vcresearch.berkeley.edu",
       "publishedAt": "2026-10-11T10:47:21.000Z",
       "points": 194
+    },
+    {
+      "objectID": "50035886",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "domain": "ft.com",
+      "publishedAt": "2026-10-10T18:48:35.000Z",
+      "points": 179
     }
   ]
 }
