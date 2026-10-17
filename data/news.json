@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T21:03:54.373Z",
+  "fetchedAt": "2026-10-17T04:21:20.712Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -15,7 +15,15 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 799
+      "points": 801
+    },
+    {
+      "objectID": "50121179",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "domain": "mercor.com",
+      "publishedAt": "2026-10-16T17:08:38.000Z",
+      "points": 441
     },
     {
       "objectID": "50054751",
@@ -79,7 +87,7 @@
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 315
+      "points": 316
     },
     {
       "objectID": "50063365",
@@ -88,14 +96,6 @@
       "domain": "intel.com",
       "publishedAt": "2026-10-12T21:35:35.000Z",
       "points": 308
-    },
-    {
-      "objectID": "50121179",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "domain": "mercor.com",
-      "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 291
     },
     {
       "objectID": "50065692",
@@ -111,7 +111,7 @@
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "domain": "currentaffairs.org",
       "publishedAt": "2026-10-15T18:32:29.000Z",
-      "points": 253
+      "points": 255
     },
     {
       "objectID": "50104654",
@@ -119,7 +119,7 @@
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "domain": "simonsfoundation.org",
       "publishedAt": "2026-10-15T14:58:48.000Z",
-      "points": 246
+      "points": 247
     },
     {
       "objectID": "50104299",
@@ -127,7 +127,7 @@
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "domain": "blogs.gnome.org",
       "publishedAt": "2026-10-15T14:35:15.000Z",
-      "points": 242
+      "points": 246
     },
     {
       "objectID": "50057668",
@@ -146,20 +146,20 @@
       "points": 218
     },
     {
-      "objectID": "50027118",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "domain": "nbcphiladelphia.com",
-      "publishedAt": "2026-10-09T22:00:35.000Z",
-      "points": 214
-    },
-    {
       "objectID": "50041765",
       "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
       "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
       "domain": "vcresearch.berkeley.edu",
       "publishedAt": "2026-10-11T10:47:21.000Z",
       "points": 194
+    },
+    {
+      "objectID": "50119991",
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "domain": "theregister.com",
+      "publishedAt": "2026-10-16T15:55:40.000Z",
+      "points": 188
     }
   ]
 }
