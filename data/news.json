@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T15:30:31.203Z",
+  "fetchedAt": "2026-10-17T20:33:37.431Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,7 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 947
+      "points": 948
     },
     {
       "objectID": "50063427",
@@ -23,7 +23,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 558
+      "points": 587
     },
     {
       "objectID": "50054751",
@@ -39,7 +39,7 @@
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "domain": "startupfortune.com",
       "publishedAt": "2026-10-14T18:32:52.000Z",
-      "points": 383
+      "points": 384
     },
     {
       "objectID": "50059523",
@@ -79,7 +79,7 @@
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 317
+      "points": 318
     },
     {
       "objectID": "50063365",
@@ -103,7 +103,7 @@
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "domain": "currentaffairs.org",
       "publishedAt": "2026-10-15T18:32:29.000Z",
-      "points": 256
+      "points": 257
     },
     {
       "objectID": "50104299",
@@ -111,7 +111,7 @@
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "domain": "blogs.gnome.org",
       "publishedAt": "2026-10-15T14:35:15.000Z",
-      "points": 249
+      "points": 250
     },
     {
       "objectID": "50104654",
@@ -119,7 +119,7 @@
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "domain": "simonsfoundation.org",
       "publishedAt": "2026-10-15T14:58:48.000Z",
-      "points": 247
+      "points": 248
     },
     {
       "objectID": "50057668",
@@ -143,7 +143,7 @@
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 202
+      "points": 205
     },
     {
       "objectID": "50041765",
@@ -154,12 +154,12 @@
       "points": 194
     },
     {
-      "objectID": "50035886",
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "domain": "ft.com",
-      "publishedAt": "2026-10-10T18:48:35.000Z",
-      "points": 179
+      "objectID": "50072120",
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "domain": "kylekukshtel.com",
+      "publishedAt": "2026-10-13T14:14:23.000Z",
+      "points": 175
     }
   ]
 }
