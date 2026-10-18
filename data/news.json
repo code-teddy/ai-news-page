@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T20:33:37.431Z",
+  "fetchedAt": "2026-10-18T04:27:09.122Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -23,7 +23,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 587
+      "points": 599
     },
     {
       "objectID": "50054751",
@@ -103,7 +103,7 @@
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "domain": "currentaffairs.org",
       "publishedAt": "2026-10-15T18:32:29.000Z",
-      "points": 257
+      "points": 260
     },
     {
       "objectID": "50104299",
@@ -111,7 +111,7 @@
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "domain": "blogs.gnome.org",
       "publishedAt": "2026-10-15T14:35:15.000Z",
-      "points": 250
+      "points": 253
     },
     {
       "objectID": "50104654",
@@ -119,7 +119,7 @@
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "domain": "simonsfoundation.org",
       "publishedAt": "2026-10-15T14:58:48.000Z",
-      "points": 248
+      "points": 249
     },
     {
       "objectID": "50057668",
@@ -130,20 +130,12 @@
       "points": 220
     },
     {
-      "objectID": "50039092",
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "domain": "momo5502.com",
-      "publishedAt": "2026-10-11T02:02:38.000Z",
-      "points": 218
-    },
-    {
       "objectID": "50119991",
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 205
+      "points": 212
     },
     {
       "objectID": "50041765",
@@ -160,6 +152,14 @@
       "domain": "kylekukshtel.com",
       "publishedAt": "2026-10-13T14:14:23.000Z",
       "points": 175
+    },
+    {
+      "objectID": "50088430",
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "domain": "reuters.com",
+      "publishedAt": "2026-10-14T14:38:55.000Z",
+      "points": 173
     }
   ]
 }
