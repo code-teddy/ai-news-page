@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T04:27:09.122Z",
+  "fetchedAt": "2026-10-18T10:59:44.057Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -15,7 +15,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 802
+      "points": 803
     },
     {
       "objectID": "50121179",
@@ -23,7 +23,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 599
+      "points": 610
     },
     {
       "objectID": "50054751",
@@ -39,7 +39,7 @@
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "domain": "startupfortune.com",
       "publishedAt": "2026-10-14T18:32:52.000Z",
-      "points": 384
+      "points": 385
     },
     {
       "objectID": "50059523",
@@ -95,7 +95,7 @@
       "url": "https://arxiv.org/abs/2610.13928",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-13T02:07:08.000Z",
-      "points": 280
+      "points": 281
     },
     {
       "objectID": "50108131",
@@ -135,15 +135,7 @@
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 212
-    },
-    {
-      "objectID": "50041765",
-      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-      "domain": "vcresearch.berkeley.edu",
-      "publishedAt": "2026-10-11T10:47:21.000Z",
-      "points": 194
+      "points": 213
     },
     {
       "objectID": "50072120",
@@ -160,6 +152,14 @@
       "domain": "reuters.com",
       "publishedAt": "2026-10-14T14:38:55.000Z",
       "points": 173
+    },
+    {
+      "objectID": "50132278",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "domain": "opendemocracy.net",
+      "publishedAt": "2026-10-17T16:04:23.000Z",
+      "points": 165
     }
   ]
 }
