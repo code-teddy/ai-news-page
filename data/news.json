@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T15:49:23.331Z",
+  "fetchedAt": "2026-10-18T20:38:13.618Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -23,7 +23,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 611
+      "points": 612
     },
     {
       "objectID": "50054751",
@@ -122,6 +122,14 @@
       "points": 249
     },
     {
+      "objectID": "50137950",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "domain": "sphinx-six-theta.vercel.app",
+      "publishedAt": "2026-10-18T04:33:49.000Z",
+      "points": 228
+    },
+    {
       "objectID": "50057668",
       "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
       "url": "https://taylor.town/kk-ai-2026",
@@ -135,15 +143,7 @@
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 215
-    },
-    {
-      "objectID": "50137950",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "domain": "sphinx-six-theta.vercel.app",
-      "publishedAt": "2026-10-18T04:33:49.000Z",
-      "points": 201
+      "points": 217
     },
     {
       "objectID": "50072120",
