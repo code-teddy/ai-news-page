@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T04:35:56.059Z",
+  "fetchedAt": "2026-10-19T13:07:18.601Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,7 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 948
+      "points": 950
     },
     {
       "objectID": "50063427",
@@ -23,15 +23,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 618
-    },
-    {
-      "objectID": "50054751",
-      "title": "QGIS enacts moratorium on AI contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "domain": "github.com",
-      "publishedAt": "2026-10-12T11:22:24.000Z",
-      "points": 392
+      "points": 623
     },
     {
       "objectID": "50092664",
@@ -111,7 +103,7 @@
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "domain": "blogs.gnome.org",
       "publishedAt": "2026-10-15T14:35:15.000Z",
-      "points": 253
+      "points": 254
     },
     {
       "objectID": "50104654",
@@ -127,7 +119,7 @@
       "url": "https://sphinx-six-theta.vercel.app/",
       "domain": "sphinx-six-theta.vercel.app",
       "publishedAt": "2026-10-18T04:33:49.000Z",
-      "points": 242
+      "points": 248
     },
     {
       "objectID": "50057668",
@@ -143,7 +135,7 @@
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 218
+      "points": 219
     },
     {
       "objectID": "50072120",
@@ -160,6 +152,14 @@
       "domain": "reuters.com",
       "publishedAt": "2026-10-14T14:38:55.000Z",
       "points": 174
+    },
+    {
+      "objectID": "50132278",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "domain": "opendemocracy.net",
+      "publishedAt": "2026-10-17T16:04:23.000Z",
+      "points": 173
     }
   ]
 }
