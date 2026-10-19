@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T13:07:18.601Z",
+  "fetchedAt": "2026-10-19T22:19:05.899Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -7,15 +7,7 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
       "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 950
-    },
-    {
-      "objectID": "50063427",
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "domain": "yyhh.org",
-      "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 805
+      "points": 951
     },
     {
       "objectID": "50121179",
@@ -23,7 +15,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 623
+      "points": 625
     },
     {
       "objectID": "50092664",
@@ -34,14 +26,6 @@
       "points": 385
     },
     {
-      "objectID": "50059523",
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-10-12T17:14:01.000Z",
-      "points": 364
-    },
-    {
       "objectID": "50073221",
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
@@ -50,36 +34,12 @@
       "points": 351
     },
     {
-      "objectID": "50057278",
-      "title": "Why aren't AI companies being charged for hacking?",
-      "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-      "domain": "mortoray.com",
-      "publishedAt": "2026-10-12T14:52:37.000Z",
-      "points": 336
-    },
-    {
       "objectID": "50068036",
       "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
       "url": "https://blog.character.ai/an-update-on-character-ai/",
       "domain": "blog.character.ai",
       "publishedAt": "2026-10-13T07:28:34.000Z",
       "points": 335
-    },
-    {
-      "objectID": "50060269",
-      "title": "'AI' Is Not a Tool by Rich Hickey",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "domain": "linkedin.com",
-      "publishedAt": "2026-10-12T18:00:25.000Z",
-      "points": 318
-    },
-    {
-      "objectID": "50063365",
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "domain": "intel.com",
-      "publishedAt": "2026-10-12T21:35:35.000Z",
-      "points": 308
     },
     {
       "objectID": "50065692",
@@ -103,7 +63,15 @@
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "domain": "blogs.gnome.org",
       "publishedAt": "2026-10-15T14:35:15.000Z",
-      "points": 254
+      "points": 255
+    },
+    {
+      "objectID": "50137950",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "domain": "sphinx-six-theta.vercel.app",
+      "publishedAt": "2026-10-18T04:33:49.000Z",
+      "points": 250
     },
     {
       "objectID": "50104654",
@@ -114,28 +82,12 @@
       "points": 249
     },
     {
-      "objectID": "50137950",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "domain": "sphinx-six-theta.vercel.app",
-      "publishedAt": "2026-10-18T04:33:49.000Z",
-      "points": 248
-    },
-    {
-      "objectID": "50057668",
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "domain": "taylor.town",
-      "publishedAt": "2026-10-12T15:16:45.000Z",
-      "points": 220
-    },
-    {
       "objectID": "50119991",
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 219
+      "points": 221
     },
     {
       "objectID": "50072120",
@@ -143,7 +95,7 @@
       "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
       "domain": "kylekukshtel.com",
       "publishedAt": "2026-10-13T14:14:23.000Z",
-      "points": 175
+      "points": 176
     },
     {
       "objectID": "50088430",
@@ -160,6 +112,54 @@
       "domain": "opendemocracy.net",
       "publishedAt": "2026-10-17T16:04:23.000Z",
       "points": 173
+    },
+    {
+      "objectID": "50151036",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "domain": "news.ycombinator.com",
+      "publishedAt": "2026-10-19T11:24:34.000Z",
+      "points": 170
+    },
+    {
+      "objectID": "50141429",
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "domain": "tomshardware.com",
+      "publishedAt": "2026-10-18T14:30:27.000Z",
+      "points": 170
+    },
+    {
+      "objectID": "50085323",
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "domain": "swedenherald.com",
+      "publishedAt": "2026-10-14T10:28:26.000Z",
+      "points": 156
+    },
+    {
+      "objectID": "50141657",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "domain": "theverge.com",
+      "publishedAt": "2026-10-18T14:58:10.000Z",
+      "points": 153
+    },
+    {
+      "objectID": "50085553",
+      "title": "AI-assisted PCB design for KiCad 10",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "domain": "github.com",
+      "publishedAt": "2026-10-14T10:51:37.000Z",
+      "points": 147
+    },
+    {
+      "objectID": "50069942",
+      "title": "Character.ai Files for Bankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "domain": "theverge.com",
+      "publishedAt": "2026-10-13T11:24:08.000Z",
+      "points": 145
     }
   ]
 }
