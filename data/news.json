@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T20:38:13.618Z",
+  "fetchedAt": "2026-10-19T04:35:56.059Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -15,7 +15,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "points": 803
+      "points": 805
     },
     {
       "objectID": "50121179",
@@ -23,7 +23,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 612
+      "points": 618
     },
     {
       "objectID": "50054751",
@@ -127,7 +127,7 @@
       "url": "https://sphinx-six-theta.vercel.app/",
       "domain": "sphinx-six-theta.vercel.app",
       "publishedAt": "2026-10-18T04:33:49.000Z",
-      "points": 228
+      "points": 242
     },
     {
       "objectID": "50057668",
@@ -143,7 +143,7 @@
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 217
+      "points": 218
     },
     {
       "objectID": "50072120",
@@ -159,7 +159,7 @@
       "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
       "domain": "reuters.com",
       "publishedAt": "2026-10-14T14:38:55.000Z",
-      "points": 173
+      "points": 174
     }
   ]
 }
