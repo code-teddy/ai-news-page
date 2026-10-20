@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T16:59:55.786Z",
+  "fetchedAt": "2026-10-20T21:34:41.357Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -15,7 +15,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 626
+      "points": 628
     },
     {
       "objectID": "50151036",
@@ -23,7 +23,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 560
+      "points": 579
     },
     {
       "objectID": "50092664",
@@ -122,6 +122,14 @@
       "points": 154
     },
     {
+      "objectID": "50168190",
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "domain": "ign.com",
+      "publishedAt": "2026-10-20T15:48:26.000Z",
+      "points": 152
+    },
+    {
       "objectID": "50085553",
       "title": "AI-assisted PCB design for KiCad 10",
       "url": "https://github.com/mixelpixx/Konnect",
@@ -143,7 +151,7 @@
       "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
       "domain": "simpleflying.com",
       "publishedAt": "2026-10-19T01:56:39.000Z",
-      "points": 125
+      "points": 126
     },
     {
       "objectID": "50100791",
@@ -152,14 +160,6 @@
       "domain": "thetheorygirlie.substack.com",
       "publishedAt": "2026-10-15T08:18:38.000Z",
       "points": 124
-    },
-    {
-      "objectID": "50080275",
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "domain": "pulseos.finance",
-      "publishedAt": "2026-10-13T23:13:23.000Z",
-      "points": 122
     }
   ]
 }
