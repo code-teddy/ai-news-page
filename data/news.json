@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T04:45:16.524Z",
+  "fetchedAt": "2026-10-20T11:31:30.794Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -18,6 +18,14 @@
       "points": 625
     },
     {
+      "objectID": "50151036",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "domain": "news.ycombinator.com",
+      "publishedAt": "2026-10-19T11:24:34.000Z",
+      "points": 481
+    },
+    {
       "objectID": "50092664",
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
@@ -32,22 +40,6 @@
       "domain": "sammystraus.com",
       "publishedAt": "2026-10-13T15:25:50.000Z",
       "points": 352
-    },
-    {
-      "objectID": "50068036",
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "domain": "blog.character.ai",
-      "publishedAt": "2026-10-13T07:28:34.000Z",
-      "points": 335
-    },
-    {
-      "objectID": "50151036",
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "domain": "news.ycombinator.com",
-      "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 326
     },
     {
       "objectID": "50108131",
@@ -87,7 +79,7 @@
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 223
+      "points": 225
     },
     {
       "objectID": "50072120",
@@ -119,7 +111,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
       "domain": "tomshardware.com",
       "publishedAt": "2026-10-18T14:30:27.000Z",
-      "points": 170
+      "points": 171
     },
     {
       "objectID": "50085323",
@@ -138,6 +130,14 @@
       "points": 154
     },
     {
+      "objectID": "50151928",
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "domain": "100toolkit.com",
+      "publishedAt": "2026-10-19T13:00:47.000Z",
+      "points": 149
+    },
+    {
       "objectID": "50085553",
       "title": "AI-assisted PCB design for KiCad 10",
       "url": "https://github.com/mixelpixx/Konnect",
@@ -146,20 +146,20 @@
       "points": 147
     },
     {
-      "objectID": "50151928",
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "url": "https://100toolkit.com/blog/deslop-model/",
-      "domain": "100toolkit.com",
-      "publishedAt": "2026-10-19T13:00:47.000Z",
-      "points": 145
+      "objectID": "50090799",
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "domain": "theconsensus.dev",
+      "publishedAt": "2026-10-14T16:52:42.000Z",
+      "points": 137
     },
     {
-      "objectID": "50069942",
-      "title": "Character.ai Files for Bankruptcy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "domain": "theverge.com",
-      "publishedAt": "2026-10-13T11:24:08.000Z",
-      "points": 145
+      "objectID": "50100791",
+      "title": "AI was great until it was not",
+      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "domain": "thetheorygirlie.substack.com",
+      "publishedAt": "2026-10-15T08:18:38.000Z",
+      "points": 124
     }
   ]
 }
