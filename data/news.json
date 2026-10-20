@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T11:31:30.794Z",
+  "fetchedAt": "2026-10-20T16:59:55.786Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -15,7 +15,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "points": 625
+      "points": 626
     },
     {
       "objectID": "50151036",
@@ -23,7 +23,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 481
+      "points": 560
     },
     {
       "objectID": "50092664",
@@ -32,14 +32,6 @@
       "domain": "startupfortune.com",
       "publishedAt": "2026-10-14T18:32:52.000Z",
       "points": 385
-    },
-    {
-      "objectID": "50073221",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "domain": "sammystraus.com",
-      "publishedAt": "2026-10-13T15:25:50.000Z",
-      "points": 352
     },
     {
       "objectID": "50108131",
@@ -82,14 +74,6 @@
       "points": 225
     },
     {
-      "objectID": "50072120",
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "domain": "kylekukshtel.com",
-      "publishedAt": "2026-10-13T14:14:23.000Z",
-      "points": 176
-    },
-    {
       "objectID": "50088430",
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
       "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
@@ -111,7 +95,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
       "domain": "tomshardware.com",
       "publishedAt": "2026-10-18T14:30:27.000Z",
-      "points": 171
+      "points": 172
     },
     {
       "objectID": "50085323",
@@ -127,7 +111,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "domain": "theverge.com",
       "publishedAt": "2026-10-18T14:58:10.000Z",
-      "points": 154
+      "points": 155
     },
     {
       "objectID": "50151928",
@@ -135,7 +119,7 @@
       "url": "https://100toolkit.com/blog/deslop-model/",
       "domain": "100toolkit.com",
       "publishedAt": "2026-10-19T13:00:47.000Z",
-      "points": 149
+      "points": 154
     },
     {
       "objectID": "50085553",
@@ -154,12 +138,28 @@
       "points": 137
     },
     {
+      "objectID": "50147462",
+      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+      "domain": "simpleflying.com",
+      "publishedAt": "2026-10-19T01:56:39.000Z",
+      "points": 125
+    },
+    {
       "objectID": "50100791",
       "title": "AI was great until it was not",
       "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
       "domain": "thetheorygirlie.substack.com",
       "publishedAt": "2026-10-15T08:18:38.000Z",
       "points": 124
+    },
+    {
+      "objectID": "50080275",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "domain": "pulseos.finance",
+      "publishedAt": "2026-10-13T23:13:23.000Z",
+      "points": 122
     }
   ]
 }
