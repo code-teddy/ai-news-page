@@ -1,14 +1,6 @@
 {
-  "fetchedAt": "2026-10-21T17:09:01.186Z",
+  "fetchedAt": "2026-10-21T21:39:48.620Z",
   "stories": [
-    {
-      "objectID": "50091788",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "domain": "csoonline.com",
-      "publishedAt": "2026-10-14T17:45:23.000Z",
-      "points": 951
-    },
     {
       "objectID": "50121179",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
@@ -23,15 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 598
-    },
-    {
-      "objectID": "50092664",
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "domain": "startupfortune.com",
-      "publishedAt": "2026-10-14T18:32:52.000Z",
-      "points": 385
+      "points": 603
     },
     {
       "objectID": "50180836",
@@ -39,7 +23,7 @@
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
       "publishedAt": "2026-10-21T13:43:19.000Z",
-      "points": 373
+      "points": 421
     },
     {
       "objectID": "50108131",
@@ -111,7 +95,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "domain": "theverge.com",
       "publishedAt": "2026-10-18T14:58:10.000Z",
-      "points": 157
+      "points": 158
     },
     {
       "objectID": "50151928",
@@ -119,7 +103,7 @@
       "url": "https://100toolkit.com/blog/deslop-model/",
       "domain": "100toolkit.com",
       "publishedAt": "2026-10-19T13:00:47.000Z",
-      "points": 157
+      "points": 158
     },
     {
       "objectID": "50147462",
@@ -136,6 +120,14 @@
       "domain": "thetheorygirlie.substack.com",
       "publishedAt": "2026-10-15T08:18:38.000Z",
       "points": 124
+    },
+    {
+      "objectID": "50180752",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "domain": "openai.com",
+      "publishedAt": "2026-10-21T13:37:00.000Z",
+      "points": 113
     },
     {
       "objectID": "50140462",
@@ -159,7 +151,15 @@
       "url": "https://www.bolkunov.com/p/on-ai-writing",
       "domain": "bolkunov.com",
       "publishedAt": "2026-10-20T19:55:11.000Z",
-      "points": 91
+      "points": 92
+    },
+    {
+      "objectID": "50105900",
+      "title": "Market selloff, rising rates test AI data centre deal boom",
+      "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+      "domain": "reuters.com",
+      "publishedAt": "2026-10-15T16:17:40.000Z",
+      "points": 75
     }
   ]
 }
