@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T11:44:17.084Z",
+  "fetchedAt": "2026-10-21T17:09:01.186Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -23,7 +23,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 593
+      "points": 598
     },
     {
       "objectID": "50092664",
@@ -32,6 +32,14 @@
       "domain": "startupfortune.com",
       "publishedAt": "2026-10-14T18:32:52.000Z",
       "points": 385
+    },
+    {
+      "objectID": "50180836",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "domain": "wiz.io",
+      "publishedAt": "2026-10-21T13:43:19.000Z",
+      "points": 373
     },
     {
       "objectID": "50108131",
@@ -79,15 +87,7 @@
       "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
       "domain": "ign.com",
       "publishedAt": "2026-10-20T15:48:26.000Z",
-      "points": 177
-    },
-    {
-      "objectID": "50088430",
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "domain": "reuters.com",
-      "publishedAt": "2026-10-14T14:38:55.000Z",
-      "points": 174
+      "points": 183
     },
     {
       "objectID": "50132278",
@@ -119,15 +119,7 @@
       "url": "https://100toolkit.com/blog/deslop-model/",
       "domain": "100toolkit.com",
       "publishedAt": "2026-10-19T13:00:47.000Z",
-      "points": 155
-    },
-    {
-      "objectID": "50090799",
-      "title": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "domain": "theconsensus.dev",
-      "publishedAt": "2026-10-14T16:52:42.000Z",
-      "points": 137
+      "points": 157
     },
     {
       "objectID": "50147462",
@@ -146,20 +138,28 @@
       "points": 124
     },
     {
-      "objectID": "50088534",
-      "title": "AI is mass decompiling games. That's both awesome and scary",
-      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
-      "domain": "popcar.bearblog.dev",
-      "publishedAt": "2026-10-14T14:47:44.000Z",
-      "points": 109
-    },
-    {
       "objectID": "50140462",
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
       "url": "https://www.vals.ai/blogs/impossible-refund",
       "domain": "vals.ai",
       "publishedAt": "2026-10-18T12:22:58.000Z",
       "points": 106
+    },
+    {
+      "objectID": "50143218",
+      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+      "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+      "domain": "liveandletsfly.com",
+      "publishedAt": "2026-10-18T17:27:30.000Z",
+      "points": 95
+    },
+    {
+      "objectID": "50171771",
+      "title": "On AI writing",
+      "url": "https://www.bolkunov.com/p/on-ai-writing",
+      "domain": "bolkunov.com",
+      "publishedAt": "2026-10-20T19:55:11.000Z",
+      "points": 91
     }
   ]
 }
