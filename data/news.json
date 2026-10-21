@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T04:41:24.755Z",
+  "fetchedAt": "2026-10-21T11:44:17.084Z",
   "stories": [
     {
       "objectID": "50091788",
@@ -23,7 +23,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 589
+      "points": 593
     },
     {
       "objectID": "50092664",
@@ -74,20 +74,20 @@
       "points": 225
     },
     {
+      "objectID": "50168190",
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "domain": "ign.com",
+      "publishedAt": "2026-10-20T15:48:26.000Z",
+      "points": 177
+    },
+    {
       "objectID": "50088430",
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
       "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
       "domain": "reuters.com",
       "publishedAt": "2026-10-14T14:38:55.000Z",
       "points": 174
-    },
-    {
-      "objectID": "50168190",
-      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "domain": "ign.com",
-      "publishedAt": "2026-10-20T15:48:26.000Z",
-      "points": 173
     },
     {
       "objectID": "50132278",
@@ -111,15 +111,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "domain": "theverge.com",
       "publishedAt": "2026-10-18T14:58:10.000Z",
-      "points": 156
-    },
-    {
-      "objectID": "50085323",
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "domain": "swedenherald.com",
-      "publishedAt": "2026-10-14T10:28:26.000Z",
-      "points": 156
+      "points": 157
     },
     {
       "objectID": "50151928",
@@ -127,15 +119,7 @@
       "url": "https://100toolkit.com/blog/deslop-model/",
       "domain": "100toolkit.com",
       "publishedAt": "2026-10-19T13:00:47.000Z",
-      "points": 154
-    },
-    {
-      "objectID": "50085553",
-      "title": "AI-assisted PCB design for KiCad 10",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "domain": "github.com",
-      "publishedAt": "2026-10-14T10:51:37.000Z",
-      "points": 147
+      "points": 155
     },
     {
       "objectID": "50090799",
@@ -151,7 +135,7 @@
       "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
       "domain": "simpleflying.com",
       "publishedAt": "2026-10-19T01:56:39.000Z",
-      "points": 127
+      "points": 128
     },
     {
       "objectID": "50100791",
@@ -160,6 +144,22 @@
       "domain": "thetheorygirlie.substack.com",
       "publishedAt": "2026-10-15T08:18:38.000Z",
       "points": 124
+    },
+    {
+      "objectID": "50088534",
+      "title": "AI is mass decompiling games. That's both awesome and scary",
+      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+      "domain": "popcar.bearblog.dev",
+      "publishedAt": "2026-10-14T14:47:44.000Z",
+      "points": 109
+    },
+    {
+      "objectID": "50140462",
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "domain": "vals.ai",
+      "publishedAt": "2026-10-18T12:22:58.000Z",
+      "points": 106
     }
   ]
 }
