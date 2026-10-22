@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T04:39:22.929Z",
+  "fetchedAt": "2026-10-22T11:47:02.661Z",
   "stories": [
     {
       "objectID": "50121179",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 604
+      "points": 606
     },
     {
       "objectID": "50180836",
@@ -23,7 +23,7 @@
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
       "publishedAt": "2026-10-21T13:43:19.000Z",
-      "points": 439
+      "points": 441
     },
     {
       "objectID": "50108131",
@@ -66,6 +66,14 @@
       "points": 225
     },
     {
+      "objectID": "50189150",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "domain": "theverge.com",
+      "publishedAt": "2026-10-21T23:38:32.000Z",
+      "points": 190
+    },
+    {
       "objectID": "50168190",
       "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
       "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
@@ -106,20 +114,12 @@
       "points": 158
     },
     {
-      "objectID": "50189150",
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "domain": "theverge.com",
-      "publishedAt": "2026-10-21T23:38:32.000Z",
-      "points": 147
-    },
-    {
       "objectID": "50180752",
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "domain": "openai.com",
       "publishedAt": "2026-10-21T13:37:00.000Z",
-      "points": 137
+      "points": 146
     },
     {
       "objectID": "50147462",
@@ -130,20 +130,12 @@
       "points": 128
     },
     {
-      "objectID": "50100791",
-      "title": "AI was great until it was not",
-      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-      "domain": "thetheorygirlie.substack.com",
-      "publishedAt": "2026-10-15T08:18:38.000Z",
-      "points": 124
-    },
-    {
       "objectID": "50186043",
       "title": "Google staff resign in backlash over its AI contracts with military",
       "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
       "domain": "bbc.com",
       "publishedAt": "2026-10-21T19:14:21.000Z",
-      "points": 117
+      "points": 124
     },
     {
       "objectID": "50140462",
@@ -151,7 +143,7 @@
       "url": "https://www.vals.ai/blogs/impossible-refund",
       "domain": "vals.ai",
       "publishedAt": "2026-10-18T12:22:58.000Z",
-      "points": 106
+      "points": 107
     },
     {
       "objectID": "50143218",
@@ -160,6 +152,14 @@
       "domain": "liveandletsfly.com",
       "publishedAt": "2026-10-18T17:27:30.000Z",
       "points": 95
+    },
+    {
+      "objectID": "50171771",
+      "title": "On AI writing",
+      "url": "https://www.bolkunov.com/p/on-ai-writing",
+      "domain": "bolkunov.com",
+      "publishedAt": "2026-10-20T19:55:11.000Z",
+      "points": 92
     }
   ]
 }
