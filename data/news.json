@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T11:47:02.661Z",
+  "fetchedAt": "2026-10-22T17:07:40.969Z",
   "stories": [
     {
       "objectID": "50121179",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 606
+      "points": 610
     },
     {
       "objectID": "50180836",
@@ -23,7 +23,7 @@
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
       "publishedAt": "2026-10-21T13:43:19.000Z",
-      "points": 441
+      "points": 445
     },
     {
       "objectID": "50108131",
@@ -34,28 +34,12 @@
       "points": 261
     },
     {
-      "objectID": "50104299",
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "domain": "blogs.gnome.org",
-      "publishedAt": "2026-10-15T14:35:15.000Z",
-      "points": 256
-    },
-    {
       "objectID": "50137950",
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
       "domain": "sphinx-six-theta.vercel.app",
       "publishedAt": "2026-10-18T04:33:49.000Z",
       "points": 252
-    },
-    {
-      "objectID": "50104654",
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "domain": "simonsfoundation.org",
-      "publishedAt": "2026-10-15T14:58:48.000Z",
-      "points": 249
     },
     {
       "objectID": "50119991",
@@ -71,7 +55,7 @@
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
       "publishedAt": "2026-10-21T23:38:32.000Z",
-      "points": 190
+      "points": 223
     },
     {
       "objectID": "50168190",
@@ -119,7 +103,7 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "domain": "openai.com",
       "publishedAt": "2026-10-21T13:37:00.000Z",
-      "points": 146
+      "points": 153
     },
     {
       "objectID": "50147462",
@@ -159,7 +143,23 @@
       "url": "https://www.bolkunov.com/p/on-ai-writing",
       "domain": "bolkunov.com",
       "publishedAt": "2026-10-20T19:55:11.000Z",
-      "points": 92
+      "points": 93
+    },
+    {
+      "objectID": "50183727",
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "url": "https://rustoffrails.org/",
+      "domain": "rustoffrails.org",
+      "publishedAt": "2026-10-21T16:34:16.000Z",
+      "points": 73
+    },
+    {
+      "objectID": "50179857",
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "domain": "layerfs.ai",
+      "publishedAt": "2026-10-21T12:34:46.000Z",
+      "points": 72
     }
   ]
 }
