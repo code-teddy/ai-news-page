@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T17:07:40.969Z",
+  "fetchedAt": "2026-10-22T21:32:41.907Z",
   "stories": [
     {
       "objectID": "50121179",
@@ -23,15 +23,7 @@
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
       "publishedAt": "2026-10-21T13:43:19.000Z",
-      "points": 445
-    },
-    {
-      "objectID": "50108131",
-      "title": "Why We're Banning AI",
-      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-      "domain": "currentaffairs.org",
-      "publishedAt": "2026-10-15T18:32:29.000Z",
-      "points": 261
+      "points": 446
     },
     {
       "objectID": "50137950",
@@ -42,20 +34,28 @@
       "points": 252
     },
     {
-      "objectID": "50119991",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "domain": "theregister.com",
-      "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 225
-    },
-    {
       "objectID": "50189150",
       "title": "Airbnb bans making guests do dishes and take out the trash",
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
       "publishedAt": "2026-10-21T23:38:32.000Z",
-      "points": 223
+      "points": 240
+    },
+    {
+      "objectID": "50119991",
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "domain": "theregister.com",
+      "publishedAt": "2026-10-16T15:55:40.000Z",
+      "points": 226
+    },
+    {
+      "objectID": "50198675",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "domain": "github.com",
+      "publishedAt": "2026-10-22T17:44:06.000Z",
+      "points": 201
     },
     {
       "objectID": "50168190",
@@ -119,7 +119,7 @@
       "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
       "domain": "bbc.com",
       "publishedAt": "2026-10-21T19:14:21.000Z",
-      "points": 124
+      "points": 125
     },
     {
       "objectID": "50140462",
@@ -146,20 +146,20 @@
       "points": 93
     },
     {
+      "objectID": "50197313",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "domain": "modelcompare.ai",
+      "publishedAt": "2026-10-22T16:08:00.000Z",
+      "points": 91
+    },
+    {
       "objectID": "50183727",
       "title": "Rust off Rails: The opinionated web stack for the AI era",
       "url": "https://rustoffrails.org/",
       "domain": "rustoffrails.org",
       "publishedAt": "2026-10-21T16:34:16.000Z",
-      "points": 73
-    },
-    {
-      "objectID": "50179857",
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "url": "https://layerfs.ai/",
-      "domain": "layerfs.ai",
-      "publishedAt": "2026-10-21T12:34:46.000Z",
-      "points": 72
+      "points": 74
     }
   ]
 }
