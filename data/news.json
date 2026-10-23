@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T21:32:41.907Z",
+  "fetchedAt": "2026-10-23T04:44:53.710Z",
   "stories": [
     {
       "objectID": "50121179",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 610
+      "points": 611
     },
     {
       "objectID": "50180836",
@@ -23,7 +23,23 @@
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
       "publishedAt": "2026-10-21T13:43:19.000Z",
-      "points": 446
+      "points": 447
+    },
+    {
+      "objectID": "50198675",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "domain": "github.com",
+      "publishedAt": "2026-10-22T17:44:06.000Z",
+      "points": 339
+    },
+    {
+      "objectID": "50197313",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "domain": "modelcompare.ai",
+      "publishedAt": "2026-10-22T16:08:00.000Z",
+      "points": 296
     },
     {
       "objectID": "50137950",
@@ -39,7 +55,7 @@
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
       "publishedAt": "2026-10-21T23:38:32.000Z",
-      "points": 240
+      "points": 249
     },
     {
       "objectID": "50119991",
@@ -48,14 +64,6 @@
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
       "points": 226
-    },
-    {
-      "objectID": "50198675",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "domain": "github.com",
-      "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 201
     },
     {
       "objectID": "50168190",
@@ -103,7 +111,7 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "domain": "openai.com",
       "publishedAt": "2026-10-21T13:37:00.000Z",
-      "points": 153
+      "points": 155
     },
     {
       "objectID": "50147462",
@@ -114,12 +122,20 @@
       "points": 128
     },
     {
+      "objectID": "50199230",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-10-22T18:28:16.000Z",
+      "points": 126
+    },
+    {
       "objectID": "50186043",
       "title": "Google staff resign in backlash over its AI contracts with military",
       "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
       "domain": "bbc.com",
       "publishedAt": "2026-10-21T19:14:21.000Z",
-      "points": 125
+      "points": 126
     },
     {
       "objectID": "50140462",
@@ -144,22 +160,6 @@
       "domain": "bolkunov.com",
       "publishedAt": "2026-10-20T19:55:11.000Z",
       "points": 93
-    },
-    {
-      "objectID": "50197313",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "domain": "modelcompare.ai",
-      "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 91
-    },
-    {
-      "objectID": "50183727",
-      "title": "Rust off Rails: The opinionated web stack for the AI era",
-      "url": "https://rustoffrails.org/",
-      "domain": "rustoffrails.org",
-      "publishedAt": "2026-10-21T16:34:16.000Z",
-      "points": 74
     }
   ]
 }
