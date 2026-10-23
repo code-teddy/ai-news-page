@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T04:44:53.710Z",
+  "fetchedAt": "2026-10-23T11:34:07.589Z",
   "stories": [
     {
       "objectID": "50121179",
@@ -15,23 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 611
-    },
-    {
-      "objectID": "50180836",
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "domain": "wiz.io",
-      "publishedAt": "2026-10-21T13:43:19.000Z",
-      "points": 447
-    },
-    {
-      "objectID": "50198675",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "domain": "github.com",
-      "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 339
+      "points": 614
     },
     {
       "objectID": "50197313",
@@ -39,7 +23,23 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 296
+      "points": 458
+    },
+    {
+      "objectID": "50180836",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "domain": "wiz.io",
+      "publishedAt": "2026-10-21T13:43:19.000Z",
+      "points": 450
+    },
+    {
+      "objectID": "50198675",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "domain": "github.com",
+      "publishedAt": "2026-10-22T17:44:06.000Z",
+      "points": 414
     },
     {
       "objectID": "50137950",
@@ -55,7 +55,7 @@
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
       "publishedAt": "2026-10-21T23:38:32.000Z",
-      "points": 249
+      "points": 251
     },
     {
       "objectID": "50119991",
@@ -63,7 +63,7 @@
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "domain": "theregister.com",
       "publishedAt": "2026-10-16T15:55:40.000Z",
-      "points": 226
+      "points": 227
     },
     {
       "objectID": "50168190",
@@ -95,7 +95,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "domain": "theverge.com",
       "publishedAt": "2026-10-18T14:58:10.000Z",
-      "points": 158
+      "points": 159
     },
     {
       "objectID": "50151928",
@@ -111,7 +111,15 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "domain": "openai.com",
       "publishedAt": "2026-10-21T13:37:00.000Z",
-      "points": 155
+      "points": 157
+    },
+    {
+      "objectID": "50199230",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-10-22T18:28:16.000Z",
+      "points": 135
     },
     {
       "objectID": "50147462",
@@ -122,20 +130,20 @@
       "points": 128
     },
     {
-      "objectID": "50199230",
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-10-22T18:28:16.000Z",
-      "points": 126
-    },
-    {
       "objectID": "50186043",
       "title": "Google staff resign in backlash over its AI contracts with military",
       "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
       "domain": "bbc.com",
       "publishedAt": "2026-10-21T19:14:21.000Z",
       "points": 126
+    },
+    {
+      "objectID": "50205229",
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "domain": "berget.ai",
+      "publishedAt": "2026-10-23T06:41:11.000Z",
+      "points": 121
     },
     {
       "objectID": "50140462",
@@ -152,14 +160,6 @@
       "domain": "liveandletsfly.com",
       "publishedAt": "2026-10-18T17:27:30.000Z",
       "points": 95
-    },
-    {
-      "objectID": "50171771",
-      "title": "On AI writing",
-      "url": "https://www.bolkunov.com/p/on-ai-writing",
-      "domain": "bolkunov.com",
-      "publishedAt": "2026-10-20T19:55:11.000Z",
-      "points": 93
     }
   ]
 }
