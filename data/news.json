@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T04:32:07.550Z",
+  "fetchedAt": "2026-10-24T10:54:39.326Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,7 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 620
+      "points": 634
     },
     {
       "objectID": "50151036",
@@ -23,7 +23,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
       "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 490
+      "points": 495
     },
     {
       "objectID": "50180836",
@@ -31,7 +31,7 @@
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
       "publishedAt": "2026-10-21T13:43:19.000Z",
-      "points": 452
+      "points": 453
     },
     {
       "objectID": "50189150",
@@ -74,6 +74,14 @@
       "points": 172
     },
     {
+      "objectID": "50218633",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "domain": "reddit.com",
+      "publishedAt": "2026-10-24T05:49:57.000Z",
+      "points": 165
+    },
+    {
       "objectID": "50141657",
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
@@ -114,6 +122,14 @@
       "points": 137
     },
     {
+      "objectID": "50212507",
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "domain": "jefftk.com",
+      "publishedAt": "2026-10-23T17:28:36.000Z",
+      "points": 134
+    },
+    {
       "objectID": "50147462",
       "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
       "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
@@ -138,28 +154,12 @@
       "points": 107
     },
     {
-      "objectID": "50143218",
-      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-      "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
-      "domain": "liveandletsfly.com",
-      "publishedAt": "2026-10-18T17:27:30.000Z",
-      "points": 95
-    },
-    {
-      "objectID": "50171771",
-      "title": "On AI writing",
-      "url": "https://www.bolkunov.com/p/on-ai-writing",
-      "domain": "bolkunov.com",
-      "publishedAt": "2026-10-20T19:55:11.000Z",
-      "points": 95
-    },
-    {
-      "objectID": "50212507",
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "domain": "jefftk.com",
-      "publishedAt": "2026-10-23T17:28:36.000Z",
-      "points": 90
+      "objectID": "50171379",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "domain": "danielball.com",
+      "publishedAt": "2026-10-20T19:22:39.000Z",
+      "points": 101
     }
   ]
 }
