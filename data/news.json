@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T10:54:39.326Z",
+  "fetchedAt": "2026-10-24T15:54:12.304Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,7 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 634
+      "points": 640
     },
     {
       "objectID": "50151036",
@@ -23,7 +23,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
       "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 495
+      "points": 496
     },
     {
       "objectID": "50180836",
@@ -31,7 +31,15 @@
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
       "publishedAt": "2026-10-21T13:43:19.000Z",
-      "points": 453
+      "points": 454
+    },
+    {
+      "objectID": "50218633",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "domain": "reddit.com",
+      "publishedAt": "2026-10-24T05:49:57.000Z",
+      "points": 390
     },
     {
       "objectID": "50189150",
@@ -48,6 +56,14 @@
       "domain": "sphinx-six-theta.vercel.app",
       "publishedAt": "2026-10-18T04:33:49.000Z",
       "points": 253
+    },
+    {
+      "objectID": "50171379",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "domain": "danielball.com",
+      "publishedAt": "2026-10-20T19:22:39.000Z",
+      "points": 185
     },
     {
       "objectID": "50168190",
@@ -74,14 +90,6 @@
       "points": 172
     },
     {
-      "objectID": "50218633",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "domain": "reddit.com",
-      "publishedAt": "2026-10-24T05:49:57.000Z",
-      "points": 165
-    },
-    {
       "objectID": "50141657",
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
@@ -106,12 +114,20 @@
       "points": 158
     },
     {
+      "objectID": "50212507",
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "domain": "jefftk.com",
+      "publishedAt": "2026-10-23T17:28:36.000Z",
+      "points": 155
+    },
+    {
       "objectID": "50205229",
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
       "url": "https://berget.ai/en/blog/per-request-co2-press-release",
       "domain": "berget.ai",
       "publishedAt": "2026-10-23T06:41:11.000Z",
-      "points": 140
+      "points": 141
     },
     {
       "objectID": "50199230",
@@ -119,15 +135,7 @@
       "url": "https://arxiv.org/abs/2610.27251",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-22T18:28:16.000Z",
-      "points": 137
-    },
-    {
-      "objectID": "50212507",
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "domain": "jefftk.com",
-      "publishedAt": "2026-10-23T17:28:36.000Z",
-      "points": 134
+      "points": 139
     },
     {
       "objectID": "50147462",
@@ -152,14 +160,6 @@
       "domain": "vals.ai",
       "publishedAt": "2026-10-18T12:22:58.000Z",
       "points": 107
-    },
-    {
-      "objectID": "50171379",
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "domain": "danielball.com",
-      "publishedAt": "2026-10-20T19:22:39.000Z",
-      "points": 101
     }
   ]
 }
