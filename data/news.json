@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T15:54:12.304Z",
+  "fetchedAt": "2026-10-24T20:45:00.807Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,7 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 640
+      "points": 645
     },
     {
       "objectID": "50151036",
@@ -23,7 +23,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
       "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 496
+      "points": 499
     },
     {
       "objectID": "50180836",
@@ -32,14 +32,6 @@
       "domain": "wiz.io",
       "publishedAt": "2026-10-21T13:43:19.000Z",
       "points": 454
-    },
-    {
-      "objectID": "50218633",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "domain": "reddit.com",
-      "publishedAt": "2026-10-24T05:49:57.000Z",
-      "points": 390
     },
     {
       "objectID": "50189150",
@@ -63,7 +55,7 @@
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "domain": "danielball.com",
       "publishedAt": "2026-10-20T19:22:39.000Z",
-      "points": 185
+      "points": 230
     },
     {
       "objectID": "50168190",
@@ -74,14 +66,6 @@
       "points": 183
     },
     {
-      "objectID": "50132278",
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "domain": "opendemocracy.net",
-      "publishedAt": "2026-10-17T16:04:23.000Z",
-      "points": 173
-    },
-    {
       "objectID": "50141429",
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
@@ -90,12 +74,12 @@
       "points": 172
     },
     {
-      "objectID": "50141657",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "domain": "theverge.com",
-      "publishedAt": "2026-10-18T14:58:10.000Z",
-      "points": 159
+      "objectID": "50212507",
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "domain": "jefftk.com",
+      "publishedAt": "2026-10-23T17:28:36.000Z",
+      "points": 166
     },
     {
       "objectID": "50180752",
@@ -103,6 +87,14 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "domain": "openai.com",
       "publishedAt": "2026-10-21T13:37:00.000Z",
+      "points": 160
+    },
+    {
+      "objectID": "50141657",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "domain": "theverge.com",
+      "publishedAt": "2026-10-18T14:58:10.000Z",
       "points": 159
     },
     {
@@ -114,12 +106,12 @@
       "points": 158
     },
     {
-      "objectID": "50212507",
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "domain": "jefftk.com",
-      "publishedAt": "2026-10-23T17:28:36.000Z",
-      "points": 155
+      "objectID": "50224463",
+      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "domain": "apollo.com",
+      "publishedAt": "2026-10-24T19:47:19.000Z",
+      "points": 152
     },
     {
       "objectID": "50205229",
@@ -135,7 +127,7 @@
       "url": "https://arxiv.org/abs/2610.27251",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-22T18:28:16.000Z",
-      "points": 139
+      "points": 140
     },
     {
       "objectID": "50147462",
@@ -160,6 +152,14 @@
       "domain": "vals.ai",
       "publishedAt": "2026-10-18T12:22:58.000Z",
       "points": 107
+    },
+    {
+      "objectID": "50171771",
+      "title": "On AI writing",
+      "url": "https://www.bolkunov.com/p/on-ai-writing",
+      "domain": "bolkunov.com",
+      "publishedAt": "2026-10-20T19:55:11.000Z",
+      "points": 96
     }
   ]
 }
