@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-10-23T21:21:48.473Z",
+  "fetchedAt": "2026-10-24T04:32:07.550Z",
   "stories": [
+    {
+      "objectID": "50197313",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "domain": "modelcompare.ai",
+      "publishedAt": "2026-10-22T16:08:00.000Z",
+      "points": 620
+    },
     {
       "objectID": "50151036",
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
@@ -10,20 +18,12 @@
       "points": 618
     },
     {
-      "objectID": "50197313",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "domain": "modelcompare.ai",
-      "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 609
-    },
-    {
       "objectID": "50198675",
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
       "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 487
+      "points": 490
     },
     {
       "objectID": "50180836",
@@ -39,7 +39,7 @@
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
       "publishedAt": "2026-10-21T23:38:32.000Z",
-      "points": 256
+      "points": 260
     },
     {
       "objectID": "50137950",
@@ -82,6 +82,14 @@
       "points": 159
     },
     {
+      "objectID": "50180752",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "domain": "openai.com",
+      "publishedAt": "2026-10-21T13:37:00.000Z",
+      "points": 159
+    },
+    {
       "objectID": "50151928",
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
       "url": "https://100toolkit.com/blog/deslop-model/",
@@ -90,20 +98,12 @@
       "points": 158
     },
     {
-      "objectID": "50180752",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "domain": "openai.com",
-      "publishedAt": "2026-10-21T13:37:00.000Z",
-      "points": 158
-    },
-    {
       "objectID": "50205229",
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
       "url": "https://berget.ai/en/blog/per-request-co2-press-release",
       "domain": "berget.ai",
       "publishedAt": "2026-10-23T06:41:11.000Z",
-      "points": 139
+      "points": 140
     },
     {
       "objectID": "50199230",
@@ -154,12 +154,12 @@
       "points": 95
     },
     {
-      "objectID": "50200843",
-      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-      "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-      "domain": "abcnews.com",
-      "publishedAt": "2026-10-22T20:51:23.000Z",
-      "points": 89
+      "objectID": "50212507",
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "domain": "jefftk.com",
+      "publishedAt": "2026-10-23T17:28:36.000Z",
+      "points": 90
     }
   ]
 }
