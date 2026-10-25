@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T16:12:28.727Z",
+  "fetchedAt": "2026-10-25T20:47:51.041Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,7 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 652
+      "points": 655
     },
     {
       "objectID": "50151036",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 619
+      "points": 620
     },
     {
       "objectID": "50224463",
@@ -23,7 +23,7 @@
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
       "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 588
+      "points": 602
     },
     {
       "objectID": "50198675",
@@ -31,7 +31,15 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
       "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 500
+      "points": 501
+    },
+    {
+      "objectID": "50226419",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "domain": "apricitas.io",
+      "publishedAt": "2026-10-24T23:11:54.000Z",
+      "points": 488
     },
     {
       "objectID": "50180836",
@@ -42,12 +50,12 @@
       "points": 454
     },
     {
-      "objectID": "50226419",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "domain": "apricitas.io",
-      "publishedAt": "2026-10-24T23:11:54.000Z",
-      "points": 444
+      "objectID": "50227356",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "domain": "cerebras.ai",
+      "publishedAt": "2026-10-25T01:33:49.000Z",
+      "points": 338
     },
     {
       "objectID": "50171379",
@@ -55,15 +63,7 @@
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "domain": "danielball.com",
       "publishedAt": "2026-10-20T19:22:39.000Z",
-      "points": 281
-    },
-    {
-      "objectID": "50227356",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "domain": "cerebras.ai",
-      "publishedAt": "2026-10-25T01:33:49.000Z",
-      "points": 276
+      "points": 282
     },
     {
       "objectID": "50189150",
@@ -79,7 +79,7 @@
       "url": "https://arxiv.org/abs/2610.29162",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-24T18:04:57.000Z",
-      "points": 224
+      "points": 238
     },
     {
       "objectID": "50168190",
@@ -130,6 +130,14 @@
       "points": 141
     },
     {
+      "objectID": "50233304",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "domain": "dailycal.org",
+      "publishedAt": "2026-10-25T16:28:26.000Z",
+      "points": 137
+    },
+    {
       "objectID": "50147462",
       "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
       "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
@@ -146,20 +154,12 @@
       "points": 128
     },
     {
-      "objectID": "50171771",
-      "title": "On AI writing",
-      "url": "https://www.bolkunov.com/p/on-ai-writing",
-      "domain": "bolkunov.com",
-      "publishedAt": "2026-10-20T19:55:11.000Z",
-      "points": 96
-    },
-    {
-      "objectID": "50220204",
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "domain": "torrentfreak.com",
-      "publishedAt": "2026-10-24T11:18:54.000Z",
-      "points": 96
+      "objectID": "50229827",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "domain": "techspot.com",
+      "publishedAt": "2026-10-25T09:51:17.000Z",
+      "points": 124
     }
   ]
 }
