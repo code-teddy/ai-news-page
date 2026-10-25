@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T20:45:00.807Z",
+  "fetchedAt": "2026-10-25T04:36:36.960Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,7 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 645
+      "points": 648
     },
     {
       "objectID": "50151036",
@@ -16,6 +16,14 @@
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
       "points": 618
+    },
+    {
+      "objectID": "50224463",
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "domain": "apollo.com",
+      "publishedAt": "2026-10-24T19:47:19.000Z",
+      "points": 513
     },
     {
       "objectID": "50198675",
@@ -39,15 +47,7 @@
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
       "publishedAt": "2026-10-21T23:38:32.000Z",
-      "points": 260
-    },
-    {
-      "objectID": "50137950",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "domain": "sphinx-six-theta.vercel.app",
-      "publishedAt": "2026-10-18T04:33:49.000Z",
-      "points": 253
+      "points": 261
     },
     {
       "objectID": "50171379",
@@ -55,7 +55,15 @@
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "domain": "danielball.com",
       "publishedAt": "2026-10-20T19:22:39.000Z",
-      "points": 230
+      "points": 248
+    },
+    {
+      "objectID": "50226419",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "domain": "apricitas.io",
+      "publishedAt": "2026-10-24T23:11:54.000Z",
+      "points": 242
     },
     {
       "objectID": "50168190",
@@ -66,6 +74,14 @@
       "points": 183
     },
     {
+      "objectID": "50212507",
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "domain": "jefftk.com",
+      "publishedAt": "2026-10-23T17:28:36.000Z",
+      "points": 175
+    },
+    {
       "objectID": "50141429",
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
@@ -74,12 +90,12 @@
       "points": 172
     },
     {
-      "objectID": "50212507",
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "domain": "jefftk.com",
-      "publishedAt": "2026-10-23T17:28:36.000Z",
-      "points": 166
+      "objectID": "50223647",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-10-24T18:04:57.000Z",
+      "points": 170
     },
     {
       "objectID": "50180752",
@@ -106,20 +122,12 @@
       "points": 158
     },
     {
-      "objectID": "50224463",
-      "title": "No Signs of AI Payoff Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "domain": "apollo.com",
-      "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 152
-    },
-    {
       "objectID": "50205229",
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
       "url": "https://berget.ai/en/blog/per-request-co2-press-release",
       "domain": "berget.ai",
       "publishedAt": "2026-10-23T06:41:11.000Z",
-      "points": 141
+      "points": 142
     },
     {
       "objectID": "50199230",
@@ -152,14 +160,6 @@
       "domain": "vals.ai",
       "publishedAt": "2026-10-18T12:22:58.000Z",
       "points": 107
-    },
-    {
-      "objectID": "50171771",
-      "title": "On AI writing",
-      "url": "https://www.bolkunov.com/p/on-ai-writing",
-      "domain": "bolkunov.com",
-      "publishedAt": "2026-10-20T19:55:11.000Z",
-      "points": 96
     }
   ]
 }
