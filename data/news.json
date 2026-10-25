@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T11:21:19.472Z",
+  "fetchedAt": "2026-10-25T16:12:28.727Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,7 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 650
+      "points": 652
     },
     {
       "objectID": "50151036",
@@ -23,7 +23,7 @@
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
       "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 558
+      "points": 588
     },
     {
       "objectID": "50198675",
@@ -31,7 +31,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
       "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 499
+      "points": 500
     },
     {
       "objectID": "50180836",
@@ -47,7 +47,7 @@
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
       "publishedAt": "2026-10-24T23:11:54.000Z",
-      "points": 376
+      "points": 444
     },
     {
       "objectID": "50171379",
@@ -55,23 +55,7 @@
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "domain": "danielball.com",
       "publishedAt": "2026-10-20T19:22:39.000Z",
-      "points": 273
-    },
-    {
-      "objectID": "50189150",
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "domain": "theverge.com",
-      "publishedAt": "2026-10-21T23:38:32.000Z",
-      "points": 261
-    },
-    {
-      "objectID": "50223647",
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-10-24T18:04:57.000Z",
-      "points": 207
+      "points": 281
     },
     {
       "objectID": "50227356",
@@ -79,7 +63,23 @@
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "domain": "cerebras.ai",
       "publishedAt": "2026-10-25T01:33:49.000Z",
-      "points": 190
+      "points": 276
+    },
+    {
+      "objectID": "50189150",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "domain": "theverge.com",
+      "publishedAt": "2026-10-21T23:38:32.000Z",
+      "points": 262
+    },
+    {
+      "objectID": "50223647",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-10-24T18:04:57.000Z",
+      "points": 224
     },
     {
       "objectID": "50168190",
@@ -87,7 +87,7 @@
       "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
       "domain": "ign.com",
       "publishedAt": "2026-10-20T15:48:26.000Z",
-      "points": 183
+      "points": 184
     },
     {
       "objectID": "50212507",
@@ -95,15 +95,7 @@
       "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
       "domain": "jefftk.com",
       "publishedAt": "2026-10-23T17:28:36.000Z",
-      "points": 175
-    },
-    {
-      "objectID": "50141429",
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "domain": "tomshardware.com",
-      "publishedAt": "2026-10-18T14:30:27.000Z",
-      "points": 172
+      "points": 176
     },
     {
       "objectID": "50180752",
@@ -112,14 +104,6 @@
       "domain": "openai.com",
       "publishedAt": "2026-10-21T13:37:00.000Z",
       "points": 160
-    },
-    {
-      "objectID": "50141657",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "domain": "theverge.com",
-      "publishedAt": "2026-10-18T14:58:10.000Z",
-      "points": 159
     },
     {
       "objectID": "50151928",
@@ -143,7 +127,7 @@
       "url": "https://arxiv.org/abs/2610.27251",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-22T18:28:16.000Z",
-      "points": 140
+      "points": 141
     },
     {
       "objectID": "50147462",
@@ -160,6 +144,22 @@
       "domain": "bbc.com",
       "publishedAt": "2026-10-21T19:14:21.000Z",
       "points": 128
+    },
+    {
+      "objectID": "50171771",
+      "title": "On AI writing",
+      "url": "https://www.bolkunov.com/p/on-ai-writing",
+      "domain": "bolkunov.com",
+      "publishedAt": "2026-10-20T19:55:11.000Z",
+      "points": 96
+    },
+    {
+      "objectID": "50220204",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "domain": "torrentfreak.com",
+      "publishedAt": "2026-10-24T11:18:54.000Z",
+      "points": 96
     }
   ]
 }
