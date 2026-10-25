@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T04:36:36.960Z",
+  "fetchedAt": "2026-10-25T11:21:19.472Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,7 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 648
+      "points": 650
     },
     {
       "objectID": "50151036",
@@ -15,7 +15,7 @@
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 618
+      "points": 619
     },
     {
       "objectID": "50224463",
@@ -23,7 +23,7 @@
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
       "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 513
+      "points": 558
     },
     {
       "objectID": "50198675",
@@ -42,6 +42,22 @@
       "points": 454
     },
     {
+      "objectID": "50226419",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "domain": "apricitas.io",
+      "publishedAt": "2026-10-24T23:11:54.000Z",
+      "points": 376
+    },
+    {
+      "objectID": "50171379",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "domain": "danielball.com",
+      "publishedAt": "2026-10-20T19:22:39.000Z",
+      "points": 273
+    },
+    {
       "objectID": "50189150",
       "title": "Airbnb bans making guests do dishes and take out the trash",
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
@@ -50,20 +66,20 @@
       "points": 261
     },
     {
-      "objectID": "50171379",
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "domain": "danielball.com",
-      "publishedAt": "2026-10-20T19:22:39.000Z",
-      "points": 248
+      "objectID": "50223647",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-10-24T18:04:57.000Z",
+      "points": 207
     },
     {
-      "objectID": "50226419",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "domain": "apricitas.io",
-      "publishedAt": "2026-10-24T23:11:54.000Z",
-      "points": 242
+      "objectID": "50227356",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "domain": "cerebras.ai",
+      "publishedAt": "2026-10-25T01:33:49.000Z",
+      "points": 190
     },
     {
       "objectID": "50168190",
@@ -88,14 +104,6 @@
       "domain": "tomshardware.com",
       "publishedAt": "2026-10-18T14:30:27.000Z",
       "points": 172
-    },
-    {
-      "objectID": "50223647",
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-10-24T18:04:57.000Z",
-      "points": 170
     },
     {
       "objectID": "50180752",
@@ -151,15 +159,7 @@
       "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
       "domain": "bbc.com",
       "publishedAt": "2026-10-21T19:14:21.000Z",
-      "points": 127
-    },
-    {
-      "objectID": "50140462",
-      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "url": "https://www.vals.ai/blogs/impossible-refund",
-      "domain": "vals.ai",
-      "publishedAt": "2026-10-18T12:22:58.000Z",
-      "points": 107
+      "points": 128
     }
   ]
 }
