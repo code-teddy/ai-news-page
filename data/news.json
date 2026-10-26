@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T04:41:55.770Z",
+  "fetchedAt": "2026-10-26T12:55:32.703Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,15 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 656
-    },
-    {
-      "objectID": "50151036",
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "domain": "news.ycombinator.com",
-      "publishedAt": "2026-10-19T11:24:34.000Z",
-      "points": 621
+      "points": 658
     },
     {
       "objectID": "50224463",
@@ -23,7 +15,7 @@
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
       "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 616
+      "points": 629
     },
     {
       "objectID": "50226419",
@@ -31,7 +23,7 @@
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
       "publishedAt": "2026-10-24T23:11:54.000Z",
-      "points": 514
+      "points": 527
     },
     {
       "objectID": "50198675",
@@ -39,7 +31,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
       "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 502
+      "points": 503
     },
     {
       "objectID": "50180836",
@@ -55,7 +47,7 @@
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "domain": "cerebras.ai",
       "publishedAt": "2026-10-25T01:33:49.000Z",
-      "points": 354
+      "points": 358
     },
     {
       "objectID": "50171379",
@@ -63,7 +55,7 @@
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "domain": "danielball.com",
       "publishedAt": "2026-10-20T19:22:39.000Z",
-      "points": 283
+      "points": 284
     },
     {
       "objectID": "50189150",
@@ -71,7 +63,7 @@
       "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
       "publishedAt": "2026-10-21T23:38:32.000Z",
-      "points": 262
+      "points": 263
     },
     {
       "objectID": "50223647",
@@ -79,7 +71,7 @@
       "url": "https://arxiv.org/abs/2610.29162",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-24T18:04:57.000Z",
-      "points": 243
+      "points": 247
     },
     {
       "objectID": "50233304",
@@ -87,7 +79,7 @@
       "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
       "domain": "dailycal.org",
       "publishedAt": "2026-10-25T16:28:26.000Z",
-      "points": 209
+      "points": 221
     },
     {
       "objectID": "50168190",
@@ -127,7 +119,7 @@
       "url": "https://berget.ai/en/blog/per-request-co2-press-release",
       "domain": "berget.ai",
       "publishedAt": "2026-10-23T06:41:11.000Z",
-      "points": 142
+      "points": 143
     },
     {
       "objectID": "50199230",
@@ -143,7 +135,7 @@
       "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
       "domain": "techspot.com",
       "publishedAt": "2026-10-25T09:51:17.000Z",
-      "points": 138
+      "points": 141
     },
     {
       "objectID": "50186043",
@@ -152,6 +144,14 @@
       "domain": "bbc.com",
       "publishedAt": "2026-10-21T19:14:21.000Z",
       "points": 128
+    },
+    {
+      "objectID": "50230995",
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "domain": "twitter.com",
+      "publishedAt": "2026-10-25T12:47:20.000Z",
+      "points": 98
     },
     {
       "objectID": "50220204",
