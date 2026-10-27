@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T12:06:19.694Z",
+  "fetchedAt": "2026-10-27T17:58:05.512Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,7 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 662
+      "points": 663
     },
     {
       "objectID": "50224463",
@@ -16,6 +16,14 @@
       "domain": "apollo.com",
       "publishedAt": "2026-10-24T19:47:19.000Z",
       "points": 641
+    },
+    {
+      "objectID": "50257325",
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "domain": "oioannou.com",
+      "publishedAt": "2026-10-27T11:08:14.000Z",
+      "points": 583
     },
     {
       "objectID": "50226419",
@@ -31,7 +39,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
       "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 504
+      "points": 505
     },
     {
       "objectID": "50180836",
@@ -47,7 +55,15 @@
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "domain": "cerebras.ai",
       "publishedAt": "2026-10-25T01:33:49.000Z",
-      "points": 366
+      "points": 367
+    },
+    {
+      "objectID": "50255298",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "domain": "j11g.com",
+      "publishedAt": "2026-10-27T06:25:37.000Z",
+      "points": 364
     },
     {
       "objectID": "50246658",
@@ -55,7 +71,15 @@
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
       "publishedAt": "2026-10-26T16:35:44.000Z",
-      "points": 308
+      "points": 314
+    },
+    {
+      "objectID": "50257326",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "domain": "spectrum.ieee.org",
+      "publishedAt": "2026-10-27T11:08:15.000Z",
+      "points": 309
     },
     {
       "objectID": "50171379",
@@ -63,7 +87,7 @@
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "domain": "danielball.com",
       "publishedAt": "2026-10-20T19:22:39.000Z",
-      "points": 285
+      "points": 286
     },
     {
       "objectID": "50189150",
@@ -79,7 +103,7 @@
       "url": "https://arxiv.org/abs/2610.29162",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-24T18:04:57.000Z",
-      "points": 255
+      "points": 256
     },
     {
       "objectID": "50233304",
@@ -90,28 +114,12 @@
       "points": 238
     },
     {
-      "objectID": "50255298",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "domain": "j11g.com",
-      "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 218
-    },
-    {
-      "objectID": "50168190",
-      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "domain": "ign.com",
-      "publishedAt": "2026-10-20T15:48:26.000Z",
-      "points": 185
-    },
-    {
       "objectID": "50242843",
       "title": "Brown student maps the hidden global labor powering AI",
       "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
       "domain": "brown.edu",
       "publishedAt": "2026-10-26T12:58:27.000Z",
-      "points": 179
+      "points": 181
     },
     {
       "objectID": "50212507",
@@ -122,20 +130,20 @@
       "points": 176
     },
     {
+      "objectID": "50252159",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "domain": "blog.cloudflare.com",
+      "publishedAt": "2026-10-26T22:41:48.000Z",
+      "points": 175
+    },
+    {
       "objectID": "50180752",
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "domain": "openai.com",
       "publishedAt": "2026-10-21T13:37:00.000Z",
       "points": 160
-    },
-    {
-      "objectID": "50252159",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "domain": "blog.cloudflare.com",
-      "publishedAt": "2026-10-26T22:41:48.000Z",
-      "points": 145
     },
     {
       "objectID": "50205229",
@@ -152,14 +160,6 @@
       "domain": "techspot.com",
       "publishedAt": "2026-10-25T09:51:17.000Z",
       "points": 144
-    },
-    {
-      "objectID": "50199230",
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-10-22T18:28:16.000Z",
-      "points": 142
     }
   ]
 }
