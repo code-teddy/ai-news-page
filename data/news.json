@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T12:48:10.001Z",
+  "fetchedAt": "2026-10-28T22:31:42.877Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,7 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 665
+      "points": 666
     },
     {
       "objectID": "50257325",
@@ -15,7 +15,7 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "domain": "oioannou.com",
       "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 648
+      "points": 660
     },
     {
       "objectID": "50224463",
@@ -23,7 +23,7 @@
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
       "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 643
+      "points": 648
     },
     {
       "objectID": "50226419",
@@ -32,6 +32,14 @@
       "domain": "apricitas.io",
       "publishedAt": "2026-10-24T23:11:54.000Z",
       "points": 545
+    },
+    {
+      "objectID": "50264853",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "domain": "brangus.io",
+      "publishedAt": "2026-10-27T19:55:06.000Z",
+      "points": 510
     },
     {
       "objectID": "50198675",
@@ -47,7 +55,7 @@
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 484
+      "points": 497
     },
     {
       "objectID": "50255298",
@@ -55,23 +63,15 @@
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
       "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 461
+      "points": 475
     },
     {
-      "objectID": "50180836",
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "domain": "wiz.io",
-      "publishedAt": "2026-10-21T13:43:19.000Z",
-      "points": 455
-    },
-    {
-      "objectID": "50264853",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "domain": "brangus.io",
-      "publishedAt": "2026-10-27T19:55:06.000Z",
-      "points": 397
+      "objectID": "50273396",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "domain": "religionnews.com",
+      "publishedAt": "2026-10-28T13:41:30.000Z",
+      "points": 392
     },
     {
       "objectID": "50261819",
@@ -79,7 +79,7 @@
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "domain": "gizmodo.com",
       "publishedAt": "2026-10-27T16:40:15.000Z",
-      "points": 377
+      "points": 391
     },
     {
       "objectID": "50227356",
@@ -95,7 +95,7 @@
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "domain": "futurism.com",
       "publishedAt": "2026-10-27T16:25:30.000Z",
-      "points": 330
+      "points": 364
     },
     {
       "objectID": "50246658",
@@ -103,7 +103,7 @@
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
       "publishedAt": "2026-10-26T16:35:44.000Z",
-      "points": 327
+      "points": 329
     },
     {
       "objectID": "50189150",
@@ -119,7 +119,7 @@
       "url": "https://arxiv.org/abs/2610.29162",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-24T18:04:57.000Z",
-      "points": 256
+      "points": 258
     },
     {
       "objectID": "50233304",
@@ -127,7 +127,7 @@
       "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
       "domain": "dailycal.org",
       "publishedAt": "2026-10-25T16:28:26.000Z",
-      "points": 238
+      "points": 239
     },
     {
       "objectID": "50242843",
@@ -143,7 +143,7 @@
       "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "domain": "blog.cloudflare.com",
       "publishedAt": "2026-10-26T22:41:48.000Z",
-      "points": 179
+      "points": 181
     },
     {
       "objectID": "50212507",
@@ -154,12 +154,12 @@
       "points": 178
     },
     {
-      "objectID": "50180752",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "domain": "openai.com",
-      "publishedAt": "2026-10-21T13:37:00.000Z",
-      "points": 160
+      "objectID": "50275626",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "domain": "surgehq.ai",
+      "publishedAt": "2026-10-28T15:46:30.000Z",
+      "points": 169
     }
   ]
 }
