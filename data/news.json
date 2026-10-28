@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T22:10:19.276Z",
+  "fetchedAt": "2026-10-28T05:36:40.759Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -15,7 +15,7 @@
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
       "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 641
+      "points": 642
     },
     {
       "objectID": "50257325",
@@ -23,7 +23,7 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "domain": "oioannou.com",
       "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 609
+      "points": 628
     },
     {
       "objectID": "50226419",
@@ -31,7 +31,7 @@
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
       "publishedAt": "2026-10-24T23:11:54.000Z",
-      "points": 542
+      "points": 543
     },
     {
       "objectID": "50198675",
@@ -40,6 +40,14 @@
       "domain": "github.com",
       "publishedAt": "2026-10-22T17:44:06.000Z",
       "points": 507
+    },
+    {
+      "objectID": "50257326",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "domain": "spectrum.ieee.org",
+      "publishedAt": "2026-10-27T11:08:15.000Z",
+      "points": 468
     },
     {
       "objectID": "50180836",
@@ -55,15 +63,7 @@
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
       "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 419
-    },
-    {
-      "objectID": "50257326",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "domain": "spectrum.ieee.org",
-      "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 408
+      "points": 449
     },
     {
       "objectID": "50227356",
@@ -74,20 +74,36 @@
       "points": 367
     },
     {
-      "objectID": "50246658",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "domain": "cohere.com",
-      "publishedAt": "2026-10-26T16:35:44.000Z",
-      "points": 322
-    },
-    {
       "objectID": "50261819",
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "domain": "gizmodo.com",
       "publishedAt": "2026-10-27T16:40:15.000Z",
-      "points": 303
+      "points": 365
+    },
+    {
+      "objectID": "50246658",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "domain": "cohere.com",
+      "publishedAt": "2026-10-26T16:35:44.000Z",
+      "points": 326
+    },
+    {
+      "objectID": "50261589",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "domain": "futurism.com",
+      "publishedAt": "2026-10-27T16:25:30.000Z",
+      "points": 297
+    },
+    {
+      "objectID": "50264853",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "domain": "brangus.io",
+      "publishedAt": "2026-10-27T19:55:06.000Z",
+      "points": 266
     },
     {
       "objectID": "50189150",
@@ -135,15 +151,7 @@
       "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
       "domain": "jefftk.com",
       "publishedAt": "2026-10-23T17:28:36.000Z",
-      "points": 176
-    },
-    {
-      "objectID": "50261589",
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "domain": "futurism.com",
-      "publishedAt": "2026-10-27T16:25:30.000Z",
-      "points": 169
+      "points": 177
     },
     {
       "objectID": "50180752",
@@ -152,14 +160,6 @@
       "domain": "openai.com",
       "publishedAt": "2026-10-21T13:37:00.000Z",
       "points": 160
-    },
-    {
-      "objectID": "50205229",
-      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-      "domain": "berget.ai",
-      "publishedAt": "2026-10-23T06:41:11.000Z",
-      "points": 144
     }
   ]
 }
