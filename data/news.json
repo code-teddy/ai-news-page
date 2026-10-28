@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T05:36:40.759Z",
+  "fetchedAt": "2026-10-28T12:48:10.001Z",
   "stories": [
     {
       "objectID": "50197313",
@@ -7,15 +7,7 @@
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
       "publishedAt": "2026-10-22T16:08:00.000Z",
-      "points": 664
-    },
-    {
-      "objectID": "50224463",
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "domain": "apollo.com",
-      "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 642
+      "points": 665
     },
     {
       "objectID": "50257325",
@@ -23,7 +15,15 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "domain": "oioannou.com",
       "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 628
+      "points": 648
+    },
+    {
+      "objectID": "50224463",
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "domain": "apollo.com",
+      "publishedAt": "2026-10-24T19:47:19.000Z",
+      "points": 643
     },
     {
       "objectID": "50226419",
@@ -31,7 +31,7 @@
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
       "publishedAt": "2026-10-24T23:11:54.000Z",
-      "points": 543
+      "points": 545
     },
     {
       "objectID": "50198675",
@@ -47,7 +47,15 @@
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 468
+      "points": 484
+    },
+    {
+      "objectID": "50255298",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "domain": "j11g.com",
+      "publishedAt": "2026-10-27T06:25:37.000Z",
+      "points": 461
     },
     {
       "objectID": "50180836",
@@ -58,20 +66,12 @@
       "points": 455
     },
     {
-      "objectID": "50255298",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "domain": "j11g.com",
-      "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 449
-    },
-    {
-      "objectID": "50227356",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "domain": "cerebras.ai",
-      "publishedAt": "2026-10-25T01:33:49.000Z",
-      "points": 367
+      "objectID": "50264853",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "domain": "brangus.io",
+      "publishedAt": "2026-10-27T19:55:06.000Z",
+      "points": 397
     },
     {
       "objectID": "50261819",
@@ -79,15 +79,15 @@
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "domain": "gizmodo.com",
       "publishedAt": "2026-10-27T16:40:15.000Z",
-      "points": 365
+      "points": 377
     },
     {
-      "objectID": "50246658",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "domain": "cohere.com",
-      "publishedAt": "2026-10-26T16:35:44.000Z",
-      "points": 326
+      "objectID": "50227356",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "domain": "cerebras.ai",
+      "publishedAt": "2026-10-25T01:33:49.000Z",
+      "points": 368
     },
     {
       "objectID": "50261589",
@@ -95,15 +95,15 @@
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "domain": "futurism.com",
       "publishedAt": "2026-10-27T16:25:30.000Z",
-      "points": 297
+      "points": 330
     },
     {
-      "objectID": "50264853",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "domain": "brangus.io",
-      "publishedAt": "2026-10-27T19:55:06.000Z",
-      "points": 266
+      "objectID": "50246658",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "domain": "cohere.com",
+      "publishedAt": "2026-10-26T16:35:44.000Z",
+      "points": 327
     },
     {
       "objectID": "50189150",
@@ -143,7 +143,7 @@
       "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "domain": "blog.cloudflare.com",
       "publishedAt": "2026-10-26T22:41:48.000Z",
-      "points": 178
+      "points": 179
     },
     {
       "objectID": "50212507",
@@ -151,7 +151,7 @@
       "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
       "domain": "jefftk.com",
       "publishedAt": "2026-10-23T17:28:36.000Z",
-      "points": 177
+      "points": 178
     },
     {
       "objectID": "50180752",
