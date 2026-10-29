@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29T05:43:14.293Z",
+  "fetchedAt": "2026-10-29T12:55:43.847Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -7,7 +7,7 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "domain": "oioannou.com",
       "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 669
+      "points": 674
     },
     {
       "objectID": "50197313",
@@ -31,7 +31,7 @@
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
       "publishedAt": "2026-10-24T23:11:54.000Z",
-      "points": 545
+      "points": 546
     },
     {
       "objectID": "50264853",
@@ -39,15 +39,7 @@
       "url": "https://www.brangus.io/survival-llm",
       "domain": "brangus.io",
       "publishedAt": "2026-10-27T19:55:06.000Z",
-      "points": 525
-    },
-    {
-      "objectID": "50198675",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "domain": "github.com",
-      "publishedAt": "2026-10-22T17:44:06.000Z",
-      "points": 507
+      "points": 528
     },
     {
       "objectID": "50257326",
@@ -55,7 +47,15 @@
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 499
+      "points": 509
+    },
+    {
+      "objectID": "50198675",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "domain": "github.com",
+      "publishedAt": "2026-10-22T17:44:06.000Z",
+      "points": 508
     },
     {
       "objectID": "50255298",
@@ -63,7 +63,7 @@
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
       "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 477
+      "points": 482
     },
     {
       "objectID": "50273396",
@@ -71,7 +71,7 @@
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
       "domain": "religionnews.com",
       "publishedAt": "2026-10-28T13:41:30.000Z",
-      "points": 449
+      "points": 470
     },
     {
       "objectID": "50261819",
@@ -79,7 +79,7 @@
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "domain": "gizmodo.com",
       "publishedAt": "2026-10-27T16:40:15.000Z",
-      "points": 394
+      "points": 396
     },
     {
       "objectID": "50261589",
@@ -87,7 +87,7 @@
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "domain": "futurism.com",
       "publishedAt": "2026-10-27T16:25:30.000Z",
-      "points": 373
+      "points": 377
     },
     {
       "objectID": "50227356",
@@ -103,7 +103,7 @@
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
       "publishedAt": "2026-10-26T16:35:44.000Z",
-      "points": 329
+      "points": 330
     },
     {
       "objectID": "50223647",
@@ -114,20 +114,20 @@
       "points": 258
     },
     {
+      "objectID": "50275626",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "domain": "surgehq.ai",
+      "publishedAt": "2026-10-28T15:46:30.000Z",
+      "points": 246
+    },
+    {
       "objectID": "50233304",
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
       "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
       "domain": "dailycal.org",
       "publishedAt": "2026-10-25T16:28:26.000Z",
       "points": 239
-    },
-    {
-      "objectID": "50275626",
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "domain": "surgehq.ai",
-      "publishedAt": "2026-10-28T15:46:30.000Z",
-      "points": 220
     },
     {
       "objectID": "50242843",
@@ -154,12 +154,12 @@
       "points": 178
     },
     {
-      "objectID": "50205229",
-      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-      "domain": "berget.ai",
-      "publishedAt": "2026-10-23T06:41:11.000Z",
-      "points": 144
+      "objectID": "50280178",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "domain": "arstechnica.com",
+      "publishedAt": "2026-10-28T20:10:16.000Z",
+      "points": 156
     }
   ]
 }
