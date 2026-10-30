@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T05:42:13.731Z",
+  "fetchedAt": "2026-10-30T12:49:15.493Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -7,7 +7,7 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "domain": "oioannou.com",
       "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 677
+      "points": 678
     },
     {
       "objectID": "50224463",
@@ -15,7 +15,7 @@
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
       "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 649
+      "points": 650
     },
     {
       "objectID": "50226419",
@@ -39,7 +39,7 @@
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 515
+      "points": 516
     },
     {
       "objectID": "50255298",
@@ -47,7 +47,7 @@
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
       "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 487
+      "points": 490
     },
     {
       "objectID": "50273396",
@@ -55,7 +55,7 @@
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
       "domain": "religionnews.com",
       "publishedAt": "2026-10-28T13:41:30.000Z",
-      "points": 483
+      "points": 489
     },
     {
       "objectID": "50261819",
@@ -71,7 +71,7 @@
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "domain": "futurism.com",
       "publishedAt": "2026-10-27T16:25:30.000Z",
-      "points": 383
+      "points": 385
     },
     {
       "objectID": "50227356",
@@ -87,7 +87,15 @@
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
       "publishedAt": "2026-10-26T16:35:44.000Z",
-      "points": 331
+      "points": 332
+    },
+    {
+      "objectID": "50296486",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "domain": "labs.ycombinator.com",
+      "publishedAt": "2026-10-29T21:40:28.000Z",
+      "points": 323
     },
     {
       "objectID": "50223647",
@@ -103,7 +111,7 @@
       "url": "https://surgehq.ai/blog/dayjob-tax",
       "domain": "surgehq.ai",
       "publishedAt": "2026-10-28T15:46:30.000Z",
-      "points": 254
+      "points": 258
     },
     {
       "objectID": "50233304",
@@ -112,14 +120,6 @@
       "domain": "dailycal.org",
       "publishedAt": "2026-10-25T16:28:26.000Z",
       "points": 240
-    },
-    {
-      "objectID": "50296486",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "domain": "labs.ycombinator.com",
-      "publishedAt": "2026-10-29T21:40:28.000Z",
-      "points": 236
     },
     {
       "objectID": "50242843",
@@ -146,20 +146,20 @@
       "points": 178
     },
     {
+      "objectID": "50289692",
+      "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "domain": "404media.co",
+      "publishedAt": "2026-10-29T14:29:06.000Z",
+      "points": 174
+    },
+    {
       "objectID": "50280178",
       "title": "Google AI gets cagey when asked who won the 2020 elections",
       "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-10-28T20:10:16.000Z",
-      "points": 166
-    },
-    {
-      "objectID": "50290283",
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "domain": "trakkr.ai",
-      "publishedAt": "2026-10-29T15:06:17.000Z",
-      "points": 154
+      "points": 169
     }
   ]
 }
