@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T12:49:15.493Z",
+  "fetchedAt": "2026-10-30T22:15:48.816Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -7,7 +7,7 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "domain": "oioannou.com",
       "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 678
+      "points": 683
     },
     {
       "objectID": "50224463",
@@ -15,7 +15,7 @@
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
       "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 650
+      "points": 653
     },
     {
       "objectID": "50226419",
@@ -31,7 +31,7 @@
       "url": "https://www.brangus.io/survival-llm",
       "domain": "brangus.io",
       "publishedAt": "2026-10-27T19:55:06.000Z",
-      "points": 538
+      "points": 540
     },
     {
       "objectID": "50257326",
@@ -39,7 +39,7 @@
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 516
+      "points": 518
     },
     {
       "objectID": "50255298",
@@ -47,7 +47,7 @@
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
       "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 490
+      "points": 492
     },
     {
       "objectID": "50273396",
@@ -55,7 +55,15 @@
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
       "domain": "religionnews.com",
       "publishedAt": "2026-10-28T13:41:30.000Z",
-      "points": 489
+      "points": 491
+    },
+    {
+      "objectID": "50305693",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "domain": "newsletter.signoz.io",
+      "publishedAt": "2026-10-30T15:52:18.000Z",
+      "points": 441
     },
     {
       "objectID": "50261819",
@@ -64,6 +72,14 @@
       "domain": "gizmodo.com",
       "publishedAt": "2026-10-27T16:40:15.000Z",
       "points": 398
+    },
+    {
+      "objectID": "50296486",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "domain": "labs.ycombinator.com",
+      "publishedAt": "2026-10-29T21:40:28.000Z",
+      "points": 389
     },
     {
       "objectID": "50261589",
@@ -87,15 +103,15 @@
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
       "publishedAt": "2026-10-26T16:35:44.000Z",
-      "points": 332
+      "points": 334
     },
     {
-      "objectID": "50296486",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "domain": "labs.ycombinator.com",
-      "publishedAt": "2026-10-29T21:40:28.000Z",
-      "points": 323
+      "objectID": "50275626",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "domain": "surgehq.ai",
+      "publishedAt": "2026-10-28T15:46:30.000Z",
+      "points": 261
     },
     {
       "objectID": "50223647",
@@ -106,12 +122,12 @@
       "points": 258
     },
     {
-      "objectID": "50275626",
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "domain": "surgehq.ai",
-      "publishedAt": "2026-10-28T15:46:30.000Z",
-      "points": 258
+      "objectID": "50307183",
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "domain": "404media.co",
+      "publishedAt": "2026-10-30T17:24:45.000Z",
+      "points": 241
     },
     {
       "objectID": "50233304",
@@ -122,28 +138,12 @@
       "points": 240
     },
     {
-      "objectID": "50242843",
-      "title": "Brown student maps the hidden global labor powering AI",
-      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-      "domain": "brown.edu",
-      "publishedAt": "2026-10-26T12:58:27.000Z",
-      "points": 182
-    },
-    {
-      "objectID": "50252159",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "domain": "blog.cloudflare.com",
-      "publishedAt": "2026-10-26T22:41:48.000Z",
-      "points": 181
-    },
-    {
-      "objectID": "50212507",
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "domain": "jefftk.com",
-      "publishedAt": "2026-10-23T17:28:36.000Z",
-      "points": 178
+      "objectID": "50306008",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-10-30T16:13:02.000Z",
+      "points": 223
     },
     {
       "objectID": "50289692",
@@ -151,15 +151,15 @@
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
       "domain": "404media.co",
       "publishedAt": "2026-10-29T14:29:06.000Z",
-      "points": 174
+      "points": 218
     },
     {
-      "objectID": "50280178",
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-10-28T20:10:16.000Z",
-      "points": 169
+      "objectID": "50242843",
+      "title": "Brown student maps the hidden global labor powering AI",
+      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+      "domain": "brown.edu",
+      "publishedAt": "2026-10-26T12:58:27.000Z",
+      "points": 182
     }
   ]
 }
