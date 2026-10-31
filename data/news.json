@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T05:35:19.343Z",
+  "fetchedAt": "2026-10-31T12:21:20.772Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -18,19 +18,19 @@
       "points": 653
     },
     {
-      "objectID": "50226419",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "domain": "apricitas.io",
-      "publishedAt": "2026-10-24T23:11:54.000Z",
-      "points": 546
-    },
-    {
       "objectID": "50305693",
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
+      "points": 607
+    },
+    {
+      "objectID": "50226419",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "domain": "apricitas.io",
+      "publishedAt": "2026-10-24T23:11:54.000Z",
       "points": 546
     },
     {
@@ -55,7 +55,7 @@
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
       "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 493
+      "points": 495
     },
     {
       "objectID": "50273396",
@@ -71,7 +71,7 @@
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
       "publishedAt": "2026-10-29T21:40:28.000Z",
-      "points": 400
+      "points": 403
     },
     {
       "objectID": "50261819",
@@ -111,7 +111,7 @@
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
       "domain": "404media.co",
       "publishedAt": "2026-10-30T17:24:45.000Z",
-      "points": 267
+      "points": 278
     },
     {
       "objectID": "50275626",
@@ -122,20 +122,20 @@
       "points": 263
     },
     {
+      "objectID": "50306008",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-10-30T16:13:02.000Z",
+      "points": 258
+    },
+    {
       "objectID": "50223647",
       "title": "Why is AI generated language so hard to understand?",
       "url": "https://arxiv.org/abs/2610.29162",
       "domain": "arxiv.org",
       "publishedAt": "2026-10-24T18:04:57.000Z",
       "points": 258
-    },
-    {
-      "objectID": "50306008",
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-10-30T16:13:02.000Z",
-      "points": 247
     },
     {
       "objectID": "50233304",
@@ -151,15 +151,15 @@
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
       "domain": "404media.co",
       "publishedAt": "2026-10-29T14:29:06.000Z",
-      "points": 223
+      "points": 229
     },
     {
-      "objectID": "50242843",
-      "title": "Brown student maps the hidden global labor powering AI",
-      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-      "domain": "brown.edu",
-      "publishedAt": "2026-10-26T12:58:27.000Z",
-      "points": 182
+      "objectID": "50304122",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "domain": "fortune.com",
+      "publishedAt": "2026-10-30T14:08:20.000Z",
+      "points": 211
     }
   ]
 }
