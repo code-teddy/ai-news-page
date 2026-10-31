@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T12:21:20.772Z",
+  "fetchedAt": "2026-10-31T21:29:53.036Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -10,20 +10,12 @@
       "points": 684
     },
     {
-      "objectID": "50224463",
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "domain": "apollo.com",
-      "publishedAt": "2026-10-24T19:47:19.000Z",
-      "points": 653
-    },
-    {
       "objectID": "50305693",
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 607
+      "points": 643
     },
     {
       "objectID": "50226419",
@@ -39,7 +31,7 @@
       "url": "https://www.brangus.io/survival-llm",
       "domain": "brangus.io",
       "publishedAt": "2026-10-27T19:55:06.000Z",
-      "points": 541
+      "points": 542
     },
     {
       "objectID": "50257326",
@@ -71,7 +63,7 @@
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
       "publishedAt": "2026-10-29T21:40:28.000Z",
-      "points": 403
+      "points": 412
     },
     {
       "objectID": "50261819",
@@ -79,7 +71,7 @@
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "domain": "gizmodo.com",
       "publishedAt": "2026-10-27T16:40:15.000Z",
-      "points": 398
+      "points": 399
     },
     {
       "objectID": "50261589",
@@ -106,12 +98,28 @@
       "points": 335
     },
     {
+      "objectID": "50304122",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "domain": "fortune.com",
+      "publishedAt": "2026-10-30T14:08:20.000Z",
+      "points": 299
+    },
+    {
       "objectID": "50307183",
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
       "domain": "404media.co",
       "publishedAt": "2026-10-30T17:24:45.000Z",
-      "points": 278
+      "points": 289
+    },
+    {
+      "objectID": "50306008",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "domain": "bbc.co.uk",
+      "publishedAt": "2026-10-30T16:13:02.000Z",
+      "points": 263
     },
     {
       "objectID": "50275626",
@@ -120,22 +128,6 @@
       "domain": "surgehq.ai",
       "publishedAt": "2026-10-28T15:46:30.000Z",
       "points": 263
-    },
-    {
-      "objectID": "50306008",
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "domain": "bbc.co.uk",
-      "publishedAt": "2026-10-30T16:13:02.000Z",
-      "points": 258
-    },
-    {
-      "objectID": "50223647",
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-10-24T18:04:57.000Z",
-      "points": 258
     },
     {
       "objectID": "50233304",
@@ -151,15 +143,23 @@
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
       "domain": "404media.co",
       "publishedAt": "2026-10-29T14:29:06.000Z",
-      "points": 229
+      "points": 231
     },
     {
-      "objectID": "50304122",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "domain": "fortune.com",
-      "publishedAt": "2026-10-30T14:08:20.000Z",
-      "points": 211
+      "objectID": "50242843",
+      "title": "Brown student maps the hidden global labor powering AI",
+      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+      "domain": "brown.edu",
+      "publishedAt": "2026-10-26T12:58:27.000Z",
+      "points": 182
+    },
+    {
+      "objectID": "50252159",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "domain": "blog.cloudflare.com",
+      "publishedAt": "2026-10-26T22:41:48.000Z",
+      "points": 181
     }
   ]
 }
