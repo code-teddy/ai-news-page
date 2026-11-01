@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T13:16:20.361Z",
+  "fetchedAt": "2026-11-01T21:58:42.314Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -7,7 +7,7 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "domain": "oioannou.com",
       "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 685
+      "points": 688
     },
     {
       "objectID": "50305693",
@@ -15,7 +15,7 @@
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 655
+      "points": 663
     },
     {
       "objectID": "50264853",
@@ -55,7 +55,7 @@
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
       "publishedAt": "2026-10-29T21:40:28.000Z",
-      "points": 412
+      "points": 417
     },
     {
       "objectID": "50261819",
@@ -87,7 +87,7 @@
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-30T14:08:20.000Z",
-      "points": 308
+      "points": 311
     },
     {
       "objectID": "50307183",
@@ -95,7 +95,7 @@
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
       "domain": "404media.co",
       "publishedAt": "2026-10-30T17:24:45.000Z",
-      "points": 291
+      "points": 296
     },
     {
       "objectID": "50306008",
@@ -103,7 +103,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-10-30T16:13:02.000Z",
-      "points": 267
+      "points": 269
+    },
+    {
+      "objectID": "50323088",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "domain": "nolanlawson.com",
+      "publishedAt": "2026-11-01T06:06:19.000Z",
+      "points": 266
     },
     {
       "objectID": "50275626",
@@ -111,15 +119,7 @@
       "url": "https://surgehq.ai/blog/dayjob-tax",
       "domain": "surgehq.ai",
       "publishedAt": "2026-10-28T15:46:30.000Z",
-      "points": 263
-    },
-    {
-      "objectID": "50233304",
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "domain": "dailycal.org",
-      "publishedAt": "2026-10-25T16:28:26.000Z",
-      "points": 240
+      "points": 265
     },
     {
       "objectID": "50289692",
@@ -127,7 +127,7 @@
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
       "domain": "404media.co",
       "publishedAt": "2026-10-29T14:29:06.000Z",
-      "points": 236
+      "points": 237
     },
     {
       "objectID": "50290652",
@@ -135,7 +135,7 @@
       "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
       "domain": "thedataexchange.media",
       "publishedAt": "2026-10-29T15:29:48.000Z",
-      "points": 208
+      "points": 209
     },
     {
       "objectID": "50296730",
@@ -143,7 +143,7 @@
       "url": "https://twitter.com/sgondala2/status/2115832070274723875",
       "domain": "twitter.com",
       "publishedAt": "2026-10-29T21:58:34.000Z",
-      "points": 187
+      "points": 188
     },
     {
       "objectID": "50242843",
