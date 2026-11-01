@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T21:29:53.036Z",
+  "fetchedAt": "2026-11-01T05:57:45.324Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -7,7 +7,7 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "domain": "oioannou.com",
       "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 684
+      "points": 685
     },
     {
       "objectID": "50305693",
@@ -15,15 +15,7 @@
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 643
-    },
-    {
-      "objectID": "50226419",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "domain": "apricitas.io",
-      "publishedAt": "2026-10-24T23:11:54.000Z",
-      "points": 546
+      "points": 650
     },
     {
       "objectID": "50264853",
@@ -31,7 +23,7 @@
       "url": "https://www.brangus.io/survival-llm",
       "domain": "brangus.io",
       "publishedAt": "2026-10-27T19:55:06.000Z",
-      "points": 542
+      "points": 543
     },
     {
       "objectID": "50257326",
@@ -39,7 +31,7 @@
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 518
+      "points": 519
     },
     {
       "objectID": "50255298",
@@ -47,7 +39,7 @@
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
       "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 495
+      "points": 496
     },
     {
       "objectID": "50273396",
@@ -71,7 +63,7 @@
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "domain": "gizmodo.com",
       "publishedAt": "2026-10-27T16:40:15.000Z",
-      "points": 399
+      "points": 400
     },
     {
       "objectID": "50261589",
@@ -80,14 +72,6 @@
       "domain": "futurism.com",
       "publishedAt": "2026-10-27T16:25:30.000Z",
       "points": 386
-    },
-    {
-      "objectID": "50227356",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "domain": "cerebras.ai",
-      "publishedAt": "2026-10-25T01:33:49.000Z",
-      "points": 368
     },
     {
       "objectID": "50246658",
@@ -103,7 +87,7 @@
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-30T14:08:20.000Z",
-      "points": 299
+      "points": 303
     },
     {
       "objectID": "50307183",
@@ -111,7 +95,7 @@
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
       "domain": "404media.co",
       "publishedAt": "2026-10-30T17:24:45.000Z",
-      "points": 289
+      "points": 291
     },
     {
       "objectID": "50306008",
@@ -119,7 +103,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-10-30T16:13:02.000Z",
-      "points": 263
+      "points": 267
     },
     {
       "objectID": "50275626",
@@ -143,7 +127,23 @@
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
       "domain": "404media.co",
       "publishedAt": "2026-10-29T14:29:06.000Z",
-      "points": 231
+      "points": 232
+    },
+    {
+      "objectID": "50290652",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "domain": "thedataexchange.media",
+      "publishedAt": "2026-10-29T15:29:48.000Z",
+      "points": 195
+    },
+    {
+      "objectID": "50296730",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "domain": "twitter.com",
+      "publishedAt": "2026-10-29T21:58:34.000Z",
+      "points": 185
     },
     {
       "objectID": "50242843",
