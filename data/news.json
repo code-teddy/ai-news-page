@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T05:57:45.324Z",
+  "fetchedAt": "2026-11-01T13:16:20.361Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -15,7 +15,7 @@
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 650
+      "points": 655
     },
     {
       "objectID": "50264853",
@@ -79,7 +79,7 @@
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
       "publishedAt": "2026-10-26T16:35:44.000Z",
-      "points": 335
+      "points": 336
     },
     {
       "objectID": "50304122",
@@ -87,7 +87,7 @@
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-30T14:08:20.000Z",
-      "points": 303
+      "points": 308
     },
     {
       "objectID": "50307183",
@@ -127,7 +127,7 @@
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
       "domain": "404media.co",
       "publishedAt": "2026-10-29T14:29:06.000Z",
-      "points": 232
+      "points": 236
     },
     {
       "objectID": "50290652",
@@ -135,7 +135,7 @@
       "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
       "domain": "thedataexchange.media",
       "publishedAt": "2026-10-29T15:29:48.000Z",
-      "points": 195
+      "points": 208
     },
     {
       "objectID": "50296730",
@@ -143,7 +143,7 @@
       "url": "https://twitter.com/sgondala2/status/2115832070274723875",
       "domain": "twitter.com",
       "publishedAt": "2026-10-29T21:58:34.000Z",
-      "points": 185
+      "points": 187
     },
     {
       "objectID": "50242843",
@@ -159,7 +159,7 @@
       "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "domain": "blog.cloudflare.com",
       "publishedAt": "2026-10-26T22:41:48.000Z",
-      "points": 181
+      "points": 182
     }
   ]
 }
