@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T05:57:15.691Z",
+  "fetchedAt": "2026-11-02T15:43:18.741Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -15,7 +15,7 @@
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 667
+      "points": 676
     },
     {
       "objectID": "50264853",
@@ -31,7 +31,7 @@
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 520
+      "points": 521
     },
     {
       "objectID": "50255298",
@@ -47,7 +47,15 @@
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
       "domain": "religionnews.com",
       "publishedAt": "2026-10-28T13:41:30.000Z",
-      "points": 491
+      "points": 493
+    },
+    {
+      "objectID": "50323088",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "domain": "nolanlawson.com",
+      "publishedAt": "2026-11-01T06:06:19.000Z",
+      "points": 434
     },
     {
       "objectID": "50296486",
@@ -71,15 +79,7 @@
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "domain": "futurism.com",
       "publishedAt": "2026-10-27T16:25:30.000Z",
-      "points": 386
-    },
-    {
-      "objectID": "50323088",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "domain": "nolanlawson.com",
-      "publishedAt": "2026-11-01T06:06:19.000Z",
-      "points": 336
+      "points": 387
     },
     {
       "objectID": "50246658",
@@ -87,7 +87,7 @@
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
       "publishedAt": "2026-10-26T16:35:44.000Z",
-      "points": 336
+      "points": 337
     },
     {
       "objectID": "50304122",
@@ -95,7 +95,7 @@
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-30T14:08:20.000Z",
-      "points": 312
+      "points": 314
     },
     {
       "objectID": "50307183",
@@ -103,7 +103,7 @@
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
       "domain": "404media.co",
       "publishedAt": "2026-10-30T17:24:45.000Z",
-      "points": 296
+      "points": 297
     },
     {
       "objectID": "50306008",
@@ -130,20 +130,20 @@
       "points": 238
     },
     {
-      "objectID": "50290652",
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "domain": "thedataexchange.media",
-      "publishedAt": "2026-10-29T15:29:48.000Z",
-      "points": 213
-    },
-    {
       "objectID": "50330456",
       "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-11-01T22:10:45.000Z",
-      "points": 212
+      "points": 236
+    },
+    {
+      "objectID": "50290652",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "domain": "thedataexchange.media",
+      "publishedAt": "2026-10-29T15:29:48.000Z",
+      "points": 216
     },
     {
       "objectID": "50327266",
@@ -151,7 +151,7 @@
       "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
       "domain": "reddit.com",
       "publishedAt": "2026-11-01T16:46:33.000Z",
-      "points": 195
+      "points": 213
     },
     {
       "objectID": "50322022",
@@ -159,7 +159,7 @@
       "url": "https://arxiv.org/abs/2409.02292",
       "domain": "arxiv.org",
       "publishedAt": "2026-11-01T01:46:29.000Z",
-      "points": 189
+      "points": 211
     }
   ]
 }
