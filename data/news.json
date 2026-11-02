@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T21:58:42.314Z",
+  "fetchedAt": "2026-11-02T05:57:15.691Z",
   "stories": [
     {
       "objectID": "50257325",
@@ -7,7 +7,7 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "domain": "oioannou.com",
       "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 688
+      "points": 689
     },
     {
       "objectID": "50305693",
@@ -15,7 +15,7 @@
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 663
+      "points": 667
     },
     {
       "objectID": "50264853",
@@ -31,7 +31,7 @@
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 519
+      "points": 520
     },
     {
       "objectID": "50255298",
@@ -55,7 +55,7 @@
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
       "publishedAt": "2026-10-29T21:40:28.000Z",
-      "points": 417
+      "points": 419
     },
     {
       "objectID": "50261819",
@@ -74,6 +74,14 @@
       "points": 386
     },
     {
+      "objectID": "50323088",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "domain": "nolanlawson.com",
+      "publishedAt": "2026-11-01T06:06:19.000Z",
+      "points": 336
+    },
+    {
       "objectID": "50246658",
       "title": "Concerning behavior from a popular open-weight AI model",
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
@@ -87,7 +95,7 @@
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-30T14:08:20.000Z",
-      "points": 311
+      "points": 312
     },
     {
       "objectID": "50307183",
@@ -106,20 +114,12 @@
       "points": 269
     },
     {
-      "objectID": "50323088",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "domain": "nolanlawson.com",
-      "publishedAt": "2026-11-01T06:06:19.000Z",
-      "points": 266
-    },
-    {
       "objectID": "50275626",
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "url": "https://surgehq.ai/blog/dayjob-tax",
       "domain": "surgehq.ai",
       "publishedAt": "2026-10-28T15:46:30.000Z",
-      "points": 265
+      "points": 266
     },
     {
       "objectID": "50289692",
@@ -127,7 +127,7 @@
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
       "domain": "404media.co",
       "publishedAt": "2026-10-29T14:29:06.000Z",
-      "points": 237
+      "points": 238
     },
     {
       "objectID": "50290652",
@@ -135,31 +135,31 @@
       "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
       "domain": "thedataexchange.media",
       "publishedAt": "2026-10-29T15:29:48.000Z",
-      "points": 209
+      "points": 213
     },
     {
-      "objectID": "50296730",
-      "title": "Building an AI-native engineering org",
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "domain": "twitter.com",
-      "publishedAt": "2026-10-29T21:58:34.000Z",
-      "points": 188
+      "objectID": "50330456",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-11-01T22:10:45.000Z",
+      "points": 212
     },
     {
-      "objectID": "50242843",
-      "title": "Brown student maps the hidden global labor powering AI",
-      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-      "domain": "brown.edu",
-      "publishedAt": "2026-10-26T12:58:27.000Z",
-      "points": 182
+      "objectID": "50327266",
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "domain": "reddit.com",
+      "publishedAt": "2026-11-01T16:46:33.000Z",
+      "points": 195
     },
     {
-      "objectID": "50252159",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "domain": "blog.cloudflare.com",
-      "publishedAt": "2026-10-26T22:41:48.000Z",
-      "points": 182
+      "objectID": "50322022",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-11-01T01:46:29.000Z",
+      "points": 189
     }
   ]
 }
