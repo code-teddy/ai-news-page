@@ -1,21 +1,29 @@
 {
-  "fetchedAt": "2026-11-03T14:06:51.010Z",
+  "fetchedAt": "2026-11-03T23:18:14.582Z",
   "stories": [
+    {
+      "objectID": "50354960",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "domain": "github.com",
+      "publishedAt": "2026-11-03T17:22:37.000Z",
+      "points": 927
+    },
     {
       "objectID": "50305693",
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 679
+      "points": 682
     },
     {
-      "objectID": "50264853",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "domain": "brangus.io",
-      "publishedAt": "2026-10-27T19:55:06.000Z",
-      "points": 543
+      "objectID": "50353192",
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "domain": "nytimes.com",
+      "publishedAt": "2026-11-03T15:25:47.000Z",
+      "points": 520
     },
     {
       "objectID": "50273396",
@@ -23,7 +31,7 @@
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
       "domain": "religionnews.com",
       "publishedAt": "2026-10-28T13:41:30.000Z",
-      "points": 493
+      "points": 494
     },
     {
       "objectID": "50323088",
@@ -31,7 +39,7 @@
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "domain": "nolanlawson.com",
       "publishedAt": "2026-11-01T06:06:19.000Z",
-      "points": 471
+      "points": 474
     },
     {
       "objectID": "50296486",
@@ -39,23 +47,15 @@
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
       "publishedAt": "2026-10-29T21:40:28.000Z",
-      "points": 421
+      "points": 422
     },
     {
-      "objectID": "50261819",
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "domain": "gizmodo.com",
-      "publishedAt": "2026-10-27T16:40:15.000Z",
-      "points": 400
-    },
-    {
-      "objectID": "50261589",
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "domain": "futurism.com",
-      "publishedAt": "2026-10-27T16:25:30.000Z",
-      "points": 387
+      "objectID": "50336918",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "domain": "arstechnica.com",
+      "publishedAt": "2026-11-02T14:02:42.000Z",
+      "points": 351
     },
     {
       "objectID": "50339494",
@@ -63,7 +63,7 @@
       "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "domain": "businessinsider.com",
       "publishedAt": "2026-11-02T16:40:29.000Z",
-      "points": 335
+      "points": 348
     },
     {
       "objectID": "50304122",
@@ -79,7 +79,7 @@
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
       "domain": "404media.co",
       "publishedAt": "2026-10-30T17:24:45.000Z",
-      "points": 301
+      "points": 302
     },
     {
       "objectID": "50306008",
@@ -103,7 +103,7 @@
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-11-01T22:10:45.000Z",
-      "points": 243
+      "points": 245
     },
     {
       "objectID": "50289692",
@@ -111,7 +111,7 @@
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
       "domain": "404media.co",
       "publishedAt": "2026-10-29T14:29:06.000Z",
-      "points": 238
+      "points": 240
     },
     {
       "objectID": "50327266",
@@ -135,7 +135,15 @@
       "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
       "domain": "thedataexchange.media",
       "publishedAt": "2026-10-29T15:29:48.000Z",
-      "points": 218
+      "points": 219
+    },
+    {
+      "objectID": "50342284",
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "domain": "cnbc.com",
+      "publishedAt": "2026-11-02T19:27:37.000Z",
+      "points": 197
     },
     {
       "objectID": "50296730",
@@ -146,20 +154,12 @@
       "points": 193
     },
     {
-      "objectID": "50342284",
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "domain": "cnbc.com",
-      "publishedAt": "2026-11-02T19:27:37.000Z",
-      "points": 190
-    },
-    {
-      "objectID": "50290283",
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "domain": "trakkr.ai",
-      "publishedAt": "2026-10-29T15:06:17.000Z",
-      "points": 181
+      "objectID": "50337454",
+      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "domain": "bloomberg.com",
+      "publishedAt": "2026-11-02T14:40:05.000Z",
+      "points": 187
     }
   ]
 }
