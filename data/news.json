@@ -1,21 +1,13 @@
 {
-  "fetchedAt": "2026-11-03T00:55:43.033Z",
+  "fetchedAt": "2026-11-03T14:06:51.010Z",
   "stories": [
-    {
-      "objectID": "50257325",
-      "title": "AI promised less work. I've never worked more",
-      "url": "https://oioannou.com/blog/ai-promised-less-work/",
-      "domain": "oioannou.com",
-      "publishedAt": "2026-10-27T11:08:14.000Z",
-      "points": 689
-    },
     {
       "objectID": "50305693",
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 677
+      "points": 679
     },
     {
       "objectID": "50264853",
@@ -24,22 +16,6 @@
       "domain": "brangus.io",
       "publishedAt": "2026-10-27T19:55:06.000Z",
       "points": 543
-    },
-    {
-      "objectID": "50257326",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "domain": "spectrum.ieee.org",
-      "publishedAt": "2026-10-27T11:08:15.000Z",
-      "points": 522
-    },
-    {
-      "objectID": "50255298",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "domain": "j11g.com",
-      "publishedAt": "2026-10-27T06:25:37.000Z",
-      "points": 496
     },
     {
       "objectID": "50273396",
@@ -55,7 +31,7 @@
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "domain": "nolanlawson.com",
       "publishedAt": "2026-11-01T06:06:19.000Z",
-      "points": 468
+      "points": 471
     },
     {
       "objectID": "50296486",
@@ -82,12 +58,20 @@
       "points": 387
     },
     {
+      "objectID": "50339494",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "domain": "businessinsider.com",
+      "publishedAt": "2026-11-02T16:40:29.000Z",
+      "points": 335
+    },
+    {
       "objectID": "50304122",
       "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "domain": "fortune.com",
       "publishedAt": "2026-10-30T14:08:20.000Z",
-      "points": 314
+      "points": 316
     },
     {
       "objectID": "50307183",
@@ -98,20 +82,12 @@
       "points": 301
     },
     {
-      "objectID": "50339494",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "domain": "businessinsider.com",
-      "publishedAt": "2026-11-02T16:40:29.000Z",
-      "points": 286
-    },
-    {
       "objectID": "50306008",
       "title": "US tech stocks see sharp falls over AI cost fears",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "domain": "bbc.co.uk",
       "publishedAt": "2026-10-30T16:13:02.000Z",
-      "points": 269
+      "points": 270
     },
     {
       "objectID": "50275626",
@@ -127,7 +103,7 @@
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-11-01T22:10:45.000Z",
-      "points": 241
+      "points": 243
     },
     {
       "objectID": "50289692",
@@ -151,7 +127,7 @@
       "url": "https://arxiv.org/abs/2409.02292",
       "domain": "arxiv.org",
       "publishedAt": "2026-11-01T01:46:29.000Z",
-      "points": 217
+      "points": 220
     },
     {
       "objectID": "50290652",
@@ -159,7 +135,31 @@
       "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
       "domain": "thedataexchange.media",
       "publishedAt": "2026-10-29T15:29:48.000Z",
-      "points": 217
+      "points": 218
+    },
+    {
+      "objectID": "50296730",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "domain": "twitter.com",
+      "publishedAt": "2026-10-29T21:58:34.000Z",
+      "points": 193
+    },
+    {
+      "objectID": "50342284",
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "domain": "cnbc.com",
+      "publishedAt": "2026-11-02T19:27:37.000Z",
+      "points": 190
+    },
+    {
+      "objectID": "50290283",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "domain": "trakkr.ai",
+      "publishedAt": "2026-10-29T15:06:17.000Z",
+      "points": 181
     }
   ]
 }
