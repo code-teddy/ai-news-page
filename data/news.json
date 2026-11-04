@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T23:18:14.582Z",
+  "fetchedAt": "2026-11-04T06:12:30.353Z",
   "stories": [
     {
       "objectID": "50354960",
@@ -7,7 +7,7 @@
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
       "publishedAt": "2026-11-03T17:22:37.000Z",
-      "points": 927
+      "points": 1156
     },
     {
       "objectID": "50305693",
@@ -15,7 +15,7 @@
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 682
+      "points": 683
     },
     {
       "objectID": "50353192",
@@ -23,7 +23,7 @@
       "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-11-03T15:25:47.000Z",
-      "points": 520
+      "points": 593
     },
     {
       "objectID": "50273396",
@@ -42,6 +42,14 @@
       "points": 474
     },
     {
+      "objectID": "50336918",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "domain": "arstechnica.com",
+      "publishedAt": "2026-11-02T14:02:42.000Z",
+      "points": 432
+    },
+    {
       "objectID": "50296486",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
@@ -50,20 +58,20 @@
       "points": 422
     },
     {
-      "objectID": "50336918",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-11-02T14:02:42.000Z",
-      "points": 351
-    },
-    {
       "objectID": "50339494",
       "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
       "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "domain": "businessinsider.com",
       "publishedAt": "2026-11-02T16:40:29.000Z",
-      "points": 348
+      "points": 351
+    },
+    {
+      "objectID": "50358422",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "domain": "asia.nikkei.com",
+      "publishedAt": "2026-11-03T21:26:44.000Z",
+      "points": 322
     },
     {
       "objectID": "50304122",
@@ -80,6 +88,14 @@
       "domain": "404media.co",
       "publishedAt": "2026-10-30T17:24:45.000Z",
       "points": 302
+    },
+    {
+      "objectID": "50358582",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "domain": "arxiv.org",
+      "publishedAt": "2026-11-03T21:40:53.000Z",
+      "points": 295
     },
     {
       "objectID": "50306008",
@@ -144,22 +160,6 @@
       "domain": "cnbc.com",
       "publishedAt": "2026-11-02T19:27:37.000Z",
       "points": 197
-    },
-    {
-      "objectID": "50296730",
-      "title": "Building an AI-native engineering org",
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "domain": "twitter.com",
-      "publishedAt": "2026-10-29T21:58:34.000Z",
-      "points": 193
-    },
-    {
-      "objectID": "50337454",
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "domain": "bloomberg.com",
-      "publishedAt": "2026-11-02T14:40:05.000Z",
-      "points": 187
     }
   ]
 }
