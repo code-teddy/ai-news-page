@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04T14:28:09.992Z",
+  "fetchedAt": "2026-11-04T23:38:13.413Z",
   "stories": [
     {
       "objectID": "50354960",
@@ -7,7 +7,15 @@
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
       "publishedAt": "2026-11-03T17:22:37.000Z",
-      "points": 1395
+      "points": 1484
+    },
+    {
+      "objectID": "50364336",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "domain": "spectrum.ieee.org",
+      "publishedAt": "2026-11-04T11:52:17.000Z",
+      "points": 1008
     },
     {
       "objectID": "50305693",
@@ -15,7 +23,7 @@
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
       "publishedAt": "2026-10-30T15:52:18.000Z",
-      "points": 683
+      "points": 684
     },
     {
       "objectID": "50353192",
@@ -23,7 +31,7 @@
       "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-11-03T15:25:47.000Z",
-      "points": 638
+      "points": 659
     },
     {
       "objectID": "50336918",
@@ -31,7 +39,7 @@
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-11-02T14:02:42.000Z",
-      "points": 504
+      "points": 527
     },
     {
       "objectID": "50323088",
@@ -39,7 +47,7 @@
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "domain": "nolanlawson.com",
       "publishedAt": "2026-11-01T06:06:19.000Z",
-      "points": 474
+      "points": 476
     },
     {
       "objectID": "50296486",
@@ -55,7 +63,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
       "domain": "asia.nikkei.com",
       "publishedAt": "2026-11-03T21:26:44.000Z",
-      "points": 383
+      "points": 408
     },
     {
       "objectID": "50358582",
@@ -63,7 +71,7 @@
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
       "publishedAt": "2026-11-03T21:40:53.000Z",
-      "points": 364
+      "points": 381
     },
     {
       "objectID": "50339494",
@@ -82,20 +90,20 @@
       "points": 316
     },
     {
-      "objectID": "50364336",
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "domain": "spectrum.ieee.org",
-      "publishedAt": "2026-11-04T11:52:17.000Z",
-      "points": 312
-    },
-    {
       "objectID": "50307183",
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
       "domain": "404media.co",
       "publishedAt": "2026-10-30T17:24:45.000Z",
       "points": 304
+    },
+    {
+      "objectID": "50363554",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "domain": "theguardian.com",
+      "publishedAt": "2026-11-04T10:23:34.000Z",
+      "points": 295
     },
     {
       "objectID": "50306008",
@@ -106,12 +114,12 @@
       "points": 270
     },
     {
-      "objectID": "50275626",
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "domain": "surgehq.ai",
-      "publishedAt": "2026-10-28T15:46:30.000Z",
-      "points": 266
+      "objectID": "50355767",
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "domain": "ben.stolovitz.com",
+      "publishedAt": "2026-11-03T18:11:11.000Z",
+      "points": 248
     },
     {
       "objectID": "50330456",
@@ -143,7 +151,7 @@
       "url": "https://arxiv.org/abs/2409.02292",
       "domain": "arxiv.org",
       "publishedAt": "2026-11-01T01:46:29.000Z",
-      "points": 220
+      "points": 221
     },
     {
       "objectID": "50290652",
@@ -152,14 +160,6 @@
       "domain": "thedataexchange.media",
       "publishedAt": "2026-10-29T15:29:48.000Z",
       "points": 219
-    },
-    {
-      "objectID": "50355767",
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "domain": "ben.stolovitz.com",
-      "publishedAt": "2026-11-03T18:11:11.000Z",
-      "points": 216
     }
   ]
 }
