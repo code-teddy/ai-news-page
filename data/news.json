@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T19:54:24.199Z",
+  "fetchedAt": "2026-11-06T06:36:47.411Z",
   "stories": [
     {
       "objectID": "50354960",
@@ -7,7 +7,7 @@
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
       "publishedAt": "2026-11-03T17:22:37.000Z",
-      "points": 1510
+      "points": 1515
     },
     {
       "objectID": "50364336",
@@ -15,7 +15,7 @@
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-11-04T11:52:17.000Z",
-      "points": 1248
+      "points": 1270
     },
     {
       "objectID": "50305693",
@@ -39,7 +39,7 @@
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-11-02T14:02:42.000Z",
-      "points": 533
+      "points": 535
     },
     {
       "objectID": "50366117",
@@ -47,7 +47,7 @@
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-11-04T14:37:22.000Z",
-      "points": 491
+      "points": 517
     },
     {
       "objectID": "50323088",
@@ -58,20 +58,12 @@
       "points": 477
     },
     {
-      "objectID": "50296486",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "domain": "labs.ycombinator.com",
-      "publishedAt": "2026-10-29T21:40:28.000Z",
-      "points": 423
-    },
-    {
       "objectID": "50358422",
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
       "domain": "asia.nikkei.com",
       "publishedAt": "2026-11-03T21:26:44.000Z",
-      "points": 415
+      "points": 420
     },
     {
       "objectID": "50358582",
@@ -79,7 +71,7 @@
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
       "publishedAt": "2026-11-03T21:40:53.000Z",
-      "points": 388
+      "points": 391
     },
     {
       "objectID": "50339494",
@@ -95,7 +87,7 @@
       "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-04T10:23:34.000Z",
-      "points": 317
+      "points": 319
     },
     {
       "objectID": "50304122",
@@ -127,7 +119,15 @@
       "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
       "domain": "ben.stolovitz.com",
       "publishedAt": "2026-11-03T18:11:11.000Z",
-      "points": 255
+      "points": 256
+    },
+    {
+      "objectID": "50385870",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "domain": "finance.yahoo.com",
+      "publishedAt": "2026-11-05T23:09:57.000Z",
+      "points": 250
     },
     {
       "objectID": "50330456",
@@ -135,7 +135,7 @@
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "domain": "techcrunch.com",
       "publishedAt": "2026-11-01T22:10:45.000Z",
-      "points": 246
+      "points": 247
     },
     {
       "objectID": "50327266",
