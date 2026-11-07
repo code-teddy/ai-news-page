@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T12:55:43.005Z",
+  "fetchedAt": "2026-11-07T21:46:30.908Z",
   "stories": [
     {
       "objectID": "50354960",
@@ -7,7 +7,7 @@
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
       "publishedAt": "2026-11-03T17:22:37.000Z",
-      "points": 1523
+      "points": 1524
     },
     {
       "objectID": "50364336",
@@ -15,7 +15,7 @@
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-11-04T11:52:17.000Z",
-      "points": 1293
+      "points": 1294
     },
     {
       "objectID": "50353192",
@@ -31,7 +31,7 @@
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-11-04T14:37:22.000Z",
-      "points": 547
+      "points": 553
     },
     {
       "objectID": "50336918",
@@ -39,7 +39,7 @@
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "domain": "arstechnica.com",
       "publishedAt": "2026-11-02T14:02:42.000Z",
-      "points": 536
+      "points": 537
     },
     {
       "objectID": "50385870",
@@ -47,7 +47,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
       "publishedAt": "2026-11-05T23:09:57.000Z",
-      "points": 509
+      "points": 510
     },
     {
       "objectID": "50323088",
@@ -63,7 +63,15 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
       "domain": "asia.nikkei.com",
       "publishedAt": "2026-11-03T21:26:44.000Z",
-      "points": 420
+      "points": 421
+    },
+    {
+      "objectID": "50388001",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "domain": "reuters.com",
+      "publishedAt": "2026-11-06T04:00:28.000Z",
+      "points": 402
     },
     {
       "objectID": "50358582",
@@ -74,12 +82,12 @@
       "points": 392
     },
     {
-      "objectID": "50388001",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "domain": "reuters.com",
-      "publishedAt": "2026-11-06T04:00:28.000Z",
-      "points": 355
+      "objectID": "50397994",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "domain": "planned-obsolescence.org",
+      "publishedAt": "2026-11-06T20:27:23.000Z",
+      "points": 358
     },
     {
       "objectID": "50339494",
@@ -90,20 +98,12 @@
       "points": 352
     },
     {
-      "objectID": "50397994",
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "domain": "planned-obsolescence.org",
-      "publishedAt": "2026-11-06T20:27:23.000Z",
-      "points": 330
-    },
-    {
       "objectID": "50363554",
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
       "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-04T10:23:34.000Z",
-      "points": 321
+      "points": 322
     },
     {
       "objectID": "50355767",
@@ -111,7 +111,7 @@
       "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
       "domain": "ben.stolovitz.com",
       "publishedAt": "2026-11-03T18:11:11.000Z",
-      "points": 257
+      "points": 258
     },
     {
       "objectID": "50330456",
@@ -120,6 +120,14 @@
       "domain": "techcrunch.com",
       "publishedAt": "2026-11-01T22:10:45.000Z",
       "points": 247
+    },
+    {
+      "objectID": "50406563",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "domain": "hunch.net",
+      "publishedAt": "2026-11-07T18:02:17.000Z",
+      "points": 245
     },
     {
       "objectID": "50327266",
@@ -143,7 +151,7 @@
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
       "domain": "lesswrong.com",
       "publishedAt": "2026-11-06T05:19:04.000Z",
-      "points": 204
+      "points": 211
     },
     {
       "objectID": "50342284",
@@ -152,14 +160,6 @@
       "domain": "cnbc.com",
       "publishedAt": "2026-11-02T19:27:37.000Z",
       "points": 200
-    },
-    {
-      "objectID": "50337454",
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "domain": "bloomberg.com",
-      "publishedAt": "2026-11-02T14:40:05.000Z",
-      "points": 188
     }
   ]
 }
