@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T19:20:58.331Z",
+  "fetchedAt": "2026-11-07T05:54:31.675Z",
   "stories": [
     {
       "objectID": "50354960",
@@ -7,7 +7,7 @@
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
       "publishedAt": "2026-11-03T17:22:37.000Z",
-      "points": 1520
+      "points": 1522
     },
     {
       "objectID": "50364336",
@@ -15,7 +15,7 @@
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-11-04T11:52:17.000Z",
-      "points": 1285
+      "points": 1292
     },
     {
       "objectID": "50353192",
@@ -31,7 +31,7 @@
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-11-04T14:37:22.000Z",
-      "points": 537
+      "points": 544
     },
     {
       "objectID": "50336918",
@@ -47,7 +47,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
       "publishedAt": "2026-11-05T23:09:57.000Z",
-      "points": 480
+      "points": 502
     },
     {
       "objectID": "50323088",
@@ -87,7 +87,15 @@
       "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-04T10:23:34.000Z",
-      "points": 320
+      "points": 321
+    },
+    {
+      "objectID": "50388001",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "domain": "reuters.com",
+      "publishedAt": "2026-11-06T04:00:28.000Z",
+      "points": 309
     },
     {
       "objectID": "50355767",
@@ -96,6 +104,14 @@
       "domain": "ben.stolovitz.com",
       "publishedAt": "2026-11-03T18:11:11.000Z",
       "points": 257
+    },
+    {
+      "objectID": "50397994",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "domain": "planned-obsolescence.org",
+      "publishedAt": "2026-11-06T20:27:23.000Z",
+      "points": 252
     },
     {
       "objectID": "50330456",
@@ -127,7 +143,7 @@
       "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
       "domain": "cnbc.com",
       "publishedAt": "2026-11-02T19:27:37.000Z",
-      "points": 199
+      "points": 200
     },
     {
       "objectID": "50337454",
@@ -138,28 +154,12 @@
       "points": 188
     },
     {
-      "objectID": "50341736",
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "domain": "terrytao.wordpress.com",
-      "publishedAt": "2026-11-02T18:54:44.000Z",
-      "points": 185
-    },
-    {
-      "objectID": "50325662",
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "domain": "tomshardware.com",
-      "publishedAt": "2026-11-01T13:47:24.000Z",
-      "points": 180
-    },
-    {
-      "objectID": "50338474",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-11-02T15:48:45.000Z",
-      "points": 178
+      "objectID": "50388513",
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "domain": "lesswrong.com",
+      "publishedAt": "2026-11-06T05:19:04.000Z",
+      "points": 188
     }
   ]
 }
