@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T13:18:28.775Z",
+  "fetchedAt": "2026-11-08T21:59:35.745Z",
   "stories": [
     {
       "objectID": "50354960",
@@ -15,7 +15,7 @@
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-11-04T11:52:17.000Z",
-      "points": 1299
+      "points": 1303
     },
     {
       "objectID": "50353192",
@@ -23,7 +23,7 @@
       "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-11-03T15:25:47.000Z",
-      "points": 672
+      "points": 673
     },
     {
       "objectID": "50366117",
@@ -31,7 +31,7 @@
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-11-04T14:37:22.000Z",
-      "points": 558
+      "points": 561
     },
     {
       "objectID": "50336918",
@@ -47,7 +47,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
       "publishedAt": "2026-11-05T23:09:57.000Z",
-      "points": 515
+      "points": 517
     },
     {
       "objectID": "50406563",
@@ -55,7 +55,7 @@
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "points": 472
+      "points": 487
     },
     {
       "objectID": "50358422",
@@ -79,7 +79,7 @@
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
       "publishedAt": "2026-11-03T21:40:53.000Z",
-      "points": 393
+      "points": 394
     },
     {
       "objectID": "50397994",
@@ -87,7 +87,7 @@
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
       "publishedAt": "2026-11-06T20:27:23.000Z",
-      "points": 370
+      "points": 373
     },
     {
       "objectID": "50339494",
@@ -111,7 +111,7 @@
       "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
       "domain": "ben.stolovitz.com",
       "publishedAt": "2026-11-03T18:11:11.000Z",
-      "points": 259
+      "points": 260
     },
     {
       "objectID": "50330456",
@@ -120,14 +120,6 @@
       "domain": "techcrunch.com",
       "publishedAt": "2026-11-01T22:10:45.000Z",
       "points": 247
-    },
-    {
-      "objectID": "50327266",
-      "title": "Frontier Airlines Likely Breached",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "domain": "reddit.com",
-      "publishedAt": "2026-11-01T16:46:33.000Z",
-      "points": 223
     },
     {
       "objectID": "50388513",
@@ -160,6 +152,14 @@
       "domain": "terrytao.wordpress.com",
       "publishedAt": "2026-11-02T18:54:44.000Z",
       "points": 185
+    },
+    {
+      "objectID": "50338474",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "domain": "arstechnica.com",
+      "publishedAt": "2026-11-02T15:48:45.000Z",
+      "points": 178
     }
   ]
 }
