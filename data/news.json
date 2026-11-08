@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T05:56:24.289Z",
+  "fetchedAt": "2026-11-08T13:18:28.775Z",
   "stories": [
     {
       "objectID": "50354960",
@@ -15,7 +15,7 @@
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-11-04T11:52:17.000Z",
-      "points": 1296
+      "points": 1299
     },
     {
       "objectID": "50353192",
@@ -31,7 +31,7 @@
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-11-04T14:37:22.000Z",
-      "points": 555
+      "points": 558
     },
     {
       "objectID": "50336918",
@@ -50,20 +50,12 @@
       "points": 515
     },
     {
-      "objectID": "50323088",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "domain": "nolanlawson.com",
-      "publishedAt": "2026-11-01T06:06:19.000Z",
-      "points": 477
-    },
-    {
       "objectID": "50406563",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "points": 430
+      "points": 472
     },
     {
       "objectID": "50358422",
@@ -87,7 +79,7 @@
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
       "publishedAt": "2026-11-03T21:40:53.000Z",
-      "points": 392
+      "points": 393
     },
     {
       "objectID": "50397994",
@@ -95,7 +87,7 @@
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
       "publishedAt": "2026-11-06T20:27:23.000Z",
-      "points": 363
+      "points": 370
     },
     {
       "objectID": "50339494",
@@ -143,7 +135,7 @@
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
       "domain": "lesswrong.com",
       "publishedAt": "2026-11-06T05:19:04.000Z",
-      "points": 217
+      "points": 220
     },
     {
       "objectID": "50342284",
@@ -160,6 +152,14 @@
       "domain": "bloomberg.com",
       "publishedAt": "2026-11-02T14:40:05.000Z",
       "points": 188
+    },
+    {
+      "objectID": "50341736",
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "domain": "terrytao.wordpress.com",
+      "publishedAt": "2026-11-02T18:54:44.000Z",
+      "points": 185
     }
   ]
 }
