@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T06:19:03.987Z",
+  "fetchedAt": "2026-11-09T22:17:09.009Z",
   "stories": [
     {
       "objectID": "50354960",
@@ -7,7 +7,7 @@
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
       "publishedAt": "2026-11-03T17:22:37.000Z",
-      "points": 1525
+      "points": 1527
     },
     {
       "objectID": "50364336",
@@ -15,7 +15,15 @@
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-11-04T11:52:17.000Z",
-      "points": 1304
+      "points": 1307
+    },
+    {
+      "objectID": "50424581",
+      "title": "Fold Epic Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "domain": "foldableflight.com",
+      "publishedAt": "2026-11-09T12:19:22.000Z",
+      "points": 760
     },
     {
       "objectID": "50353192",
@@ -31,15 +39,15 @@
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-11-04T14:37:22.000Z",
-      "points": 564
+      "points": 569
     },
     {
-      "objectID": "50336918",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-11-02T14:02:42.000Z",
-      "points": 537
+      "objectID": "50418975",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "domain": "matteoraso.github.io",
+      "publishedAt": "2026-11-08T23:44:36.000Z",
+      "points": 536
     },
     {
       "objectID": "50385870",
@@ -47,7 +55,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
       "publishedAt": "2026-11-05T23:09:57.000Z",
-      "points": 519
+      "points": 521
     },
     {
       "objectID": "50406563",
@@ -55,7 +63,7 @@
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "points": 500
+      "points": 507
     },
     {
       "objectID": "50358422",
@@ -71,7 +79,7 @@
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "domain": "reuters.com",
       "publishedAt": "2026-11-06T04:00:28.000Z",
-      "points": 406
+      "points": 410
     },
     {
       "objectID": "50358582",
@@ -79,7 +87,7 @@
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
       "publishedAt": "2026-11-03T21:40:53.000Z",
-      "points": 394
+      "points": 395
     },
     {
       "objectID": "50397994",
@@ -87,15 +95,7 @@
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
       "publishedAt": "2026-11-06T20:27:23.000Z",
-      "points": 374
-    },
-    {
-      "objectID": "50339494",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "domain": "businessinsider.com",
-      "publishedAt": "2026-11-02T16:40:29.000Z",
-      "points": 352
+      "points": 375
     },
     {
       "objectID": "50363554",
@@ -106,12 +106,20 @@
       "points": 322
     },
     {
+      "objectID": "50416363",
+      "title": "How I'm fighting the AI brain fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "domain": "sergeykuhne.com",
+      "publishedAt": "2026-11-08T19:37:42.000Z",
+      "points": 299
+    },
+    {
       "objectID": "50355767",
       "title": "How I use AI (Oct 2026)",
       "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
       "domain": "ben.stolovitz.com",
       "publishedAt": "2026-11-03T18:11:11.000Z",
-      "points": 260
+      "points": 262
     },
     {
       "objectID": "50388513",
@@ -119,47 +127,39 @@
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
       "domain": "lesswrong.com",
       "publishedAt": "2026-11-06T05:19:04.000Z",
-      "points": 220
+      "points": 221
     },
     {
-      "objectID": "50416363",
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "domain": "sergeykuhne.com",
-      "publishedAt": "2026-11-08T19:37:42.000Z",
-      "points": 205
-    },
-    {
-      "objectID": "50342284",
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "domain": "cnbc.com",
-      "publishedAt": "2026-11-02T19:27:37.000Z",
-      "points": 200
-    },
-    {
-      "objectID": "50337454",
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "domain": "bloomberg.com",
-      "publishedAt": "2026-11-02T14:40:05.000Z",
-      "points": 188
-    },
-    {
-      "objectID": "50341736",
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "domain": "terrytao.wordpress.com",
-      "publishedAt": "2026-11-02T18:54:44.000Z",
-      "points": 185
-    },
-    {
-      "objectID": "50338474",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "domain": "arstechnica.com",
-      "publishedAt": "2026-11-02T15:48:45.000Z",
+      "objectID": "50352257",
+      "title": "Just a little AI resistance, as a treat",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "domain": "shkspr.mobi",
+      "publishedAt": "2026-11-03T14:14:12.000Z",
       "points": 178
+    },
+    {
+      "objectID": "50370654",
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "domain": "qualcomm.com",
+      "publishedAt": "2026-11-04T19:55:14.000Z",
+      "points": 170
+    },
+    {
+      "objectID": "50382179",
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "domain": "wsj.com",
+      "publishedAt": "2026-11-05T18:00:01.000Z",
+      "points": 163
+    },
+    {
+      "objectID": "50371508",
+      "title": "Everything is an AI scam now",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "domain": "davidralphlewis.co.uk",
+      "publishedAt": "2026-11-04T21:05:19.000Z",
+      "points": 152
     }
   ]
 }
