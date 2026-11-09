@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T21:59:35.745Z",
+  "fetchedAt": "2026-11-09T06:19:03.987Z",
   "stories": [
     {
       "objectID": "50354960",
@@ -15,7 +15,7 @@
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-11-04T11:52:17.000Z",
-      "points": 1303
+      "points": 1304
     },
     {
       "objectID": "50353192",
@@ -23,7 +23,7 @@
       "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "domain": "nytimes.com",
       "publishedAt": "2026-11-03T15:25:47.000Z",
-      "points": 673
+      "points": 674
     },
     {
       "objectID": "50366117",
@@ -31,7 +31,7 @@
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-11-04T14:37:22.000Z",
-      "points": 561
+      "points": 564
     },
     {
       "objectID": "50336918",
@@ -47,7 +47,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
       "publishedAt": "2026-11-05T23:09:57.000Z",
-      "points": 517
+      "points": 519
     },
     {
       "objectID": "50406563",
@@ -55,7 +55,7 @@
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "points": 487
+      "points": 500
     },
     {
       "objectID": "50358422",
@@ -71,7 +71,7 @@
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "domain": "reuters.com",
       "publishedAt": "2026-11-06T04:00:28.000Z",
-      "points": 403
+      "points": 406
     },
     {
       "objectID": "50358582",
@@ -87,7 +87,7 @@
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
       "publishedAt": "2026-11-06T20:27:23.000Z",
-      "points": 373
+      "points": 374
     },
     {
       "objectID": "50339494",
@@ -114,20 +114,20 @@
       "points": 260
     },
     {
-      "objectID": "50330456",
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "domain": "techcrunch.com",
-      "publishedAt": "2026-11-01T22:10:45.000Z",
-      "points": 247
-    },
-    {
       "objectID": "50388513",
       "title": "I struggle to believe that AI R&D is ingenious",
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
       "domain": "lesswrong.com",
       "publishedAt": "2026-11-06T05:19:04.000Z",
       "points": 220
+    },
+    {
+      "objectID": "50416363",
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "domain": "sergeykuhne.com",
+      "publishedAt": "2026-11-08T19:37:42.000Z",
+      "points": 205
     },
     {
       "objectID": "50342284",
