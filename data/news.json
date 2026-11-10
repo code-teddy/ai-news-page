@@ -1,21 +1,13 @@
 {
-  "fetchedAt": "2026-11-10T07:12:10.473Z",
+  "fetchedAt": "2026-11-10T19:41:08.377Z",
   "stories": [
-    {
-      "objectID": "50354960",
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "domain": "github.com",
-      "publishedAt": "2026-11-03T17:22:37.000Z",
-      "points": 1528
-    },
     {
       "objectID": "50364336",
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
       "publishedAt": "2026-11-04T11:52:17.000Z",
-      "points": 1308
+      "points": 1309
     },
     {
       "objectID": "50424581",
@@ -23,15 +15,7 @@
       "url": "https://www.foldableflight.com",
       "domain": "foldableflight.com",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "points": 954
-    },
-    {
-      "objectID": "50353192",
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "domain": "nytimes.com",
-      "publishedAt": "2026-11-03T15:25:47.000Z",
-      "points": 674
+      "points": 1169
     },
     {
       "objectID": "50366117",
@@ -39,7 +23,7 @@
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-11-04T14:37:22.000Z",
-      "points": 569
+      "points": 571
     },
     {
       "objectID": "50418975",
@@ -47,7 +31,7 @@
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "domain": "matteoraso.github.io",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "points": 550
+      "points": 560
     },
     {
       "objectID": "50385870",
@@ -55,7 +39,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
       "publishedAt": "2026-11-05T23:09:57.000Z",
-      "points": 521
+      "points": 523
     },
     {
       "objectID": "50406563",
@@ -63,7 +47,7 @@
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "points": 509
+      "points": 510
     },
     {
       "objectID": "50358422",
@@ -79,7 +63,7 @@
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "domain": "reuters.com",
       "publishedAt": "2026-11-06T04:00:28.000Z",
-      "points": 410
+      "points": 411
     },
     {
       "objectID": "50358582",
@@ -95,7 +79,7 @@
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
       "publishedAt": "2026-11-06T20:27:23.000Z",
-      "points": 375
+      "points": 377
     },
     {
       "objectID": "50363554",
@@ -111,15 +95,7 @@
       "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "domain": "sergeykuhne.com",
       "publishedAt": "2026-11-08T19:37:42.000Z",
-      "points": 305
-    },
-    {
-      "objectID": "50355767",
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "domain": "ben.stolovitz.com",
-      "publishedAt": "2026-11-03T18:11:11.000Z",
-      "points": 262
+      "points": 308
     },
     {
       "objectID": "50388513",
@@ -130,12 +106,20 @@
       "points": 221
     },
     {
-      "objectID": "50352257",
-      "title": "Just a little AI resistance, as a treat",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-      "domain": "shkspr.mobi",
-      "publishedAt": "2026-11-03T14:14:12.000Z",
-      "points": 178
+      "objectID": "50438318",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "domain": "evanxmerz.com",
+      "publishedAt": "2026-11-10T10:25:58.000Z",
+      "points": 218
+    },
+    {
+      "objectID": "50435660",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "domain": "cnbc.com",
+      "publishedAt": "2026-11-10T03:20:06.000Z",
+      "points": 190
     },
     {
       "objectID": "50370654",
@@ -160,6 +144,22 @@
       "domain": "davidralphlewis.co.uk",
       "publishedAt": "2026-11-04T21:05:19.000Z",
       "points": 152
+    },
+    {
+      "objectID": "50437106",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "domain": "notion.com",
+      "publishedAt": "2026-11-10T07:19:38.000Z",
+      "points": 148
+    },
+    {
+      "objectID": "50433079",
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "domain": "reddit.com",
+      "publishedAt": "2026-11-09T22:19:12.000Z",
+      "points": 144
     }
   ]
 }
