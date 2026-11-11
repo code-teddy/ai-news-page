@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T19:41:08.377Z",
+  "fetchedAt": "2026-11-11T06:08:44.302Z",
   "stories": [
     {
       "objectID": "50364336",
@@ -15,7 +15,7 @@
       "url": "https://www.foldableflight.com",
       "domain": "foldableflight.com",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "points": 1169
+      "points": 1214
     },
     {
       "objectID": "50366117",
@@ -31,7 +31,7 @@
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "domain": "matteoraso.github.io",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "points": 560
+      "points": 566
     },
     {
       "objectID": "50385870",
@@ -50,12 +50,12 @@
       "points": 510
     },
     {
-      "objectID": "50358422",
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "domain": "asia.nikkei.com",
-      "publishedAt": "2026-11-03T21:26:44.000Z",
-      "points": 421
+      "objectID": "50438318",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "domain": "evanxmerz.com",
+      "publishedAt": "2026-11-10T10:25:58.000Z",
+      "points": 462
     },
     {
       "objectID": "50388001",
@@ -66,20 +66,12 @@
       "points": 411
     },
     {
-      "objectID": "50358582",
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "domain": "arxiv.org",
-      "publishedAt": "2026-11-03T21:40:53.000Z",
-      "points": 395
-    },
-    {
       "objectID": "50397994",
       "title": "AI is dramatically accelerating AI research",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
       "publishedAt": "2026-11-06T20:27:23.000Z",
-      "points": 377
+      "points": 378
     },
     {
       "objectID": "50363554",
@@ -95,7 +87,7 @@
       "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "domain": "sergeykuhne.com",
       "publishedAt": "2026-11-08T19:37:42.000Z",
-      "points": 308
+      "points": 311
     },
     {
       "objectID": "50388513",
@@ -106,20 +98,12 @@
       "points": 221
     },
     {
-      "objectID": "50438318",
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "domain": "evanxmerz.com",
-      "publishedAt": "2026-11-10T10:25:58.000Z",
-      "points": 218
-    },
-    {
       "objectID": "50435660",
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
       "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "domain": "cnbc.com",
       "publishedAt": "2026-11-10T03:20:06.000Z",
-      "points": 190
+      "points": 193
     },
     {
       "objectID": "50370654",
@@ -138,6 +122,22 @@
       "points": 163
     },
     {
+      "objectID": "50437106",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "domain": "notion.com",
+      "publishedAt": "2026-11-10T07:19:38.000Z",
+      "points": 161
+    },
+    {
+      "objectID": "50433079",
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "domain": "reddit.com",
+      "publishedAt": "2026-11-09T22:19:12.000Z",
+      "points": 153
+    },
+    {
       "objectID": "50371508",
       "title": "Everything is an AI scam now",
       "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
@@ -146,20 +146,20 @@
       "points": 152
     },
     {
-      "objectID": "50437106",
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "domain": "notion.com",
-      "publishedAt": "2026-11-10T07:19:38.000Z",
-      "points": 148
+      "objectID": "50392499",
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "domain": "cbc.ca",
+      "publishedAt": "2026-11-06T14:13:09.000Z",
+      "points": 137
     },
     {
-      "objectID": "50433079",
-      "title": "A year after the 100% AI mandate nobody understands our code",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-      "domain": "reddit.com",
-      "publishedAt": "2026-11-09T22:19:12.000Z",
-      "points": 144
+      "objectID": "50446520",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "domain": "9to5mac.com",
+      "publishedAt": "2026-11-10T21:25:03.000Z",
+      "points": 126
     }
   ]
 }
