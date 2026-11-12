@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T00:38:20.027Z",
+  "fetchedAt": "2026-11-12T15:07:48.863Z",
   "stories": [
     {
       "objectID": "50424581",
@@ -7,15 +7,15 @@
       "url": "https://www.foldableflight.com",
       "domain": "foldableflight.com",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "points": 1244
+      "points": 1258
     },
     {
       "objectID": "50452455",
-      "title": "My AI agents found an unmapped Maya site",
+      "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
       "domain": "pietromiotti.com",
       "publishedAt": "2026-11-11T12:05:22.000Z",
-      "points": 918
+      "points": 1019
     },
     {
       "objectID": "50438318",
@@ -23,7 +23,15 @@
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "domain": "evanxmerz.com",
       "publishedAt": "2026-11-10T10:25:58.000Z",
-      "points": 629
+      "points": 637
+    },
+    {
+      "objectID": "50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "domain": "cbsnews.com",
+      "publishedAt": "2026-11-11T21:24:35.000Z",
+      "points": 619
     },
     {
       "objectID": "50418975",
@@ -31,15 +39,7 @@
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "domain": "matteoraso.github.io",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "points": 570
-    },
-    {
-      "objectID": "50385870",
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "domain": "finance.yahoo.com",
-      "publishedAt": "2026-11-05T23:09:57.000Z",
-      "points": 523
+      "points": 573
     },
     {
       "objectID": "50446520",
@@ -47,7 +47,15 @@
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "domain": "9to5mac.com",
       "publishedAt": "2026-11-10T21:25:03.000Z",
-      "points": 515
+      "points": 544
+    },
+    {
+      "objectID": "50385870",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "domain": "finance.yahoo.com",
+      "publishedAt": "2026-11-05T23:09:57.000Z",
+      "points": 524
     },
     {
       "objectID": "50406563",
@@ -55,7 +63,7 @@
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "points": 511
+      "points": 513
     },
     {
       "objectID": "50388001",
@@ -82,14 +90,6 @@
       "points": 313
     },
     {
-      "objectID": "50458900",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "domain": "cbsnews.com",
-      "publishedAt": "2026-11-11T21:24:35.000Z",
-      "points": 310
-    },
-    {
       "objectID": "50388513",
       "title": "I struggle to believe that AI R&D is ingenious",
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
@@ -103,7 +103,7 @@
       "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "domain": "cnbc.com",
       "publishedAt": "2026-11-10T03:20:06.000Z",
-      "points": 194
+      "points": 195
     },
     {
       "objectID": "50437106",
@@ -122,12 +122,20 @@
       "points": 163
     },
     {
+      "objectID": "50457164",
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "domain": "lpeproject.org",
+      "publishedAt": "2026-11-11T19:06:43.000Z",
+      "points": 162
+    },
+    {
       "objectID": "50433079",
       "title": "A year after the 100% AI mandate nobody understands our code",
       "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
       "domain": "reddit.com",
       "publishedAt": "2026-11-09T22:19:12.000Z",
-      "points": 158
+      "points": 160
     },
     {
       "objectID": "50392499",
@@ -138,12 +146,12 @@
       "points": 137
     },
     {
-      "objectID": "50457164",
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "domain": "lpeproject.org",
-      "publishedAt": "2026-11-11T19:06:43.000Z",
-      "points": 132
+      "objectID": "50455332",
+      "title": "AI, activity, and outcomes in software engineering",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "domain": "cabird.com",
+      "publishedAt": "2026-11-11T16:33:28.000Z",
+      "points": 122
     },
     {
       "objectID": "50409856",
@@ -151,15 +159,7 @@
       "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
       "domain": "science.org",
       "publishedAt": "2026-11-08T02:02:38.000Z",
-      "points": 119
-    },
-    {
-      "objectID": "50413885",
-      "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
-      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
-      "domain": "taskandpurpose.com",
-      "publishedAt": "2026-11-08T15:00:42.000Z",
-      "points": 116
+      "points": 120
     }
   ]
 }
