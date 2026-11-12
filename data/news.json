@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T14:14:20.373Z",
+  "fetchedAt": "2026-11-12T00:38:20.027Z",
   "stories": [
     {
       "objectID": "50424581",
@@ -7,7 +7,15 @@
       "url": "https://www.foldableflight.com",
       "domain": "foldableflight.com",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "points": 1226
+      "points": 1244
+    },
+    {
+      "objectID": "50452455",
+      "title": "My AI agents found an unmapped Maya site",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "domain": "pietromiotti.com",
+      "publishedAt": "2026-11-11T12:05:22.000Z",
+      "points": 918
     },
     {
       "objectID": "50438318",
@@ -15,15 +23,7 @@
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "domain": "evanxmerz.com",
       "publishedAt": "2026-11-10T10:25:58.000Z",
-      "points": 606
-    },
-    {
-      "objectID": "50366117",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "domain": "news.ycombinator.com",
-      "publishedAt": "2026-11-04T14:37:22.000Z",
-      "points": 571
+      "points": 629
     },
     {
       "objectID": "50418975",
@@ -31,7 +31,7 @@
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "domain": "matteoraso.github.io",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "points": 569
+      "points": 570
     },
     {
       "objectID": "50385870",
@@ -42,12 +42,20 @@
       "points": 523
     },
     {
+      "objectID": "50446520",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "domain": "9to5mac.com",
+      "publishedAt": "2026-11-10T21:25:03.000Z",
+      "points": 515
+    },
+    {
       "objectID": "50406563",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "points": 510
+      "points": 511
     },
     {
       "objectID": "50388001",
@@ -55,7 +63,7 @@
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "domain": "reuters.com",
       "publishedAt": "2026-11-06T04:00:28.000Z",
-      "points": 411
+      "points": 412
     },
     {
       "objectID": "50397994",
@@ -63,15 +71,7 @@
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
       "publishedAt": "2026-11-06T20:27:23.000Z",
-      "points": 379
-    },
-    {
-      "objectID": "50446520",
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "domain": "9to5mac.com",
-      "publishedAt": "2026-11-10T21:25:03.000Z",
-      "points": 366
+      "points": 380
     },
     {
       "objectID": "50416363",
@@ -82,12 +82,12 @@
       "points": 313
     },
     {
-      "objectID": "50452455",
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "url": "https://pietromiotti.com/latest/maya-site/?maya",
-      "domain": "pietromiotti.com",
-      "publishedAt": "2026-11-11T12:05:22.000Z",
-      "points": 281
+      "objectID": "50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "domain": "cbsnews.com",
+      "publishedAt": "2026-11-11T21:24:35.000Z",
+      "points": 310
     },
     {
       "objectID": "50388513",
@@ -104,14 +104,6 @@
       "domain": "cnbc.com",
       "publishedAt": "2026-11-10T03:20:06.000Z",
       "points": 194
-    },
-    {
-      "objectID": "50370654",
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "domain": "qualcomm.com",
-      "publishedAt": "2026-11-04T19:55:14.000Z",
-      "points": 170
     },
     {
       "objectID": "50437106",
@@ -138,14 +130,6 @@
       "points": 158
     },
     {
-      "objectID": "50371508",
-      "title": "Everything is an AI scam now",
-      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-      "domain": "davidralphlewis.co.uk",
-      "publishedAt": "2026-11-04T21:05:19.000Z",
-      "points": 152
-    },
-    {
       "objectID": "50392499",
       "title": "University libraries are being swarmed by AI bots, putting public access at risk",
       "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
@@ -154,12 +138,28 @@
       "points": 137
     },
     {
+      "objectID": "50457164",
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "domain": "lpeproject.org",
+      "publishedAt": "2026-11-11T19:06:43.000Z",
+      "points": 132
+    },
+    {
       "objectID": "50409856",
       "title": "Wearable device makers are using brain data to train AI without telling users",
       "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
       "domain": "science.org",
       "publishedAt": "2026-11-08T02:02:38.000Z",
       "points": 119
+    },
+    {
+      "objectID": "50413885",
+      "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "domain": "taskandpurpose.com",
+      "publishedAt": "2026-11-08T15:00:42.000Z",
+      "points": 116
     }
   ]
 }
