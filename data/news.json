@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T19:38:08.955Z",
+  "fetchedAt": "2026-11-14T06:15:37.558Z",
   "stories": [
     {
       "objectID": "50424581",
@@ -7,7 +7,7 @@
       "url": "https://www.foldableflight.com",
       "domain": "foldableflight.com",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "points": 1273
+      "points": 1277
     },
     {
       "objectID": "50452455",
@@ -15,7 +15,15 @@
       "url": "https://pietromiotti.com/latest/maya-site",
       "domain": "pietromiotti.com",
       "publishedAt": "2026-11-11T12:05:22.000Z",
-      "points": 1033
+      "points": 1035
+    },
+    {
+      "objectID": "50474959",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "domain": "scottjg.com",
+      "publishedAt": "2026-11-12T22:03:09.000Z",
+      "points": 727
     },
     {
       "objectID": "50458900",
@@ -23,7 +31,7 @@
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "domain": "cbsnews.com",
       "publishedAt": "2026-11-11T21:24:35.000Z",
-      "points": 676
+      "points": 677
     },
     {
       "objectID": "50438318",
@@ -39,7 +47,7 @@
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "domain": "matteoraso.github.io",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "points": 574
+      "points": 577
     },
     {
       "objectID": "50446520",
@@ -47,15 +55,7 @@
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "domain": "9to5mac.com",
       "publishedAt": "2026-11-10T21:25:03.000Z",
-      "points": 561
-    },
-    {
-      "objectID": "50474959",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "domain": "scottjg.com",
-      "publishedAt": "2026-11-12T22:03:09.000Z",
-      "points": 550
+      "points": 566
     },
     {
       "objectID": "50406563",
@@ -63,7 +63,7 @@
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "points": 513
+      "points": 514
     },
     {
       "objectID": "50481187",
@@ -71,15 +71,15 @@
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "domain": "status.claude.com",
       "publishedAt": "2026-11-13T10:18:13.000Z",
-      "points": 460
+      "points": 488
     },
     {
-      "objectID": "50397994",
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "domain": "planned-obsolescence.org",
-      "publishedAt": "2026-11-06T20:27:23.000Z",
-      "points": 382
+      "objectID": "50486748",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "domain": "theguardian.com",
+      "publishedAt": "2026-11-13T17:30:10.000Z",
+      "points": 367
     },
     {
       "objectID": "50474883",
@@ -87,7 +87,7 @@
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
       "publishedAt": "2026-11-12T21:56:11.000Z",
-      "points": 349
+      "points": 357
     },
     {
       "objectID": "50475713",
@@ -95,15 +95,7 @@
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
       "publishedAt": "2026-11-12T23:06:17.000Z",
-      "points": 328
-    },
-    {
-      "objectID": "50416363",
-      "title": "How I'm fighting the AI brain fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "domain": "sergeykuhne.com",
-      "publishedAt": "2026-11-08T19:37:42.000Z",
-      "points": 314
+      "points": 344
     },
     {
       "objectID": "50481870",
@@ -111,7 +103,47 @@
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
       "domain": "theatlantic.com",
       "publishedAt": "2026-11-13T11:13:46.000Z",
-      "points": 260
+      "points": 329
+    },
+    {
+      "objectID": "50416363",
+      "title": "How I'm fighting the AI brain fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "domain": "sergeykuhne.com",
+      "publishedAt": "2026-11-08T19:37:42.000Z",
+      "points": 315
+    },
+    {
+      "objectID": "50493251",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "domain": "techpowerup.com",
+      "publishedAt": "2026-11-14T02:52:59.000Z",
+      "points": 274
+    },
+    {
+      "objectID": "50490593",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "domain": "orcasairband.com",
+      "publishedAt": "2026-11-13T22:04:24.000Z",
+      "points": 246
+    },
+    {
+      "objectID": "50484658",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "domain": "youtube.com",
+      "publishedAt": "2026-11-13T15:08:44.000Z",
+      "points": 209
+    },
+    {
+      "objectID": "50474311",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "domain": "synthanatomy.com",
+      "publishedAt": "2026-11-12T21:09:49.000Z",
+      "points": 197
     },
     {
       "objectID": "50435660",
@@ -122,44 +154,12 @@
       "points": 196
     },
     {
-      "objectID": "50474311",
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "domain": "synthanatomy.com",
-      "publishedAt": "2026-11-12T21:09:49.000Z",
-      "points": 194
-    },
-    {
-      "objectID": "50486748",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "domain": "theguardian.com",
-      "publishedAt": "2026-11-13T17:30:10.000Z",
-      "points": 178
-    },
-    {
-      "objectID": "50437106",
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "domain": "notion.com",
-      "publishedAt": "2026-11-10T07:19:38.000Z",
-      "points": 166
-    },
-    {
-      "objectID": "50457164",
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "domain": "lpeproject.org",
-      "publishedAt": "2026-11-11T19:06:43.000Z",
-      "points": 165
-    },
-    {
-      "objectID": "50433079",
-      "title": "A year after the 100% AI mandate nobody understands our code",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-      "domain": "reddit.com",
-      "publishedAt": "2026-11-09T22:19:12.000Z",
-      "points": 162
+      "objectID": "50489652",
+      "title": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "domain": "twitter.com",
+      "publishedAt": "2026-11-13T21:06:52.000Z",
+      "points": 195
     }
   ]
 }
