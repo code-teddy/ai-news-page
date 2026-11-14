@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T13:33:13.116Z",
+  "fetchedAt": "2026-11-14T22:20:00.338Z",
   "stories": [
     {
       "objectID": "50424581",
@@ -7,7 +7,7 @@
       "url": "https://www.foldableflight.com",
       "domain": "foldableflight.com",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "points": 1281
+      "points": 1284
     },
     {
       "objectID": "50452455",
@@ -18,20 +18,20 @@
       "points": 1035
     },
     {
-      "objectID": "50474959",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "domain": "scottjg.com",
-      "publishedAt": "2026-11-12T22:03:09.000Z",
-      "points": 766
-    },
-    {
       "objectID": "50493251",
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "domain": "techpowerup.com",
       "publishedAt": "2026-11-14T02:52:59.000Z",
-      "points": 753
+      "points": 1008
+    },
+    {
+      "objectID": "50474959",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "domain": "scottjg.com",
+      "publishedAt": "2026-11-12T22:03:09.000Z",
+      "points": 782
     },
     {
       "objectID": "50458900",
@@ -39,7 +39,7 @@
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "domain": "cbsnews.com",
       "publishedAt": "2026-11-11T21:24:35.000Z",
-      "points": 677
+      "points": 680
     },
     {
       "objectID": "50438318",
@@ -55,7 +55,7 @@
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "domain": "matteoraso.github.io",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "points": 577
+      "points": 578
     },
     {
       "objectID": "50446520",
@@ -63,15 +63,7 @@
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "domain": "9to5mac.com",
       "publishedAt": "2026-11-10T21:25:03.000Z",
-      "points": 567
-    },
-    {
-      "objectID": "50406563",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "domain": "hunch.net",
-      "publishedAt": "2026-11-07T18:02:17.000Z",
-      "points": 515
+      "points": 569
     },
     {
       "objectID": "50481187",
@@ -79,23 +71,7 @@
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "domain": "status.claude.com",
       "publishedAt": "2026-11-13T10:18:13.000Z",
-      "points": 489
-    },
-    {
-      "objectID": "50486748",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "domain": "theguardian.com",
-      "publishedAt": "2026-11-13T17:30:10.000Z",
-      "points": 399
-    },
-    {
-      "objectID": "50474883",
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "domain": "unemploymentlabs.com",
-      "publishedAt": "2026-11-12T21:56:11.000Z",
-      "points": 365
+      "points": 493
     },
     {
       "objectID": "50484658",
@@ -103,7 +79,23 @@
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "domain": "youtube.com",
       "publishedAt": "2026-11-13T15:08:44.000Z",
-      "points": 358
+      "points": 451
+    },
+    {
+      "objectID": "50486748",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "domain": "theguardian.com",
+      "publishedAt": "2026-11-13T17:30:10.000Z",
+      "points": 420
+    },
+    {
+      "objectID": "50474883",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "domain": "unemploymentlabs.com",
+      "publishedAt": "2026-11-12T21:56:11.000Z",
+      "points": 371
     },
     {
       "objectID": "50481870",
@@ -111,7 +103,7 @@
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
       "domain": "theatlantic.com",
       "publishedAt": "2026-11-13T11:13:46.000Z",
-      "points": 348
+      "points": 363
     },
     {
       "objectID": "50475713",
@@ -119,7 +111,7 @@
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
       "publishedAt": "2026-11-12T23:06:17.000Z",
-      "points": 345
+      "points": 351
     },
     {
       "objectID": "50416363",
@@ -135,15 +127,7 @@
       "url": "https://orcasairband.com/",
       "domain": "orcasairband.com",
       "publishedAt": "2026-11-13T22:04:24.000Z",
-      "points": 278
-    },
-    {
-      "objectID": "50489652",
-      "title": "All US airports are currently ground stopped",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "domain": "twitter.com",
-      "publishedAt": "2026-11-13T21:06:52.000Z",
-      "points": 204
+      "points": 291
     },
     {
       "objectID": "50488769",
@@ -151,7 +135,15 @@
       "url": "https://www.slopmanifesto.com/",
       "domain": "slopmanifesto.com",
       "publishedAt": "2026-11-13T19:51:56.000Z",
-      "points": 203
+      "points": 216
+    },
+    {
+      "objectID": "50489652",
+      "title": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "domain": "twitter.com",
+      "publishedAt": "2026-11-13T21:06:52.000Z",
+      "points": 210
     },
     {
       "objectID": "50474311",
@@ -160,6 +152,14 @@
       "domain": "synthanatomy.com",
       "publishedAt": "2026-11-12T21:09:49.000Z",
       "points": 197
+    },
+    {
+      "objectID": "50435660",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "domain": "cnbc.com",
+      "publishedAt": "2026-11-10T03:20:06.000Z",
+      "points": 196
     }
   ]
 }
