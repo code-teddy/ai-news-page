@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T06:23:17.379Z",
+  "fetchedAt": "2026-11-15T18:47:53.506Z",
   "stories": [
     {
       "objectID": "50424581",
@@ -7,7 +7,7 @@
       "url": "https://www.foldableflight.com",
       "domain": "foldableflight.com",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "points": 1284
+      "points": 1287
     },
     {
       "objectID": "50493251",
@@ -15,7 +15,7 @@
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "domain": "techpowerup.com",
       "publishedAt": "2026-11-14T02:52:59.000Z",
-      "points": 1062
+      "points": 1089
     },
     {
       "objectID": "50452455",
@@ -23,7 +23,7 @@
       "url": "https://pietromiotti.com/latest/maya-site",
       "domain": "pietromiotti.com",
       "publishedAt": "2026-11-11T12:05:22.000Z",
-      "points": 1035
+      "points": 1036
     },
     {
       "objectID": "50474959",
@@ -31,7 +31,7 @@
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "domain": "scottjg.com",
       "publishedAt": "2026-11-12T22:03:09.000Z",
-      "points": 787
+      "points": 792
     },
     {
       "objectID": "50458900",
@@ -39,7 +39,15 @@
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "domain": "cbsnews.com",
       "publishedAt": "2026-11-11T21:24:35.000Z",
-      "points": 680
+      "points": 681
+    },
+    {
+      "objectID": "50507303",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "domain": "jakub.jankiewicz.org",
+      "publishedAt": "2026-11-15T14:46:58.000Z",
+      "points": 676
     },
     {
       "objectID": "50438318",
@@ -47,7 +55,7 @@
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "domain": "evanxmerz.com",
       "publishedAt": "2026-11-10T10:25:58.000Z",
-      "points": 643
+      "points": 645
     },
     {
       "objectID": "50418975",
@@ -55,7 +63,7 @@
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "domain": "matteoraso.github.io",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "points": 578
+      "points": 579
     },
     {
       "objectID": "50446520",
@@ -63,7 +71,7 @@
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "domain": "9to5mac.com",
       "publishedAt": "2026-11-10T21:25:03.000Z",
-      "points": 570
+      "points": 572
     },
     {
       "objectID": "50481187",
@@ -79,7 +87,7 @@
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "domain": "youtube.com",
       "publishedAt": "2026-11-13T15:08:44.000Z",
-      "points": 468
+      "points": 477
     },
     {
       "objectID": "50486748",
@@ -87,7 +95,7 @@
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-13T17:30:10.000Z",
-      "points": 427
+      "points": 434
     },
     {
       "objectID": "50474883",
@@ -95,7 +103,7 @@
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
       "publishedAt": "2026-11-12T21:56:11.000Z",
-      "points": 395
+      "points": 417
     },
     {
       "objectID": "50481870",
@@ -103,7 +111,7 @@
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
       "domain": "theatlantic.com",
       "publishedAt": "2026-11-13T11:13:46.000Z",
-      "points": 366
+      "points": 369
     },
     {
       "objectID": "50475713",
@@ -111,7 +119,7 @@
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
       "publishedAt": "2026-11-12T23:06:17.000Z",
-      "points": 353
+      "points": 355
     },
     {
       "objectID": "50416363",
@@ -127,31 +135,7 @@
       "url": "https://orcasairband.com/",
       "domain": "orcasairband.com",
       "publishedAt": "2026-11-13T22:04:24.000Z",
-      "points": 292
-    },
-    {
-      "objectID": "50488769",
-      "title": "No AI Slop: A Manifesto",
-      "url": "https://www.slopmanifesto.com/",
-      "domain": "slopmanifesto.com",
-      "publishedAt": "2026-11-13T19:51:56.000Z",
-      "points": 218
-    },
-    {
-      "objectID": "50489652",
-      "title": "All US airports are currently ground stopped",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "domain": "twitter.com",
-      "publishedAt": "2026-11-13T21:06:52.000Z",
-      "points": 211
-    },
-    {
-      "objectID": "50474311",
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "domain": "synthanatomy.com",
-      "publishedAt": "2026-11-12T21:09:49.000Z",
-      "points": 197
+      "points": 293
     },
     {
       "objectID": "50441444",
@@ -159,7 +143,23 @@
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
       "domain": "news.umich.edu",
       "publishedAt": "2026-11-10T15:07:28.000Z",
-      "points": 197
+      "points": 230
+    },
+    {
+      "objectID": "50488769",
+      "title": "No AI Slop: A Manifesto",
+      "url": "https://www.slopmanifesto.com/",
+      "domain": "slopmanifesto.com",
+      "publishedAt": "2026-11-13T19:51:56.000Z",
+      "points": 221
+    },
+    {
+      "objectID": "50489652",
+      "title": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "domain": "twitter.com",
+      "publishedAt": "2026-11-13T21:06:52.000Z",
+      "points": 213
     }
   ]
 }
