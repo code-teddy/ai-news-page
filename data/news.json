@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T22:20:00.338Z",
+  "fetchedAt": "2026-11-15T06:23:17.379Z",
   "stories": [
     {
       "objectID": "50424581",
@@ -10,6 +10,14 @@
       "points": 1284
     },
     {
+      "objectID": "50493251",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "domain": "techpowerup.com",
+      "publishedAt": "2026-11-14T02:52:59.000Z",
+      "points": 1062
+    },
+    {
       "objectID": "50452455",
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
@@ -18,20 +26,12 @@
       "points": 1035
     },
     {
-      "objectID": "50493251",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "domain": "techpowerup.com",
-      "publishedAt": "2026-11-14T02:52:59.000Z",
-      "points": 1008
-    },
-    {
       "objectID": "50474959",
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "domain": "scottjg.com",
       "publishedAt": "2026-11-12T22:03:09.000Z",
-      "points": 782
+      "points": 787
     },
     {
       "objectID": "50458900",
@@ -47,7 +47,7 @@
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "domain": "evanxmerz.com",
       "publishedAt": "2026-11-10T10:25:58.000Z",
-      "points": 642
+      "points": 643
     },
     {
       "objectID": "50418975",
@@ -63,7 +63,7 @@
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "domain": "9to5mac.com",
       "publishedAt": "2026-11-10T21:25:03.000Z",
-      "points": 569
+      "points": 570
     },
     {
       "objectID": "50481187",
@@ -79,7 +79,7 @@
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "domain": "youtube.com",
       "publishedAt": "2026-11-13T15:08:44.000Z",
-      "points": 451
+      "points": 468
     },
     {
       "objectID": "50486748",
@@ -87,7 +87,7 @@
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-13T17:30:10.000Z",
-      "points": 420
+      "points": 427
     },
     {
       "objectID": "50474883",
@@ -95,7 +95,7 @@
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
       "publishedAt": "2026-11-12T21:56:11.000Z",
-      "points": 371
+      "points": 395
     },
     {
       "objectID": "50481870",
@@ -103,7 +103,7 @@
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
       "domain": "theatlantic.com",
       "publishedAt": "2026-11-13T11:13:46.000Z",
-      "points": 363
+      "points": 366
     },
     {
       "objectID": "50475713",
@@ -111,7 +111,7 @@
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
       "publishedAt": "2026-11-12T23:06:17.000Z",
-      "points": 351
+      "points": 353
     },
     {
       "objectID": "50416363",
@@ -119,7 +119,7 @@
       "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "domain": "sergeykuhne.com",
       "publishedAt": "2026-11-08T19:37:42.000Z",
-      "points": 315
+      "points": 316
     },
     {
       "objectID": "50490593",
@@ -127,7 +127,7 @@
       "url": "https://orcasairband.com/",
       "domain": "orcasairband.com",
       "publishedAt": "2026-11-13T22:04:24.000Z",
-      "points": 291
+      "points": 292
     },
     {
       "objectID": "50488769",
@@ -135,7 +135,7 @@
       "url": "https://www.slopmanifesto.com/",
       "domain": "slopmanifesto.com",
       "publishedAt": "2026-11-13T19:51:56.000Z",
-      "points": 216
+      "points": 218
     },
     {
       "objectID": "50489652",
@@ -143,7 +143,7 @@
       "url": "https://twitter.com/flightradar24/status/2121347654714077605",
       "domain": "twitter.com",
       "publishedAt": "2026-11-13T21:06:52.000Z",
-      "points": 210
+      "points": 211
     },
     {
       "objectID": "50474311",
@@ -154,12 +154,12 @@
       "points": 197
     },
     {
-      "objectID": "50435660",
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "domain": "cnbc.com",
-      "publishedAt": "2026-11-10T03:20:06.000Z",
-      "points": 196
+      "objectID": "50441444",
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "domain": "news.umich.edu",
+      "publishedAt": "2026-11-10T15:07:28.000Z",
+      "points": 197
     }
   ]
 }
