@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T18:47:53.506Z",
+  "fetchedAt": "2026-11-16T06:21:43.771Z",
   "stories": [
     {
       "objectID": "50424581",
@@ -7,7 +7,15 @@
       "url": "https://www.foldableflight.com",
       "domain": "foldableflight.com",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "points": 1287
+      "points": 1291
+    },
+    {
+      "objectID": "50507303",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "domain": "jakub.jankiewicz.org",
+      "publishedAt": "2026-11-15T14:46:58.000Z",
+      "points": 1129
     },
     {
       "objectID": "50493251",
@@ -15,7 +23,7 @@
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "domain": "techpowerup.com",
       "publishedAt": "2026-11-14T02:52:59.000Z",
-      "points": 1089
+      "points": 1102
     },
     {
       "objectID": "50452455",
@@ -31,7 +39,7 @@
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "domain": "scottjg.com",
       "publishedAt": "2026-11-12T22:03:09.000Z",
-      "points": 792
+      "points": 794
     },
     {
       "objectID": "50458900",
@@ -42,14 +50,6 @@
       "points": 681
     },
     {
-      "objectID": "50507303",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "domain": "jakub.jankiewicz.org",
-      "publishedAt": "2026-11-15T14:46:58.000Z",
-      "points": 676
-    },
-    {
       "objectID": "50438318",
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
@@ -58,20 +58,12 @@
       "points": 645
     },
     {
-      "objectID": "50418975",
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "domain": "matteoraso.github.io",
-      "publishedAt": "2026-11-08T23:44:36.000Z",
-      "points": 579
-    },
-    {
       "objectID": "50446520",
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "domain": "9to5mac.com",
       "publishedAt": "2026-11-10T21:25:03.000Z",
-      "points": 572
+      "points": 575
     },
     {
       "objectID": "50481187",
@@ -87,15 +79,7 @@
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "domain": "youtube.com",
       "publishedAt": "2026-11-13T15:08:44.000Z",
-      "points": 477
-    },
-    {
-      "objectID": "50486748",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "domain": "theguardian.com",
-      "publishedAt": "2026-11-13T17:30:10.000Z",
-      "points": 434
+      "points": 483
     },
     {
       "objectID": "50474883",
@@ -103,7 +87,15 @@
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
       "publishedAt": "2026-11-12T21:56:11.000Z",
-      "points": 417
+      "points": 438
+    },
+    {
+      "objectID": "50486748",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "domain": "theguardian.com",
+      "publishedAt": "2026-11-13T17:30:10.000Z",
+      "points": 438
     },
     {
       "objectID": "50481870",
@@ -111,7 +103,7 @@
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
       "domain": "theatlantic.com",
       "publishedAt": "2026-11-13T11:13:46.000Z",
-      "points": 369
+      "points": 370
     },
     {
       "objectID": "50475713",
@@ -119,15 +111,7 @@
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
       "publishedAt": "2026-11-12T23:06:17.000Z",
-      "points": 355
-    },
-    {
-      "objectID": "50416363",
-      "title": "How I'm fighting the AI brain fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "domain": "sergeykuhne.com",
-      "publishedAt": "2026-11-08T19:37:42.000Z",
-      "points": 316
+      "points": 356
     },
     {
       "objectID": "50490593",
@@ -143,7 +127,7 @@
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
       "domain": "news.umich.edu",
       "publishedAt": "2026-11-10T15:07:28.000Z",
-      "points": 230
+      "points": 231
     },
     {
       "objectID": "50488769",
@@ -151,7 +135,7 @@
       "url": "https://www.slopmanifesto.com/",
       "domain": "slopmanifesto.com",
       "publishedAt": "2026-11-13T19:51:56.000Z",
-      "points": 221
+      "points": 223
     },
     {
       "objectID": "50489652",
@@ -160,6 +144,22 @@
       "domain": "twitter.com",
       "publishedAt": "2026-11-13T21:06:52.000Z",
       "points": 213
+    },
+    {
+      "objectID": "50474311",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "domain": "synthanatomy.com",
+      "publishedAt": "2026-11-12T21:09:49.000Z",
+      "points": 199
+    },
+    {
+      "objectID": "50484960",
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "domain": "text.npr.org",
+      "publishedAt": "2026-11-13T15:29:10.000Z",
+      "points": 196
     }
   ]
 }
