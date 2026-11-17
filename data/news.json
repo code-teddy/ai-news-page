@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T21:58:05.310Z",
+  "fetchedAt": "2026-11-17T07:50:33.957Z",
   "stories": [
     {
       "objectID": "50507303",
@@ -7,7 +7,7 @@
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
       "domain": "jakub.jankiewicz.org",
       "publishedAt": "2026-11-15T14:46:58.000Z",
-      "points": 1243
+      "points": 1270
     },
     {
       "objectID": "50493251",
@@ -15,7 +15,7 @@
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "domain": "techpowerup.com",
       "publishedAt": "2026-11-14T02:52:59.000Z",
-      "points": 1111
+      "points": 1112
     },
     {
       "objectID": "50452455",
@@ -31,7 +31,7 @@
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "domain": "scottjg.com",
       "publishedAt": "2026-11-12T22:03:09.000Z",
-      "points": 798
+      "points": 799
     },
     {
       "objectID": "50458900",
@@ -39,7 +39,7 @@
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "domain": "cbsnews.com",
       "publishedAt": "2026-11-11T21:24:35.000Z",
-      "points": 681
+      "points": 682
     },
     {
       "objectID": "50438318",
@@ -79,7 +79,7 @@
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
       "publishedAt": "2026-11-12T21:56:11.000Z",
-      "points": 448
+      "points": 450
     },
     {
       "objectID": "50486748",
@@ -87,7 +87,7 @@
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-13T17:30:10.000Z",
-      "points": 442
+      "points": 443
     },
     {
       "objectID": "50481870",
@@ -114,6 +114,14 @@
       "points": 293
     },
     {
+      "objectID": "50524165",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "domain": "cnn.com",
+      "publishedAt": "2026-11-16T22:14:38.000Z",
+      "points": 234
+    },
+    {
       "objectID": "50441444",
       "title": "Generative AI uses more energy on non-English text",
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
@@ -127,7 +135,7 @@
       "url": "https://www.slopmanifesto.com/",
       "domain": "slopmanifesto.com",
       "publishedAt": "2026-11-13T19:51:56.000Z",
-      "points": 227
+      "points": 228
     },
     {
       "objectID": "50489652",
@@ -152,14 +160,6 @@
       "domain": "text.npr.org",
       "publishedAt": "2026-11-13T15:29:10.000Z",
       "points": 197
-    },
-    {
-      "objectID": "50435660",
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "domain": "cnbc.com",
-      "publishedAt": "2026-11-10T03:20:06.000Z",
-      "points": 196
     }
   ]
 }
