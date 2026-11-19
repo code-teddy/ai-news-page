@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19T07:19:29.834Z",
+  "fetchedAt": "2026-11-19T20:30:36.405Z",
   "stories": [
     {
       "objectID": "50507303",
@@ -7,7 +7,7 @@
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
       "domain": "jakub.jankiewicz.org",
       "publishedAt": "2026-11-15T14:46:58.000Z",
-      "points": 1281
+      "points": 1285
     },
     {
       "objectID": "50493251",
@@ -31,7 +31,7 @@
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
       "publishedAt": "2026-11-18T06:47:26.000Z",
-      "points": 776
+      "points": 801
     },
     {
       "objectID": "50540178",
@@ -39,7 +39,7 @@
       "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "domain": "revscope.co",
       "publishedAt": "2026-11-18T00:17:58.000Z",
-      "points": 697
+      "points": 708
     },
     {
       "objectID": "50484658",
@@ -58,12 +58,20 @@
       "points": 494
     },
     {
+      "objectID": "50547777",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "domain": "europeanbusinessmagazine.com",
+      "publishedAt": "2026-11-18T15:49:34.000Z",
+      "points": 478
+    },
+    {
       "objectID": "50474883",
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
       "publishedAt": "2026-11-12T21:56:11.000Z",
-      "points": 453
+      "points": 454
     },
     {
       "objectID": "50486748",
@@ -72,14 +80,6 @@
       "domain": "theguardian.com",
       "publishedAt": "2026-11-13T17:30:10.000Z",
       "points": 445
-    },
-    {
-      "objectID": "50547777",
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "domain": "europeanbusinessmagazine.com",
-      "publishedAt": "2026-11-18T15:49:34.000Z",
-      "points": 441
     },
     {
       "objectID": "50481870",
@@ -95,7 +95,7 @@
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
       "publishedAt": "2026-11-12T23:06:17.000Z",
-      "points": 357
+      "points": 358
     },
     {
       "objectID": "50538303",
@@ -103,7 +103,7 @@
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
       "domain": "complexdiscovery.com",
       "publishedAt": "2026-11-17T21:16:12.000Z",
-      "points": 320
+      "points": 322
     },
     {
       "objectID": "50490593",
@@ -112,6 +112,14 @@
       "domain": "orcasairband.com",
       "publishedAt": "2026-11-13T22:04:24.000Z",
       "points": 293
+    },
+    {
+      "objectID": "50562262",
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "domain": "ounapuu.ee",
+      "publishedAt": "2026-11-19T16:30:18.000Z",
+      "points": 276
     },
     {
       "objectID": "50524165",
@@ -135,7 +143,7 @@
       "url": "https://twitter.com/flightradar24/status/2121347654714077605",
       "domain": "twitter.com",
       "publishedAt": "2026-11-13T21:06:52.000Z",
-      "points": 213
+      "points": 214
     },
     {
       "objectID": "50474311",
@@ -152,14 +160,6 @@
       "domain": "text.npr.org",
       "publishedAt": "2026-11-13T15:29:10.000Z",
       "points": 198
-    },
-    {
-      "objectID": "50531751",
-      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-      "domain": "scmp.com",
-      "publishedAt": "2026-11-17T14:19:59.000Z",
-      "points": 191
     }
   ]
 }
