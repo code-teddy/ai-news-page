@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19T20:30:36.405Z",
+  "fetchedAt": "2026-11-20T07:08:20.673Z",
   "stories": [
     {
       "objectID": "50507303",
@@ -18,20 +18,12 @@
       "points": 1114
     },
     {
-      "objectID": "50474959",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "domain": "scottjg.com",
-      "publishedAt": "2026-11-12T22:03:09.000Z",
-      "points": 804
-    },
-    {
       "objectID": "50542705",
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
       "publishedAt": "2026-11-18T06:47:26.000Z",
-      "points": 801
+      "points": 806
     },
     {
       "objectID": "50540178",
@@ -39,7 +31,15 @@
       "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "domain": "revscope.co",
       "publishedAt": "2026-11-18T00:17:58.000Z",
-      "points": 708
+      "points": 709
+    },
+    {
+      "objectID": "50562262",
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "domain": "ounapuu.ee",
+      "publishedAt": "2026-11-19T16:30:18.000Z",
+      "points": 526
     },
     {
       "objectID": "50484658",
@@ -63,15 +63,7 @@
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "domain": "europeanbusinessmagazine.com",
       "publishedAt": "2026-11-18T15:49:34.000Z",
-      "points": 478
-    },
-    {
-      "objectID": "50474883",
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "domain": "unemploymentlabs.com",
-      "publishedAt": "2026-11-12T21:56:11.000Z",
-      "points": 454
+      "points": 489
     },
     {
       "objectID": "50486748",
@@ -90,20 +82,12 @@
       "points": 373
     },
     {
-      "objectID": "50475713",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "domain": "edge0.ai",
-      "publishedAt": "2026-11-12T23:06:17.000Z",
-      "points": 358
-    },
-    {
       "objectID": "50538303",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
       "domain": "complexdiscovery.com",
       "publishedAt": "2026-11-17T21:16:12.000Z",
-      "points": 322
+      "points": 325
     },
     {
       "objectID": "50490593",
@@ -112,14 +96,6 @@
       "domain": "orcasairband.com",
       "publishedAt": "2026-11-13T22:04:24.000Z",
       "points": 293
-    },
-    {
-      "objectID": "50562262",
-      "title": "Fuck Your AI Safeguards",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "domain": "ounapuu.ee",
-      "publishedAt": "2026-11-19T16:30:18.000Z",
-      "points": 276
     },
     {
       "objectID": "50524165",
@@ -138,6 +114,14 @@
       "points": 230
     },
     {
+      "objectID": "50561508",
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "domain": "thedataexchange.media",
+      "publishedAt": "2026-11-19T15:38:12.000Z",
+      "points": 226
+    },
+    {
       "objectID": "50489652",
       "title": "All US airports are currently ground stopped",
       "url": "https://twitter.com/flightradar24/status/2121347654714077605",
@@ -146,20 +130,36 @@
       "points": 214
     },
     {
-      "objectID": "50474311",
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "domain": "synthanatomy.com",
-      "publishedAt": "2026-11-12T21:09:49.000Z",
-      "points": 199
-    },
-    {
       "objectID": "50484960",
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
       "url": "https://text.npr.org/nx-s1-6029408",
       "domain": "text.npr.org",
       "publishedAt": "2026-11-13T15:29:10.000Z",
       "points": 198
+    },
+    {
+      "objectID": "50531751",
+      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+      "domain": "scmp.com",
+      "publishedAt": "2026-11-17T14:19:59.000Z",
+      "points": 191
+    },
+    {
+      "objectID": "50548485",
+      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "domain": "businesswire.com",
+      "publishedAt": "2026-11-18T16:41:22.000Z",
+      "points": 146
+    },
+    {
+      "objectID": "50562500",
+      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+      "domain": "restofworld.org",
+      "publishedAt": "2026-11-19T16:45:50.000Z",
+      "points": 133
     }
   ]
 }
