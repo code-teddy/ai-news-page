@@ -1,21 +1,13 @@
 {
-  "fetchedAt": "2026-11-22T06:41:03.512Z",
+  "fetchedAt": "2026-11-22T19:33:00.020Z",
   "stories": [
-    {
-      "objectID": "50507303",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "domain": "jakub.jankiewicz.org",
-      "publishedAt": "2026-11-15T14:46:58.000Z",
-      "points": 1288
-    },
     {
       "objectID": "50542705",
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
       "publishedAt": "2026-11-18T06:47:26.000Z",
-      "points": 816
+      "points": 820
     },
     {
       "objectID": "50540178",
@@ -23,7 +15,7 @@
       "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "domain": "revscope.co",
       "publishedAt": "2026-11-18T00:17:58.000Z",
-      "points": 712
+      "points": 713
     },
     {
       "objectID": "50572503",
@@ -31,7 +23,7 @@
       "url": "https://architectlabs.com/blog/frostbite",
       "domain": "architectlabs.com",
       "publishedAt": "2026-11-20T10:01:41.000Z",
-      "points": 670
+      "points": 675
     },
     {
       "objectID": "50562262",
@@ -47,7 +39,7 @@
       "url": "https://signal.org/blog/protecting-your-privacy/",
       "domain": "signal.org",
       "publishedAt": "2026-11-20T09:42:16.000Z",
-      "points": 573
+      "points": 577
     },
     {
       "objectID": "50574383",
@@ -55,7 +47,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-20T13:29:59.000Z",
-      "points": 509
+      "points": 525
     },
     {
       "objectID": "50547777",
@@ -71,7 +63,7 @@
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
       "domain": "complexdiscovery.com",
       "publishedAt": "2026-11-17T21:16:12.000Z",
-      "points": 328
+      "points": 331
     },
     {
       "objectID": "50577901",
@@ -79,7 +71,7 @@
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
       "domain": "motherjones.com",
       "publishedAt": "2026-11-20T16:59:27.000Z",
-      "points": 281
+      "points": 283
     },
     {
       "objectID": "50561508",
@@ -111,7 +103,15 @@
       "url": "http://ricapar.net/ClawDOS/",
       "domain": "ricapar.net",
       "publishedAt": "2026-11-21T05:38:01.000Z",
-      "points": 162
+      "points": 170
+    },
+    {
+      "objectID": "50548485",
+      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "domain": "businesswire.com",
+      "publishedAt": "2026-11-18T16:41:22.000Z",
+      "points": 149
     },
     {
       "objectID": "50562500",
@@ -122,12 +122,20 @@
       "points": 148
     },
     {
-      "objectID": "50548485",
-      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
-      "domain": "businesswire.com",
-      "publishedAt": "2026-11-18T16:41:22.000Z",
-      "points": 148
+      "objectID": "50595537",
+      "title": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "domain": "noemamag.com",
+      "publishedAt": "2026-11-22T02:10:02.000Z",
+      "points": 143
+    },
+    {
+      "objectID": "50593481",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "domain": "pandex.io",
+      "publishedAt": "2026-11-21T20:47:41.000Z",
+      "points": 135
     },
     {
       "objectID": "50562636",
@@ -143,7 +151,7 @@
       "url": "https://a90.com/experiments/same-advice/",
       "domain": "a90.com",
       "publishedAt": "2026-11-20T16:58:05.000Z",
-      "points": 122
+      "points": 124
     },
     {
       "objectID": "50554641",
@@ -152,14 +160,6 @@
       "domain": "lawyerscommittee.org",
       "publishedAt": "2026-11-19T00:57:20.000Z",
       "points": 119
-    },
-    {
-      "objectID": "50520076",
-      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-      "url": "https://news.ycombinator.com/item?id=50520076",
-      "domain": "news.ycombinator.com",
-      "publishedAt": "2026-11-16T17:20:28.000Z",
-      "points": 117
     }
   ]
 }
