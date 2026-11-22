@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T19:10:41.272Z",
+  "fetchedAt": "2026-11-22T06:41:03.512Z",
   "stories": [
     {
       "objectID": "50507303",
@@ -15,7 +15,7 @@
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
       "publishedAt": "2026-11-18T06:47:26.000Z",
-      "points": 814
+      "points": 816
     },
     {
       "objectID": "50540178",
@@ -31,7 +31,7 @@
       "url": "https://architectlabs.com/blog/frostbite",
       "domain": "architectlabs.com",
       "publishedAt": "2026-11-20T10:01:41.000Z",
-      "points": 663
+      "points": 670
     },
     {
       "objectID": "50562262",
@@ -39,7 +39,7 @@
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
       "domain": "ounapuu.ee",
       "publishedAt": "2026-11-19T16:30:18.000Z",
-      "points": 614
+      "points": 616
     },
     {
       "objectID": "50572348",
@@ -47,15 +47,7 @@
       "url": "https://signal.org/blog/protecting-your-privacy/",
       "domain": "signal.org",
       "publishedAt": "2026-11-20T09:42:16.000Z",
-      "points": 565
-    },
-    {
-      "objectID": "50547777",
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "domain": "europeanbusinessmagazine.com",
-      "publishedAt": "2026-11-18T15:49:34.000Z",
-      "points": 498
+      "points": 573
     },
     {
       "objectID": "50574383",
@@ -63,7 +55,15 @@
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-20T13:29:59.000Z",
-      "points": 470
+      "points": 509
+    },
+    {
+      "objectID": "50547777",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "domain": "europeanbusinessmagazine.com",
+      "publishedAt": "2026-11-18T15:49:34.000Z",
+      "points": 499
     },
     {
       "objectID": "50538303",
@@ -79,7 +79,7 @@
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
       "domain": "motherjones.com",
       "publishedAt": "2026-11-20T16:59:27.000Z",
-      "points": 278
+      "points": 281
     },
     {
       "objectID": "50561508",
@@ -87,7 +87,7 @@
       "url": "https://thedataexchange.media/pete-warden-moonshine/",
       "domain": "thedataexchange.media",
       "publishedAt": "2026-11-19T15:38:12.000Z",
-      "points": 270
+      "points": 272
     },
     {
       "objectID": "50524165",
@@ -106,6 +106,14 @@
       "points": 191
     },
     {
+      "objectID": "50586292",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "domain": "ricapar.net",
+      "publishedAt": "2026-11-21T05:38:01.000Z",
+      "points": 162
+    },
+    {
       "objectID": "50562500",
       "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
       "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
@@ -122,20 +130,20 @@
       "points": 148
     },
     {
-      "objectID": "50586292",
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "url": "http://ricapar.net/ClawDOS/",
-      "domain": "ricapar.net",
-      "publishedAt": "2026-11-21T05:38:01.000Z",
-      "points": 138
-    },
-    {
       "objectID": "50562636",
       "title": "Chrome AI features wasting much bandwidth",
       "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
       "domain": "perishablepress.com",
       "publishedAt": "2026-11-19T16:54:25.000Z",
       "points": 134
+    },
+    {
+      "objectID": "50577872",
+      "title": "AI is giving everyone the same advice",
+      "url": "https://a90.com/experiments/same-advice/",
+      "domain": "a90.com",
+      "publishedAt": "2026-11-20T16:58:05.000Z",
+      "points": 122
     },
     {
       "objectID": "50554641",
@@ -146,20 +154,12 @@
       "points": 119
     },
     {
-      "objectID": "50564366",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "domain": "youtube.com",
-      "publishedAt": "2026-11-19T18:47:16.000Z",
-      "points": 115
-    },
-    {
       "objectID": "50520076",
       "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
       "url": "https://news.ycombinator.com/item?id=50520076",
       "domain": "news.ycombinator.com",
       "publishedAt": "2026-11-16T17:20:28.000Z",
-      "points": 115
+      "points": 117
     }
   ]
 }
