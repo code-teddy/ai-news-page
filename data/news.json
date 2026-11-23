@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T19:33:00.020Z",
+  "fetchedAt": "2026-11-23T07:30:18.386Z",
   "stories": [
     {
       "objectID": "50542705",
@@ -23,7 +23,7 @@
       "url": "https://architectlabs.com/blog/frostbite",
       "domain": "architectlabs.com",
       "publishedAt": "2026-11-20T10:01:41.000Z",
-      "points": 675
+      "points": 679
     },
     {
       "objectID": "50562262",
@@ -31,7 +31,7 @@
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
       "domain": "ounapuu.ee",
       "publishedAt": "2026-11-19T16:30:18.000Z",
-      "points": 616
+      "points": 617
     },
     {
       "objectID": "50572348",
@@ -39,7 +39,7 @@
       "url": "https://signal.org/blog/protecting-your-privacy/",
       "domain": "signal.org",
       "publishedAt": "2026-11-20T09:42:16.000Z",
-      "points": 577
+      "points": 580
     },
     {
       "objectID": "50574383",
@@ -47,7 +47,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-20T13:29:59.000Z",
-      "points": 525
+      "points": 530
     },
     {
       "objectID": "50547777",
@@ -55,7 +55,15 @@
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "domain": "europeanbusinessmagazine.com",
       "publishedAt": "2026-11-18T15:49:34.000Z",
-      "points": 499
+      "points": 500
+    },
+    {
+      "objectID": "50603845",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "domain": "gpupartner.com",
+      "publishedAt": "2026-11-22T21:01:16.000Z",
+      "points": 426
     },
     {
       "objectID": "50538303",
@@ -71,7 +79,7 @@
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
       "domain": "motherjones.com",
       "publishedAt": "2026-11-20T16:59:27.000Z",
-      "points": 283
+      "points": 284
     },
     {
       "objectID": "50561508",
@@ -79,7 +87,7 @@
       "url": "https://thedataexchange.media/pete-warden-moonshine/",
       "domain": "thedataexchange.media",
       "publishedAt": "2026-11-19T15:38:12.000Z",
-      "points": 272
+      "points": 273
     },
     {
       "objectID": "50524165",
@@ -103,7 +111,23 @@
       "url": "http://ricapar.net/ClawDOS/",
       "domain": "ricapar.net",
       "publishedAt": "2026-11-21T05:38:01.000Z",
-      "points": 170
+      "points": 175
+    },
+    {
+      "objectID": "50595537",
+      "title": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "domain": "noemamag.com",
+      "publishedAt": "2026-11-22T02:10:02.000Z",
+      "points": 173
+    },
+    {
+      "objectID": "50562500",
+      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+      "domain": "restofworld.org",
+      "publishedAt": "2026-11-19T16:45:50.000Z",
+      "points": 151
     },
     {
       "objectID": "50548485",
@@ -114,28 +138,12 @@
       "points": 149
     },
     {
-      "objectID": "50562500",
-      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-      "domain": "restofworld.org",
-      "publishedAt": "2026-11-19T16:45:50.000Z",
-      "points": 148
-    },
-    {
-      "objectID": "50595537",
-      "title": "The Mythology of Conscious AI",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "domain": "noemamag.com",
-      "publishedAt": "2026-11-22T02:10:02.000Z",
-      "points": 143
-    },
-    {
       "objectID": "50593481",
       "title": "Pandex – Official European Law for AI Agents, over MCP",
       "url": "https://www.pandex.io",
       "domain": "pandex.io",
       "publishedAt": "2026-11-21T20:47:41.000Z",
-      "points": 135
+      "points": 139
     },
     {
       "objectID": "50562636",
@@ -152,14 +160,6 @@
       "domain": "a90.com",
       "publishedAt": "2026-11-20T16:58:05.000Z",
       "points": 124
-    },
-    {
-      "objectID": "50554641",
-      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-      "domain": "lawyerscommittee.org",
-      "publishedAt": "2026-11-19T00:57:20.000Z",
-      "points": 119
     }
   ]
 }
