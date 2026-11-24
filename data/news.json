@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24T09:49:23.770Z",
+  "fetchedAt": "2026-11-24T22:22:17.850Z",
   "stories": [
     {
       "objectID": "50542705",
@@ -7,7 +7,7 @@
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
       "publishedAt": "2026-11-18T06:47:26.000Z",
-      "points": 821
+      "points": 822
     },
     {
       "objectID": "50603845",
@@ -15,7 +15,7 @@
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
       "publishedAt": "2026-11-22T21:01:16.000Z",
-      "points": 758
+      "points": 769
     },
     {
       "objectID": "50540178",
@@ -31,7 +31,7 @@
       "url": "https://architectlabs.com/blog/frostbite",
       "domain": "architectlabs.com",
       "publishedAt": "2026-11-20T10:01:41.000Z",
-      "points": 684
+      "points": 686
     },
     {
       "objectID": "50562262",
@@ -63,15 +63,15 @@
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "domain": "europeanbusinessmagazine.com",
       "publishedAt": "2026-11-18T15:49:34.000Z",
-      "points": 502
+      "points": 503
     },
     {
-      "objectID": "50538303",
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "domain": "complexdiscovery.com",
-      "publishedAt": "2026-11-17T21:16:12.000Z",
-      "points": 332
+      "objectID": "50630309",
+      "title": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "domain": "variety.com",
+      "publishedAt": "2026-11-24T16:12:38.000Z",
+      "points": 309
     },
     {
       "objectID": "50577901",
@@ -87,15 +87,7 @@
       "url": "https://thedataexchange.media/pete-warden-moonshine/",
       "domain": "thedataexchange.media",
       "publishedAt": "2026-11-19T15:38:12.000Z",
-      "points": 273
-    },
-    {
-      "objectID": "50531751",
-      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-      "domain": "scmp.com",
-      "publishedAt": "2026-11-17T14:19:59.000Z",
-      "points": 191
+      "points": 274
     },
     {
       "objectID": "50595537",
@@ -111,7 +103,7 @@
       "url": "http://ricapar.net/ClawDOS/",
       "domain": "ricapar.net",
       "publishedAt": "2026-11-21T05:38:01.000Z",
-      "points": 175
+      "points": 176
     },
     {
       "objectID": "50562500",
@@ -119,7 +111,7 @@
       "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
       "domain": "restofworld.org",
       "publishedAt": "2026-11-19T16:45:50.000Z",
-      "points": 151
+      "points": 152
     },
     {
       "objectID": "50548485",
@@ -135,7 +127,7 @@
       "url": "https://www.pandex.io",
       "domain": "pandex.io",
       "publishedAt": "2026-11-21T20:47:41.000Z",
-      "points": 140
+      "points": 141
     },
     {
       "objectID": "50598961",
@@ -160,6 +152,14 @@
       "domain": "a90.com",
       "publishedAt": "2026-11-20T16:58:05.000Z",
       "points": 125
+    },
+    {
+      "objectID": "50554641",
+      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+      "domain": "lawyerscommittee.org",
+      "publishedAt": "2026-11-19T00:57:20.000Z",
+      "points": 120
     }
   ]
 }
