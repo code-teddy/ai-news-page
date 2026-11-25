@@ -1,29 +1,13 @@
 {
-  "fetchedAt": "2026-11-24T22:22:17.850Z",
+  "fetchedAt": "2026-11-25T08:26:12.195Z",
   "stories": [
-    {
-      "objectID": "50542705",
-      "title": "AI is killing All About Berlin",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai",
-      "domain": "nicolasbouliane.com",
-      "publishedAt": "2026-11-18T06:47:26.000Z",
-      "points": 822
-    },
     {
       "objectID": "50603845",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
       "publishedAt": "2026-11-22T21:01:16.000Z",
-      "points": 769
-    },
-    {
-      "objectID": "50540178",
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-      "domain": "revscope.co",
-      "publishedAt": "2026-11-18T00:17:58.000Z",
-      "points": 713
+      "points": 773
     },
     {
       "objectID": "50572503",
@@ -47,7 +31,7 @@
       "url": "https://signal.org/blog/protecting-your-privacy/",
       "domain": "signal.org",
       "publishedAt": "2026-11-20T09:42:16.000Z",
-      "points": 583
+      "points": 584
     },
     {
       "objectID": "50574383",
@@ -71,7 +55,7 @@
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
       "domain": "variety.com",
       "publishedAt": "2026-11-24T16:12:38.000Z",
-      "points": 309
+      "points": 325
     },
     {
       "objectID": "50577901",
@@ -160,6 +144,22 @@
       "domain": "lawyerscommittee.org",
       "publishedAt": "2026-11-19T00:57:20.000Z",
       "points": 120
+    },
+    {
+      "objectID": "50564366",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "domain": "youtube.com",
+      "publishedAt": "2026-11-19T18:47:16.000Z",
+      "points": 116
+    },
+    {
+      "objectID": "50622854",
+      "title": "Declare is a UI language for you and your AI",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "domain": "davidtemkin.github.io",
+      "publishedAt": "2026-11-24T02:36:56.000Z",
+      "points": 111
     }
   ]
 }
