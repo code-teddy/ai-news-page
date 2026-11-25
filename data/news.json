@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T08:26:12.195Z",
+  "fetchedAt": "2026-11-25T21:38:19.530Z",
   "stories": [
     {
       "objectID": "50603845",
@@ -7,7 +7,7 @@
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
       "publishedAt": "2026-11-22T21:01:16.000Z",
-      "points": 773
+      "points": 776
     },
     {
       "objectID": "50572503",
@@ -42,20 +42,12 @@
       "points": 530
     },
     {
-      "objectID": "50547777",
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "domain": "europeanbusinessmagazine.com",
-      "publishedAt": "2026-11-18T15:49:34.000Z",
-      "points": 503
-    },
-    {
       "objectID": "50630309",
       "title": "Tidal bans AI-generated music",
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
       "domain": "variety.com",
       "publishedAt": "2026-11-24T16:12:38.000Z",
-      "points": 325
+      "points": 334
     },
     {
       "objectID": "50577901",
@@ -72,6 +64,14 @@
       "domain": "thedataexchange.media",
       "publishedAt": "2026-11-19T15:38:12.000Z",
       "points": 274
+    },
+    {
+      "objectID": "50638220",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "domain": "marginalia.nu",
+      "publishedAt": "2026-11-25T03:47:42.000Z",
+      "points": 211
     },
     {
       "objectID": "50595537",
@@ -96,14 +96,6 @@
       "domain": "restofworld.org",
       "publishedAt": "2026-11-19T16:45:50.000Z",
       "points": 152
-    },
-    {
-      "objectID": "50548485",
-      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
-      "domain": "businesswire.com",
-      "publishedAt": "2026-11-18T16:41:22.000Z",
-      "points": 149
     },
     {
       "objectID": "50593481",
@@ -135,7 +127,7 @@
       "url": "https://a90.com/experiments/same-advice/",
       "domain": "a90.com",
       "publishedAt": "2026-11-20T16:58:05.000Z",
-      "points": 125
+      "points": 126
     },
     {
       "objectID": "50554641",
@@ -159,7 +151,15 @@
       "url": "https://davidtemkin.github.io/declarelang/",
       "domain": "davidtemkin.github.io",
       "publishedAt": "2026-11-24T02:36:56.000Z",
-      "points": 111
+      "points": 115
+    },
+    {
+      "objectID": "50555093",
+      "title": "AI will not make you rich (2025)",
+      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "domain": "colossus.com",
+      "publishedAt": "2026-11-19T01:51:28.000Z",
+      "points": 109
     }
   ]
 }
