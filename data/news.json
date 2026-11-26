@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T21:38:19.530Z",
+  "fetchedAt": "2026-11-26T08:10:24.844Z",
   "stories": [
     {
       "objectID": "50603845",
@@ -7,7 +7,7 @@
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
       "publishedAt": "2026-11-22T21:01:16.000Z",
-      "points": 776
+      "points": 777
     },
     {
       "objectID": "50572503",
@@ -42,12 +42,20 @@
       "points": 530
     },
     {
+      "objectID": "50647673",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "domain": "theverge.com",
+      "publishedAt": "2026-11-25T21:18:02.000Z",
+      "points": 341
+    },
+    {
       "objectID": "50630309",
       "title": "Tidal bans AI-generated music",
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
       "domain": "variety.com",
       "publishedAt": "2026-11-24T16:12:38.000Z",
-      "points": 334
+      "points": 336
     },
     {
       "objectID": "50577901",
@@ -71,7 +79,7 @@
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "domain": "marginalia.nu",
       "publishedAt": "2026-11-25T03:47:42.000Z",
-      "points": 211
+      "points": 219
     },
     {
       "objectID": "50595537",
@@ -127,15 +135,15 @@
       "url": "https://a90.com/experiments/same-advice/",
       "domain": "a90.com",
       "publishedAt": "2026-11-20T16:58:05.000Z",
-      "points": 126
+      "points": 127
     },
     {
-      "objectID": "50554641",
-      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-      "domain": "lawyerscommittee.org",
-      "publishedAt": "2026-11-19T00:57:20.000Z",
-      "points": 120
+      "objectID": "50622854",
+      "title": "Declare is a UI language for you and your AI",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "domain": "davidtemkin.github.io",
+      "publishedAt": "2026-11-24T02:36:56.000Z",
+      "points": 117
     },
     {
       "objectID": "50564366",
@@ -146,20 +154,12 @@
       "points": 116
     },
     {
-      "objectID": "50622854",
-      "title": "Declare is a UI language for you and your AI",
-      "url": "https://davidtemkin.github.io/declarelang/",
-      "domain": "davidtemkin.github.io",
-      "publishedAt": "2026-11-24T02:36:56.000Z",
-      "points": 115
-    },
-    {
-      "objectID": "50555093",
-      "title": "AI will not make you rich (2025)",
-      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
-      "domain": "colossus.com",
-      "publishedAt": "2026-11-19T01:51:28.000Z",
-      "points": 109
+      "objectID": "50559140",
+      "title": "The AI Superintelligence Debate Has Serious Flaws",
+      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "domain": "spectrum.ieee.org",
+      "publishedAt": "2026-11-19T12:17:10.000Z",
+      "points": 108
     }
   ]
 }
