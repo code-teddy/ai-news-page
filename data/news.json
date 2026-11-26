@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T08:10:24.844Z",
+  "fetchedAt": "2026-11-26T21:27:35.380Z",
   "stories": [
     {
       "objectID": "50603845",
@@ -7,7 +7,7 @@
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
       "publishedAt": "2026-11-22T21:01:16.000Z",
-      "points": 777
+      "points": 780
     },
     {
       "objectID": "50572503",
@@ -18,12 +18,12 @@
       "points": 686
     },
     {
-      "objectID": "50562262",
-      "title": "Fuck Your AI Safeguards",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "domain": "ounapuu.ee",
-      "publishedAt": "2026-11-19T16:30:18.000Z",
-      "points": 618
+      "objectID": "50647673",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "domain": "theverge.com",
+      "publishedAt": "2026-11-25T21:18:02.000Z",
+      "points": 636
     },
     {
       "objectID": "50572348",
@@ -39,15 +39,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "domain": "theguardian.com",
       "publishedAt": "2026-11-20T13:29:59.000Z",
-      "points": 530
-    },
-    {
-      "objectID": "50647673",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "domain": "theverge.com",
-      "publishedAt": "2026-11-25T21:18:02.000Z",
-      "points": 341
+      "points": 531
     },
     {
       "objectID": "50630309",
@@ -55,7 +47,7 @@
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
       "domain": "variety.com",
       "publishedAt": "2026-11-24T16:12:38.000Z",
-      "points": 336
+      "points": 337
     },
     {
       "objectID": "50577901",
@@ -63,15 +55,15 @@
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
       "domain": "motherjones.com",
       "publishedAt": "2026-11-20T16:59:27.000Z",
-      "points": 284
+      "points": 285
     },
     {
-      "objectID": "50561508",
-      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "domain": "thedataexchange.media",
-      "publishedAt": "2026-11-19T15:38:12.000Z",
-      "points": 274
+      "objectID": "50657307",
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "domain": "diseasescuredbyai.com",
+      "publishedAt": "2026-11-26T17:16:41.000Z",
+      "points": 284
     },
     {
       "objectID": "50638220",
@@ -79,7 +71,7 @@
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "domain": "marginalia.nu",
       "publishedAt": "2026-11-25T03:47:42.000Z",
-      "points": 219
+      "points": 223
     },
     {
       "objectID": "50595537",
@@ -98,12 +90,12 @@
       "points": 176
     },
     {
-      "objectID": "50562500",
-      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-      "domain": "restofworld.org",
-      "publishedAt": "2026-11-19T16:45:50.000Z",
-      "points": 152
+      "objectID": "50653477",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "domain": "techstackups.com",
+      "publishedAt": "2026-11-26T09:44:23.000Z",
+      "points": 151
     },
     {
       "objectID": "50593481",
@@ -119,15 +111,7 @@
       "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
       "domain": "bloodinthemachine.com",
       "publishedAt": "2026-11-22T12:19:46.000Z",
-      "points": 134
-    },
-    {
-      "objectID": "50562636",
-      "title": "Chrome AI features wasting much bandwidth",
-      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-      "domain": "perishablepress.com",
-      "publishedAt": "2026-11-19T16:54:25.000Z",
-      "points": 134
+      "points": 135
     },
     {
       "objectID": "50577872",
@@ -143,23 +127,39 @@
       "url": "https://davidtemkin.github.io/declarelang/",
       "domain": "davidtemkin.github.io",
       "publishedAt": "2026-11-24T02:36:56.000Z",
-      "points": 117
+      "points": 120
     },
     {
-      "objectID": "50564366",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "domain": "youtube.com",
-      "publishedAt": "2026-11-19T18:47:16.000Z",
-      "points": 116
+      "objectID": "50596511",
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "domain": "dragos.com",
+      "publishedAt": "2026-11-22T05:11:43.000Z",
+      "points": 109
     },
     {
-      "objectID": "50559140",
-      "title": "The AI Superintelligence Debate Has Serious Flaws",
-      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
-      "domain": "spectrum.ieee.org",
-      "publishedAt": "2026-11-19T12:17:10.000Z",
-      "points": 108
+      "objectID": "50634734",
+      "title": "Working with AI",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "domain": "anthropic.com",
+      "publishedAt": "2026-11-24T21:07:38.000Z",
+      "points": 89
+    },
+    {
+      "objectID": "50625888",
+      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+      "domain": "philippdubach.com",
+      "publishedAt": "2026-11-24T09:39:50.000Z",
+      "points": 82
+    },
+    {
+      "objectID": "50602153",
+      "title": "Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar/",
+      "domain": "boazbk.github.io",
+      "publishedAt": "2026-11-22T18:01:54.000Z",
+      "points": 82
     }
   ]
 }
