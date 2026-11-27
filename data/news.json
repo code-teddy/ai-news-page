@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-11-27T08:21:45.848Z",
+  "fetchedAt": "2026-11-27T21:12:33.514Z",
   "stories": [
+    {
+      "objectID": "50660180",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "domain": "janlukas.blog",
+      "publishedAt": "2026-11-26T21:47:45.000Z",
+      "points": 1045
+    },
     {
       "objectID": "50603845",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
       "publishedAt": "2026-11-22T21:01:16.000Z",
-      "points": 780
-    },
-    {
-      "objectID": "50572503",
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "domain": "architectlabs.com",
-      "publishedAt": "2026-11-20T10:01:41.000Z",
-      "points": 686
+      "points": 781
     },
     {
       "objectID": "50647673",
@@ -23,31 +23,23 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "domain": "theverge.com",
       "publishedAt": "2026-11-25T21:18:02.000Z",
-      "points": 670
+      "points": 678
     },
     {
-      "objectID": "50660180",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "domain": "janlukas.blog",
-      "publishedAt": "2026-11-26T21:47:45.000Z",
-      "points": 606
+      "objectID": "50663595",
+      "title": "Group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "domain": "construct22.com",
+      "publishedAt": "2026-11-27T06:44:34.000Z",
+      "points": 634
     },
     {
-      "objectID": "50572348",
-      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
-      "domain": "signal.org",
-      "publishedAt": "2026-11-20T09:42:16.000Z",
-      "points": 584
-    },
-    {
-      "objectID": "50574383",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "domain": "theguardian.com",
-      "publishedAt": "2026-11-20T13:29:59.000Z",
-      "points": 531
+      "objectID": "50653477",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "domain": "techstackups.com",
+      "publishedAt": "2026-11-26T09:44:23.000Z",
+      "points": 417
     },
     {
       "objectID": "50630309",
@@ -58,28 +50,20 @@
       "points": 337
     },
     {
-      "objectID": "50653477",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "domain": "techstackups.com",
-      "publishedAt": "2026-11-26T09:44:23.000Z",
-      "points": 322
-    },
-    {
       "objectID": "50657307",
       "title": "Tracking Diseases Cured by AI",
       "url": "https://diseasescuredbyai.com/",
       "domain": "diseasescuredbyai.com",
       "publishedAt": "2026-11-26T17:16:41.000Z",
-      "points": 309
+      "points": 317
     },
     {
-      "objectID": "50577901",
-      "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "domain": "motherjones.com",
-      "publishedAt": "2026-11-20T16:59:27.000Z",
-      "points": 285
+      "objectID": "50666375",
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "domain": "news.sky.com",
+      "publishedAt": "2026-11-27T12:54:11.000Z",
+      "points": 282
     },
     {
       "objectID": "50638220",
@@ -88,6 +72,14 @@
       "domain": "marginalia.nu",
       "publishedAt": "2026-11-25T03:47:42.000Z",
       "points": 224
+    },
+    {
+      "objectID": "50669561",
+      "title": "I'm Scared of AI",
+      "url": "https://thesoapbox.email/archive/3",
+      "domain": "thesoapbox.email",
+      "publishedAt": "2026-11-27T17:45:31.000Z",
+      "points": 191
     },
     {
       "objectID": "50595537",
@@ -122,20 +114,20 @@
       "points": 135
     },
     {
-      "objectID": "50577872",
-      "title": "AI is giving everyone the same advice",
-      "url": "https://a90.com/experiments/same-advice/",
-      "domain": "a90.com",
-      "publishedAt": "2026-11-20T16:58:05.000Z",
-      "points": 127
-    },
-    {
       "objectID": "50622854",
       "title": "Declare is a UI language for you and your AI",
       "url": "https://davidtemkin.github.io/declarelang/",
       "domain": "davidtemkin.github.io",
       "publishedAt": "2026-11-24T02:36:56.000Z",
-      "points": 123
+      "points": 125
+    },
+    {
+      "objectID": "50665488",
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "domain": "thetimes.com",
+      "publishedAt": "2026-11-27T11:09:04.000Z",
+      "points": 111
     },
     {
       "objectID": "50596511",
@@ -146,20 +138,28 @@
       "points": 110
     },
     {
-      "objectID": "50663595",
-      "title": "The group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "domain": "construct22.com",
-      "publishedAt": "2026-11-27T06:44:34.000Z",
-      "points": 106
-    },
-    {
       "objectID": "50634734",
       "title": "Working with AI",
       "url": "https://www.anthropic.com/research/working-with-ai",
       "domain": "anthropic.com",
       "publishedAt": "2026-11-24T21:07:38.000Z",
-      "points": 90
+      "points": 91
+    },
+    {
+      "objectID": "50602153",
+      "title": "Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar/",
+      "domain": "boazbk.github.io",
+      "publishedAt": "2026-11-22T18:01:54.000Z",
+      "points": 83
+    },
+    {
+      "objectID": "50625888",
+      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+      "domain": "philippdubach.com",
+      "publishedAt": "2026-11-24T09:39:50.000Z",
+      "points": 82
     }
   ]
 }
