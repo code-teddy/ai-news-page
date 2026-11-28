@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-28T07:42:39.066Z",
+  "fetchedAt": "2026-11-28T19:57:42.888Z",
   "stories": [
     {
       "objectID": "50660180",
@@ -7,7 +7,7 @@
       "url": "https://janlukas.blog/posts/ai-self-hosting",
       "domain": "janlukas.blog",
       "publishedAt": "2026-11-26T21:47:45.000Z",
-      "points": 1114
+      "points": 1142
     },
     {
       "objectID": "50603845",
@@ -23,7 +23,7 @@
       "url": "https://construct22.com/",
       "domain": "construct22.com",
       "publishedAt": "2026-11-27T06:44:34.000Z",
-      "points": 701
+      "points": 727
     },
     {
       "objectID": "50647673",
@@ -31,7 +31,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "domain": "theverge.com",
       "publishedAt": "2026-11-25T21:18:02.000Z",
-      "points": 681
+      "points": 686
     },
     {
       "objectID": "50653477",
@@ -39,7 +39,7 @@
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "domain": "techstackups.com",
       "publishedAt": "2026-11-26T09:44:23.000Z",
-      "points": 420
+      "points": 422
     },
     {
       "objectID": "50666375",
@@ -47,7 +47,7 @@
       "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
       "domain": "news.sky.com",
       "publishedAt": "2026-11-27T12:54:11.000Z",
-      "points": 343
+      "points": 356
     },
     {
       "objectID": "50630309",
@@ -63,7 +63,15 @@
       "url": "https://diseasescuredbyai.com/",
       "domain": "diseasescuredbyai.com",
       "publishedAt": "2026-11-26T17:16:41.000Z",
-      "points": 321
+      "points": 325
+    },
+    {
+      "objectID": "50680168",
+      "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+      "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+      "domain": "cs.stanford.edu",
+      "publishedAt": "2026-11-28T17:53:02.000Z",
+      "points": 265
     },
     {
       "objectID": "50638220",
@@ -71,7 +79,7 @@
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "domain": "marginalia.nu",
       "publishedAt": "2026-11-25T03:47:42.000Z",
-      "points": 224
+      "points": 226
     },
     {
       "objectID": "50669561",
@@ -79,7 +87,15 @@
       "url": "https://thesoapbox.email/archive/3",
       "domain": "thesoapbox.email",
       "publishedAt": "2026-11-27T17:45:31.000Z",
-      "points": 210
+      "points": 218
+    },
+    {
+      "objectID": "50673521",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "domain": "drmahfouz.substack.com",
+      "publishedAt": "2026-11-28T01:32:56.000Z",
+      "points": 211
     },
     {
       "objectID": "50595537",
@@ -88,14 +104,6 @@
       "domain": "noemamag.com",
       "publishedAt": "2026-11-22T02:10:02.000Z",
       "points": 181
-    },
-    {
-      "objectID": "50673521",
-      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
-      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-      "domain": "drmahfouz.substack.com",
-      "publishedAt": "2026-11-28T01:32:56.000Z",
-      "points": 156
     },
     {
       "objectID": "50593481",
@@ -119,7 +127,7 @@
       "url": "https://davidtemkin.github.io/declarelang/",
       "domain": "davidtemkin.github.io",
       "publishedAt": "2026-11-24T02:36:56.000Z",
-      "points": 126
+      "points": 127
     },
     {
       "objectID": "50665488",
@@ -146,20 +154,12 @@
       "points": 91
     },
     {
-      "objectID": "50602153",
-      "title": "Harvard CS 2881R AI Safety",
-      "url": "https://boazbk.github.io/mltheoryseminar/",
-      "domain": "boazbk.github.io",
-      "publishedAt": "2026-11-22T18:01:54.000Z",
-      "points": 83
-    },
-    {
-      "objectID": "50625888",
-      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
-      "domain": "philippdubach.com",
-      "publishedAt": "2026-11-24T09:39:50.000Z",
-      "points": 82
+      "objectID": "50671275",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "domain": "github.com",
+      "publishedAt": "2026-11-27T20:23:14.000Z",
+      "points": 86
     }
   ]
 }
